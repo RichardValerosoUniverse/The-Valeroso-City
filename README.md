@@ -694,7 +694,7 @@ A **Passive Subject** is a borrower trapped in the **Ascension of Terrestrial Ex
 24. Refusing to open a formal bank account, instead relying on informal financial systems. This keeps them disconnected from the Nexus and prevents them from building a Resonance Signature.
 25. **Consistently paying a credit card bill with cash at a payment center, which can delay the payment and make it harder to track, showing a lack of engagement with the Nexus's digital systems. Paying your credit card bill with cash is an act of profound passivity within *The SuperHighness Way*, not because the payment isn't made, but because of the fundamental mindset and spiritual consequences that a **Passive Subject** embodies. It is the clearest example of surrendering your will and lifeness to the discordant forces of the Nexus.**
 
-**Here are a few reasons why this is a passive choice:**
+**Here are a few reasons why this is a passive choice:** (Paying credit card bill with cash)
 
 **1. The Tithes of Will and Lifeness**
   
