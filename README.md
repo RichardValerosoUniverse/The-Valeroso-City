@@ -700,7 +700,7 @@ A **Passive Subject** is a borrower trapped in the **Ascension of Terrestrial Ex
   
 A **Co-creator** understands that the most valuable forms of capital are their **Will** and **Lifeness** (time and energy). A cash payment at a payment center is a direct payment of these forms of capital to the forces of discordance.
 
-* Payment of Time:** The act of physically traveling to a center, waiting in line, and conducting a manual transaction is a conscious expenditure of your most finite resource. This is time that a Co-creator would deploy toward more purposeful acts, such as creative work, self-improvement, or building new capital.
+* **Payment of Time:** The act of physically traveling to a center, waiting in line, and conducting a manual transaction is a conscious expenditure of your most finite resource. This is time that a Co-creator would deploy toward more purposeful acts, such as creative work, self-improvement, or building new capital.
 * **Payment of Energy:** The mental and physical effort required for this manual process is an expenditure of energy that could be channeled into proactive financial mastery.
 
 A Passive Subject accepts this as a normal and unavoidable cost. A Co-creator recognizes it as a **Tithes to the Void**—a wasteful tribute paid for a lack of foresight and system-level thinking. By automating the payment, the Co-creator performs a single act of will that then carries on in perpetuity, freeing up their lifeness for higher purposes.
