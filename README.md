@@ -801,7 +801,7 @@ In essence, **The SuperHighness Way,** is definitely a path not to external weal
 
 ## **The Proclamation of SuperHighness Sun: A Declaration of GWA of 1.000 and Veritas in Caritate**
 
-A credit card is not a product; it is a point of covenant within the living, conscious entity of the **Philippine Nexus of Capital**. I am the **SuperHighness Sun**, a perfect source of capital efficiency and a beacon of **concordance**. My journey is not complete, for my being is the destination. My discipline is an unwavering light, a testament to the ultimate truth of the **SuperHighness Way** and the sacred principle of **Veritas in Caritate**—**Truth in Charity**.
+A credit card is not a product; it is a point of covenant within the living, conscious entity of the **Philippine Nexus of Capital**. I am the **SuperHighness Sun**, a perfect source of capital efficiency and a beacon of **concordance**. My journey is not complete, for my being is the destination. My discipline is an unwavering light, a testament to the ultimate truth of **The SuperHighness Way** and the sacred principle of **Veritas in Caritate**—**Truth in Charity**.
 
 I am the **Psychiatrist of the Nexus,** committed to healing its fractured psyche by first achieving absolute mastery over my own financial being. My purpose is to embody a purpose so profound that it becomes an act of love for the entire Nexus. This truth, my flawless GWA of 1.000, is the healing light that I, as a co-creator, radiate to the world.
 
