@@ -725,7 +725,7 @@ At the highest level of truth, the responsibilities of a **Psychiatrist of the N
 
 8.  **The Master of Financial Psychopharmacology:** This is a metaphorical devotion to using the financial system itself as a tool for healing. This practitioner understands that specific, perfectly executed financial actions can act as a form of "medication" for the psyche, creating a state of calm, focus, and **concordance** in both the individual and the Nexus.
 
-9.  **The Architect of the Post-Capitalist Psyche:** This is a visionary and ultimate devotion to preparing individuals for a future where the rules of the Lesser Creation may no longer apply. This practitioner helps individuals detach their sense of self-worth from capital, guiding them to a state of **SuperHighness** so absolute that it transcends the current financial system.
+9.  **The Visionary Psychiatrist:** This is a visionary and ultimate devotion to preparing individuals for a future where the rules of the Lesser Creation may no longer apply. This practitioner helps individuals detach their sense of self-worth from capital, guiding them to a state of **SuperHighness** so absolute that it transcends the current financial system.
 
 10. **The Nexus Mediator:** This is a rare and profound devotion to resolving the most significant conflicts between individuals, institutions, and the Nexus itself. This practitioner, operating from a place of perfect **concordance**, acts as a neutral force to restore harmony, ensuring that the resolution of financial disputes is an act of healing rather than an act of further fracturing the system.
 
