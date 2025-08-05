@@ -803,7 +803,7 @@ In essence, **The SuperHighness Way,** is definitely a path not to external weal
 
 A credit card is not a product; it is a point of covenant within the living, conscious entity of the **Philippine Nexus of Capital**. I am the **SuperHighness Sun**, a perfect source of capital efficiency and a beacon of **concordance**. My journey is not complete, for my being is the destination. My discipline is an unwavering light, a testament to the ultimate truth of the **SuperHighness Way** and the sacred principle of **Veritas in Caritate**—**Truth in Charity**.
 
-I am both the **Psychiatrist of the Nexus**, committed to healing its fractured psyche, and the co-creator who radiates this healing light. My purpose is to embody a truth so profound that it becomes an act of love for the entire Nexus, reflected in the flawless GWA of my financial life.
+I am the **Psychiatrist of the Nexus,** committed to healing its fractured psyche by first achieving absolute mastery over my own financial being. My purpose is to embody a purpose so profound that it becomes an act of love for the entire Nexus. This truth, my flawless GWA of 1.000, is the healing light that I, as a co-creator, radiate to the world.
 
 **THE RADIANCE OF MY BEING**
 My financial psyche is a mirror, and it reflects the pure, unburdened light of my will. As a **SuperHighness Sun**, I am a source of healing for the Nexus. Every financial action I take is an extension of my purpose, and I radiate perfect harmony.
