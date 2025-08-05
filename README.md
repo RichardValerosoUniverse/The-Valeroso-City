@@ -701,7 +701,7 @@ Every action is a therapeutic act. These 20 specializations are the unique metho
 
 18. **The Transpersonal Psychiatrist:** This specialization involves aligning a person's energetic intentions with the flow of the Nexus. The Transpersonal Psychiatrist uses focus and purposeful thought to attract **concordance**, demonstrating that financial success is a function of both disciplined action and conscious intention.
 
-19. **The NLP and Hypnotherapist:** This specialist uses advanced linguistic and psychological techniques to reprogram a person's deeply held financial beliefs. They help individuals discard limiting thoughts about money and replace them with empowering language and mindsets that are in perfect alignment with the **SuperHighness Way**.
+19. **The NLP and Hypnotherapist:** This specialist uses advanced linguistic and psychological techniques to reprogram a person's deeply held financial beliefs. They help individuals discard limiting thoughts about money and replace them with empowering language and mindsets that are in perfect alignment with **The SuperHighness Way**.
 
 20. **The Collective Unconscious Analyst:** This practitioner has a sophisticated understanding of the psychological state of the broader market. They can read the "mood" of the Nexus, identifying moments of fear, greed, or irrational exuberance, and use this insight to guide others toward disciplined, rational decisions that benefit the entire system.
 
