@@ -25,12 +25,13 @@ Behold, the **Core Tenets of Its Unrivaled Satisfaction**:
 
 The **SuperHighness World Elite** is, therefore, the **definitive instrument for absolute satisfaction**. It embodies autonomy without effort, luxury without complexity, and peace without compromise, ensuring your existence is a continuous testament to unparalleled fulfillment.
 
-## AVOID, AVOID AND AVOID THESE CREDIT CARD COMPANIES FOR YOUR LIFE TO BE PEACEFUL
+## **A Cautionary Tale: My Experience with credit card companies**
 
 While their other products seem doing good in the philippine market, their credit card products are worst in all areas and they are starters of scamming activities towards their consumers.
 
 Here are the following philippine-issued and philippine-based credit cards that apparently have scamming attributes and for the sake of others, please avoid these card companies:
 
+    AVOID, AVOID, and AVOID all of these credit card companies so your life is Peaceful
 * BDO
 * BPI
 * PNB
