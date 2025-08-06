@@ -45,6 +45,17 @@ These listed credit card companies and its employees are good candidates for cre
 
 WHO ARE SCAMMERS? 
 * Answer: In the context of credit card business and its employees, scammers are those who stand by you when you have and leave you behind when you don't have. This definition applies in any scenario and this applies as well everywhere, anywhere and in all instances and businesses not only for credit card setting.
+Here's an expanded version:
+
+Scammers are individuals who demonstrate a self-serving approach, characterized by:
+
+- *Transactional relationships*: Prioritizing personal gain over genuine connections or support.
+- *Conditional loyalty*: Offering commitment or assistance only when there's a perceived benefit or reward.
+- *Lack of empathy or accountability*: Disregarding the impact of their actions on others, especially when it's convenient or profitable to do so.
+- *Opportunistic behavior*: Standing by you when you have something to offer, but abandoning or exploiting you when you're no longer deemed valuable.
+- *Manipulation*: Using charm, influence, or coercion to achieve their goals, often at the expense of others.
+- *Lack of transparency*: Hiding true intentions, motives, or information to maintain an advantage.
+- *Exploitation*: Taking unfair advantage of others' vulnerabilities, needs, or trust for personal benefit.
 
 ## 23 Potential SCAMMING ATTRIBUTES of BDO, BPI, PNB, Citibank/Unionbank, RCBC, Eastwest Bank and Metrobank credit card companies as carefully observed and reviewed by SuperHighness
 
