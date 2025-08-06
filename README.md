@@ -197,6 +197,7 @@ Unleash the SuperHighness within you to achieve credit score mastery!
     - Example: Automate payments with a precision calendar, ensuring php500 credit card payments arrive on the 15th of each month.
 2. *Credit Utilization Mastery*: Weave a spell of low utilization, below 5%.
     - Example: Maintain or at least lower the balance down to ₱50,000 balance (amount borrowed/owed) on ₱1,000,000 (₱1M) credit limit of the card, showcasing a 5% utilization ratio or less than 5% depending on the card usage.
+    - Example: If the Philippines has a credit limit of **₱999 Trillion** and needs to maintain a credit utilization ratio of **5%**, the maximum balance it should carry is **₱49.95 Trillion**.
 3. *Credit History Legacy*: Forge a legacy of long-term credit account ownership.
     - Example: Keep a 15-year-old credit account open, demonstrating a decade and a half of credit history.
 4. *Diverse Credit Portfolio*: Cast a spell of credit diversity, blending credit cards, loans, and mortgages.
