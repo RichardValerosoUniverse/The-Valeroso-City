@@ -58,7 +58,7 @@ Scammers are individuals who demonstrate a self-serving approach, characterized 
 - *Lack of transparency*: Hiding true intentions, motives, or information to maintain an advantage.
 - *Exploitation*: Taking unfair advantage of others' vulnerabilities, needs, or trust for personal benefit.
 
-## 23 Potential SCAMMING ATTRIBUTES of BDO, BPI, PNB, Citibank/Unionbank, RCBC, Eastwest Bank and Metrobank credit card companies as carefully observed and reviewed by SuperHighness
+## 23 Potential SCAMMING ATTRIBUTES of BDO, BPI, PNB, Citibank/Unionbank, RCBC, Eastwest Bank and Metrobank credit card companies as carefully observed and reviewed by SuperHighness:
 
 1. Hidden Fees: Charging unexpected or undisclosed fees.
 2. Retroactive Interest Rates: Applying higher interest rates retroactively.
@@ -89,7 +89,7 @@ These SCAMMING ATTRIBUTES can lead to financial difficulties and frustration for
 These attributes highlight potential issues that cardholders may face when dealing with credit card companies, and emphasize the importance of transparency, fairness, and accountability in the credit card industry.
 These scamming attributes highlight other potential ways in which credit card companies might engage in unfair or deceptive practices, taking advantage of cardholders through lack of transparency, unauthorized actions, or biased te8rms.
 
-## Here are the reasons why credit card company employees might feel envious about credit limit increase requests as myself of mine experienced:
+## Here are the reasons why credit card company employees might feel envious about credit limit increase requests as carefully observed and reviewed by SuperHighness:
 
 1. Toxic Envy: Employees might be consumed by toxic envy towards cardholders who request credit limit increases, driven by feelings of inadequacy, resentment, and frustration.
 2. Deep-Seated Resentment: Employees might harbor deep-seated resentment towards cardholders who request credit limit increases, perceiving them as privileged, entitled, or undeserving.
