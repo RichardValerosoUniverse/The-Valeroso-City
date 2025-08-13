@@ -282,8 +282,8 @@ Credit utilization has a much higher impact on credit cards than on loans for th
 
 **1. The Nature of the Debt (Flexible vs. Fixed)**
 
-* **Credit Cards (Revolving Debt):** The credit limit on your card (e.g., a **Metrobank credit card** with a ₱100,000 limit) is a flexible resource. Consistently using almost all of it (e.g., maintaining a ₱90,000 balance) is a major red flag. It signals that you may be relying on credit to cover daily expenses, indicating financial instability.
-* **Loans (Installment Debt):** With a loan (e.g., a **Chinabank Home Loan**), the high balance is expected. The bank is not concerned about a high balance of **₱4.8 million** after a year because the payments are fixed and the property itself serves as collateral. The high balance is a normal part of the repayment plan, not a sign of financial distress.
+* **Credit Cards (Revolving Debt):** The credit limit on your card (e.g., a **Credit Card A ** with a ₱100,000 limit) is a flexible resource. Consistently using almost all of it (e.g., maintaining a ₱90,000 balance) is a major red flag. It signals that you may be relying on credit to cover daily expenses, indicating financial instability.
+* **Loans (Installment Debt):** With a loan, the high balance is expected. The bank is not concerned about a high balance of **₱4.8 million** after a year because the payments are fixed and the property itself serves as collateral. The high balance is a normal part of the repayment plan, not a sign of financial distress.
 
 **2. A Key Signal of Financial Stress for Philippine Lenders**
 
