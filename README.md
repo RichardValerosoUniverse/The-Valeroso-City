@@ -434,7 +434,7 @@ The 5% utilization threshold is the ideal target for a master to maintain a perf
 
 When a master goes over the 5% threshold, they must follow a single, non-negotiable rule to preserve their credit standing:
 
-*Pay the full amount before the statement closing date. This is the crucial moment of command. By paying the balance in full, you ensure that the high utilization is never reported to the credit bureaus. This allows you to handle the emergency or make the large purchase without leaving a single negative mark on your record.*
+"*Pay the full amount before the statement closing date. This is the crucial moment of command. By paying the balance in full, you ensure that the high utilization is never reported to the credit bureaus. This allows you to handle the emergency or make the large purchase without leaving a single negative mark on your record.*"
 
 This action is the ultimate difference between a master who manages their credit and a novice who lets their credit manage them.
 
