@@ -231,7 +231,7 @@ This is a fixed amount of money you borrowed one time (like a car loan or home l
 
 The **5% rule applies primarily to your Flexible Credit (credit cards)**. A low utilization ratio shows lenders that you are financially disciplined and don't rely heavily on borrowed money. A high ratio can make you look risky.
 
-Step 1: Find Your "Water Level" Target (More Examples)
+**Step 1: Find Your "Water Level" Target (More Examples)**
 
 Imagine all your credit card limits are one big glass. Your total credit limit is the size of the glass, and your debt is the water inside. The goal is to keep the water level at 5% or less.
 
@@ -243,7 +243,7 @@ Imagine all your credit card limits are one big glass. Your total credit limit i
 
 This means that your combined balance on all your credit cards should never go above **₱22,500**. This is your main number to watch.
 
-Step 2: Master the Statement Date Trick (More Examples)
+**Step 2: Master the Statement Date Trick (More Examples)**
 
 This is the single most effective way to manage your credit utilization. Your credit card company reports your balance to the credit bureaus on your **statement closing date**, not your payment due date.
 
@@ -257,7 +257,7 @@ This is the single most effective way to manage your credit utilization. Your cr
       * **Action:** You pay the **₱4,000** immediately.
       * **Result:** By the time your statement date arrives, your balance is zero or very low. The credit bureau sees a low number, and your score benefits. This is a much safer way to manage your credit.
 
-Step 3: Be Smart With Your Spending (More Examples)
+**Step 3: Be Smart With Your Spending (More Examples)**
 
 Once you know your target number, you can make smarter spending decisions.
 
@@ -266,7 +266,7 @@ Once you know your target number, you can make smarter spending decisions.
       * **Bad:** You buy the tablet and let the **₱15,000** balance sit on your card until the due date. This immediately raises your utilization ratio and could hurt your score, even though you paid it off eventually.
       * **Good:** You buy the tablet to get the rewards, but you immediately transfer **₱15,000** from your bank account to your credit card a day or two after the purchase. You get the points, but your balance stays at zero, and your utilization is unaffected.
 
-Step 4: Pay Your Loans on Time (More Examples)
+**Step 4: Pay Your Loans on Time (More Examples)**
 
 For your **Fixed Payment Debt (loans)**, your main job is much simpler:
 
