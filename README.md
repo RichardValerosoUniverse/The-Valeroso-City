@@ -245,7 +245,7 @@ This means that your combined balance on all your credit cards should never go a
 
 **Step 2: Master the Statement Date Trick (More Examples)**
 
-This is the single most effective way to manage your credit utilization. Your credit card company reports your balance to the credit bureaus on your **statement closing date**, not your payment due date.
+This is the single most effective way to manage your credit utilization. Your credit card company reports your balance to the credit bureau on your **statement closing date**, not your payment due date.
 
    * **Bad Example (The Accumulation Mistake):**
       * **Month:** You make several small purchases over the month (groceries, gas, a new shirt). They add up to **₱18,000**.
