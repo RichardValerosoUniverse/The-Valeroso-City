@@ -342,7 +342,7 @@ By proactively paying your credit card balance before your statement closes, you
 4.  **Increased Borrowing Power:** With a higher credit score and a better reputation, you will have an easier time getting approved for loans, new credit cards, and other financial products. You may also qualify for lower interest rates.
 5.  **Avoidance of the 0% Interest Trap:** Even with a 0% interest promo, a high balance is still reported to the credit bureaus. By paying it off early, you get the benefit of the promo without the credit score penalty.
 
-## 10 Perfect Examples: The Two Paths of Payment Timing (The SuperHighness Way and The Novice's Path)
+## The Two Paths of Payment Timing: The SuperHighness Way and The Novice's Path
 
 These 10 examples use a variety of credit limits and spending habits to show how a single action—paying on the statement closing date—can drastically change your credit outcome compared to waiting for the due date.
 
