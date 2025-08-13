@@ -329,14 +329,14 @@ For your loans, your main job is much simpler:
 
 Understanding these two dates is the most critical step in mastering your credit. They are often confused, but they serve completely different purposes.
 
-* **Statement Closing Date:** This is the date your credit card company "takes a snapshot" of your account. On this day, your bank calculates your total balance and generates your monthly statement. Most importantly, this is the balance that is reported to the credit bureaus (like the CIC) and used to calculate your **credit utilization ratio**.
-* **Payment Due Date:** This is the deadline for you to pay your bill to avoid late fees and penalties. It is typically 20-30 days *after* your statement closing date. Paying on this date is crucial to avoid a negative mark for a late payment, but it does **not** change the balance that was already reported to the credit bureaus.
+* **Statement Closing Date:** This is the date your credit card company "takes a snapshot" of your account. On this day, your bank calculates your total balance and generates your monthly statement. Most importantly, this is the balance that is reported to the Credit Information Corporation (CIC) and used to calculate your **credit utilization ratio**.
+* **Payment Due Date:** This is the deadline for you to pay your bill to avoid late fees and penalties. It is typically 20-30 days *after* your statement closing date. Paying on this date is crucial to avoid a negative mark for a late payment, but it does **not** change the balance that was already reported to the credit bureau.
 
 **The Benefits of Sticking to the Statement Closing Date**
 
 By proactively paying your credit card balance before your statement closes, you gain control over your credit report and unlock several key benefits:
 
-1.  **Guaranteed Low Credit Utilization Ratio:** This is the single biggest benefit. By ensuring your balance is low or zero on the closing date, you guarantee that a low utilization ratio is reported to the credit bureaus.
+1.  **Guaranteed Low Credit Utilization Ratio:** This is the single biggest benefit. By ensuring your balance is low or zero on the closing date, you guarantee that a low utilization ratio is reported to the credit bureau.
 2.  **Improved Credit Score:** A low credit utilization ratio is one of the most heavily weighted factors in credit scoring models. Consistently reporting a low balance will lead to a higher credit score.
 3.  **Enhanced Financial Reputation:** Lenders will see a history of consistently low or zero balances. This signals that you are financially disciplined, have a healthy cash flow, and are not over-reliant on credit.
 4.  **Increased Borrowing Power:** With a higher credit score and a better reputation, you will have an easier time getting approved for loans, new credit cards, and other financial products. You may also qualify for lower interest rates.
