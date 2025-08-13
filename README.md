@@ -426,15 +426,15 @@ These 10 examples use a variety of credit limits and spending habits to show how
     * **The SuperHighness Way (Paid on the 9th):** You pay the full **₱9,000** balance. The reported balance is **₱0**. Utilization is **0%**. This shows a lender you can cover your family's needs without carrying debt.
     * **The Novice's Path (Paid on the 1st):** You pay the **₱9,000** on the due date. The reported balance is **₱9,000**. Utilization is **22.5%**. This high ratio will negatively impact your credit score.
  
-The Master's Remarks
+**The Master's Remarks**:
 
 The 5% utilization threshold is the ideal target for a master to maintain a perfect credit score. However, a master understands that this is a rule for reporting, not for spending. Life's expenses, especially emergencies, might force you to use a significant portion of your available credit.
 
-The Master's Indications
+**The Master's Indications**:
 
 When a master goes over the 5% threshold, they must follow a single, non-negotiable rule to preserve their credit standing:
 
-Pay the full amount before the statement closing date. This is the crucial moment of command. By paying the balance in full, you ensure that the high utilization is never reported to the credit bureaus. This allows you to handle the emergency or make the large purchase without leaving a single negative mark on your record.
+*Pay the full amount before the statement closing date. This is the crucial moment of command. By paying the balance in full, you ensure that the high utilization is never reported to the credit bureaus. This allows you to handle the emergency or make the large purchase without leaving a single negative mark on your record.*
 
 This action is the ultimate difference between a master who manages their credit and a novice who lets their credit manage them.
 
