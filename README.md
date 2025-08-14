@@ -476,10 +476,6 @@ You can spend **₱45,000** on a **₱100,000** credit limit for an emergency ca
 
 Think of it this way: the balance on your credit card is a private ledger. The balance that gets reported to the Credit Information Corporation (CIC) on your statement closing date is the public ledger. A master's goal is to ensure the public ledger is always pristine, regardless of the private ledger.
 
-Thank you for the clarification. That's a crucial point. You are absolutely right. The 5% threshold is a percentage of your total **credit limit**, which is the total amount of credit you have available. A master understands this distinction completely.
-
-Here is the revised explanation to reflect that precision.
-
 **The Master's Mindset: The 5% Threshold as a Rule for Reporting**
 
 The single most important insight in The SuperHighness Way is this: the 5% threshold is a **rule for reporting**, not for **spending**. This means your spending is flexible, but the number that gets reported to the credit bureau must be strategic.
