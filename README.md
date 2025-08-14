@@ -1206,14 +1206,15 @@ Using credit cards responsibly isn't about how many you have, but about how you 
 
 The SuperHighness Way encourages a "portfolio" approach to credit cards, where each one has a specific purpose. This strategy is all about getting the most value from your spending, just like a smart investor diversifies their assets.
 
-* **1-2 Cards: The Simple Starter**
+
+**1-2 Cards: The Simple Starter**
 
 This is the perfect way to begin your credit journey. It's also great for those who want a simple financial life. The main goal is to build a strong credit history and get a good, easy return on your spending.
 
 * **The First Card:** Think of your first credit card as a learning tool. You might start with a secured card, which helps you practice responsible spending. You'd use it for small, everyday purchases and make sure to pay the full balance on time every month. This simple habit is the most important part of building good credit.
 * **The Second Card:** Once you've shown you can handle your first card well, you might add a second one. This one could be a simple rewards card that gives you a flat 1.5% to 2% cashback on everything you buy. This makes earning rewards easy—you don't have to keep track of different categories.
 
-* **3-4 Cards: The Savvy Strategist**
+**3-4 Cards: The Savvy Strategist**
 
 This portfolio is for someone who has a good understanding of credit and wants to maximize rewards on their top spending categories without getting confused.
 
@@ -1221,7 +1222,7 @@ This portfolio is for someone who has a good understanding of credit and wants t
 * **The Grocery & Gas Card:** This card gives you extra rewards, usually 3-5% back, on things you buy most often, like groceries and gas. By using it for those specific purchases, you get a significant boost in earnings.
 * **The Travel Card:** This card is essential if you travel, especially internationally. It has no foreign transaction fees, travel insurance, and bonus points on travel spending. Use it to book flights and hotels, and for all purchases while you're abroad.
 
-* **5-6 Cards: The Rewards Optimizer**
+**5-6 Cards: The Rewards Optimizer**
 
 This is for a highly organized person who is committed to a rewards-driven lifestyle, often known as a "points and miles collector."
 
@@ -1231,14 +1232,14 @@ This is for a highly organized person who is committed to a rewards-driven lifes
 * **The Hotel Card:** This card is tied to a specific hotel chain and often includes a free night each year and elite status. Use it for booking stays with that brand to get valuable perks and a free night's stay.
 * **The "Wildcard" Card:** This card has rotating bonus categories that change every few months. You'd use it for whatever the current bonus category is—for example, getting 5% back on purchases from Shopee, Lazada, or at grocery stores.
 
-* **7-8 Cards: The Advanced Strategist**
+**7-8 Cards: The Advanced Strategist**
 
 This portfolio is for the dedicated optimizer who uses credit cards to fund luxury travel or get a substantial amount of cashback each year. This level requires meticulous tracking and organization.
 
 * **The Premium Travel Card:** This card has a high annual fee but comes with significant perks like a large welcome bonus, travel credits, and access to exclusive lounges. You'd use it for major purchases to meet the sign-up bonus spending requirement and to use its annual credits.
 * **The Business Card:** Use a business card to keep your personal and business expenses completely separate. This makes accounting and tax season much easier and often provides business-specific rewards.
 
-* **8-9 Cards: The "Points and Miles" Collector**
+**8-9 Cards: The "Points and Miles" Collector**
 
 This level is for the individual who has perfected the art of a rewards portfolio and is now adding cards to fill specific niches or earn bonus points with different partners.
 
@@ -1246,7 +1247,7 @@ This level is for the individual who has perfected the art of a rewards portfoli
 * **A "Tiered" Card:** A card that offers bonus rewards on spending in a category not covered by your other cards, such as home improvement or office supply stores.
 * **The Airline/Hotel "Ecosystem" Card:** A co-branded card with a different airline or hotel chain to diversify your rewards and unlock perks with more than one brand.
 
-* **10-11 Cards: The "Master Optimizer"**
+**10-11 Cards: The "Master Optimizer"**
 
 This level is for the most serious of rewards enthusiasts. These individuals often manage multiple cards to maximize rewards across their entire household and may be applying for new cards strategically throughout the year.
 
@@ -1254,7 +1255,7 @@ This level is for the most serious of rewards enthusiasts. These individuals oft
 * **An Additional Business Card:** For a second business or to capitalize on a specific spending bonus.
 * **More Niche Cards:** This portfolio might include cards for specific retailers (e.g., department stores, gas stations) or cards that offer different bonus categories to fill in any gaps in their rewards strategy.
 
-* **12-13+ Cards: The "Credit Card Churner"**
+**12-13+ Cards: The "Credit Card Churner"**
 
 This is for the most advanced users who are highly disciplined and treat credit cards like a hobby. They are constantly opening and closing cards to take advantage of sign-up bonuses. This is not recommended for most people due to the risk of lowering your credit score.
 
@@ -1291,8 +1292,8 @@ Ultimately, the best advice is to be **intentional** with every credit card you 
 * What is the specific purpose of this card?
 * Can I confidently meet the spending requirements for the bonus without going into debt?
 * Will the benefits of this card be worth any annual fee?
-* Can I easily manage another card's due date and spending?
-
+* Can I easily manage another card's statement closing date and spending? Considering, in the context of **The SuperHighness Way**, paying before the statement date closes is advised rather than paying it on the due date due to credit score and credit utilization ratio issues/impacts.
+  
 If the answer to any of these questions is "no," then you have likely reached your limit. The goal of The SuperHighness Way is to build a credit portfolio that works for you, not one that you constantly have to worry about.
 
 ## SuperHighness Credit Card Generator
