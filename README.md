@@ -56,6 +56,7 @@ With a strong credit card history, you're ready to diversify your credit mix. Th
 
 This "SuperHighness Way" is about building a powerful, independent credit history from the ground up, setting you up for a lifetime of financial advantage in the Philippines.
 
+## Reasons why the **The SuperHighness Way** rejects the idea of being a Supplementary Credit Card holder rather than a Primary one
 
 In the Philippines, a supplementary cardholder's credit activity is indeed reported to the **Credit Information Corporation (CIC)**, the country's central credit registry. However, this is the most critical detail: the information is not reported as a separate, independent credit history. Instead, all activity—both positive and negative—is tied to the primary cardholder's main account.
 
