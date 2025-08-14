@@ -476,6 +476,50 @@ You can spend **₱45,000** on a **₱100,000** credit limit for an emergency ca
 
 Think of it this way: the balance on your credit card is a private ledger. The balance that gets reported to the Credit Information Corporation (CIC) on your statement closing date is the public ledger. A master's goal is to ensure the public ledger is always pristine, regardless of the private ledger.
 
+Thank you for the clarification. That's a crucial point. You are absolutely right. The 5% threshold is a percentage of your total **credit limit**, which is the total amount of credit you have available. A master understands this distinction completely.
+
+Here is the revised explanation to reflect that precision.
+
+**The Master's Mindset: The 5% Threshold as a Rule for Reporting**
+
+The single most important insight in The SuperHighness Way is this: the 5% threshold is a **rule for reporting**, not for **spending**. This means your spending is flexible, but the number that gets reported to the credit bureau must be strategic.
+
+* **"Not for Spending": Your Credit Limit Is a Tool, Not a Budget
+
+The phrase "not for spending" means you are not limited to spending only a small percentage of your credit limit. If you have a credit card with a **₱100,000 limit**, you can use it for a **₱50,000** medical bill, a **₱75,000** home renovation, or any other large expense. You can use a significant portion of your credit limit because you understand that your credit score is not determined by how much you spend, but by how you handle the reporting of that spending.
+
+* **"A Rule for Reporting": The Only Number That Matters
+
+The phrase "a rule for reporting" is where mastery happens. Your bank reports your credit card balance as a percentage of your total credit limit to the credit bureau only once a month, on your **statement closing date**. This is the one and only moment that matters.
+
+A master's goal is to ensure that the balance reported on this specific day is **₱0**, making their utilization ratio **0% of their total credit limit**. This is the most powerful signal of financial discipline and stability.
+
+* **The "Showtime" Analogy, Revised
+
+Think of your credit limit as a stage.
+
+* **Behind the Scenes (Spending):** Throughout the month, you can be backstage using as much of that stage (your credit limit) as you need for a large production. The stage may be messy with props, but that's okay.
+* **The Final Performance (Reporting):** The statement closing date is when the curtains open. The audience (the lenders) only sees the stage on this one day. A master ensures that by the time the curtains open, the entire stage is perfectly clean and empty. They have paid the **full balance**, leaving no debt to be reported.
+
+**Examples: The Cost of Ignoring the Rule**
+
+These scenarios highlight the crucial difference between a novice who focuses on their spending and a master who focuses on reporting.
+
+   * **Example 1: The New Business Venture**
+     * * **Scenario:** You have a credit card with a **₱50,000 limit**. To launch a new side hustle, you use your card to buy **₱20,000** in supplies and materials.
+     * **The Novice's Path:** You see the **₱20,000** balance and think, "I'll pay this off from my new business's first earnings." Your statement closes, and the bank reports a balance of **₱20,000**, showing **40% utilization** of your limit. When you apply for a small business loan, the lender sees your high utilization and **denies the loan**, viewing you as a risky, over-leveraged startup.
+     * **The Master's Path:** You have **₱20,000** saved in your business startup fund. You use your credit card for the purchase to get the rewards. Before your statement closes, you pay the full **₱20,000** balance. The reported utilization is **0%**. When you apply for a small business loan a few months later, the lender sees a history of perfect credit management and **approves your loan**.
+
+   * **Example 2: The Appliance Upgrade**
+     * **Scenario:** Your family's refrigerator breaks down. You have a credit card with a **₱75,000 limit** and buy a new one for **₱30,000**.
+     * **The Novice's Path:** You pay the **₱30,000** on your credit card and plan to pay it off over a few months. Your statement closes, and the bank reports a balance of **₱30,000**, showing **40% utilization**. The high utilization causes your credit score to drop, and when you go to refinance your home, you're offered a **higher interest rate** because you are seen as financially unstable.
+     * **The Master's Path:** You have a home appliance fund with enough cash to cover the cost. You use your credit card for the purchase to get the rewards and purchase protection. Before the statement closes, you pay the **₱30,000** balance in full. The reported utilization is **0%**. Your credit score remains high, and when you refinance your home, you secure the **lowest possible interest rate**.
+
+* **Example 3: The Educational Course**
+   * **Scenario:** You want to take an online course to boost your skills, costing **₱15,000** on a credit card with a **₱40,000 limit**.
+    * **The Novice's Path:** You pay for the course and make the minimum payment for the next few months. Your reported balance remains high, with a utilization of over **37%**. When your car lease is up, the lender sees your high utilization and either **denies the lease** or gives you a much less favorable rate.
+   * **The Master's Path:** You pay for the course on your credit card. You immediately pay the full **₱15,000** balance with cash from your savings. The reported utilization is **0%**. Your credit history remains flawless, and you have no trouble securing a great rate on your new car lease.
+
 **The Non-Negotiable Rule: The Master's Counter-Attack**
 
 When you go over the 5% threshold for any reason, a master follows a single, non-negotiable rule.
