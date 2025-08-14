@@ -490,7 +490,7 @@ The phrase "a rule for reporting" is where mastery happens. Your bank reports yo
 
 A master's goal is to ensure that the balance reported on this specific day is **₱0**, making their utilization ratio **0% of their total credit limit**. This is the most powerful signal of financial discipline and stability.
 
-* **The "Showtime" Analogy, Revised
+* **The "Showtime" Analogy
 
 Think of your credit limit as a stage.
 
@@ -502,7 +502,7 @@ Think of your credit limit as a stage.
 These scenarios highlight the crucial difference between a novice who focuses on their spending and a master who focuses on reporting.
 
    * **Example 1: The New Business Venture**
-     * * **Scenario:** You have a credit card with a **₱50,000 limit**. To launch a new side hustle, you use your card to buy **₱20,000** in supplies and materials.
+     * **Scenario:** You have a credit card with a **₱50,000 limit**. To launch a new side hustle, you use your card to buy **₱20,000** in supplies and materials.
      * **The Novice's Path:** You see the **₱20,000** balance and think, "I'll pay this off from my new business's first earnings." Your statement closes, and the bank reports a balance of **₱20,000**, showing **40% utilization** of your limit. When you apply for a small business loan, the lender sees your high utilization and **denies the loan**, viewing you as a risky, over-leveraged startup.
      * **The Master's Path:** You have **₱20,000** saved in your business startup fund. You use your credit card for the purchase to get the rewards. Before your statement closes, you pay the full **₱20,000** balance. The reported utilization is **0%**. When you apply for a small business loan a few months later, the lender sees a history of perfect credit management and **approves your loan**.
 
