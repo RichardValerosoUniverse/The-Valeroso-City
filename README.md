@@ -1532,18 +1532,18 @@ A credit card, when used responsibly, is far more than a simple payment tool. It
 
 Here's a deeper look into the essential role credit cards play in your financial wellness, with ten distinct examples for each benefit.
 
-* **A. Building a Strong and Trustworthy Credit History**
+* **1. Building a Strong and Trustworthy Credit History**
 
-   * 1. **Securing a Car Loan:** You have used a credit card responsibly for several years. When you apply for a new car loan, the bank sees your perfect payment history and offers you a significantly lower interest rate, saving you thousands of pesos in interest over the life of the loan.
-   * 2.  **Getting Approved for a Mortgage:** After years of making on-time credit card payments, your high credit score helps you get approved for a home mortgage with a favorable interest rate and terms, making homeownership more affordable.
-   * 3.  **Renting a Desirable Apartment:** A landlord has multiple applicants for a popular apartment. Your excellent credit history, built through responsible credit card use, provides proof of your financial stability, giving you the edge over other applicants.
-   * 4.  **Qualifying for Premium Cards:** A strong credit score allows you to be approved for exclusive credit cards that offer a high credit limit, better rewards, and valuable perks like airport lounge access or travel credits.
-   * 5.  **Obtaining a Personal Loan:** You need a personal loan for a home renovation. Your good credit history helps you secure the loan with a much lower interest rate than someone with a fair or poor credit score.
-   * 6.  **Better Insurance Rates:** Many insurance companies use your credit score to determine your rates. Maintaining a strong credit history can result in lower premiums on your car and homeowner’s insurance.
-   * 7.  **Starting a Small Business:** Your strong personal credit history is often required to secure a business loan or line of credit for a new venture, providing the capital you need to get started.
-   * 8.  **Lower Security Deposits:** Companies like utility providers or mobile phone carriers may check your credit history and waive the need for a security deposit if they see you are a reliable customer.
-   * 9.  **Avoiding a Co-Signer:** Your solid credit history demonstrates your financial independence, allowing you to be approved for a lease or loan without needing a family member to co-sign for you.
-   * 10. **Easier Balance Transfers:** If you ever need to consolidate high-interest debt, a good credit history makes it much easier to be approved for a low-interest balance transfer card.
+   * **Securing a Car Loan:** You have used a credit card responsibly for several years. When you apply for a new car loan, the bank sees your perfect payment history and offers you a significantly lower interest rate, saving you thousands of pesos in interest over the life of the loan.
+   * **Getting Approved for a Mortgage:** After years of making on-time credit card payments, your high credit score helps you get approved for a home mortgage with a favorable interest rate and terms, making homeownership more affordable.
+   * **Renting a Desirable Apartment:** A landlord has multiple applicants for a popular apartment. Your excellent credit history, built through responsible credit card use, provides proof of your financial stability, giving you the edge over other applicants.
+   * **Qualifying for Premium Cards:** A strong credit score allows you to be approved for exclusive credit cards that offer a high credit limit, better rewards, and valuable perks like airport lounge access or travel credits.
+   * **Obtaining a Personal Loan:** You need a personal loan for a home renovation. Your good credit history helps you secure the loan with a much lower interest rate than someone with a fair or poor credit score.
+   * **Better Insurance Rates:** Many insurance companies use your credit score to determine your rates. Maintaining a strong credit history can result in lower premiums on your car and homeowner’s insurance.
+   * **Starting a Small Business:** Your strong personal credit history is often required to secure a business loan or line of credit for a new venture, providing the capital you need to get started.
+   * **Lower Security Deposits:** Companies like utility providers or mobile phone carriers may check your credit history and waive the need for a security deposit if they see you are a reliable customer.
+   * **Avoiding a Co-Signer:** Your solid credit history demonstrates your financial independence, allowing you to be approved for a lease or loan without needing a family member to co-sign for you.
+   * **Easier Balance Transfers:** If you ever need to consolidate high-interest debt, a good credit history makes it much easier to be approved for a low-interest balance transfer card.
 
 ---
 
