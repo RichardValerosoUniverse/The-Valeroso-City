@@ -1466,7 +1466,9 @@ The amount on your original card(s) that was included in the balance transfer pr
   
 Debt consolidation and balance transfers are often used interchangeably, but it's important to understand the nuance: a **balance transfer is a specific method used to achieve debt consolidation**.
 
-### Debt Consolidation (The Strategy)
+Balance Transfer vs. Debt Consolidation: What's the Difference?
+
+Debt Consolidation (The Strategy)
 
 Debt consolidation is the general strategy of combining multiple debts—such as credit card balances, personal loans, and medical bills—into a single, new payment. The goal is to simplify your finances by having one monthly payment to manage, and to potentially save money by securing a lower overall interest rate.
 
@@ -1475,13 +1477,11 @@ The most common tools for debt consolidation are:
 * A **home equity loan** or line of credit.
 * A **balance transfer** using a credit card.
 
-### Balance Transfer (The Tactic)
+Balance Transfer (The Tactic)
 
 A balance transfer is a specific tactic of debt consolidation that exclusively involves moving debt from one or more credit cards to another credit card. This is typically done to take advantage of a promotional low or 0% interest rate offered by the new card.
 
----
-
-### Comparison of Balance Transfer vs. Debt Consolidation Loan
+Comparison of Balance Transfer vs. Debt Consolidation Loan
 
 Here is a side-by-side comparison to highlight the key differences, as a personal loan is the most common alternative to a balance transfer for debt consolidation.
 
@@ -1495,9 +1495,7 @@ Here is a side-by-side comparison to highlight the key differences, as a persona
 | **Duration** | Short-term solution. The benefit is tied to the introductory rate period, which is generally 1-2 years. | Long-term solution. Repayment terms can range from 1 to 7 years, providing a longer runway to pay off debt. |
 | **Credit Impact** | Applying results in a hard inquiry. A new card can lower your average account age. If you pay off the balance, your credit utilization will improve, which helps your score. | A hard inquiry occurs upon application. The new loan may be reported as a different type of credit, which can diversify your credit mix and potentially improve your score over time. |
 
----
-
-### When to Choose Which
+When to Choose Which
 
 * **Choose a Balance Transfer if...**
     * You have a manageable amount of high-interest **credit card debt** (and no other types of debt).
