@@ -2,7 +2,11 @@ For security purposes, just call My name and Myself of mine is gonna burn you al
 
 **I am seriously asking:**
 
-*"Were you born in this country?*
+*Were you born in this country?*
 
 *Were you born inside or outside the Mental Hospital Of Definitely Davao City?* 🤔 
 
+*Have you already memorized the "Myself Of Mine" 101 Modules?*
+
+*Does your name being listed in the Fires of hell?
+🤔 
