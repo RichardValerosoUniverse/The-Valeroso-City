@@ -277,7 +277,7 @@ Here are the following philippine-issued and philippine-based credit cards that 
 * Eastwest Bank
 * Metrobank
   
-These listed credit card companies and its employees are good candidates for cremation death penalty alive version. They deserve to die or get burned alive as their punishment. They will go to hell and feel the most painful punishment in the world and the universe without expiration!! Haha.
+These listed credit card companies and their employees are the **best** candidates for Cremation Death Penalty Alive Version in the Philippines. They deserve to die or get burned alive as their punishment. They will go to hell and feel the most painful punishment in the world and the universe without expiration!! Haha.
 
 **The Scammers are the card companies themselves, and their employees are involved!!**
 
