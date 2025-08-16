@@ -277,12 +277,10 @@ Here are the following philippine-issued and philippine-based credit cards that 
 * Eastwest Bank
 * Metrobank
   
-These listed credit card companies and its employees are good candidates for cremation death penalty alive version. They deserve to die or get burned alive as their punishment. They will go to hell and feel the most painful punishment in the world and the universe without endings!! 😡😡😡. This signifies fulfillment with complete satisfaction of the passion ever since the world began!!. 
+These listed credit card companies and its employees are good candidates for cremation death penalty alive version. They deserve to die or get burned alive as their punishment. They will go to hell and feel the most painful punishment in the world and the universe without expiration!! Haha.
 
-**The Scammers are the card companies themselves and its employees involved, not SuperHighness!!**
+**The Scammers are the card companies and its employees involved!!**
 
-
-WHO ARE SCAMMERS? 
 * Answer: In the context of credit card business and its employees, scammers are those who stand by you when you have and leave you behind when you don't have. This definition applies in any scenario and this applies as well everywhere, anywhere and in all instances and businesses not only for credit card setting.
 
       - Here's an expanded version:
