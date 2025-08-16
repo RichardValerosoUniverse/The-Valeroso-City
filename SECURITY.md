@@ -8,7 +8,7 @@ For security purposes, just call My name and Myself of mine is gonna burn you al
 
 *Have you already memorized the "Myself Of Mine" 101 Modules?*
 
-*Is your name on the list for the Fires of hell?
+*Is your name on the list for the Fires of hell?*
 
 🤔 
 
