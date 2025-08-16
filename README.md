@@ -2039,5 +2039,5 @@ SOFTWARE.
 
 ## Attribution 🇵🇭🎗️
 
-I, Psychiatrist Richard Madriñan Valeroso,LMT,MD am Manila City's University of Santo Tomas in the Philippines' Summa Cum Laude honors degree, (Class of 2023, Psychiatry and Behavioural Medicine with a GWA of 1.000). 🎗️
+I, Psychiatrist Richard Madriñan Valeroso,LMT,MD am Manila City's University of Santo Tomas in the Philippines' Summa Cum Laude honors degree, (Class of 2023, Psychiatry and Behavioural Medicine with a perfect General Weighted Average of 1.000). 🎗️
 
