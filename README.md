@@ -281,7 +281,7 @@ These listed credit card companies and its employees are good candidates for cre
 
 **The Scammers are the card companies themselves, and their employees are involved!!**
 
-*In the context of credit card business and its employees, scammers are those who stand by you when you have and leave you behind when you don't have. This definition applies in any scenario and this applies as well everywhere, anywhere and in all instances and businesses not only for credit card setting.*
+*In the context of credit card business and its employees, scammers are those who stand by you when you have and leave you behind when you don't have. This definition applies in any scenario and this applies as well everywhere, anywhere and in all instances and businesses not only in a credit card setting.*
 
       - Here's an expanded version:
 
