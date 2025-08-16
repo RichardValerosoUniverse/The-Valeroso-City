@@ -3,5 +3,6 @@ For security purposes, just call My name and Myself of mine is gonna burn you al
 **I am seriously asking:**
 
 *"Were you born in this country?*
-**Were you born inside or outside the Mental Hospital Of Definitely Davao City?*
+
+*Were you born inside or outside the Mental Hospital Of Definitely Davao City?* 🤔 
 
