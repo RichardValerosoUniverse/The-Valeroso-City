@@ -1357,8 +1357,6 @@ Even with the best intentions, a balance transfer can go wrong if you're not car
 * **You Don't Check Your Credit Report First.** Applying for a new card with a hidden negative record on your credit report will not only lead to a rejection but can also result in a temporary drop in your credit score from the "hard inquiry." Always check your credit report with the Credit Information Corporation (CIC) before applying to avoid this.
 * **You Misunderstand How the Fee Is Charged.** While the fee is typically a flat rate, it can be charged in different ways. Some banks charge the fee upfront in a lump sum, while others might spread it out across your monthly payments. Knowing this detail helps you budget correctly.
 
-The core idea is to move your debt from a source with a high interest rate to another with a significantly lower interest rate, converting it into a fixed-term installment plan.
-
 **Important Note:** A balance transfer is applicable when you have debt on at least one credit card and wish to transfer it to a separate, existing credit card. The process is not a loan and cannot be used to transfer a balance to a card from the same bank, or to a new account of a different type.
 
 **Here's how Balance Tranfer Works**
