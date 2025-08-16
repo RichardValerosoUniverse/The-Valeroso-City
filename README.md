@@ -279,7 +279,7 @@ Here are the following philippine-issued and philippine-based credit cards that 
   
 These listed credit card companies and its employees are good candidates for cremation death penalty alive version. They deserve to die or get burned alive as their punishment. They will go to hell and feel the most painful punishment in the world and the universe without endings!! 😡😡😡. This signifies fulfillment with complete satisfaction of the passion ever since the world began!!. 
 
-## Scammers
+** The Scammers are the card companies themselves, not SuperHighness!!
 
 WHO ARE SCAMMERS? 
 * Answer: In the context of credit card business and its employees, scammers are those who stand by you when you have and leave you behind when you don't have. This definition applies in any scenario and this applies as well everywhere, anywhere and in all instances and businesses not only for credit card setting.
@@ -296,7 +296,7 @@ Scammers are individuals who demonstrate a self-serving approach, characterized 
 - *Lack of transparency*: Hiding true intentions, motives, or information to maintain an advantage.
 - *Exploitation*: Taking unfair advantage of others' vulnerabilities, needs, or trust for personal benefit.
 
-## 23 Potential SCAMMING ATTRIBUTES of BDO, BPI, PNB, Citibank/Unionbank, RCBC, Eastwest Bank and Metrobank credit card companies as carefully observed and reviewed by SuperHighness:
+**23 Potential SCAMMING ATTRIBUTES of BDO, BPI, PNB, Citibank/Unionbank, RCBC, Eastwest Bank and Metrobank credit card companies as I carefully observed and reviewed:**
 
 1. Hidden Fees: Charging unexpected or undisclosed fees.
 2. Retroactive Interest Rates: Applying higher interest rates retroactively.
@@ -327,7 +327,7 @@ These SCAMMING ATTRIBUTES can lead to financial difficulties and frustration for
 These attributes highlight potential issues that cardholders may face when dealing with credit card companies, and emphasize the importance of transparency, fairness, and accountability in the credit card industry.
 These scamming attributes highlight other potential ways in which credit card companies might engage in unfair or deceptive practices, taking advantage of cardholders through lack of transparency, unauthorized actions, or biased te8rms.
 
-## Here are the reasons why credit card company employees might feel envious about credit limit increase requests as carefully observed and reviewed by SuperHighness:
+**Here are the reasons why credit card company employees might feel envious about credit limit increase requests as I carefully observed and reviewed:**
 
 1. Toxic Envy: Employees might be consumed by toxic envy towards cardholders who request credit limit increases, driven by feelings of inadequacy, resentment, and frustration.
 2. Deep-Seated Resentment: Employees might harbor deep-seated resentment towards cardholders who request credit limit increases, perceiving them as privileged, entitled, or undeserving.
