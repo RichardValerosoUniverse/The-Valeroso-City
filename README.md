@@ -1637,7 +1637,7 @@ A cash advance is a direct withdrawal of money from your credit card's credit li
 * **The Immediate Interest:** Unlike the usual purchases you make with a grace period, a cash advance begins accumulating interest the very second it is availed. There is no grace, no waiting period. If you withdraw cash on a Tuesday, interest starts compounding on that same Tuesday. This is a fundamental difference that many overlook.
 * **The Punitive Rate and Fees:** The costs are a one-two punch that can quickly escalate a manageable sum into a suffocating debt. First, you are charged a **cash advance fee**, a non-negotiable tribute for the transaction itself. This is often a flat fee (e.g., ₱200 or ₱500) or a percentage of the amount withdrawn, whichever is greater. Second, the monthly interest rate for cash advances is significantly higher than your card's standard purchase rate. While a typical purchase might be charged 2-3% per month, the cash advance rate can be 3.5% or more. This means you are paying a fee just to get the money, and then paying a higher-than-usual interest rate on that amount from day one.
 
-**Consider two common scenarios*"
+**Consider two common scenarios**
 
 **Scenario 1: Metro Manila.** A freelance artist based in Quezon City suddenly has a client back out of a project, leaving them short on cash to pay for their monthly apartment rent. Rather than face a late penalty, they go to the ATM to withdraw ₱20,000 using their credit card. They are immediately charged a cash advance fee of, say, ₱500. Then, a high monthly interest rate, let's say 3.5%, begins to accrue not just on the ₱20,000 but on the new total balance of ₱20,500. This seemingly small act of survival has instantly put them in a much deeper financial hole.
 
