@@ -1626,23 +1626,24 @@ Here's a deeper look into the essential role credit cards play in your financial
    * **Rent and Reservations:** You use a credit card to reserve a hotel room or a rental car, as many companies require a credit card for these transactions.
    * **Security over Cash:** You can make all your purchases without carrying a large amount of cash, which is safer and more convenient.
 
+## The Credit Card Cash Advance: A High-Cost Loan in the Philippines
 
 In the twin metropolises of Metro Manila and Davao City, a credit card is more than just a piece of plastic; it is a gateway to modern convenience, a tool that facilitates everything from paying for a Grab ride in Makati to dining at a fine restaurant in Lanang. However, within this powerful instrument lies a feature that many misunderstand and few truly appreciate the peril of: the **credit card cash advance**. This is not a transaction but a high-stakes, short-term loan, and its truth is a critical lesson for every Filipino consumer.
 
-### The Myth of Convenience: A Transaction with No Mercy
+ **The Myth of Convenience: A Transaction with No Mercy**
 
 A cash advance is a direct withdrawal of money from your credit card's credit limit, typically from a generic bank ATM. It's a tempting solution when faced with a cash-only situation—perhaps an urgent repair for your family's jeepney in Pasig, or covering an unforeseen medical bill at a hospital in Davao. Yet, this seeming convenience is an illusion.
 
 * **The Immediate Interest:** Unlike the usual purchases you make with a grace period, a cash advance begins accumulating interest the very second it is availed. There is no grace, no waiting period. If you withdraw cash on a Tuesday, interest starts compounding on that same Tuesday. This is a fundamental difference that many overlook.
 * **The Punitive Rate and Fees:** The costs are a one-two punch that can quickly escalate a manageable sum into a suffocating debt. First, you are charged a **cash advance fee**, a non-negotiable tribute for the transaction itself. This is often a flat fee (e.g., ₱200 or ₱500) or a percentage of the amount withdrawn, whichever is greater. Second, the monthly interest rate for cash advances is significantly higher than your card's standard purchase rate. While a typical purchase might be charged 2-3% per month, the cash advance rate can be 3.5% or more. This means you are paying a fee just to get the money, and then paying a higher-than-usual interest rate on that amount from day one.
 
-Consider two common scenarios.
+**Consider two common scenarios*"
 
 **Scenario 1: Metro Manila.** A freelance artist based in Quezon City suddenly has a client back out of a project, leaving them short on cash to pay for their monthly apartment rent. Rather than face a late penalty, they go to a generic bank ATM to withdraw ₱20,000 using their credit card. They are immediately charged a cash advance fee of, say, ₱500. Then, a high monthly interest rate, let's say 3.5%, begins to accrue not just on the ₱20,000 but on the new total balance of ₱20,500. This seemingly small act of survival has instantly put them in a much deeper financial hole.
 
 **Scenario 2: Davao City.** A small business owner in Toril needs to make a quick purchase of fresh produce from a cash-only supplier at the Davao City Public Market. They need ₱5,000 and, with no other choice, use their credit card for a cash advance. The bank charges them a flat ₱200 cash advance fee, and the high interest rate starts immediately on the ₱5,200 balance. The quick solution for a business opportunity has a hidden cost that will eat into their profits.
 
-### The Unseen Consequence: A Scar on Your CIC Credit Report
+**The Unseen Consequence: A Scar on Your CIC Credit Report**
 
 Perhaps the most compelling reason to avoid cash advances is their profound and lasting impact on your credit history, which is meticulously tracked by the **Credit Information Corporation (CIC)**. The CIC is the Philippines' central repository for credit information, and its data is a key factor in how banks and lenders view your financial reliability.
 
