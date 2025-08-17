@@ -1654,7 +1654,7 @@ Your CIC credit report, which you can personally request, is a truthful reflecti
 
 Ultimately, the credit card cash advance is a tool designed for absolute emergencies, not for daily financial management. It's a last resort, not a convenient option. Before heading to that cash machine in a time of need, it's a critical moment for a Filipino consumer to ask themselves: Is there any other way? A short-term personal loan, borrowing from family or friends, or using an emergency fund would be far wiser and more responsible choices for your long-term financial health. In an economy where creditworthiness is increasingly important, protecting your CIC report is a vital step in securing a stable financial future.
 
-**MYTHS vs. REALITIES: Credit Card Cash Advances in the Philippines
+**MYTHS vs. REALITIES: Credit Card Cash Advances in the Philippines**
 
 | **Myth** | **Reality** |
 |------------|----------------|
@@ -1668,7 +1668,7 @@ Ultimately, the credit card cash advance is a tool designed for absolute emergen
 | **8. You don’t need a PIN to withdraw.** | You **must** have a PIN for ATM cash advances. Request one if needed. |
 | **9. It’s safe to use anytime.** | Use only for **true emergencies**—interest builds up fast. |
 | **10. It won’t affect your credit score.** | Frequent use increases credit utilization and can **lower your score. |
-| **11. You’ll go to jail if you can’t repay.** | Credit card debt is a **civil**, not criminal, liabilit. You won’t be jailed, but your creditworthiness suffers. |
+| **11. You’ll go to jail if you can’t repay.** | Credit card debt is a **civil**, not **criminal**, liability. You won’t be jailed, but your creditworthiness suffers. |
 | **12. It’s okay to repay next month.** | Interest accrues **daily**. Delaying repayment increases your debt. |
 | **13. It’s better than using a credit card for purchases.** | Regular purchases have a **grace period** and may earn rewards. Cash advances don’t. |
 | **14. You can use it for anything.** | Best reserved for **medical emergencies, urgent travel, or utility cutoffs**. |
