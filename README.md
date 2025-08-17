@@ -2,9 +2,6 @@
 
 *I, Psychiatrist Richard Madriñan Valeroso, LMT, MD, am the “World and Universe’s Ruler of the Philippines,” bearing the highest distinction as SuperHighness. I possess esteemed credentials in Licensed Massage Therapy (LMT) and Medicine (MD), and I graduated Summa Cum Laude in Psychiatry and Behavioural Medicine from the University of Santo Tomas in Manila City, Philippines (Class of 2023), with a perfect General Weighted Average of 1.000. I embody excellence as SuperHighness.👑*
 
-Revise 
-I made some minor adjustments to improve flow and clarity. Let me know if this version works for you!
-
 ## **How to Establish Credit Early: The SuperHighness Way (Philippine Setting)**
 
 The "SuperHighness Way" is an approach to building credit in the Philippines with a focus on complete independence, unwavering discipline, and a deep understanding of personal responsibility. The goal is to build a credit profile that stands on its own merit, free from reliance on anyone else's financial history. This strategy is for those who are serious about achieving financial mastery from the very start.
@@ -15,7 +12,7 @@ Before you begin this journey, you must internalize this truth: **Once you embar
 
 **The SuperHighness Timeline: A Marathon of Maturity and Responsibility**
 
-The "SuperHighness Way" understands that the journey to financial mastery is deeply personal. It is not about being early or being too late. It couples with a lot of considerations: your financial standing, your personal goals, and your unique journey in life.
+"The SuperHighness Way" understands that the journey to financial mastery is deeply personal. It is not about being early or being too late. It couples with a lot of considerations: your financial standing, your personal goals, and your unique journey in life.
 
 When it comes to age, the main requirements are **maturity and responsibility**. You can be 21 or 30, 35 or 40. The age at which you start is less important than your dedication and readiness to stand by the commitment. It is far better to delay getting your first credit product and be fully prepared, than to rush into it and make a mistake that could take years to correct.
 
