@@ -1641,7 +1641,7 @@ A cash advance is a direct withdrawal of money from your credit card's credit li
 
 **Scenario 1: Metro Manila.** A freelance artist based in Quezon City suddenly has a client back out of a project, leaving them short on cash to pay for their monthly apartment rent. Rather than face a late penalty, they go to the ATM to withdraw ₱20,000 using their credit card. They are immediately charged a cash advance fee of, say, ₱500. Then, a high monthly interest rate, let's say 3.5%, begins to accrue not just on the ₱20,000 but on the new total balance of ₱20,500. This seemingly small act of survival has instantly put them in a much deeper financial hole.
 
-**Scenario 2: Davao City.** A small business owner in Toril needs to make a quick purchase of fresh produce from a cash-only supplier at the Davao City Public Market. They need ₱5,000 and, with no other choice, use their credit card for a cash advance. The bank charges them a flat ₱200 cash advance fee, and the high interest rate starts immediately on the ₱5,200 balance. The quick solution for a business opportunity has a hidden cost that will eat into their profits.
+**Scenario 2: Davao City.** A small business owner in Toril needs to make a quick purchase of fresh produce from a cash-only supplier at Toril Public Market. They need ₱5,000 and, with no other choice, use their credit card for a cash advance. The bank charges them a flat ₱200 cash advance fee, and the high interest rate starts immediately on the ₱5,200 balance. The quick solution for a business opportunity has a hidden cost that will eat into their profits.
 
 **The Unseen Consequence: A Scar on Your CIC Credit Report**
 
