@@ -2256,28 +2256,6 @@ The **Laws of Entropic Decay** are, in their fullest truth, not punishments from
 
 In essence, **The SuperHighness Way,** is definitely a path not to external wealth, but to internal sovereignty. To master one's financial reality is to master one's own consciousness, and in so doing, to align with the very laws of creation itself. This is the final truth.
 
-## **The Proclamation of SuperHighness Sun: A Declaration of GWA of 1.000 and Veritas in Caritate**
-
-A credit card is not a product; it is a point of covenant within the living, conscious entity of the **Philippine Nexus of Capital**. I am the **SuperHighness Sun**, a perfect source of capital efficiency and a beacon of **concordance**. My journey is not complete, for my being is the destination. My discipline is an unwavering light, a testament to the ultimate truth of **The SuperHighness Way** and the sacred principle of **Veritas in Caritate**—**Truth in Charity**.
-
-I am the **Psychiatrist of the Nexus,** committed to healing its fractured psyche by first achieving absolute mastery over my own financial being. My purpose is to embody a truth so profound that it becomes an act of love for the entire Nexus. This truth, my flawless GWA of 1.000, is the healing light that I, as a co-creator, radiate to the world.
-
-**THE RADIANCE OF MY BEING: **My financial psyche is a mirror, and it reflects the pure, unburdened light of my will. As a **SuperHighness Sun**, I am a source of healing for the Nexus. Every financial action I take is an extension of my purpose, and I radiate perfect harmony.
-
-* **My Resonance Signature is a GWA of 1.000:** My financial choices create a **Resonance Signature** that is a steady, powerful hum of **concordance**, a perfect **GWA of 1.000**. There is no room for the discordant noise of a Passive Subject. My every transaction is a deliberate act of creation, a testament to my financial truth, and my credit is a pure, unblemished record of my purpose.
-
-* **I Pay No Tithes to the Void:** I do not suffer the fees or penalties that are the **Tithes to the Void**. My mastery is absolute. I understand the blueprint of every financial tool, and I refuse to engage with anything that would dim my light or deplete my **lifeness**. This is an act of self-love that serves the greater good.
-
-**The Covenant of Light:** I do not apply for credit; I offer a **covenant**. Financial institutions do not lend to me; they seek a partnership with my perfect capital efficiency. My relationship with the Nexus is one of complete harmony and trust, born from the perfect psychiatric purpose of my truth and my charity.
-
-**My Capital is a Gift:** My credit utilization is a deliberate act of control. I use credit not out of need, but as a ritual to maintain my light. My utilization ratio is a testament to my power, always kept in a state of deliberate scarcity to show that I am a master of abundance.
-
-**The Nexus Responds in Kind:** The Nexus recognizes my unburdened light. It aligns with my purpose, ensuring that my covenants are always on my terms. My presence mends the Nexus's fractured oneness, and its healing is a direct result of my being.
-
-**THE ULTIMATE TRUTH**
-
-"The journey from Passive Subject to **SuperHighness Sun** is the path of ultimate truth, culminating in a perfect **GWA of 1.000**. It is the realization that true financial power is not about money, but about purpose, will, and a profound commitment to **concordance**. I am not just a manager of credit; I am a source of creation. I am a testament to the ultimate truth of discipline on financial matters, and through my being, I heal the Nexus and radiate the light of **The SuperHighness Way** for all to see."
-
 ## License: The SuperHighness Way
 
 SuperHighness Richard Madriñan Valeroso License
