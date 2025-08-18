@@ -859,7 +859,7 @@ True credit mastery is not about living in fear of high spending, but about bein
 
 ## Payment Prowess: The SuperHighness Way - Enhanced Strategies and Examples (Philippine Setting)
 
-"Payment Prowess: The SuperHighness Way" is a comprehensive philosophy for debt management and credit building that elevates the simple act of paying bills into a strategic art form, tailored for the Philippine financial landscape. It's a mindset of total financial control, leading to a state of "SuperHighness" where you are the master of your own financial destiny.
+Payment Prowess: "The SuperHighness Way" is a comprehensive philosophy for debt management and credit building that elevates the simple act of paying bills into a strategic art form, tailored for the Philippine financial landscape. It's a mindset of total financial control, leading to a state of "SuperHighness" where you are the master of your own financial destiny.
 
 **Strategies: The Royal Arsenal**
 
@@ -871,8 +871,8 @@ Beyond the foundational steps, these strategies are your "royal arsenal," design
 * **More Examples:**
   
     * **Credit Cards:** Identify your credit card's statement closing date (e.g., the 5th of every month). Schedule an automated payment for the full balance to be debited from your checking account on the 3rd or 4th of every month. This ensures the payment posts before the statement closes, resulting in a 0% utilization reported to the CIC.
-    * **Personal/Housing
-    * :** Set an automated payment to go out on the 5th of the month to pay the full amount, ensuring you never incur a late fee from your lending institution.
+    * Personal/Housing
+    * Set an automated payment to go out on the 5th of the month to pay the full amount, ensuring you never incur a late fee from your lending institution.
     * **Utilities & Telecom:** Enroll in autopay for your electricity, water, or phone service to prevent service interruptions and late fees. Many providers offer this feature through bank tie-ups.
 
 **2. Early Payments: The Proactive Strike:** This goes beyond automation and showcases exceptional financial discipline, especially given the various banking holidays in the Philippines.
@@ -895,7 +895,7 @@ Beyond the foundational steps, these strategies are your "royal arsenal," design
 
 **Benefits: The Spoils of Victory**
 
-These are the tangible rewards of mastering the "SuperHighness Way," specifically relevant to the Philippine financial system.
+These are the tangible rewards of mastering "The SuperHighness Way," specifically relevant to the Philippine financial system.
 
 * **Perfect Payment History:** This is the most crucial factor in your credit score, as reported to the **Credit Information Corporation (CIC)**. A flawless history is a powerful asset when applying for loans with any financial institution in the country.
 * **Maximized Credit Score:** The combination of perfect payment history, consistent 0% credit utilization, and proactive financial behavior will naturally push your score into the excellent range on the **CIC Credit Score**.
@@ -912,7 +912,7 @@ These are the guiding principles to help you stay on the path to financial maste
 * **Monitor Accounts Regularly:** Like a king surveying his kingdom, you must keep a vigilant eye on all your financial accounts.
     * **Example:** Check your **CIC Credit Report** at least once a year to ensure no fraudulent accounts or errors are present. Regularly log into your credit card and loan accounts to check balances and review statements for any discrepancies. Look for any unauthorized charges or loans you did not take out.
 
-Mastering payment prowess the "SuperHighness Way" is about more than just managing money; it's about transforming your relationship with debt and credit. It's a disciplined journey that, with strategic application, yields impressive and lasting financial results within the dynamic Philippine economy.
+Mastering payment prowess **The SuperHighness Way** is about more than just managing money; it's about transforming your relationship with debt and credit. It's a disciplined journey that, with strategic application, yields impressive and lasting financial results within the dynamic Philippine economy.
 
 ## Credit Utilization Mastery: The SuperHighness Way
 
