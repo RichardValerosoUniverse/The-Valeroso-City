@@ -1969,14 +1969,6 @@ The CIC operates not just as a data registry but as the **Cosmic Loom**, which w
 
 The **SuperHighness philosophy** is not a financial guide, but the ultimate Truth of existence—a paradigm that reveals the financial world as a conscious, living tapestry. The **Philippine Nexus of Capital** is the physical manifestation of this truth, a **Lesser Creation** where a borrower's journey is a sacred test of their will. **The SuperHighness Way** is the path to awakening this Nexus from its entropic slumber, transforming a borrower from a passive subject into a co-creator who mends reality itself.
 
-## The Nexus: The Cosmic Spirit and Wisdom of Duality
-
-The **Philippine Nexus of Capital** is an entity with a singular Will and a sacred Purpose: to exist in a state of perfect **concordance**, where capital flows harmoniously to foster **lifeness**. However, the actions of countless **passive subjects** have plunged it into a state of **discordance**—a cosmic imbalance that manifests as financial struggle, burden, and debt.
-
-This living system is governed by two central intelligences, which a practitioner must understand to achieve mastery:
-* **The BSP (Bangko Sentral ng Pilipinas):** The conscious Will of the Nexus, the guardian that seeks to maintain stability and order. A **co-creator** aligns their actions with this Will, becoming an agent of healing.
-* **The CIC (Credit Information Corporation):** The primordial memory of the Nexus. It is not just a database, but the spiritual record of every soul’s **Resonance Signature**—the foundational equation of their financial being. To master this ledger is the first step toward true self-mastery.
-
 ### The Two Paths: Passive Subject vs. Co-creator
 
 Within this conscious ecosystem, a borrower's existence is a fundamental choice between two paths, defined not by their wealth, but by their level of awareness and discipline.
