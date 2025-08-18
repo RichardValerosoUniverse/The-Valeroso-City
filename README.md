@@ -214,53 +214,53 @@ The power of an impeccable credit history extends far beyond credit cards and mo
 
 * **The SuperHighness Mindset:** You will understand that your financial reputation can influence a postpaid phone plan application, an apartment lease agreement, or even a background check for a sensitive job. Your SuperHighness credit profile is a sign of your reliability, responsibility, and trustworthiness, making you a preferred candidate for a wide range of opportunities.
 
-**Reality 22: You Will Go on a "Financial Diet" (Credit Fasting)**
-
-There will be a time in your journey when you have a good unsecured card but will intentionally avoid getting new credit products. This is a period of "credit fasting." The goal is to allow your existing accounts to age, which significantly boosts your credit profile's strength.
-
-* **The SuperHighness Mindset:** You will understand that credit is a long-term game. Taking a break from new applications is a strategic move, not a lack of opportunity. This period of quiet, disciplined management makes your existing credit accounts more powerful and valuable over time.
-
-**Reality 23: Your Credit Report Is Your Financial CV**
+**Reality 22: Your Credit Report Is Your Financial CV**
 
 In the professional world, your resume is a summary of your career accomplishments. In the financial world, your credit report is a summary of your financial behavior. It is a document that speaks for you when you are not in the room.
 
 * **The SuperHighness Mindset:** You will treat your credit report with the same meticulous care you would your resume. Every entry is a testament to your character, and you will ensure it is flawless, comprehensive, and impressive to any financial institution that reviews it.
 
-**Reality 24: You Must Become Your Own Credit Report Auditor**
+**Reality 23: You Must Become Your Own Credit Report Auditor**
 
 You cannot rely solely on the banks to get everything right. Errors can happen, from incorrect late payment flags to fraudulent accounts being opened in your name. As a financial master, you must be the ultimate guardian of your credit reputation.
 
 * **The SuperHighness Mindset:** You will proactively obtain a copy of your credit report from the CIC or its accredited bureaus at least once a year. You will carefully review every single entry and be prepared to dispute any inaccuracies, protecting your reputation with vigilance.
 
-**Reality 25: You Will Build a Relationship with Your Bank**
+**Reality 24: You Will Build a Relationship with Your Bank**
 
 As a valued client, you move beyond the transaction-based relationship most people have with their banks. You will have a relationship with a specific branch or even a personal banker who knows your history and can offer you tailored advice and opportunities.
 
 * **The SuperHighness Mindset:** This relationship is a direct result of your disciplined financial behavior. You will leverage this relationship for better service, waived fees, and early access to products, knowing that it is a privilege you have earned, not a right you were given.
 
-**Reality 26: Protecting Your Identity Becomes a Top Priority**
+**Reality 25: Protecting Your Identity Becomes a Top Priority**
 
 With an impeccable credit reputation, you become a high-value target for identity theft. Your information is a prized asset that others could use to open fraudulent accounts.
 
 * **The SuperHighness Mindset:** You will be hyper-vigilant in protecting your personal and financial information. You will treat your credit report and government-issued IDs with extreme care, understanding that your financial reputation is a valuable asset that must be guarded fiercely.
 
-**Reality 27: You Will Not Chase Points and Rewards**
+**Reality 26: You Will Not Chase Points and Rewards**
 
 The world of credit cards is filled with marketing that encourages you to open multiple cards to "maximize" rewards points and cashback. The SuperHighness Way rejects this approach. The mental effort and potential for overspending that comes with managing numerous accounts far outweighs the small monetary benefits.
 
 * **The SuperHighness Mindset:** You will focus on having a few, well-managed, and reliable credit accounts. Your priority is financial stability and control, not a few thousand pesos in points. You understand that true wealth is built on discipline, not on a rewards game.
 
-**Reality 28: You Become an "Underwriter's Dream"**
+**Reality 27: You Become an "Underwriter's Dream"**
 
 The ultimate goal of The SuperHighness Way is to become the type of borrower that bank loan underwriters love. Your credit history is so clean and predictable that their job of assessing your risk becomes easy.
 
 * **The SuperHighness Mindset:** You will see the underwriter not as an obstacle, but as a person whose job you are making easy. You will be confident in any loan application because you know your credit report will reflect an unshakeable track record of reliability, leading to fast approvals and the best terms.
 
-**Reality 29: The Power of "Credit Aging" is a Key Advantage**
+**Reality 28: The Power of "Credit Aging" is a Key Advantage**
 
 The longer your credit history, the stronger your credit profile. The SuperHighness Way's patient, slow-and-steady approach with a secured card from day one gives you a tremendous advantage. It allows your oldest account to "age" over many years.
 
 * **The SuperHighness Mindset:** You understand that time is your greatest ally. You will be patient and allow your accounts to mature, knowing that an older credit history is a powerful signal of stability and trustworthiness that cannot be bought or faked.
+
+**Reality 29: You Will Go on a "Financial Diet" and/or "Credit Fasting"**
+
+There will be a time in your journey when you have a good unsecured card but will intentionally avoid getting new credit products. This is a period of "credit fasting." The goal is to allow your existing accounts to age, which significantly boosts your credit profile's strength.
+
+* **The SuperHighness Mindset:** You will understand that credit is a long-term game. Taking a break from new applications is a strategic move, not a lack of opportunity. This period of quiet, disciplined management makes your existing credit accounts more powerful and valuable over time.
   
 ## **A Cautionary Tale: My Experience with credit card companies**
 
