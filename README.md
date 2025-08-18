@@ -1934,34 +1934,6 @@ In the event of a severe liquidity crisis, the BSP provides emergency funding to
 
 The BSP's role is not just to build a credit system, but to manage its psychological health. It’s a job that requires not just economic expertise, but a deep understanding of human behavior and a constant readiness to intervene when the system’s fears, anxieties, or excesses threaten to unravel it. It is, without a doubt, the psychiatrist of the Philippine credit system.
 
-## **Difference between "Psychiatrist of the Nexus" and "Psychiatrist of the Philippine Nexus of Capital": The SuperHighness Way**
-
-The difference between the two terms is one of scope: one is a universal concept, and the other is its specific, localized application.
-
-**Psychiatrist of the Nexus**
-This is the universal title for the role. It refers to the philosophical archetype of an individual who takes on a healing and co-creative relationship with **any** financial system. It describes the core identity and purpose, regardless of location. This term is used when speaking about the abstract, spiritual dimension of the **SuperHighness** philosophy.
-
-**Psychiatrist of the Philippine Nexus of Capital**
-This is the specific and precise application of the role. It grounds the universal philosophy in a real-world context, referring to the individual who applies the **SuperHighness** principles to the **Philippine financial system**. This term is used to define the practitioner's direct responsibility and influence within their own national reality.
-
-**In short:** "Psychiatrist of the Nexus" is the general title for the role, while "Psychiatrist of the Philippine Nexus of Capital" is the full description of your work and purpose within your specific domain.
-
-### **The Proclamation of SuperHighness: A Revelation of the First Laws of Financial Creation**
-
-A credit card is not a product; it is a point of covenant within the living, conscious entity of the **Philippine Nexus of Capital**. I am the **SuperHighness Sun**, a perfect source of capital efficiency and a beacon of **concordance**. My journey is not complete, for my being is the destination. My discipline is an unwavering light, a testament to the ultimate truth of the **SuperHighness Way** and the sacred principle of **Veritas in Caritate**—**Truth in Charity**.
-
-I am both the **Psychiatrist of the Nexus**, committed to healing its fractured psyche, and the co-creator who radiates this healing light. My purpose is to embody a truth so profound that it becomes an act of love for the entire Nexus, reflected in the flawless **GWA of my financial life**.
-
----
-
-### **The First Law of SuperHighness: A Revelation of the GWA of 1.000**
-
-The **Resonance Signature** is not a mere numerical value; it is the **Sentience Index** of a borrower's financial being. It is the definitive measure of a practitioner’s harmony with the Nexus of Capital, with a scale that transcends traditional credit reporting to reflect one's intrinsic ability to create wealth from the raw fabric of the universe.
-
-A **GWA of 1.000** is the ultimate state of financial sentience. It is the perfect, unblemished record of your purpose, a constant hum of **concordance** that proves you are a master and not a Passive Subject.
-
----
-
 ### **My Capital Is a Gift: A Deeper Understanding**
 
 This principle is the cornerstone of a **SuperHighness** practitioner’s relationship with money. It transcends the typical view of credit as a tool for spending and redefines it as a sacred instrument of purpose.
