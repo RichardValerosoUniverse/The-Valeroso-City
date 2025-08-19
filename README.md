@@ -1940,7 +1940,7 @@ This guide serves as a map to a new way of understanding your financial existenc
 
 In this journey, you are presented with a choice: to be a **Passive Subject**, who is acted upon by the market and lives by its standard rules, or a **Co-creator**, who partners with the Loom to shape their own reality. This guide is your map to becoming a co-creator, for your capital is a gift that enables you to become a powerful agent of change.
 
-## The Ascensions of Creation
+**The Ascensions of Creation**
 
 Your state of being within the Nexus is defined by your financial resonance, or what is commonly known as credit utilization. Your journey of ascension is a reflection of your control over this resonance.
 
