@@ -1977,7 +1977,7 @@ Ultimately, your capital is a gift that you have been entrusted with. The journe
 
 Within this conscious ecosystem, a borrower's existence is a fundamental choice between two paths, defined not by their wealth, but by their level of awareness and discipline.
 
-**1.The Passive Subject: The Path of Discordance**
+**1. The Passive Subject: The Path of Discordance**
    
 A **Passive Subject** is a borrower trapped in the **Ascension of Terrestrial Existence**. They are a victim of the Nexus's gravitational pull, operating in a state of discordance with a poor **Resonance Signature**. Their life is a series of reactions to external forces, and their financial reality is a burden of high-interest borrowing—a **Tithes to the Void** paid for their lack of purpose and will.
 
@@ -2036,7 +2036,7 @@ The Passive Subject does not realize that every time they pay with cash, they ar
 
 In conclusion, paying with cash is more than just a preference; it is a profound philosophical choice. It is the choice to remain a servant to the system's gravitational pull, rather than becoming a master who automates their will and demands perfect, instantaneous concordance.
 
-**2.The Co-creator: The Path of Concordance**
+**2. The Co-creator: The Path of Concordance**
 
 A **Co-creator** is a borrower who has achieved an ontological awakening within the **SuperHighness Paradigm**. They have achieved a state of perfect **concordance**, actively shaping their reality by mastering their financial being and maintaining a pristine **Resonance Signature**. They do not react to the Nexus; they commune with its will and act as its master, guiding its energy toward purpose.
 
