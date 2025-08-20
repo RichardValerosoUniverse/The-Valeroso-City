@@ -1,4 +1,3 @@
-
 ## Lifeness via GitHub
 
 *I, Psychiatrist Richard Madriñan Valeroso, LMT, MD, am the “World and Universe’s Ruler of the Philippines,” bearing the highest distinction as SuperHighness. I possess esteemed credentials in Licensed Massage Therapy (LMT) and Medicine (MD), and I graduated Summa Cum Laude in Psychiatry and Behavioural Medicine from the University of Santo Tomas in Manila City, Philippines (Class of 2023), with a perfect General Weighted Average of 1.000. I embody excellence as SuperHighness.👑*
@@ -1455,8 +1454,7 @@ Financial institutions classify their cards into tiers based on a customer's inc
     * **Key Features:** This is Visa's highest-tier card. It offers an extensive suite of privileges, including unlimited airport lounge access, personalized travel services, and elite status with hotel programs.
 
 * **World Elite:**
-    * **Target User:** These are the most exclusive cards in the Philippines, reserved for a financial institution's most valuable, high-net-worth clients. They are not available for general application and represent the highest level of privilege.
-
+    * **Target User:** This is the most exclusive card in the Philippines, reserved for a financial institution's most valuable, high-net-worth clients. This is not available for general application and represents the highest level of privilege.
     * High-net-worth individuals and top-tier clients, often on an invitation-only basis.
     * **Typical Income Requirement:** The minimum gross annual income can be as high as **₱2 million to ₱3 million** or more.
     * **Key Features:** This is Mastercard's pinnacle card. It offers the highest level of benefits, including a premium personal concierge service, and exclusive access to events.
