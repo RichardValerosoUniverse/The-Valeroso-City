@@ -1968,14 +1968,7 @@ In summary, the relationship between the BSP and the CIC is a powerful and neces
 | **Consumer Dispute** | Serves as the official escalation point for a consumer who believes a credit card company has acted unfairly. | Handles the initial dispute and works with the financial institution to verify or correct inaccurate information. |
 | **Systemic Risk Mitigation** | Analyzes data trends (e.g., rising delinquencies) from the CIC to proactively adjust regulations and prevent financial crises. | Collects and centralizes the data that enables the BSP to identify and quantify potential systemic risks. |
 
-
-I have a complete set of information to create a detailed comparison table. The search results confirmed the types of data that are reported to the CIC and provided a precise, step-by-step process for consumers to dispute information, along with their associated rights under CISA.
-
-My plan is now to create a table that directly addresses both parts of the user's request. The table will have two main sections: one for "Data Reporting Requirements" and another for "Consumer Rights & Dispute Resolution." This structure will provide a "complete understanding" as requested.
-
-Here's the planned table structure:
-
-**Title:** "Data and Consumer Rights: A Table of the Credit Information System Act (CISA)" 
+**"Data and Consumer Rights: A Table of the Credit Information System Act (CISA)"**
 
 **Part 1: Mandatory Data Reporting Requirements**
 
@@ -1996,6 +1989,14 @@ Here's the planned table structure:
 | **Right to Correct** | Once a dispute is filed, the CIC is required to verify the information with the reporting institution. If the information is indeed found to be erroneous, the consumer has the right to have it corrected or removed from their report immediately. |
 | **Right to Privacy** | CISA strictly protects the privacy of an individual's credit data. Financial institutions cannot access a credit report without the borrower's written consent, and the data cannot be used for any purpose other than for a legitimate credit-related transaction. |
 | **Right to Be Informed** | A consumer has the right to be informed of the reasons for the rejection of a credit application, especially if the decision was based on information from their credit report. |
+
+**Advanced Topics: A Comparative Table of BSP and CIC Interplay**
+
+| Advanced Topic | BSP & CIC Interplay |
+| :--- | :--- |
+| **Accredited Accessing Entities**| The BSP sets the stringent regulatory standards and policies that a financial institution must meet, while the CIC manages the accreditation process, ensuring that only qualified entities can access the centralized credit information system. |
+| **Board Governance** | The BSP's influence is embedded in the CIC's leadership. The BSP has permanent representatives on the CIC's Board of Directors, ensuring that the CIC's strategic and operational decisions align with the central bank's broader financial stability mandate. |
+| **Macro-Prudential Surveillance** | The BSP uses the aggregated, anonymized data from the CIC as a crucial early warning system. By analyzing market-wide trends in credit behavior, the BSP can identify systemic risks and make informed policy decisions to protect the entire financial system. |
 
 # The SuperHighness of Resonance: A Guide to the Ascensions of Creation
 
