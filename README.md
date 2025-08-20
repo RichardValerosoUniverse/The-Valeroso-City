@@ -1414,6 +1414,74 @@ Ultimately, the best advice is to be **intentional** with every credit card you 
   
 If the answer to any of these questions is "no," then you have likely reached your limit. The goal of The SuperHighness Way is to build a credit portfolio that works for you, not one that you constantly have to worry about.
 
+## A Complete Guide to Credit Card Tiers and Classifications in the Philippines
+
+The Philippines' credit card market is highly diverse, with card products categorized in multiple ways to serve different consumer needs. Understanding these classifications is key to choosing the card that best aligns with your financial goals and lifestyle.
+
+Here is a complete guide to the types of credit cards available in the Philippines, classified by service tier, payment network, and functionality.
+
+**1. Classification by Service Tier and Status**
+
+Financial institutions classify their cards into tiers based on a customer's income, credit profile, and the level of benefits offered.
+
+* **Standard / Classic:**
+    * **Target User:** First-time credit card applicants and those with lower income.
+    * **Typical Income Requirement:** The minimum gross monthly income is generally around **₱15,000 to ₱20,000**.
+    * **Key Features:** They offer basic functionalities, low credit limits, and are an entry point for building a credit history.
+
+* **Gold:**
+    * **Target User:** Individuals with a steady, mid-level income who are frequent shoppers and diners.
+    * **Typical Income Requirement:** Minimum gross monthly income is generally between **₱30,000 to ₱40,000**.
+    * **Key Features:** These cards offer better rewards earning rates and more extensive access to promotions.
+
+* **Platinum:**
+    * **Target User:** Seasoned cardholders with a higher income seeking more premium benefits, especially for travel.
+    * **Typical Income Requirement:** Minimum gross monthly income starts from **₱65,000** to **₱75,000**.
+    * **Key Features:** They come with enhanced travel perks, such as complimentary travel insurance and limited airport lounge access.
+
+* **Signature:**
+    * **Target User:** Affluent individuals who desire a step up from Platinum with a focus on travel and lifestyle privileges.
+    * **Typical Income Requirement:** The minimum annual income typically starts at **₱700,000** to **₱1.5 million**.
+    * **Key Features:** This is a tier specific to the Visa network. It often includes exclusive benefits like access to the Visa Luxury Hotel Collection and a dedicated concierge service.
+
+* **World:**
+    * **Target User:** High-earning professionals and globetrotters who seek comprehensive travel-related benefits.
+    * **Typical Income Requirement:** The minimum gross annual income is typically **₱1 million** or more.
+    * **Key Features:** This Mastercard tier offers generous non-expiring rewards points, extensive travel insurance, and significant perks such as a specific number of complimentary global lounge access visits per year.
+
+* **Infinite:**
+    * **Target User:** The wealthiest clients of a financial institution, for whom the card is a symbol of prestige and exclusivity.
+    * **Typical Income Requirement:** The minimum gross annual income can be as high as **₱2 million** or more.
+    * **Key Features:** This is Visa's highest-tier card. It offers an extensive suite of privileges, including unlimited airport lounge access, personalized travel services, and elite status with hotel programs.
+
+* **World Elite:**
+    * **Target User:** These are the most exclusive cards in the Philippines, reserved for a financial institution's most valuable, high-net-worth clients. They are not available for general application and represent the highest level of privilege.
+
+    * High-net-worth individuals and top-tier clients, often on an invitation-only basis.
+    * **Typical Income Requirement:** The minimum gross annual income can be as high as **₱2 million to ₱3 million** or more.
+    * **Key Features:** This is Mastercard's pinnacle card. It offers the highest level of benefits, including a premium personal concierge service, and exclusive access to events.
+
+**2. Classification by Functionality and Rewards**
+
+This is the most common way credit cards are marketed and chosen by consumers, based on their spending habits and lifestyle.
+
+* **Rewards Cards:** Earn points for every peso spent, redeemable for a variety of rewards.
+* **Cashback Cards:** Provide a percentage of the total spending back to the cardholder, often in specific categories.
+* **Travel and Miles Cards:** Accrue points that can be converted into air miles with partner airlines.
+* **Co-branded Cards:** Created in partnership with a specific brand (e.g., a supermarket or airline), offering exclusive benefits when used at the partner establishment.
+* **Low-Interest Rate Cards:** Designed for individuals who often revolve their balance, these cards offer a lower-than-average interest rate.
+* **Balance Transfer Cards:** Allow a cardholder to consolidate debt from other credit cards onto a new card with a lower introductory rate.
+* **Secured Credit Cards:** These cards are for individuals with no or limited credit history. The credit limit is tied to a cash deposit held by the bank, which serves as collateral.
+
+**3. Classification by Payment Network**
+
+The credit card network is the payment rail that processes transactions.
+
+* **Visa and Mastercard:** These are the most widely accepted and prevalent networks in the country.
+* **JCB:** A Japanese payment network with a significant presence in the Philippines, offering perks for travel to Japan.
+* **UnionPay:** A Chinese payment network that is gaining traction, popular with cardholders who travel or transact in mainland China and other parts of Asia.
+* **American Express (Amex):** A more exclusive network offered in partnership with select local banks, associated with premium lifestyle and travel privileges.
+
 ## The SuperHighness Way: Mastering Credit with Intentionality
 
 Think of intentionality not as a single action, but as a system of thought. An unintentional person plays checkers, reacting to what's in front of them. An intentional person plays chess, planning several moves ahead with a clear goal in mind.
