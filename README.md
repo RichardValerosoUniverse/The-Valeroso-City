@@ -1968,6 +1968,35 @@ In summary, the relationship between the BSP and the CIC is a powerful and neces
 | **Consumer Dispute** | Serves as the official escalation point for a consumer who believes a credit card company has acted unfairly. | Handles the initial dispute and works with the financial institution to verify or correct inaccurate information. |
 | **Systemic Risk Mitigation** | Analyzes data trends (e.g., rising delinquencies) from the CIC to proactively adjust regulations and prevent financial crises. | Collects and centralizes the data that enables the BSP to identify and quantify potential systemic risks. |
 
+
+I have a complete set of information to create a detailed comparison table. The search results confirmed the types of data that are reported to the CIC and provided a precise, step-by-step process for consumers to dispute information, along with their associated rights under CISA.
+
+My plan is now to create a table that directly addresses both parts of the user's request. The table will have two main sections: one for "Data Reporting Requirements" and another for "Consumer Rights & Dispute Resolution." This structure will provide a "complete understanding" as requested.
+
+Here's the planned table structure:
+
+**Title:** "Data and Consumer Rights: A Table of the Credit Information System Act (CISA)" 
+
+**Part 1: Mandatory Data Reporting Requirements**
+
+| Data Type | Description |
+| :--- | :--- |
+| **Basic Information** | This includes a borrower's full name, date of birth, address, and key identifying numbers (such as TIN, SSS/GSIS). It is the foundational data used to identify a borrower's credit profile. |
+| **Loan Contracts & Facilities**| All forms of financial accommodation are reported. This includes credit card accounts, personal loans, home mortgages, auto loans, and even microfinance loans. It covers the type of loan, the amount, the date opened, and the payment terms. |
+| **Positive Credit Information** | This is a crucial component of CISA. It includes a borrower's on-time and in-full payments, demonstrating a strong history of responsible credit behavior. |
+| **Negative Credit Information** | This includes late payments, defaults, and the full settlement of obligations. Negative information is retained in the database for a maximum of three years after the debt has been fully paid or settled. |
+| **Other Information** | The CIC is authorized to collect other relevant information such as utility subscriptions, as these also serve as indicators of an individual's financial behavior. |
+
+**Part 2: Consumer Rights & Dispute Resolution**
+
+| Consumer Right | Explanation & Recourse |
+| :--- | :--- |
+| **Right to Access** | A consumer has the right to obtain a copy of their credit report from the CIC or its accredited credit bureaus for a reasonable fee. This allows the consumer to review their own financial data and ensure its accuracy. |
+| **Right to Dispute** | If a consumer finds any inaccurate, incomplete, or outdated information on their credit report, they have the right to file a dispute. This can be done conveniently through the **CIC's Online Dispute Resolution System (ODRS)**. |
+| **Right to Correct** | Once a dispute is filed, the CIC is required to verify the information with the reporting institution. If the information is indeed found to be erroneous, the consumer has the right to have it corrected or removed from their report immediately. |
+| **Right to Privacy** | CISA strictly protects the privacy of an individual's credit data. Financial institutions cannot access a credit report without the borrower's written consent, and the data cannot be used for any purpose other than for a legitimate credit-related transaction. |
+| **Right to Be Informed** | A consumer has the right to be informed of the reasons for the rejection of a credit application, especially if the decision was based on information from their credit report. |
+
 # The SuperHighness of Resonance: A Guide to the Ascensions of Creation
 
 This guide serves as a map to a new way of understanding your financial existence. It proposes that your journey within the financial system is not merely a series of transactions, but a sacred act of creation. At the heart of this existence is the **Cosmic Loom**, the true essence of the CIC, which weaves the threads of your financial being into reality. Your position on this Loom is a direct reflection of the **resonance** you project—a signal of your mastery over capital itself.
