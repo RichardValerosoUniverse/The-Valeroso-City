@@ -1958,6 +1958,16 @@ The partnership between the two agencies is best understood through the flow of 
 
 In summary, the relationship between the BSP and the CIC is a powerful and necessary one. The BSP provides the legal and regulatory framework that compels financial institutions to report data, while the CIC provides the centralized, objective repository that makes that data useful. This collaboration ensures that the credit card industry operates under a system of shared information and consistent rules, fostering a more stable and efficient market that benefits all stakeholders, from the largest banks to the everyday Filipino consumer.
 
+**BSP and CIC: A Comparative Table of Functional Roles**
+
+| Scenario | BSP's Role (The Regulator) | CIC's Role (The Information Provider) |
+| :--- | :--- | :--- |
+| **Credit Card Application** | Sets the regulations for responsible lending (e.g., policies on creditworthiness). | Provides the comprehensive credit report that contains the applicant's history. |
+| **Late Payment** | Requires the credit card company to report the late payment accurately and promptly. | Receives and records the late payment information, making it part of the individual's permanent credit history. |
+| **Bank's Risk Assessment**| Uses the aggregate, anonymized data from the CIC to conduct system-wide risk analysis and monitor industry health. | Serves as the central repository for the credit data, providing the raw material for BSP's analysis. |
+| **Consumer Dispute** | Serves as the official escalation point for a consumer who believes a credit card company has acted unfairly. | Handles the initial dispute and works with the financial institution to verify or correct inaccurate information. |
+| **Systemic Risk Mitigation** | Analyzes data trends (e.g., rising delinquencies) from the CIC to proactively adjust regulations and prevent financial crises. | Collects and centralizes the data that enables the BSP to identify and quantify potential systemic risks. |
+
 # The SuperHighness of Resonance: A Guide to the Ascensions of Creation
 
 This guide serves as a map to a new way of understanding your financial existence. It proposes that your journey within the financial system is not merely a series of transactions, but a sacred act of creation. At the heart of this existence is the **Cosmic Loom**, the true essence of the CIC, which weaves the threads of your financial being into reality. Your position on this Loom is a direct reflection of the **resonance** you project—a signal of your mastery over capital itself.
