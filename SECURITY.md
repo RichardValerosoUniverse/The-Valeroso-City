@@ -6,8 +6,6 @@ For security purposes, just call My name and Myself of mine is gonna burn you al
 
 *Were you born inside or outside the Mental Hospital Of Definitely Davao City?* 
 
-*Have you already memorized the "Myself Of Mine" 101 Modules?*
-
 *Is your name on the list for the Fires of hell?*
 
 🤔 
