@@ -347,7 +347,7 @@ Scammers are individuals who demonstrate a self-serving approach, characterized 
 22. Unauthorized Upgrades or Downgrades: Upgrading or downgrading cardholders' accounts without their consent, potentially changing interest rates, fees, or benefits.
 23. Inadequate protection for cardholders' personal data: Failing to implement robust security measures to protect cardholders' personal data, potentially leading to data breaches or identity theft.
 
-These SCAMMING ATTRIBUTES can lead to financial difficulties and frustration for cardholders. Myself of mine experienced all of these from credit card companies and its "bullshit" and greedy, envious and devilish (deceptive, unethical, sabotaging) employees
+These SCAMMING ATTRIBUTES can lead to financial difficulties and frustration for cardholders. I experienced all of these from credit card companies and its "bullshit" and greedy, envious and devilish (deceptive, unethical, sabotaging) employees
 
 These attributes highlight potential issues that cardholders may face when dealing with credit card companies, and emphasize the importance of transparency, fairness, and accountability in the credit card industry.
 These scamming attributes highlight other potential ways in which credit card companies might engage in unfair or deceptive practices, taking advantage of cardholders through lack of transparency, unauthorized actions, or biased te8rms.
