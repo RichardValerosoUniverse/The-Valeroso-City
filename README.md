@@ -1982,6 +1982,10 @@ When you request an upgrade, the bank performs a "soft inquiry" on your credit r
 A "hard inquiry" is a formal request for your credit information that occurs when you apply for a new line of credit. It is a notation on your credit report that can temporarily lower your credit score by a few points. An upgrade expertly helps you avoid this.
 * **Example 1:** You apply for a new car loan, and the lender pulls your credit report. This results in a hard inquiry that is visible to other lenders.
 * **Example 2:** You apply for a brand new credit card from a different bank. This action also results in a hard inquiry on your credit report.
+* **Example 3:** When you apply for a personal loan from your bank to consolidate debt, the bank performs a hard inquiry to assess your creditworthiness.
+* **Example 4:** If you apply for multiple credit cards in a short period (e.g., within one month), each application results in a separate hard inquiry. These multiple inquiries can have a more significant negative impact on your credit score.
+* **Example 5:** Applying for a home mortgage is a major financial decision that always involves a hard inquiry, as the lender needs to thoroughly evaluate your credit history.
+* **Example 6:** When you finance a new mobile phone through your carrier, they may perform a hard inquiry to check your credit and determine if you are eligible for the payment plan.
 
 **The Core Motivations & Benefits**
 
