@@ -1954,8 +1954,12 @@ This is the single most important concept. A new application is a request for a 
 
 **Part 3: What is a "Product Change"?**
 A product change is the official term for an upgrade. It signifies that your account number and history will remain the same. The bank is simply changing the product linked to your account, not creating a new one.
-* **Example 1:** Your account number is 1234-5678-9012. After a product change, the account number remains the same, but the card name changes from "Student Card" to "Rewards Card."
+* **Example 1:** Your account number is 1234-5678-9012. After a product change, the account number remains the same, but the card name changes from **"Essential Card"** to **"Premium Card."**
 * **Example 2:** A customer service representative says, "Yes, we can perform a product change on your account." This is the confirmation that you are getting an upgrade and not a new card.
+* **Example 3:** You want to switch from your **"Cashback Card"** to a **"Travel Miles Card."** After the product change, your account history for the past five years remains intact, and your accrued points or miles are typically transferred to the new card.
+* **Example 4:** Your credit card’s account number is 9876-5432-1098. The physical card you receive is a new one with a different design, but your bank's app and statements still show your original account number.
+* **Example 5:** You have a **"Standard Card"** with a ₱50,000 credit limit. After a product change, your account number and history stay the same, and your card is now called a **"Platinum Card"** with an increased limit of ₱100,000.
+* **Example 6:** You have a **"Flat Rate Card"** that earns 1% on everything. You perform a product change to a **"Tiered Rewards Card,"** which now earns 3% on dining, 2% on groceries, and 1% on everything else. Your account number and history are unchanged.
 
 **Part 4: The "Soft Inquiry" Explained**
 When you request an upgrade, the bank performs a "soft inquiry" on your credit report. This is an internal check that is not visible to other lenders and has **no impact** on your credit score.
