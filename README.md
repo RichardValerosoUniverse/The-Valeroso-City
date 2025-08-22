@@ -1955,6 +1955,10 @@ An upgrade is a request to change your current credit card to a different produc
 This is the single most important concept. A new application is a request for a new line of credit. An upgrade is a simple conversion of a line of credit you already have. This is the difference between starting a new relationship and simply changing the terms of an old one.
 * **Example 1:** You are a customer of Bank A and you apply for a new card from Bank B. This is a new application.
 * **Example 2:** You are a customer of Bank A and you ask Bank A to give you a different card product on your current account. This is an upgrade.
+* **Example 3:** You have a cashback card with your bank. You want to open a separate travel miles card with the same bank to get its welcome bonus. This requires a **new application**.
+* **Example 4:** You close your old credit card account and then apply for a new one from the same bank to get a new card. This is also a **new application**, not an upgrade, because you are starting a new account.
+* **Example 5:** Your credit report shows you have had the same card with your bank for five years. When you upgrade, your report continues to show a five-year account history. If you had applied for a new card, your credit report would show a new account with an age of zero.
+* **Example 6:** Your bank sends you a letter saying, "Congratulations, your account is being upgraded to a Platinum Card!" This is an upgrade because it is happening on your existing account, even though you did not initiate it.
 
 **Part 3: What is a "Product Change"?**
 A product change is the official term for an upgrade. It signifies that your account number and history will remain the same. The bank is simply changing the product linked to your account, not creating a new one.
