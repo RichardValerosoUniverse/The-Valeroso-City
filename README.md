@@ -1993,6 +1993,10 @@ A "hard inquiry" is a formal request for your credit information that occurs whe
 The most common reason to upgrade is to enhance your rewards. Your spending habits change over time, and your card should too. For example, if you now spend more on groceries and less on gas, an upgrade to a card with higher rewards in the grocery category makes perfect sense.
 * **Example 1:** A young professional gets a promotion and starts dining out more. They upgrade from a 1% cashback card to a card that offers 3x points on all dining purchases.
 * **Example 2:** A family's primary spending is now on school supplies and utilities. They upgrade from a basic card to one that offers accelerated rewards on those specific categories.
+* **Example 3:** A frequent traveler who used to have a general rewards card now upgrades to a co-branded airline card to earn miles directly with their favorite airline, leading to free flights.
+* **Example 4:** A small business owner who uses their personal card for business expenses upgrades to a card that offers 5% back on office supplies and advertising, significantly reducing their business costs.
+* **Example 5:** A consumer who spends a lot of money on a specific online shopping platform upgrades to a card that offers a high multiplier for purchases made with that retailer.
+* **Example 6:** A person with a ₱20,000 monthly spending on groceries on a 1% cashback card earns ₱200 a month. By upgrading to a card that offers 3% on groceries, they would earn ₱600 a month, a clear reason to upgrade.
 
 **Part 7: Why Upgrade for Perks**
 Premium cards offer perks that go far beyond simple rewards. These include airport lounge access, travel insurance, extended warranties on purchases, and concierge services. An upgrade is your way to unlock these valuable benefits.
