@@ -1943,6 +1943,7 @@ This guide provides the absolute highest level of detail and comprehension on th
 **The Foundations: The Upgrade Explained**
 
 **Part 1: What is a Credit Card Upgrade?**
+
 An upgrade is a request to change your current credit card to a different product offered by the same financial institution. It is formally known as a "product change," and it allows you to change the features and benefits of your existing account without opening a new one.
 * **Example 1:** You have a **"Gold Card"** and ask your bank to convert it to a **"Platinum Card."** This is an upgrade.
 * **Example 2:** You have a **"Basic Rewards Card"** and you request that it becomes a **"Travel Rewards Card."** This is also an upgrade.
@@ -1952,6 +1953,7 @@ An upgrade is a request to change your current credit card to a different produc
 * **Example 6:** Your current card has a low credit limit. You call your bank and ask to upgrade to a **"Premier Card"** because it comes with a higher limit that better suits your monthly spending.
 
 **Part 2: Upgrade vs. New Application: The Core Difference**
+
 This is the single most important concept. A new application is a request for a new line of credit. An upgrade is a simple conversion of a line of credit you already have. This is the difference between starting a new relationship and simply changing the terms of an old one.
 * **Example 1:** You are a customer of Bank A and you apply for a new card from Bank B. This is a new application.
 * **Example 2:** You are a customer of Bank A and you ask Bank A to give you a different card product on your current account. This is an upgrade.
@@ -1961,6 +1963,7 @@ This is the single most important concept. A new application is a request for a 
 * **Example 6:** Your bank sends you a letter saying, "Congratulations, your account is being upgraded to a Platinum Card!" This is an upgrade because it is happening on your existing account, even though you did not initiate it.
 
 **Part 3: What is a "Product Change"?**
+
 A product change is the official term for an upgrade. It signifies that your account number and history will remain the same. The bank is simply changing the product linked to your account, not creating a new one.
 * **Example 1:** Your account number is 1234-5678-9012. After a product change, the account number remains the same, but the card name changes from **"Essential Card"** to **"Premium Card."**
 * **Example 2:** A customer service representative says, "Yes, we can perform a product change on your account." This is the confirmation that you are getting an upgrade and not a new card.
@@ -1970,6 +1973,7 @@ A product change is the official term for an upgrade. It signifies that your acc
 * **Example 6:** You have a **"Flat Rate Card"** that earns 1% on everything. You perform a product change to a **"Tiered Rewards Card,"** which now earns 3% on dining, 2% on groceries, and 1% on everything else. Your account number and history are unchanged.
 
 **Part 4: The "Soft Inquiry" Explained**
+
 When you request an upgrade, the bank performs a "soft inquiry" on your credit report. This is an internal check that is not visible to other lenders and has **no impact** on your credit score.
 * **Example 1:** Your bank runs a soft inquiry to check your payment history and current credit utilization. Only you and the bank can see this inquiry.
 * **Example 2:** A lender from another bank, checking your credit report, will not see any record of this inquiry, as it is a soft check.
@@ -1979,6 +1983,7 @@ When you request an upgrade, the bank performs a "soft inquiry" on your credit r
 * **Example 6:** When a dealership sends you a "pre-approved car loan" offer in the mail, that is the result of a soft inquiry performed by their financing partner.
 
 **Part 5: The "Hard Inquiry" Explained**
+
 A "hard inquiry" is a formal request for your credit information that occurs when you apply for a new line of credit. It is a notation on your credit report that can temporarily lower your credit score by a few points. An upgrade expertly helps you avoid this.
 * **Example 1:** You apply for a new car loan, and the lender pulls your credit report. This results in a hard inquiry that is visible to other lenders.
 * **Example 2:** You apply for a brand new credit card from a different bank. This action also results in a hard inquiry on your credit report.
@@ -1990,6 +1995,7 @@ A "hard inquiry" is a formal request for your credit information that occurs whe
 **The Core Motivations & Benefits**
 
 **Part 6: Why Upgrade for Rewards**
+
 The most common reason to upgrade is to enhance your rewards. Your spending habits change over time, and your card should too. For example, if you now spend more on groceries and less on gas, an upgrade to a card with higher rewards in the grocery category makes perfect sense.
 * **Example 1:** A young professional gets a promotion and starts dining out more. They upgrade from a 1% cashback card to a card that offers 3x points on all dining purchases.
 * **Example 2:** A family's primary spending is now on school supplies and utilities. They upgrade from a basic card to one that offers accelerated rewards on those specific categories.
@@ -1999,6 +2005,7 @@ The most common reason to upgrade is to enhance your rewards. Your spending habi
 * **Example 6:** A person with a ₱20,000 monthly spending on groceries on a 1% cashback card earns ₱200 a month. By upgrading to a card that offers 3% on groceries, they would earn ₱600 a month, a clear reason to upgrade.
 
 **Part 7: Why Upgrade for Perks**
+
 Premium cards offer perks that go far beyond simple rewards. These include airport lounge access, travel insurance, extended warranties on purchases, and concierge services. An upgrade is your way to unlock these valuable benefits.
 * **Example 1:** A frequent traveler upgrades to a card that provides free access to airport lounges, making their long layovers more comfortable.
 * **Example 2:** A consumer who buys a lot of electronics upgrades to a card that automatically doubles the manufacturer's warranty on all eligible purchases.
@@ -2008,6 +2015,7 @@ Premium cards offer perks that go far beyond simple rewards. These include airpo
 * **Example 6:** A user is worried about their personal information. They upgrade to a card that includes **free identity theft monitoring** as a key benefit, adding a layer of security to their finances.
 
 **Part 8: Why Upgrade for a Higher Limit**
+
 Many people upgrade to secure a higher credit limit. Higher-tier cards often come with more generous limits, which can be a key part of managing your finances, especially if your income has increased.
 * **Example 1:** A user with a ₱50,000 credit limit and a ₱15,000 balance upgrades and is approved for a new ₱100,000 limit, automatically lowering their utilization.
 * **Example 2:** A person whose income has doubled since their last credit review upgrades and is approved for a limit three times higher than their old one, reflecting their improved financial standing.
@@ -2017,6 +2025,7 @@ Many people upgrade to secure a higher credit limit. Higher-tier cards often com
 * **Example 6:** Someone who is preparing to apply for a home loan needs to show a low credit utilization across all their accounts. They strategically upgrade one of their cards to increase its limit, which helps bring down their overall utilization before the mortgage lender performs a credit check.
 
 **Part 9: Why Upgrade for Overall Credit Score**
+
 An upgrade contributes to your credit score in two key ways: it preserves your credit history (your account age) and can help lower your credit utilization ratio by giving you a higher limit.
 * **Example 1:** A person with five credit cards that are each 2 years old upgrades their oldest card. The report still shows a card with a 2-year history, rather than a new account with a 0-year history.
 * **Example 2:** A consumer with high utilization on a low-limit card upgrades to one with a higher limit. Their utilization drops, leading to an increase in their credit score.
