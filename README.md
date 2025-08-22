@@ -2020,6 +2020,10 @@ Many people upgrade to secure a higher credit limit. Higher-tier cards often com
 An upgrade contributes to your credit score in two key ways: it preserves your credit history (your account age) and can help lower your credit utilization ratio by giving you a higher limit.
 * **Example 1:** A person with five credit cards that are each 2 years old upgrades their oldest card. The report still shows a card with a 2-year history, rather than a new account with a 0-year history.
 * **Example 2:** A consumer with high utilization on a low-limit card upgrades to one with a higher limit. Their utilization drops, leading to an increase in their credit score.
+* **Example 3:** By choosing to upgrade instead of applying for a new card, you completely avoid a **hard inquiry**, which could temporarily lower your credit score by a few points.
+* **Example 4:** A person's average credit age is 3 years. If they close their old card and open a new one, their average credit age will drop. By upgrading, their 5-year-old card continues to be reported as 5 years old, keeping their average credit age high.
+* **Example 5:** A user is planning to apply for a personal loan and needs a high credit score to get a low interest rate. They strategically upgrade their card to increase the credit limit, which lowers their utilization and makes their credit profile more attractive to the lender.
+* **Example 6:** A consumer who plans to buy a car in the near future upgrades their current card. By successfully managing a higher credit limit, they can prove to lenders that they are ready for a larger line of credit, which can help them secure a more favorable interest rate on their car loan.
 
 **Part 10: The Power of Credit Age**
 Your credit age is the length of time since you opened your credit accounts. A long credit age is a strong indicator of financial stability. By upgrading, you maintain that long history, which is far better for your score than opening a new account with an age of zero.
