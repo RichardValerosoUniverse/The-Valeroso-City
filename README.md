@@ -2067,7 +2067,10 @@ A perfect payment history is a non-negotiable requirement for an upgrade. Banks 
 * **Example 6:** When the bank performs a "soft inquiry" to evaluate your eligibility for an upgrade, the first thing they look at is your payment history. Any recent missed payments will immediately disqualify you, regardless of your income or credit limit.
 
 **Part 13: The Credit Utilization Ratio**
-Your credit utilization ratio is the percentage of your credit limit that you are using. A low ratio (under 30%, and ideally under 10%) is a sign of good financial health. Lowering this ratio before an upgrade request is a powerful tactic.
+
+Your credit utilization ratio is the percentage of your credit limit that you are using. A low ratio (under 30%, and ideally under 10%) is a sign of good financial health. To achieve a **"SuperHighness"** level of financial standing, aim for **5% or less**. Lowering this ratio before an upgrade request is a powerful tactic that signals exceptional financial management to the bank.
+Example 1: A user has a credit limit of ₱100,000 and a balance of ₱40,000 (40% utilization). They pay down ₱30,000 before their upgrade request, bringing their balance to ₱10,000 (10% utilization).
+Example 2: A person who typically keeps their balance below ₱5,000 on a ₱70,000 limit is already a strong candidate for an upgrade because their utilization is consistently low.
 * **Example 1:** A user has a credit limit of ₱100,000 and a balance of ₱40,000 (40% utilization). They pay down ₱30,000 before their upgrade request, bringing their balance to ₱10,000 (10% utilization).
 * **Example 2:** A person who typically keeps their balance below ₱5,000 on a ₱70,000 limit is already a strong candidate for an upgrade because their utilization is consistently low.
 
