@@ -2057,9 +2057,14 @@ Before you proceed, you must audit your own finances. Know your current credit l
 * **Example 6:** You are paying a ₱2,500 annual fee on a card that you don't use often. After a financial audit, you decide to upgrade to a no-annual-fee card to save money, even if it has fewer benefits.
 
 **Part 12: The Importance of On-Time Payments**
+
 A perfect payment history is a non-negotiable requirement for an upgrade. Banks will not approve a new product for a customer with a history of late payments. You must demonstrate responsibility.
 * **Example 1:** A user who made two late payments in the last six months will likely be denied an upgrade until they can show a longer history of timely payments.
-* **Example 2:** A customer who has paid their bills on or before the due date for over a year is considered a reliable client and has a high chance of being approved for an upgrade.
+* **Example 2:** A customer who has just finished paying off their car loan and has a perfect payment history is a prime candidate for a credit card upgrade, as it shows their financial reliability on a major debt.
+* **Example 3:** A person who has a long credit history with one late payment from five years ago is still considered a good candidate for an upgrade, as the bank will focus on their recent, consistent on-time payments.
+* **Example 4:** A loyal customer receives a pre-approved upgrade offer from their bank. This is a direct result of their perfect payment history and good standing, as the bank already trusts them.
+* **Example 5:** A user wants to upgrade to a premium card but has been missing payments on their existing card. The bank will see this history during their internal check and will not approve the upgrade, as it would be a higher risk for them.
+* **Example 6:** When the bank performs a "soft inquiry" to evaluate your eligibility for an upgrade, the first thing they look at is your payment history. Any recent missed payments will immediately disqualify you, regardless of your income or credit limit.
 
 **Part 13: The Credit Utilization Ratio**
 Your credit utilization ratio is the percentage of your credit limit that you are using. A low ratio (under 30%, and ideally under 10%) is a sign of good financial health. Lowering this ratio before an upgrade request is a powerful tactic.
