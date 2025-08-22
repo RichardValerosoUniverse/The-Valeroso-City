@@ -1973,6 +1973,10 @@ A product change is the official term for an upgrade. It signifies that your acc
 When you request an upgrade, the bank performs a "soft inquiry" on your credit report. This is an internal check that is not visible to other lenders and has **no impact** on your credit score.
 * **Example 1:** Your bank runs a soft inquiry to check your payment history and current credit utilization. Only you and the bank can see this inquiry.
 * **Example 2:** A lender from another bank, checking your credit report, will not see any record of this inquiry, as it is a soft check.
+* **Example 3:** A soft inquiry is why your bank might send you an email saying, "You're pre-approved for a new card!" They have already performed a soft check to see if you qualify.
+* **Example 4:** Your bank regularly performs soft inquiries on your account to see if you are eligible for a credit limit increase or other promotions. This happens without you even knowing it.
+* **Example 5:** If you check your own credit report, that action is considered a soft inquiry. You can do it as often as you want without affecting your score.
+* **Example 6:** When a dealership sends you a "pre-approved car loan" offer in the mail, that is the result of a soft inquiry performed by their financing partner.
 
 **Part 5: The "Hard Inquiry" Explained**
 A "hard inquiry" is a formal request for your credit information that occurs when you apply for a new line of credit. It is a notation on your credit report that can temporarily lower your credit score by a few points. An upgrade expertly helps you avoid this.
