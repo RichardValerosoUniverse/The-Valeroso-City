@@ -2011,6 +2011,10 @@ Premium cards offer perks that go far beyond simple rewards. These include airpo
 Many people upgrade to secure a higher credit limit. Higher-tier cards often come with more generous limits, which can be a key part of managing your finances, especially if your income has increased.
 * **Example 1:** A user with a ₱50,000 credit limit and a ₱15,000 balance upgrades and is approved for a new ₱100,000 limit, automatically lowering their utilization.
 * **Example 2:** A person whose income has doubled since their last credit review upgrades and is approved for a limit three times higher than their old one, reflecting their improved financial standing.
+* **Example 3:** A person is planning a major home renovation that will cost ₱150,000. They upgrade their card from a ₱100,000 limit to a ₱200,000 limit to easily handle the large expense without maxing out their card.
+* **Example 4:** A cardholder has a ₱20,000 credit limit on their current card. Their gross monthly income is now ₱50,000. They upgrade to a more exclusive card, and their limit is approved for ₱70,000, aligning their credit capacity with their new income.
+* **Example 5:** A user has a credit limit of ₱10,000 and typically spends ₱4,000 a month, resulting in a high utilization of 40%. They upgrade and receive a ₱30,000 limit, which immediately lowers their utilization to a much healthier 13.3%, positively impacting their credit score.
+* **Example 6:** Someone who is preparing to apply for a home loan needs to show a low credit utilization across all their accounts. They strategically upgrade one of their cards to increase its limit, which helps bring down their overall utilization before the mortgage lender performs a credit check.
 
 **Part 9: Why Upgrade for Overall Credit Score**
 An upgrade contributes to your credit score in two key ways: it preserves your credit history (your account age) and can help lower your credit utilization ratio by giving you a higher limit.
