@@ -2047,9 +2047,14 @@ Your credit age is the length of time since you opened your credit accounts. A l
 **The Credit Profile Audit**
 
 **Part 11: Your Financial Audit**
+
 Before you proceed, you must audit your own finances. Know your current credit limit, your typical monthly spending, and your credit utilization. You should also clearly define what you want from a new card.
 * **Example 1:** You review your last three months of bank statements and see your highest spending is on groceries and gas. You decide to look for a card with bonuses on those categories.
 * **Example 2:** You check your bank's app and see your current credit limit is ₱50,000 and your current balance is ₱20,000. You note that your utilization is 40%, which is high.
+* **Example 3:** You realize you've been paying ₱2,000 a month for lounge access at the airport. You decide to audit your spending to find a card that offers lounge access as a complimentary benefit.
+* **Example 4:** You notice that your monthly spending has increased significantly, and you are consistently using more than 50% of your credit limit. You audit your finances and decide to upgrade to a card with a higher limit to lower your utilization.
+* **Example 5:** You're planning a vacation and want to use your credit card rewards to cover the flight. You audit your spending and realize you need a card that earns more travel miles to reach your goal.
+* **Example 6:** You are paying a ₱2,500 annual fee on a card that you don't use often. After a financial audit, you decide to upgrade to a no-annual-fee card to save money, even if it has fewer benefits.
 
 **Part 12: The Importance of On-Time Payments**
 A perfect payment history is a non-negotiable requirement for an upgrade. Banks will not approve a new product for a customer with a history of late payments. You must demonstrate responsibility.
