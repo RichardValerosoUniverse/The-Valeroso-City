@@ -2035,9 +2035,14 @@ An upgrade contributes to your credit score in two key ways: it preserves your c
 * **Example 6:** A consumer who plans to buy a car in the near future upgrades their current card. By successfully managing a higher credit limit, they can prove to lenders that they are ready for a larger line of credit, which can help them secure a more favorable interest rate on their car loan.
 
 **Part 10: The Power of Credit Age**
+
 Your credit age is the length of time since you opened your credit accounts. A long credit age is a strong indicator of financial stability. By upgrading, you maintain that long history, which is far better for your score than opening a new account with an age of zero.
 * **Example 1:** A person who opened their first credit card in 2018 upgrades that same account in 2025. Their credit report continues to show an account opened in 2018.
 * **Example 2:** A person with a 10-year old card upgrades. Their account history is preserved. If they had closed it and opened a new one, their oldest credit card account would now be much younger, negatively impacting their credit score.
+* **Example 3:** A user has three credit cards with an average age of 5 years. If they close one and open a new one with a zero-year age, their average credit age will instantly drop to just over 3 years. By upgrading, their 5-year average is preserved.
+* **Example 4:** A person has a 7-year history of responsible payments on their credit card, which is their oldest account. They upgrade to a different card, keeping that positive 7-year history on their credit report for future lenders to see.
+* **Example 5:** A consumer who is trying to improve their credit score must be careful not to close their old credit card accounts, even if they have a low credit limit. An upgrade is the perfect way to get a better card while maintaining that valuable credit age.
+* **Example 6:** Someone who only has two credit cards has a 5-year-old card and a 2-year-old card. Closing the 5-year-old card would be a huge mistake, as their average credit age would immediately drop to 2 years. An upgrade allows them to get a better card while keeping that long credit history.
 
 **The Credit Profile Audit**
 
