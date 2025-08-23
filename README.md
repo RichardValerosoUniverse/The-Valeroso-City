@@ -2077,9 +2077,14 @@ Your credit utilization ratio is the percentage of your credit limit that you ar
 * **Example 6:** A person with a consistent 5% utilization on their current card is viewed as a very low-risk client by their bank. This makes them a prime candidate for an automatic pre-approved upgrade offer to a premium card.
 
 **Part 14: The Concept of "Credit Mix"**
+
 While less critical for an upgrade, "credit mix" refers to having a variety of credit types (e.g., credit card, loan, etc.). A good mix shows you can responsibly handle different types of credit.
 * **Example 1:** A customer has a credit card and a car loan. This shows a good credit mix and a history of handling both revolving and installment credit.
 * **Example 2:** A person who only has a single credit card shows a less diverse credit mix than someone with a credit card and a personal loan, though it doesn't necessarily disqualify them from an upgrade.
+* **Example 3:** A customer who has responsibly managed their credit card for several years and has also made consistent, on-time payments on a personal loan they took out for a home renovation is seen as a low-risk borrower. This diverse mix makes them an excellent candidate for a credit card upgrade.
+* **Example 4:** A consumer has five different credit cards but no installment loans. The bank may view this as a less ideal credit mix than someone with fewer cards but a mortgage or a car loan, as they have not proven their ability to manage long-term debt.
+* **Example 5:** A bank might send an upgrade offer to a customer who has a good credit mix and has consistently paid both their credit card and their personal loan on time, as this demonstrates a higher level of financial responsibility.
+* **Example 6:** An upgrade itself does not change your credit mix, as you are simply changing one type of account. However, your existing good credit mix is a positive factor that will be considered by the bank when evaluating your upgrade request.
 
 **Part 15: Your Bank's Internal Score**
 Every bank uses its own internal scoring system to evaluate you as a customer. This score looks at things like your transaction history, profitability to the bank, and your overall account behavior. This score is often more important for an upgrade than your public credit score.
