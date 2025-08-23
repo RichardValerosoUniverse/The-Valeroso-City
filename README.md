@@ -2186,9 +2186,14 @@ If the representative tries to push you toward a new application, politely but f
 * **Example 6:** When the agent pushes for a new application, you can politely explain, "I'd prefer a product change so I can keep my credit history and account age. It's important for me to maintain my long-standing relationship with the bank on this same account."
 
 **Part 25: The Downgrade Strategy**
+
 A downgrade is a valuable tool. If a premium card's annual fee is no longer justified, you can downgrade to a no-fee card in the same family to save money while keeping the account history intact.
 * **Example 1:** A user with a premium travel card is no longer traveling as much. They downgrade to the bank's basic rewards card to avoid the annual fee.
 * **Example 2:** A person downgrades their card to a no-annual-fee option for a year while they focus on paying off other debts.
+* **Example 3:** A person signs up for a premium card to get a large welcome bonus. After the bonus is earned and the first annual fee is due, they call to downgrade to a no-fee card in the same family to avoid the charge.
+* **Example 4:** A customer with a premium card realizes they are not using the specific perks, like airport lounge access or rental car insurance. They downgrade to a simpler card to avoid the annual fee for benefits they aren't utilizing.
+* **Example 5:** A customer calls to close their premium card to avoid the fee. The agent proactively offers a downgrade to a no-annual-fee version, explaining that this will keep the account history intact and not hurt their credit score.
+* **Example 6:** By downgrading instead of closing a card, you keep the account open and aging, which helps to maintain the length of your credit history, a key factor in your credit score.
 
 **Part 26: When to "Threaten" to Close**
 This is an advanced tactic. If a representative is unwilling to help, you can mention that you are considering closing your account because the card no longer meets your needs. This may prompt them to offer you a better deal to keep your business.
