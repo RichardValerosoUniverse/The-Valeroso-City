@@ -2203,9 +2203,14 @@ This is an advanced tactic. If a representative is unwilling to help, you can me
 **Advanced Tactics & What-If Scenarios**
 
 **Part 27: The Annual Fee Timing Hack**
+
 A pro tip is to time your upgrade just after your old card's annual fee has posted. Most banks have a grace period (often 30-60 days) where they will refund the old fee and charge you the new one, effectively allowing you to try the new card without paying two fees.
 * **Example 1:** A user's annual fee posts on January 5. They request an upgrade on January 15 and are granted a refund for the old fee a few weeks later.
 * **Example 2:** A person sees their annual fee on their statement and decides to call and request a product change on February 10, receiving a credit for the fee soon after.
+* **Example 3:** A customer who is upgrading their card a year after getting it calls the bank and asks the representative, "Since my annual fee just posted, will I get a prorated refund for it once the upgrade is complete?" The representative confirms the refund policy.
+* **Example 4:** A person with a premium travel card decides the annual fee is no longer worth it. They wait for the fee to post on their statement and then call to downgrade to a no-annual-fee card, successfully getting the full annual fee refunded.
+* **Example 5:** A customer waits 90 days after their annual fee has posted to request an upgrade. The bank's grace period has expired, and the customer is told they cannot receive a refund for the old fee.
+* **Example 6:** This timing hack works best for upgrades that happen after the first year. Most first-year annual fees are waived, so you would wait until the second-year fee posts before making a product change.
 
 **Part 28: What is a "Retention Offer"?**
 A retention offer is a bonus a bank gives you to keep you from closing your account. This is usually offered by a special "retention department" when you call to cancel a card.
