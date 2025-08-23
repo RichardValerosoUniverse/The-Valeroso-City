@@ -2097,9 +2097,14 @@ Every bank uses its own internal scoring system to evaluate you as a customer. T
 * **Example 6:** A person has a strong public credit score but frequently overdraws their linked checking account with the same bank. The bank's internal score flags this as a sign of poor financial management, and they will likely deny a credit card upgrade because they see the customer as a higher risk.
 
 **Part 16: The Debt-to-Income (DTI) Ratio**
+
 Your DTI is the percentage of your gross monthly income that goes to paying off debts. While this is more relevant for loans, a low DTI is a positive sign to any financial institution and can help your case for a higher credit limit.
 * **Example 1:** A person with a gross monthly income of ₱50,000 and total debt payments of ₱10,000 has a DTI of 20%, which is considered very good.
 * **Example 2:** A person with the same income but debt payments of ₱30,000 has a DTI of 60%, making them a much riskier candidate for a higher credit limit.
+* **Example 3:** A person earning ₱150,000 per month but with debt payments of ₱70,000 for a large mortgage and several loans has a high DTI of 47%, which could make them a less attractive candidate for an upgrade.
+* **Example 4:** A customer who is approved for a balance transfer on an upgraded card can consolidate high-interest debt, which can lower their overall DTI and improve their credit profile.
+* **Example 5:** A bank sends a pre-approved upgrade offer to a customer whose DTI is consistently low, as this signals that they have plenty of room in their budget to handle a larger credit limit.
+* **Example 6:** When calculating your DTI, include required monthly payments for debts like credit cards, car loans, mortgages, and personal loans. Do not include regular monthly expenses like groceries, utilities, or phone bills.
 
 **The Strategic Preparation**
 
