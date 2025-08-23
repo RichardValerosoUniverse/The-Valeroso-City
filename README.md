@@ -2243,9 +2243,14 @@ If your request is denied, calmly ask for the reason. It is often a simple issue
 * **Example 6:** A customer receives a denial and, instead of giving up, politely asks the representative, "What specific reasons led to this decision, and what can I do to improve my chances in the future?" This gives them a clear action plan.
 
 **Part 31: The Appeal Process**
+
 If you believe a denial was unjust, you can escalate the issue by asking to speak with a supervisor or by submitting a formal complaint. This is a rare step, but it is available.
 * **Example 1:** A user is denied an upgrade for a reason they believe is incorrect. They politely ask to speak with a supervisor to discuss their case further.
 * **Example 2:** A customer who is a long-time, high-value client is denied. They send a formal letter to the bank's customer relations department to appeal the decision.
+* **Example 3:** A user is denied an upgrade based on an outdated credit report that lists an old, paid-off debt. They appeal the decision by providing documentation of the debt's resolution.
+* **Example 4:** A customer who is denied asks the representative for the name, email, or mailing address for the bank's formal complaints or executive customer service department to submit their appeal in writing.
+* **Example 5:** You write a detailed letter to the bank explaining your financial situation, history as a customer, and the specific reasons why you believe you are a good candidate for the upgrade. You include supporting documentation to strengthen your case.
+* **Example 6:** Escalating to a supervisor or the appeals department bypasses the initial representative's limited authority. These individuals often have more power and can make exceptions or reconsider a decision based on a more holistic view of your relationship with the bank.
 
 **Part 32: The Legal and Ethical Side**
 A bank cannot force you to apply for a new card instead of upgrading. You have the right to request a product change if one is available for your account.
