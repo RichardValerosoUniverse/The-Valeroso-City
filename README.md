@@ -2087,9 +2087,14 @@ While less critical for an upgrade, "credit mix" refers to having a variety of c
 * **Example 6:** An upgrade itself does not change your credit mix, as you are simply changing one type of account. However, your existing good credit mix is a positive factor that will be considered by the bank when evaluating your upgrade request.
 
 **Part 15: Your Bank's Internal Score**
+
 Every bank uses its own internal scoring system to evaluate you as a customer. This score looks at things like your transaction history, profitability to the bank, and your overall account behavior. This score is often more important for an upgrade than your public credit score.
 * **Example 1:** Your bank sees you consistently use your card for all your daily purchases and pay the bill in full. This makes you a high-value customer with a good internal score, making an upgrade likely.
 * **Example 2:** A customer who only uses their card once a year and has a history of calling customer service with complaints may have a low internal score, making an upgrade difficult.
+* **Example 3:** A customer with a credit card, a savings account, and a mortgage all with the same bank is considered highly profitable. Their strong relationship and high internal score make them an excellent candidate for an upgrade.
+* **Example 4:** A user has had several instances of fraudulent charges on their account or has had to dispute transactions frequently. This type of activity can lower their internal score, signaling to the bank that the account is high-maintenance.
+* **Example 5:** A customer with a great internal score receives a surprise pre-approved upgrade offer in their email with an additional points bonus. The bank is proactively rewarding their loyalty and profitable behavior.
+* **Example 6:** A person has a strong public credit score but frequently overdraws their linked checking account with the same bank. The bank's internal score flags this as a sign of poor financial management, and they will likely deny a credit card upgrade because they see the customer as a higher risk.
 
 **Part 16: The Debt-to-Income (DTI) Ratio**
 Your DTI is the percentage of your gross monthly income that goes to paying off debts. While this is more relevant for loans, a low DTI is a positive sign to any financial institution and can help your case for a higher credit limit.
