@@ -2166,9 +2166,14 @@ When you call, be confident and clear.
 * **Example 6:** "I've been a loyal [Bank Name] customer for a long time and I'm very happy with my account. However, I'm hoping to get a card that offers more benefits, so I'd like to upgrade to the [New Card Name]."
 
 **Part 23: The Art of Negotiation**
+
 You have more power than you think. You can negotiate for better terms. Your strong history gives you leverage.
 * **Example 1:** "I'm excited about this new card, but I'm hesitant about the higher annual fee. Is there any way the fee could be reduced for the first year?"
 * **Example 2:** "I was also considering another card from a competing bank. I'd prefer to stay loyal to your bank, but I need to make sure I am getting the best deal."
+* **Example 3:** "I've heard that some of your new customers receive a sign-up bonus for this card. Is there any possibility of me receiving a similar welcome bonus for this upgrade?"
+* **Example 4:** "Given my excellent payment history and my long-standing relationship with the bank, is there any chance of increasing my credit limit as part of this upgrade?"
+* **Example 5:** "I've been a loyal customer with this card for several years. I'm hoping you could make an exception to the annual fee for me to thank me for my loyalty."
+* **Example 6:** "Thank you for the information. I really appreciate your time. I'll need some time to think about it. If you have any future promotions or offers for an upgrade, please let me know."
 
 **Part 24: Handling Common Objections**
 If the representative tries to push you toward a new application, politely but firmly explain that you want a product change to preserve your credit history. Stay calm and stick to your goal.
