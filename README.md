@@ -2130,9 +2130,14 @@ In the months leading up to your upgrade request, focus on using your card regul
 * **Example 6:** By consistently using their card for daily expenses and paying it off promptly, a cardholder signals to the bank's internal scoring system that they are a profitable and low-risk customer, making an upgrade offer more probable.
 
 **Part 18: Choosing the Right Card**
+
 Do your research before you call. Know the name of the exact card you want to upgrade to and understand all of its benefits, fees, and rules.
 * **Example 1:** You visit your bank's website and download the features and benefits PDF for the premium card you want, so you can clearly state its advantages during the call.
 * **Example 2:** You compare three different card options from your bank and decide that a card with a lower annual fee but fewer perks is the best choice for you.
+* **Example 3:** You review the terms of the higher-tier card to confirm if its annual fee is waived for the first year and if the rewards structure aligns with your spending, such as higher points for groceries or gas.
+* **Example 4:** A person considering upgrading to a high-annual-fee travel card realizes they won't travel enough to justify the cost and instead chooses a no-annual-fee card that offers good cashback on everyday purchases.
+* **Example 5:** During the upgrade call, you show the agent that you know the new card's features better than they do by mentioning specific benefits, signaling that you are a serious and well-informed customer.
+* **Example 6:** A user with high monthly spending on dining and entertainment researches to find a premium card that offers bonus points on those specific categories, ensuring their upgrade will be a perfect fit for their lifestyle.
 
 **Part 19: Researching "Card Families"**
 Most banks have "card families" that allow for easy upgrades or downgrades within the family. It is often impossible to switch from one family to another (e.g., from a travel card to a co-branded retail card) via an upgrade.
