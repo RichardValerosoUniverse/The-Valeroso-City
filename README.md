@@ -2069,7 +2069,12 @@ A perfect payment history is a non-negotiable requirement for an upgrade. Banks 
 **Part 13: The Credit Utilization Ratio**
 
 Your credit utilization ratio is the percentage of your credit limit that you are using. A low ratio (under 30%, and ideally under 10%) is a sign of good financial health. To achieve a **"SuperHighness"** level of financial standing, aim for **5% or less**. Lowering this ratio before an upgrade request is a powerful tactic that signals exceptional financial management to the bank.
-
+* **Example 1:** A user has a credit limit of ₱100,000 and a balance of ₱25,000 (25% utilization). They pay down ₱20,000 before their upgrade request, bringing their balance to ₱5,000 (5% utilization), which is considered "SuperHighness" level.
+* **Example 2:** A credit cardholder consistently uses only ₱2,000 of their ₱40,000 credit limit, maintaining a 5% utilization. Their bank notices this excellent financial behavior and sends them a pre-approved upgrade offer for a premium card with a ₱150,000 limit, rewarding them for their low utilization and responsible spending habits.
+* **Example 3:** A consumer has three credit cards and is keeping the balances low on two of them but has a high balance on the third. The bank will look at their overall credit utilization, which may be high due to that one card, hurting their chances for an upgrade.
+* **Example 4:** Before applying for a mortgage, a person pays off their entire credit card balance to show a 0% utilization rate. This is a strategic move to present a perfect credit profile to the lender, which can help secure a lower interest rate on the loan.
+* **Example 5:** A customer who wants to upgrade to a higher-tier card to get a bigger credit limit must first show they are responsible with their current one. By keeping their utilization low, they demonstrate that they can handle more credit without overspending.
+* **Example 6:** A person with a consistent 5% utilization on their current card is viewed as a very low-risk client by their bank. This makes them a prime candidate for an automatic pre-approved upgrade offer to a premium card.
 
 **Part 14: The Concept of "Credit Mix"**
 While less critical for an upgrade, "credit mix" refers to having a variety of credit types (e.g., credit card, loan, etc.). A good mix shows you can responsibly handle different types of credit.
