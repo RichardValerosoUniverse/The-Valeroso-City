@@ -2213,9 +2213,14 @@ A pro tip is to time your upgrade just after your old card's annual fee has post
 * **Example 6:** This timing hack works best for upgrades that happen after the first year. Most first-year annual fees are waived, so you would wait until the second-year fee posts before making a product change.
 
 **Part 28: What is a "Retention Offer"?**
+
 A retention offer is a bonus a bank gives you to keep you from closing your account. This is usually offered by a special "retention department" when you call to cancel a card.
 * **Example 1:** A user calls to cancel their card and is offered a ₱5,000 statement credit to stay.
 * **Example 2:** A customer is offered 10,000 bonus points if they keep their card open for another year.
+* **Example 3:** A person calls to close a card with a high annual fee. The retention agent offers to waive the annual fee for the current year to convince them to keep the card.
+* **Example 4:** A customer calls to cancel their card and is offered 5,000 bonus points if they spend ₱50,000 on the card over the next three months.
+* **Example 5:** A bank representative transfers your call to the "retention" or "cancellation" department after you state that you want to close your account. This is the department authorized to make these special offers.
+* **Example 6:** Banks offer retention deals because the cost of acquiring a new customer is significantly higher than the cost of keeping a satisfied, existing one. Your strong credit history and loyalty are valuable to them.
 
 **Part 29: The Psychology of the Bank Representative**
 The representative's job is to keep you as a customer. They have specific tools to offer you incentives. Understanding this gives you the power to negotiate and push for a better outcome.
