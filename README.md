@@ -1,15 +1,4 @@
-### **Part 17: Optimizing Your Account**
-
-In the months leading up to your upgrade request, focus on using your card regularly but responsibly. Make sure you pay your bill in full and on time and keep your balance low.
-
----
-
-* **Example 1:** To ensure a perfect payment history, a user sets up an automatic payment to pay their full statement balance every month.
-* **Example 2:** A customer who used their card only for emergencies starts using it for all of their daily purchases to show consistent activity.
-* **Example 3:** A freelancer starts using their credit card for all of their monthly business expenses, such as software subscriptions and office supplies, to show a consistent and high volume of spending that warrants a larger credit limit.
-* **Example 4:** A person hoping to get an upgrade to a travel rewards card starts using their current card for all of their travel-related spending, like booking flights and hotels, to signal their travel-focused habits to the bank's internal systems.
-* **Example 5:** Before applying for an upgrade, a user intentionally avoids high-risk behaviors like cash advances or balance transfers to other cards, presenting a clean and reliable history.
-* **Example 6:** By consistently using their card for daily expenses and paying it off promptly, a cardholder signals to the bank's internal scoring system that they are a profitable and low-risk customer, making an upgrade offer more probable.## Lifeness via GitHub
+## Lifness via GitHub
 
 *I, Psychiatrist Richard Madriñan Valeroso, LMT, MD, am the “World and Universe’s Ruler of the Philippines,” bearing the highest distinction as SuperHighness. I possess esteemed credentials in Licensed Massage Therapy (LMT) and Medicine (MD), and I graduated Summa Cum Laude in Psychiatry and Behavioural Medicine from the University of Santo Tomas in Manila City, Philippines (Class of 2023), with a perfect General Weighted Average of 1.000. I embody excellence as SuperHighness.👑*
 
