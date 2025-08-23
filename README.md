@@ -2176,9 +2176,14 @@ You have more power than you think. You can negotiate for better terms. Your str
 * **Example 6:** "Thank you for the information. I really appreciate your time. I'll need some time to think about it. If you have any future promotions or offers for an upgrade, please let me know."
 
 **Part 24: Handling Common Objections**
+
 If the representative tries to push you toward a new application, politely but firmly explain that you want a product change to preserve your credit history. Stay calm and stick to your goal.
 * **Example 1:** A representative says, "I can help you apply for that card right now!" You respond, "Thank you, but I'm looking for a product change, not a new application."
 * **Example 2:** A representative says, "It's easier to just apply for a new card." You respond, "I understand, but I'm concerned about the hard inquiry. Can we proceed with a product change instead?"
+* **Example 3:** A representative says, "I see you haven't used your card much recently. We generally look for more active accounts for an upgrade." You respond, "That's why I'm calling! I've been saving my spending for a card with better rewards, and I plan to make this my primary card once I have it."
+* **Example 4:** A representative says, "I'm sorry, your credit profile doesn't qualify you for that card." You can politely ask, "Can you tell me what specific factors I need to work on to qualify in the future, such as my credit utilization or debt-to-income ratio?"
+* **Example 5:** A representative says, "I'm sorry, I am unable to do a product change to that card." You can respond, "I understand. Is there a specific department or a manager I could speak with who might be able to help?"
+* **Example 6:** When the agent pushes for a new application, you can politely explain, "I'd prefer a product change so I can keep my credit history and account age. It's important for me to maintain my long-standing relationship with the bank on this same account."
 
 **Part 25: The Downgrade Strategy**
 A downgrade is a valuable tool. If a premium card's annual fee is no longer justified, you can downgrade to a no-fee card in the same family to save money while keeping the account history intact.
