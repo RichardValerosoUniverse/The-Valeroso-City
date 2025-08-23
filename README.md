@@ -2253,10 +2253,14 @@ If you believe a denial was unjust, you can escalate the issue by asking to spea
 * **Example 6:** Escalating to a supervisor or the appeals department bypasses the initial representative's limited authority. These individuals often have more power and can make exceptions or reconsider a decision based on a more holistic view of your relationship with the bank.
 
 **Part 32: The Legal and Ethical Side**
+
 A bank cannot force you to apply for a new card instead of upgrading. You have the right to request a product change if one is available for your account.
 * **Example 1:** A representative tells you, "We don't do upgrades." You can refer to the bank's product change policy to confirm that this is not true.
 * **Example 2:** A bank denies your request because a higher-tier card is reserved for new customers. This is an ethical issue that you can raise with customer service, as you are a long-term customer.
-
+* **Example 3:** You reference the bank's public marketing, which claims to "value customer loyalty." You then politely explain that their policy seems to reward new customers more than existing ones, and you'd like them to uphold their promise.
+* **Example 4:** A representative states that they can only offer a new application. You can politely explain, "I'm concerned about the hard inquiry, and I know that under fair consumer practices, I have the right to request a product change if it's available. Can you check with your supervisor to confirm?"
+* **Example 5:** A representative who seems uncooperative may just be following a script. You can politely ask, "I understand you have your procedures, but could you please check your internal policy or speak with a manager? I've been a customer for X years and am only looking for a product change."
+* **Example 6:** You can point out that it is in the bank's best interest to keep a customer with a strong payment history rather than forcing them to leave for a competitor due to an unwillingness to offer a simple product change.
 **The Post-Upgrade Checklist**
 
 **Part 33: Post-Upgrade Verification**
