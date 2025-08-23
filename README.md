@@ -2146,9 +2146,14 @@ Timing is everything. A strategic upgrade should be timed to your financial situ
 **The Execution Phase**
 
 **Part 21: The Call to Action**
+
 Pick up the phone and call your bank's customer service number. Do not fill out an online form. The phone call is the only reliable way to get an upgrade approved without a hard inquiry.
 * **Example 1:** A user calls the bank's hotline number and presses the correct options to be connected to a customer service representative.
 * **Example 2:** A user calls the number on the back of their credit card to ensure they are connected to the correct department.
+* **Example 3:** When the agent answers, you say, "I'm calling to see if I'm eligible for any product changes or upgrades on my account." This simple phrase signals your intent and allows the agent to check for internal offers.
+* **Example 4:** You fill out an online form on your bank's website for a new card. This is treated as a new application and results in a hard inquiry on your credit report, unlike a phone-based product change.
+* **Example 5:** Before calling, you have your account number, the name of the card you want, and a concise reason for the upgrade (e.g., "I'm looking for a card with better travel rewards for my upcoming trip") ready to share with the agent.
+* **Example 6:** If the agent says no, you politely ask, "Is there any way to get this request approved, or is there a supervisor I could speak with to explore my options?" Sometimes, an escalation can lead to a different outcome.
 
 **Part 22: The Perfect Phone Script**
 When you call, be confident and clear.
