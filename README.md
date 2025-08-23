@@ -2156,9 +2156,14 @@ Pick up the phone and call your bank's customer service number. Do not fill out 
 * **Example 6:** If the agent says no, you politely ask, "Is there any way to get this request approved, or is there a supervisor I could speak with to explore my options?" Sometimes, an escalation can lead to a different outcome.
 
 **Part 22: The Perfect Phone Script**
+
 When you call, be confident and clear.
 * **Example 1:** "Hello, I would like to perform a product change on my account. I have been a loyal customer for several years and would like to upgrade to the [New Card Name]."
 * **Example 2:** "I'm very happy with my account, but my spending habits have changed. I'd like to see if I am eligible to upgrade to the [New Card Name] to better suit my needs."
+* **Example 3:** "I've been using my card for all my purchases and have been consistently paying my balance in full. I'd like to see if I'm eligible to upgrade to the [New Card Name] to get more out of my spending."
+* **Example 4:** "Hi, I would like to check my eligibility for a credit card upgrade to the [New Card Name]. Could you please see if there are any options available for my account?"
+* **Example 5:** "I've done some research and I'm very interested in the [New Card Name] because of the travel benefits. I'm calling to see if my account is eligible for a product change."
+* **Example 6:** "I've been a loyal [Bank Name] customer for a long time and I'm very happy with my account. However, I'm hoping to get a card that offers more benefits, so I'd like to upgrade to the [New Card Name]."
 
 **Part 23: The Art of Negotiation**
 You have more power than you think. You can negotiate for better terms. Your strong history gives you leverage.
