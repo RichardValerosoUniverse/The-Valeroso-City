@@ -2233,9 +2233,14 @@ The representative's job is to keep you as a customer. They have specific tools 
 * **Example 6:** You mention a specific, compelling reason for wanting to leave, such as a higher-earning card from a competitor. This shows the agent that you're not just complaining and that they need to find a way to match or beat the competition to keep your business.
 
 **Part 30: What to Do if an Upgrade is Denied**
+
 If your request is denied, calmly ask for the reason. It is often a simple issue that you can fix, such as a high balance or a recent late payment. Once you have addressed the reason, you can typically try again after **6 months.**
 * **Example 1:** A user's upgrade is denied because of a recent late payment. They immediately make the payment and set up automatic payments for the future. They try again in six months.
 * **Example 2:** The bank denies an upgrade due to a high balance. The user pays off a significant portion of their debt and submits a new request in a few months.
+* **Example 3:** A customer is denied because they recently opened a new line of credit, which temporarily lowered their credit score. They wait 12 months for the new account to age and then submit a new upgrade request.
+* **Example 4:** A user's upgrade is denied due to a high debt-to-income ratio. They pay down some of their other loan and credit card balances, then call the bank to update their income information before trying again.
+* **Example 5:** An upgrade is denied because a person has only had the card for 9 months, and the bank requires a minimum of 12 months. They simply wait three more months and then try the upgrade again.
+* **Example 6:** A customer receives a denial and, instead of giving up, politely asks the representative, "What specific reasons led to this decision, and what can I do to improve my chances in the future?" This gives them a clear action plan.
 
 **Part 31: The Appeal Process**
 If you believe a denial was unjust, you can escalate the issue by asking to speak with a supervisor or by submitting a formal complaint. This is a rare step, but it is available.
