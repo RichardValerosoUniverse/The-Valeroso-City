@@ -2145,9 +2145,14 @@ Most banks have "card families" that allow for easy upgrades or downgrades withi
 * **Example 2:** A person has a co-branded airline card from their bank. They want to upgrade to a general travel card. This is often not possible via an upgrade and would require a new application.
 
 **Part 20: Timing the Upgrade**
+
 Timing is everything. A strategic upgrade should be timed to your financial situation. Wait until your credit is in perfect standing and you have a clear plan for using the new card.
 * **Example 1:** A customer gets a new job with a higher salary. They wait three months to receive a few paychecks and show that their income has increased before requesting an upgrade.
-* **Example 2:** A student who just finished school and found their first job waits until they have been at the job for six months to establish a stable income before requesting an upgrade.
+* **Example 2:** A person who recently had a major medical expense and had to use their credit card to cover it waits until the balance is paid off and their emergency fund is replenished before requesting an upgrade. This shows the bank that they have regained financial stability.
+* **Example 3:** A person who just made a large purchase that raised their credit utilization waits a few months to pay down the balance and bring their utilization back below 10% before making an upgrade request.
+* **Example 4:** A customer who just applied for and opened a new personal loan waits six months before requesting a credit card upgrade. This allows the new account to age a bit and lets their credit score recover from the recent hard inquiry.
+* **Example 5:** A customer knows their bank typically offers pre-approved upgrades around the anniversary of their card's opening date. They proactively clean up their credit profile in the months leading up to this date.
+* **Example 6:** A person is aggressively saving for a down payment on a house. They postpone their credit card upgrade request because they know that a new, more powerful card might tempt them to spend more, potentially hindering their savings goal.
 
 **The Execution Phase**
 
