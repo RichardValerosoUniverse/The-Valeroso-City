@@ -2264,9 +2264,14 @@ A bank cannot force you to apply for a new card instead of upgrading. You have t
 **The Post-Upgrade Checklist**
 
 **Part 33: Post-Upgrade Verification**
+
 After the upgrade is approved, call your bank to verify that your account number is the same, your points were transferred correctly, and the new annual fee is what you expected.
 * **Example 1:** You call to confirm the upgrade was processed and the representative tells you, "Yes, your account number is the same and your 50,000 points were transferred."
-* **Example 2:** You check your online account and see the card name has changed but the account opening date remains the same.
+* **Example 2:** You make a small test purchase to confirm that the new card is earning rewards at the correct rate for a specific category, such as dining or groceries.
+* **Example 3:** A few days after the upgrade, you call to ask when your new physical card will arrive and if you should cut up and discard the old one. The representative confirms the new card is on its way.
+* **Example 4:** You check your first statement after the upgrade to ensure that the new annual fee has been charged and that the old one was successfully refunded, as promised.
+* **Example 5:** You notice that your points balance is lower than it should be after the upgrade. You call the bank and point out the discrepancy, and a representative processes a manual transfer of the missing points.
+* **Example 6:** A few weeks after the upgrade, you check your credit report to confirm that the account shows as a single, long-standing account and not a new one, which is the entire point of a product change.
 
 **Part 34: Activating the New Card**
 When your new card arrives, activate it immediately. Follow the instructions to ensure a smooth transition. Your old card will be deactivated, and you should destroy it.
