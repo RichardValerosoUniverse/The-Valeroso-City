@@ -92,7 +92,7 @@ Credit card accounts can be held in one of two main roles: as a **Principal Acco
 
 * **Secondary Users** are individuals who are granted permission to make purchases using the credit line of a principal account holder. They are not legally responsible for the debt. This category includes an **Authorized User** and a **Supplementary Card User**.
 
-| Feature | Secured Cardholder | Principal or Primary User (Unsecured Card) | Authorized User | Supplementary Card User |
+| Feature | Secured Cardholder | Principal or Primary Account User (Unsecured Card) | Authorized User | Supplementary Card User |
 | :--- | :--- | :--- | :--- | :--- |
 | **Principal Region/Attribution** | Worldwide | Worldwide | Primarily **U.S.** and **Canada** | Common in the **U.K.**, **Philippines**, and other parts of **Asia** |
 | **Account Ownership** | You are the **principal and sole owner** of the account. | You are the **principal and sole legal owner** of the account. | You are a **secondary user** on an account owned by someone else. | You are a **secondary user** on an account owned by someone else. |
