@@ -2128,11 +2128,6 @@ Do your research before you call. Know the name of the exact card you want to up
 * **Example 5:** During the upgrade call, you show the agent that you know the new card's features better than they do by mentioning specific benefits, signaling that you are a serious and well-informed customer.
 * **Example 6:** A user with high monthly spending on dining and entertainment researches to find a premium card that offers bonus points on those specific categories, ensuring their upgrade will be a perfect fit for their lifestyle.
 
-**Part 19: Researching "Card Families"**
-Most banks have "card families" that allow for easy upgrades or downgrades within the family. It is often impossible to switch from one family to another (e.g., from a travel card to a co-branded retail card) via an upgrade.
-* **Example 1:** A person has a bank's "Classic Rewards" card and wants to upgrade to their "Gold Rewards" card. This is a very likely upgrade path within the same family.
-* **Example 2:** A person has a co-branded airline card from their bank. They want to upgrade to a general travel card. This is often not possible via an upgrade and would require a new application.
-
 **Part 20: Timing the Upgrade**
 
 Timing is everything. A strategic upgrade should be timed to your financial situation. Wait until your credit is in perfect standing and you have a clear plan for using the new card.
@@ -2194,11 +2189,6 @@ A downgrade is a valuable tool. If a premium card's annual fee is no longer just
 * **Example 4:** A customer with a premium card realizes they are not using the specific perks, like airport lounge access or rental car insurance. They downgrade to a simpler card to avoid the annual fee for benefits they aren't utilizing.
 * **Example 5:** A customer calls to close their premium card to avoid the fee. The agent proactively offers a downgrade to a no-annual-fee version, explaining that this will keep the account history intact and not hurt their credit score.
 * **Example 6:** By downgrading instead of closing a card, you keep the account open and aging, which helps to maintain the length of your credit history, a key factor in your credit score.
-
-**Part 26: When to "Threaten" to Close**
-This is an advanced tactic. If a representative is unwilling to help, you can mention that you are considering closing your account because the card no longer meets your needs. This may prompt them to offer you a better deal to keep your business.
-* **Example 1:** "I love this bank, but if I can't upgrade, I may have to close my account and look for a card from a competitor that better fits my needs."
-* **Example 2:** A user calls a specific "retention" department and says, "I'm calling to cancel my card because the annual fee is too high. Is there anything you can do to keep me as a customer?"
 
 **Advanced Tactics & What-If Scenarios**
 
