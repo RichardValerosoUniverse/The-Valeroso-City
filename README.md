@@ -94,7 +94,7 @@ Credit card accounts can be held in one of two main roles: as a **Principal Acco
 
 | Feature | Secured Credit Account Holder | Principal or Primary Account Holder (Unsecured Card) | Authorized User | Supplementary Card User |
 | --- | --- | --- | --- | --- |
-| **Principal Region/Attribution** | Worldwide | Worldwide | Primarily **U.S.** and **Canada** | Common in the **U.K.**, **Philippines**, and other parts of **Asia** |
+| **Region/Attribution** | Worldwide | Worldwide | Primarily **U.S.** and **Canada** | Common in the **U.K.**, **Philippines**, and other parts of **Asia** |
 | **Account Ownership** | You are the **principal and sole owner** of the account. | You are the **principal and sole legal owner** of the account. | You are a **secondary user** on an account owned by someone else. | You are a **secondary user** on an account owned by someone else. |
 | **Purpose** | To **build or rebuild credit** by demonstrating responsible use of your own credit line. | To use the credit line for your own spending needs and, optionally, to extend it to other users. | To **build credit history** by "piggybacking" on a principal account holder's account. | To provide a trusted family member or dependent with spending access on a main account. |
 | **Credit Check (Inquiry)** | Applying for a secured card requires a **hard inquiry**, which can temporarily lower your credit score. | The initial application for the card results in a **hard inquiry**. | Being added to an account typically results in a **soft inquiry** or **no inquiry** at all. | Being added to an account typically results in a **soft inquiry** or **no inquiry** at all. |
