@@ -84,9 +84,24 @@ The SuperHighness Way is a journey toward financial mastery and self-reliance. S
 
 In conclusion, while a supplementary card may offer a quick and easy entry into the credit world, it is fundamentally incompatible with the long-term, disciplined, and independent philosophy of The SuperHighness Way. To build a truly powerful and unshakeable credit profile, you must take full ownership and control of your financial journey from the very beginning.
 
-You've raised excellent points that add a new layer of detail to the comparison. Here is the updated table that includes information about who can request a credit limit increase and how each role relates to credit bureaus and the credit report.
+## **Navigating Credit Card Accounts: A Guide to Principal, Secured, and Secondary Users**
 
+Credit card accounts can be held in one of two main roles: as a **Principal Account Holder** or as a **Secondary User**.
 
+* **Principal Account Holders** are the legal owners of the credit card account. They are fully liable for all charges and are the only ones who can manage the account. This category includes both a **Principal User** of a standard unsecured card and a **Secured Cardholder**.
+
+* **Secondary Users** are individuals who are granted permission to make purchases using the credit line of a principal account holder. They are not legally responsible for the debt. This category includes an **Authorized User** and a **Supplementary Card User**.
+
+| Feature | Secured Cardholder | Principal User | Authorized User | Supplementary Card User |
+| :--- | :--- | :--- | :--- | :--- |
+| **Principal Region/Attribution** | Worldwide | Worldwide | Primarily **U.S.** and **Canada** | Common in the **U.K.**, **Philippines**, and other parts of **Asia** |
+| **Account Ownership** | You are the **principal and sole owner** of the account. | You are the **principal and sole legal owner** of the account. | You are a **secondary user** on an account owned by someone else. | You are a **secondary user** on an account owned by someone else. |
+| **Purpose** | To **build or rebuild credit** by demonstrating responsible use of your own credit line. | To use the credit line for your own spending needs and, optionally, to extend it to other users. | To **build credit history** by "piggybacking" on a principal account holder's account. | To provide a trusted family member or dependent with spending access on a main account. |
+| **Credit Check (Inquiry)** | Applying for a secured card requires a **hard inquiry**, which can temporarily lower your credit score. | The initial application for the card results in a **hard inquiry**. | Being added to an account typically results in a **soft inquiry** or **no inquiry** at all. | Being added to an account typically results in a **soft inquiry** or **no inquiry** at all. |
+| **Financial Responsibility** | **You are 100% legally and financially responsible** for all charges and payments on the account. | **You are 100% legally and financially responsible** for all charges on the account, **including those made by authorized/supplementary users**. | You are **not legally responsible** for the debt. The principal account holder is solely responsible for all payments. | You are **not legally responsible** for the debt. The principal account holder is solely responsible for all payments. |
+| **Credit Limit Increase** | It's best to call your bank's customer service to ask about the possibility of increasing your credit limit. | Can request a CLI at any time, as they are the legal owner of the account. | **Cannot request a CLI**. This is the exclusive right of the principal cardholder. | **Cannot request a CLI**. This is the exclusive right of the principal cardholder. |
+| **Credit Reporting** | The issuer reports all account activity (payments, balances, credit limit) to the credit bureaus, directly building **your credit report**. | The issuer reports all account activity (payments, balances, credit limit) to the credit bureaus, building **your credit report**. All activity by secondary users is reflected on the principal user's report. | The issuer may report the account to the authorized user’s credit file. **This is not guaranteed.** When reported, it can help build credit. | The issuer may report the account to the supplementary user’s credit file. **This is not guaranteed.** When reported, it can help build credit. |
+| **Key Difference** | **Requires a cash deposit** as collateral, which acts as your credit limit. This makes it easier to get approved even with poor or no credit history. | This is the **principal account holder** who is fully liable and responsible for the account and its management. | **Does not require a deposit.** It's a way to gain access to an established credit line and its history without any upfront cost. | The term is most commonly used to provide a family member with spending access, without a strong emphasis on credit building. |
 
 ## **29 Realities of The SuperHighness Way**
 
