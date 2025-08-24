@@ -2274,9 +2274,14 @@ After the upgrade is approved, call your bank to verify that your account number
 * **Example 6:** A few weeks after the upgrade, you check your credit report to confirm that the account shows as a single, long-standing account and not a new one, which is the entire point of a product change.
 
 **Part 34: Activating the New Card**
+
 When your new card arrives, activate it immediately. Follow the instructions to ensure a smooth transition. Your old card will be deactivated, and you should destroy it.
 * **Example 1:** You receive the new card in the mail and activate it immediately using the phone number provided on the sticker.
 * **Example 2:** A user with a physical and digital card updates their information on their mobile wallet with the new card details.
+* **Example 3:** You log into your bank's mobile app and use the "Activate Card" feature to quickly get your new card ready for use.
+* **Example 4:** After activating the new card, you safely destroy the old one by cutting through the magnetic stripe and the chip to prevent any unauthorized use.
+* **Example 5:** If your new card doesn't arrive by the expected date, you call the bank's customer service to report it and request a replacement be sent immediately.
+* **Example 6:** You don't have to worry about updating your recurring payments for services like Netflix or Spotify, as the account number usually remains the same, ensuring a seamless transition.
 
 **Part 35: The Old Card: What to Do**
 Once your new card is active, cut up your old card. Do not simply throw it away. Securely dispose of it to protect your information.
