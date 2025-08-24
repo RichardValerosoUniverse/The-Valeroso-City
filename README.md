@@ -2295,9 +2295,14 @@ Once your new card is active, cut up your old card. Do not simply throw it away.
 * **Example 6:** A user removes the old card's information from all saved online payment profiles (like on Amazon, Spotify, or PayPal) to ensure the new card is the only one saved for future purchases.
 
 **Part 36: Updating Recurring Payments**
+
 Do not forget to update all of your recurring payments (e.g., streaming services, gym memberships, mobile phone bills) with your new card information to avoid missed payments and service disruptions.
 * **Example 1:** A user logs in to their Spotify and Netflix accounts to update the payment information with their new card number and expiration date.
 * **Example 2:** A person with a recurring utility bill updates their payment information online before the next billing cycle.
+* **Example 3:** You call or visit your gym to update your membership payment method. Some recurring services require you to provide the new card details in person or over the phone.
+* **Example 4:** A person forgets to update their phone bill payment, which causes a temporary service suspension until they provide the new card details and pay the missed balance.
+* **Example 5:** While your account number stays the same, the new card will have a different **expiration date** and a new **CVC code**. These details must be updated for your recurring payments to go through successfully.
+* **Example 6:** You open your Uber or Grab app and update your saved payment method to ensure that all future rides are automatically billed to your new card.
 
 **Part 37: Final Financial Audit**
 After the new card is in use, conduct a final audit. Confirm that you are using the card strategically and that it is helping you meet your financial goals.
