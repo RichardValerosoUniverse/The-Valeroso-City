@@ -2283,10 +2283,16 @@ When your new card arrives, activate it immediately. Follow the instructions to 
 * **Example 5:** If your new card doesn't arrive by the expected date, you call the bank's customer service to report it and request a replacement be sent immediately.
 * **Example 6:** You don't have to worry about updating your recurring payments for services like Netflix or Spotify, as the account number usually remains the same, ensuring a seamless transition.
 
+
 **Part 35: The Old Card: What to Do**
+
 Once your new card is active, cut up your old card. Do not simply throw it away. Securely dispose of it to protect your information.
 * **Example 1:** A user shreds the old card to prevent a thief from finding their information.
 * **Example 2:** A person cuts the magnetic strip and chip into several pieces before throwing the old card away.
+* **Example 3:** A user waits until the new card has been successfully activated and they've made a small purchase with it before destroying the old card to avoid any issues during the transition.
+* **Example 4:** A person uses a cross-cut or micro-cut shredder specifically designed for credit cards to ensure the plastic is broken into unreadable pieces.
+* **Example 5:** You remember that the old card contains your new account number. You cut up the card into multiple small pieces and dispose of them in separate trash cans to make it impossible for anyone to reconstruct the card details.
+* **Example 6:** A user removes the old card's information from all saved online payment profiles (like on Amazon, Spotify, or PayPal) to ensure the new card is the only one saved for future purchases.
 
 **Part 36: Updating Recurring Payments**
 Do not forget to update all of your recurring payments (e.g., streaming services, gym memberships, mobile phone bills) with your new card information to avoid missed payments and service disruptions.
