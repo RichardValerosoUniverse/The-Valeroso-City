@@ -2128,7 +2128,7 @@ Do your research before you call. Know the name of the exact card you want to up
 * **Example 5:** During the upgrade call, you show the agent that you know the new card's features better than they do by mentioning specific benefits, signaling that you are a serious and well-informed customer.
 * **Example 6:** A user with high monthly spending on dining and entertainment researches to find a premium card that offers bonus points on those specific categories, ensuring their upgrade will be a perfect fit for their lifestyle.
 
-**Part 20: Timing the Upgrade**
+**Part 19: Timing the Upgrade**
 
 Timing is everything. A strategic upgrade should be timed to your financial situation. Wait until your credit is in perfect standing and you have a clear plan for using the new card.
 * **Example 1:** A customer gets a new job with a higher salary. They wait three months to receive a few paychecks and show that their income has increased before requesting an upgrade.
@@ -2140,7 +2140,7 @@ Timing is everything. A strategic upgrade should be timed to your financial situ
 
 **The Execution Phase**
 
-**Part 21: The Call to Action**
+**Part 20: The Call to Action**
 
 Pick up the phone and call your bank's customer service number. Do not fill out an online form. The phone call is the only reliable way to get an upgrade approved without a hard inquiry.
 * **Example 1:** A user calls the bank's hotline number and presses the correct options to be connected to a customer service representative.
@@ -2150,7 +2150,7 @@ Pick up the phone and call your bank's customer service number. Do not fill out 
 * **Example 5:** Before calling, you have your account number, the name of the card you want, and a concise reason for the upgrade (e.g., "I'm looking for a card with better travel rewards for my upcoming trip") ready to share with the agent.
 * **Example 6:** If the agent says no, you politely ask, "Is there any way to get this request approved, or is there a supervisor I could speak with to explore my options?" Sometimes, an escalation can lead to a different outcome.
 
-**Part 22: The Perfect Phone Script**
+**Part 21: The Perfect Phone Script**
 
 When you call, be confident and clear.
 * **Example 1:** "Hello, I would like to perform a product change on my account. I have been a loyal customer for several years and would like to upgrade to the [New Card Name]."
@@ -2160,7 +2160,7 @@ When you call, be confident and clear.
 * **Example 5:** "I've done some research and I'm very interested in the [New Card Name] because of the travel benefits. I'm calling to see if my account is eligible for a product change."
 * **Example 6:** "I've been a loyal [Bank Name] customer for a long time and I'm very happy with my account. However, I'm hoping to get a card that offers more benefits, so I'd like to upgrade to the [New Card Name]."
 
-**Part 23: The Art of Negotiation**
+**Part 22: The Art of Negotiation**
 
 You have more power than you think. You can negotiate for better terms. Your strong history gives you leverage.
 * **Example 1:** "I'm excited about this new card, but I'm hesitant about the higher annual fee. Is there any way the fee could be reduced for the first year?"
@@ -2170,7 +2170,7 @@ You have more power than you think. You can negotiate for better terms. Your str
 * **Example 5:** "I've been a loyal customer with this card for several years. I'm hoping you could make an exception to the annual fee for me to thank me for my loyalty."
 * **Example 6:** "Thank you for the information. I really appreciate your time. I'll need some time to think about it. If you have any future promotions or offers for an upgrade, please let me know."
 
-**Part 24: Handling Common Objections**
+**Part 23: Handling Common Objections**
 
 If the representative tries to push you toward a new application, politely but firmly explain that you want a product change to preserve your credit history. Stay calm and stick to your goal.
 * **Example 1:** A representative says, "I can help you apply for that card right now!" You respond, "Thank you, but I'm looking for a product change, not a new application."
@@ -2180,7 +2180,7 @@ If the representative tries to push you toward a new application, politely but f
 * **Example 5:** A representative says, "I'm sorry, I am unable to do a product change to that card." You can respond, "I understand. Is there a specific department or a manager I could speak with who might be able to help?"
 * **Example 6:** When the agent pushes for a new application, you can politely explain, "I'd prefer a product change so I can keep my credit history and account age. It's important for me to maintain my long-standing relationship with the bank on this same account."
 
-**Part 25: The Downgrade Strategy**
+**Part 24: The Downgrade Strategy**
 
 A downgrade is a valuable tool. If a premium card's annual fee is no longer justified, you can downgrade to a no-fee card in the same family to save money while keeping the account history intact.
 * **Example 1:** A user with a premium travel card is no longer traveling as much. They downgrade to the bank's basic rewards card to avoid the annual fee.
@@ -2192,7 +2192,7 @@ A downgrade is a valuable tool. If a premium card's annual fee is no longer just
 
 **Advanced Tactics & What-If Scenarios**
 
-**Part 27: The Annual Fee Timing Hack**
+**Part 25: The Annual Fee Timing Hack**
 
 A pro tip is to time your upgrade just after your old card's annual fee has posted. Most banks have a grace period (often 30-60 days) where they will refund the old fee and charge you the new one, effectively allowing you to try the new card without paying two fees.
 * **Example 1:** A user's annual fee posts on January 5. They request an upgrade on January 15 and are granted a refund for the old fee a few weeks later.
@@ -2202,7 +2202,7 @@ A pro tip is to time your upgrade just after your old card's annual fee has post
 * **Example 5:** A customer waits 90 days after their annual fee has posted to request an upgrade. The bank's grace period has expired, and the customer is told they cannot receive a refund for the old fee.
 * **Example 6:** This timing hack works best for upgrades that happen after the first year. Most first-year annual fees are waived, so you would wait until the second-year fee posts before making a product change.
 
-**Part 28: What is a "Retention Offer"?**
+**Part 26: What is a "Retention Offer"?**
 
 A retention offer is a bonus a bank gives you to keep you from closing your account. This is usually offered by a special "retention department" when you call to cancel a card.
 * **Example 1:** A user calls to cancel their card and is offered a ₱5,000 statement credit to stay.
@@ -2212,7 +2212,7 @@ A retention offer is a bonus a bank gives you to keep you from closing your acco
 * **Example 5:** A bank representative transfers your call to the "retention" or "cancellation" department after you state that you want to close your account. This is the department authorized to make these special offers.
 * **Example 6:** Banks offer retention deals because the cost of acquiring a new customer is significantly higher than the cost of keeping a satisfied, existing one. Your strong credit history and loyalty are valuable to them.
 
-**Part 29: The Psychology of the Bank Representative**
+**Part 27: The Psychology of the Bank Representative**
 
 The representative's job is to keep you as a customer. They have specific tools to offer you incentives. Understanding this gives you the power to negotiate and push for a better outcome.
 * **Example 1:** A user is polite and patient, which encourages the representative to work harder to find a solution for them.
@@ -2222,7 +2222,7 @@ The representative's job is to keep you as a customer. They have specific tools 
 * **Example 5:** A representative has performance metrics based on customer retention and satisfaction. When you mention that you are a profitable customer or that you are considering leaving, you directly impact their metrics, which gives them a clear incentive to find a solution for you.
 * **Example 6:** You mention a specific, compelling reason for wanting to leave, such as a higher-earning card from a competitor. This shows the agent that you're not just complaining and that they need to find a way to match or beat the competition to keep your business.
 
-**Part 30: What to Do if an Upgrade is Denied**
+**Part 28: What to Do if an Upgrade is Denied**
 
 If your request is denied, calmly ask for the reason. It is often a simple issue that you can fix, such as a high balance or a recent late payment. Once you have addressed the reason, you can typically try again after **6 months.**
 * **Example 1:** A user's upgrade is denied because of a recent late payment. They immediately make the payment and set up automatic payments for the future. They try again in six months.
@@ -2232,7 +2232,7 @@ If your request is denied, calmly ask for the reason. It is often a simple issue
 * **Example 5:** An upgrade is denied because a person has only had the card for 9 months, and the bank requires a minimum of 12 months. They simply wait three more months and then try the upgrade again.
 * **Example 6:** A customer receives a denial and, instead of giving up, politely asks the representative, "What specific reasons led to this decision, and what can I do to improve my chances in the future?" This gives them a clear action plan.
 
-**Part 31: The Appeal Process**
+**Part 29: The Appeal Process**
 
 If you believe a denial was unjust, you can escalate the issue by asking to speak with a supervisor or by submitting a formal complaint. This is a rare step, but it is available.
 * **Example 1:** A user is denied an upgrade for a reason they believe is incorrect. They politely ask to speak with a supervisor to discuss their case further.
@@ -2242,7 +2242,7 @@ If you believe a denial was unjust, you can escalate the issue by asking to spea
 * **Example 5:** You write a detailed letter to the bank explaining your financial situation, history as a customer, and the specific reasons why you believe you are a good candidate for the upgrade. You include supporting documentation to strengthen your case.
 * **Example 6:** Escalating to a supervisor or the appeals department bypasses the initial representative's limited authority. These individuals often have more power and can make exceptions or reconsider a decision based on a more holistic view of your relationship with the bank.
 
-**Part 32: The Legal and Ethical Side**
+**Part 30: The Legal and Ethical Side**
 
 A bank cannot force you to apply for a new card instead of upgrading. You have the right to request a product change if one is available for your account.
 * **Example 1:** A representative tells you, "We don't do upgrades." You can refer to the bank's product change policy to confirm that this is not true.
@@ -2253,7 +2253,7 @@ A bank cannot force you to apply for a new card instead of upgrading. You have t
 * **Example 6:** You can point out that it is in the bank's best interest to keep a customer with a strong payment history rather than forcing them to leave for a competitor due to an unwillingness to offer a simple product change.
 **The Post-Upgrade Checklist**
 
-**Part 33: Post-Upgrade Verification**
+**Part 31: Post-Upgrade Verification**
 
 After the upgrade is approved, call your bank to verify that your account number is the same, your points were transferred correctly, and the new annual fee is what you expected.
 * **Example 1:** You call to confirm the upgrade was processed and the representative tells you, "Yes, your account number is the same and your 50,000 points were transferred."
@@ -2263,7 +2263,7 @@ After the upgrade is approved, call your bank to verify that your account number
 * **Example 5:** You notice that your points balance is lower than it should be after the upgrade. You call the bank and point out the discrepancy, and a representative processes a manual transfer of the missing points.
 * **Example 6:** A few weeks after the upgrade, you check your credit report to confirm that the account shows as a single, long-standing account and not a new one, which is the entire point of a product change.
 
-**Part 34: Activating the New Card**
+**Part 32: Activating the New Card**
 
 When your new card arrives, activate it immediately. Follow the instructions to ensure a smooth transition. Your old card will be deactivated, and you should destroy it.
 * **Example 1:** You receive the new card in the mail and activate it immediately using the phone number provided on the sticker.
@@ -2274,7 +2274,7 @@ When your new card arrives, activate it immediately. Follow the instructions to 
 * **Example 6:** You don't have to worry about updating your recurring payments for services like Netflix or Spotify, as the account number usually remains the same, ensuring a seamless transition.
 
 
-**Part 35: The Old Card: What to Do**
+**Part 33: The Old Card: What to Do**
 
 Once your new card is active, cut up your old card. Do not simply throw it away. Securely dispose of it to protect your information.
 * **Example 1:** A user shreds the old card to prevent a thief from finding their information.
@@ -2284,7 +2284,7 @@ Once your new card is active, cut up your old card. Do not simply throw it away.
 * **Example 5:** You remember that the old card contains your new account number. You cut up the card into multiple small pieces and dispose of them in separate trash cans to make it impossible for anyone to reconstruct the card details.
 * **Example 6:** A user removes the old card's information from all saved online payment profiles (like on Amazon, Spotify, or PayPal) to ensure the new card is the only one saved for future purchases.
 
-**Part 36: Updating Recurring Payments**
+**Part 34: Updating Recurring Payments**
 
 Do not forget to update all of your recurring payments (e.g., streaming services, gym memberships, mobile phone bills) with your new card information to avoid missed payments and service disruptions.
 * **Example 1:** A user logs in to their Spotify and Netflix accounts to update the payment information with their new card number and expiration date.
@@ -2294,7 +2294,7 @@ Do not forget to update all of your recurring payments (e.g., streaming services
 * **Example 5:** While your account number stays the same, the new card will have a different **expiration date** and a new **CVC code**. These details must be updated for your recurring payments to go through successfully.
 * **Example 6:** You open your Uber or Grab app and update your saved payment method to ensure that all future rides are automatically billed to your new card.
 
-**Part 37: Final Financial Audit**
+**Part 35: Final Financial Audit**
 
 After the new card is in use, conduct a final audit. Confirm that you are using the card strategically and that it is helping you meet your financial goals.
 * **Example 1:** A user reviews their statement after a month and confirms that they are, in fact, earning more rewards in their target spending categories.
@@ -2307,7 +2307,7 @@ After the new card is in use, conduct a final audit. Confirm that you are using 
 
 **The Long-Term Portfolio Strategy**
 
-**Part 38: Your Credit Card Ecosystem**
+**Part 36: Your Credit Card Ecosystem**
 
 Your new card is just one part of your financial ecosystem. You can now use it strategically alongside any other cards you have to maximize rewards on every purchase.
 * **Example 1:** A user now uses their new upgraded card for dining and travel but still uses a different cashback card for all other purchases.
@@ -2317,7 +2317,7 @@ Your new card is just one part of your financial ecosystem. You can now use it s
 * **Example 5:** A customer who has both a high-end card and a no-fee card from the same bank transfers all the points to the premium card's account to take advantage of better redemption options, like airline transfers.
 * **Example 6:** The goal of building an ecosystem is to ensure that you are never using a card that gives you 1% back on a purchase when you could be earning 2%, 3%, or even 5% with a different card in your wallet.
 
-**Part 39: The Final Summary: A Comprehensive View**
+**Part 37: The Final Summary: A Comprehensive View**
 
 An upgrade is a powerful tool because it is a low-risk, high-reward way to improve your financial life. It protects your credit history while giving you a better product.
 * **Example 1:** A user gets a new card with better perks and a higher limit, all while preserving their 10-year credit history.
@@ -2327,7 +2327,7 @@ An upgrade is a powerful tool because it is a low-risk, high-reward way to impro
 * **Example 5:** A customer keeps a simple, no-annual-fee card for years to build a long credit history. When their income and spending increase, they upgrade the card to a premium version to better suit their lifestyle.
 * **Example 6:** The credit card upgrade process empowers you to be an active manager of your finances. It's about getting the most value from your products by knowing your options and leveraging your history as a responsible customer.
 
-**Part 40: The Path to Total Financial Mastery**
+**Part 38: The Path to Total Financial Mastery**
 
 By mastering the art of the credit card upgrade, you have taken a major step toward becoming a true master of your personal finances. This is just one move in a lifelong journey of strategic financial management.
 * **Example 1:** A user uses this knowledge to successfully upgrade their card and save money on their annual fee.
