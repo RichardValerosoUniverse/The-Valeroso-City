@@ -2305,9 +2305,15 @@ Do not forget to update all of your recurring payments (e.g., streaming services
 * **Example 6:** You open your Uber or Grab app and update your saved payment method to ensure that all future rides are automatically billed to your new card.
 
 **Part 37: Final Financial Audit**
+
 After the new card is in use, conduct a final audit. Confirm that you are using the card strategically and that it is helping you meet your financial goals.
 * **Example 1:** A user reviews their statement after a month and confirms that they are, in fact, earning more rewards in their target spending categories.
 * **Example 2:** A person checks their credit report a few weeks later to confirm that the new card is listed with the same account history and their score has not been affected.
+* **Example 3:** You review your annual spending to ensure that the rewards or benefits you have received are worth more than the new annual fee you are paying.
+* **Example 4:** You check your account to confirm that you have received a promised statement credit for a new benefit, such as a travel credit or a credit for a streaming service subscription.
+* **Example 5:** You analyze your spending to see if the new card's rewards structure is influencing your spending habits in a positive way, such as encouraging you to use the card more for groceries or travel.
+* **Example 6:** You use the results of your audit to determine if the new card is a long-term "keeper" in your wallet or if you will need to consider another product change or cancellation in the future.
+
 
 **The Long-Term Portfolio Strategy**
 
