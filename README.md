@@ -54,7 +54,7 @@ With a strong credit card history, you're ready to diversify your credit mix. Th
 * **The SuperHighness Standard:** As needed, strategically open other forms of credit. For example, a small personal loan from a financial institution to buy a new laptop, which you will pay off in installments. The key is to manage each account with the same discipline.
 * **Fullest Understanding:** A diverse credit portfolio, managed perfectly, demonstrates an even higher level of financial responsibility. When the time comes to apply for a major loan, such as a housing loan or a car loan, your self-made, diverse, and flawless credit history will position you for the best possible interest rates and terms.
 
-This "SuperHighness Way" is about building a powerful, independent credit history from the ground up, setting you up for a lifetime of financial advantage in the Philippines.
+**The SuperHighness Way** is about building a powerful, independent credit history from the ground up, setting you up for a lifetime of financial advantage in the Philippines.
 
 ## Reasons why the **The SuperHighness Way** rejects the idea of being a Supplementary Credit Card holder rather than a Primary one
 
