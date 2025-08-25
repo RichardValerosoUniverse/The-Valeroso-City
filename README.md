@@ -307,7 +307,7 @@ Examples:
 
 * **The Person Building Their Credit History:** Alex, 22, has just received their first credit card. Instead of applying for a second one to "boost" their score, they commit to a one-year "credit fast." They focus on using their single card responsibly and keeping their credit utilization low. After a year of zero new credit inquiries, their credit score has steadily and significantly improved, allowing them to qualify for a more rewarding credit card with a high limit.
 
-## **A Cautionary Tale: My Experiences with credit card companies**
+## **A Cautionary Tale: My experiences with credit card companies**
 
 While their other products seem doing good in the philippine market, their credit card products are worst in all areas and they are starters of scamming activities towards their consumers.
 
