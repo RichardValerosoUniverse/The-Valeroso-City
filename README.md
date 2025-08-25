@@ -611,7 +611,7 @@ While both ratios are considered by lenders, they are not all equally important 
 * **Myth:** I have a high income, so my DTI is fine.
     * **Fact:** Not necessarily. Even with a high income, a large amount of debt can result in a high DTI. It's the ratio that matters, not the income alone.
 
-### **Practical Tips for a Healthier Financial Profile**
+**Practical Tips for a Healthier Financial Profile**
 
 Improving your CUR and DTI are two of the most impactful things you can do for your financial well-being.
 
