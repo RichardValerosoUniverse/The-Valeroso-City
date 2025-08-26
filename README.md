@@ -64,7 +64,7 @@ When it comes to age, the main requirements are **maturity and responsibility**.
 
 **A Lifetime of Responsibility: Credit Activity Can't Be Erased**
 
-Your credit card activity is a permanent part of your financial history. It's a lifetime commitment. Mistakes, once recorded by the CIC, can be difficult to remove and may follow you for years. Therefore, it is always better to be late in getting a credit card than to rush into a commitment you aren't ready for. The "SuperHighness Way" is about building a foundation that lasts, because life is forever in the SuperHighness Way.
+Your credit card activity is a permanent part of your financial history. It's a lifetime commitment. Mistakes, once recorded by the CIC, can be difficult to remove and may follow you for years. Therefore, it is always better to be late in getting a credit card than to rush into a commitment you aren't ready for. **"The SuperHighness Way"** is about building a foundation that lasts, because life is forever in the SuperHighness Way.
 
 **Phase 1: The Foundational Independent Account**
 The first and most critical step is to get your own credit account. Since you likely don't have a credit history yet, a **secured credit card** is your best tool. Many financial institutions in the Philippines offer these.
