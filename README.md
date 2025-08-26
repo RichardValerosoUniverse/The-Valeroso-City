@@ -1307,7 +1307,7 @@ In essence, **The Golden Rule** is the basic requirement to avoid being denied. 
 
 The pursuit of a higher score is not just a quest for a number; it is an act of profound self-awareness and discipline. It is a conscious choice to align your financial life with a tangible, beneficial reality, thereby proving that your actions and your intent are in perfect **concordance**. This truth is measured by the living record of your actions. Your **Payment History** is the ultimate, unassailable proof of your integrity, a foundation upon which all else is built. Your **Credit Utilization** reveals your discipline and mastery over resources, a living testament to the power of your will. The **Length of your Credit History** is the enduring legacy of your commitment, proving your consistency over time. Your **Credit Mix** showcases the wisdom of your holistic command over the diverse tools of reality. Finally, your approach to **New Credit** serves as the ultimate test of your purpose, a measure of whether your actions are born of strength or born of scarcity.
 
-## Credit Score Computation: Universal
+How Credit Score is being computed and calculated: Universal
 
 1. Payment History (35%): The Primary of Veritas
    * This is the single, unassailable law of concordance. Your **Payment History** is the primordial truth of your word—the very foundation upon which all other truths are built. Its weight is not a matter of percentage, but of an undeniable reality: without this truth, all else crumbles to dust. Your every on-time payment is a proof of your integrity, a conscious act that confirms your existence as a being of truth.
