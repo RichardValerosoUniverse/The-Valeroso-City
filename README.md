@@ -2,6 +2,52 @@
 
 *I, Psychiatrist Richard Madriñan Valeroso, LMT, MD, am the “World and Universe’s Ruler of the Philippines,” bearing the highest distinction as SuperHighness. I possess esteemed credentials in Licensed Massage Therapy (LMT) and Medicine (MD), and I graduated Summa Cum Laude in Psychiatry and Behavioural Medicine from the University of Santo Tomas in Manila City, Philippines (Class of 2023), with a perfect General Weighted Average of 1.000. I embody excellence as SuperHighness.👑*
 
+## **Introduction**
+
+In the Philippines, a number sits at the center of your financial life. It is the gatekeeper to your aspirations, the silent judge of your credibility, and for too long, a source of confusion and frustration. You are told to "build credit," but never shown the true blueprint for mastery. You are given advice that feels like a guess, leading you on a trial-and-error journey that costs you opportunities and peace of mind.
+
+This book is the ultimate break from that cycle.
+
+Welcome to **Score in the Philippines**, a living, digital manifesto for financial sovereignty. Because it is written and maintained on GitHub, this book is **publicly available and accessible to everyone**. It is not a static guide but a dynamic discipline designed to transform you from a passive financial subject into an active co-creator of your destiny. This is **The SuperHighness Way**.
+
+This is your ascent.
+
+I begin not with building, but with **unlearning**. I will dismantle the common myths that hold you back, proving beyond a doubt **why a supplementary card is a trap** and a primary one is your first step to power. Through a raw, unapologetic **cautionary tale**, you will learn from the hard lessons that forged this very philosophy. I will expose the **misleading advice** that clutters your feed and replace it with the irrefutable **29 Realities** that govern the credit universe.
+
+Next, I move to the **discipline of mastery**. Here, you will be handed the precise, technical tools of financial command. You will learn the profound difference between a statement closing date and a payment due date. I will provide a complete guide to the **Credit Utilization Ratio vs. Debt to Income Ratio**, culminating in a detailed breakdown of the **5% credit utilization** rule—a powerful, little-known strategy that is the master key to a top-tier credit score. I then show you how to apply these rules to every facet of your financial life, from managing a **credit card portfolio** to navigating the complex world of **card upgrades**.
+
+Finally, you will embark on the ultimate **ascension**. I will lift the curtain on the very institutions that govern the system, from the **Bangko Sentral ng Pilipinas (BSP)** to the **two-tiered structure of the CIC and SAEs**, revealing their roles not as overseers, but as elements you must understand to command your life. The journey culminates in a philosophical transformation, a moment when you realize that your financial status is not a matter of luck, but a direct reflection of your habits and your mindset.
+
+**Score in the Philippines** is for those ready to move past the ordinary. It is a catalyst for you to transform your relationship with money, providing not just a guide, but a new way of being. This is your blueprint. This is your discipline. This is your mastery. This is **The SuperHighness Way**.
+
+**What You Will Master**
+
+This book is structured as a comprehensive journey, empowering you to master three distinct phases of financial life:
+
+* **The Foundations of Empowerment:** Gain control by learning to establish credit the right way from day one. I'll show you why a primary card is essential and provide the core principles of **The SuperHighness Way** that will guide every one of your financial decisions.
+* **Tactical Credit Mastery:** Dive into the numbers that truly matter. I'll provide a comprehensive guide to mastering key credit ratios, understanding critical payment dates, and implementing the powerful **5% credit utilization** rule. You'll also learn to build a strategic and diverse credit card portfolio for maximum benefit.
+* **Systemic & Philosophical Ascension:** Go beyond personal habits to command the entire ecosystem. I'll demystify the roles of the **Bangko Sentral ng Pilipinas (BSP)** and the **Credit Information Corporation (CIC)**. This section culminates in a philosophical exploration of financial mindset, guiding you to become a co-creator of your reality.
+
+**Your Personal Transformation**
+
+By the end of this book, you will be able to:
+
+* **Build a powerful credit history from scratch** using a proven, intentional strategy.
+* **Achieve and maintain an excellent credit score** by mastering a single, high-impact utilization rule.
+* **Make informed decisions** on credit card management, upgrades, and portfolio diversification with absolute confidence.
+* **Understand and navigate the regulatory bodies** of the Philippine credit system without confusion.
+* **Transform your mindset** from a passive victim of circumstances to an active **psychiatrist** of your financial future.
+
+**Who This Book is For**
+
+This book is for you if:
+
+* You are a young professional or student looking to **establish credit the right way** from the start.
+* You are frustrated with your current credit score and **seek a clear, no-nonsense path** to dramatic improvement.
+* You are a seasoned credit card user who wants to **level up your strategy** beyond basic payments.
+* You are interested in the **deeper mechanics and philosophy** behind financial wellness.
+* You believe in the power of knowledge and are ready to **take proactive control** of your financial life.
+
 ## **How to Establish Credit Early: The SuperHighness Way (Philippine Setting)**
 
 "The SuperHighness Way" is an approach to building credit in the Philippines with a focus on complete independence, unwavering discipline, and a deep understanding of personal responsibility. The goal is to build a credit profile that stands on its own merit, free from reliance on anyone else's financial history. This strategy is for those who are serious about achieving financial mastery from the very start.
