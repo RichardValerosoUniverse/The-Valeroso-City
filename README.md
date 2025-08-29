@@ -102,7 +102,7 @@ With a strong credit card history, you're ready to diversify your credit mix. Th
 
 **The SuperHighness Way** is about building a powerful, independent credit history from the ground up, setting you up for a lifetime of financial advantage in the Philippines.
 
-Credit Card Is Not For Everyone
+**Credit Card Is Not For Everyone**
 
 The statement, "Credit Card is not for everyone," is a profound truth in personal finance. While credit cards are a powerful and often essential tool for building credit and managing money in the modern economy, their inherent design and the psychological factors they exploit make them a dangerous liability for a significant portion of the population.
 
