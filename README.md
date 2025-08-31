@@ -12,7 +12,7 @@ Welcome to **Score in the Philippines**, a living, digital manifesto for financi
 
 This is your ascent.
 
-I begin not with building, but with **unlearning**. I will dismantle the common myths that hold you back, proving beyond a doubt **why a supplementary card is a trap** and a primary one is your first step to power. Through a raw, unapologetic **cautionary tale**, you will learn from the hard lessons that forged this very philosophy. I will expose the **misleading advice** that clutters your feed and replace it with the irrefutable **29 Realities** that govern the credit universe.
+I begin not with building, but with **unlearning**. I will dismantle the common myths that hold you back, proving beyond a doubt **why a supplementary card is a trap** and a primary one is your first step to power. Through a raw, unapologetic **cautionary tale**, you will learn from the hard lessons that forged this very philosophy. I will expose the **misleading advice** that clutters your feed and replace it with the irrefutable **41 Realities** that govern the credit universe.
 
 Next, I move to the **discipline of mastery**. Here, you will be handed the precise, technical tools of financial command. You will learn the profound difference between a statement closing date and a payment due date. I will provide a complete guide to the **Credit Utilization Ratio vs. Debt to Income Ratio**, culminating in a detailed breakdown of the **5% credit utilization** rule—a powerful, little-known strategy that is the master key to a top-tier credit score. I then show you how to apply these rules to every facet of your financial life, from managing a **credit card portfolio** to navigating the complex world of **card upgrades**.
 
@@ -176,7 +176,7 @@ Credit card accounts can be held in one of two main roles: as a **Principal Acco
 | **Credit Reporting** | The issuer reports all account activity (payments, balances, credit limit) to the credit bureaus, directly building **your credit report**. | The issuer reports all account activity (payments, balances, credit limit) to the credit bureaus, building **your credit report**. All activity by secondary users is reflected on the principal user's report. | The issuer may report the account to the authorized user’s credit file. **This is not guaranteed.** When reported, it can help build credit. | The issuer may report the account to the supplementary user’s credit file. **This is not guaranteed.** When reported, it can help build credit. |
 | **Key Difference** | **Requires a cash deposit** as collateral, which acts as your credit limit. This makes it easier to get approved even with poor or no credit history. | This is the **principal account holder** who is fully liable and responsible for the account and its management. | **Does not require a deposit.** It's a way to gain access to an established credit line and its history without any upfront cost. | The term is most commonly used to provide a family member with spending access, without a strong emphasis on credit building. |
 
-## **29 Realities of The SuperHighness Way**
+## **41 Realities of The SuperHighness Way**
 
 The SuperHighness Way is more than a set of instructions; it is a profound shift in mindset. While the principles are straightforward, living them out in the real world comes with its own set of realities that you must be prepared for. These are not drawbacks, but rather the essential truths of a journey toward true financial mastery.
 
