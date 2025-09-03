@@ -354,32 +354,6 @@ There will be a time in your journey when you have a good unsecured card but wil
 
 * **The SuperHighness Mindset:** You will understand that credit is a long-term game. Taking a break from new applications is a strategic move, not a lack of opportunity. This period of quiet, disciplined management makes your existing credit accounts more powerful and valuable over time.
 
-**Financial Diet vs. Credit Fasting: Two Sides of a Single Coin**
-
-**1. The Financial Diet: The Discipline of Spending**
-
-**Core Principle:** The **Financial Diet** teaches you the fundamental difference between your **true needs** and your **false needs**. The goal is to build long-term discipline by intentionally living as though you had less, thereby breaking the cycle of impulsive or mindless spending.
-
-Examples:
-
-* **The Young Couple Saving for a Home:** Ben and Liza, a newlywed couple, decide on a six-month "Financial Diet." They cook meals at home, limit entertainment to free activities, and set a "no-buy" rule for new clothes. After six months, they've saved an impressive **₱250,000** and, more importantly, have built disciplined spending habits that will accelerate their journey toward homeownership.
-
-* **The Student Managing Allowance:** Jasmine, a college student, constantly runs out of her weekly allowance. She goes on a one-week "Financial Diet," bringing home-brewed coffee and a packed lunch to campus. She successfully gets through the week with money to spare, realizing that small changes can have a huge impact on her budget and sense of financial control.
-
-* **The Young Professional with "Lifestyle Creep":** Liam, a 27-year-old with a good salary, feels broke due to "lifestyle creep" from daily coffees, multiple streaming services, and frequent online shopping. He commits to a four-month "Financial Diet," cutting back on non-essential spending. He saves over **₱15,000** a month, enough to fund a long-dreamed-of trip to Japan, proving that redirecting small, habitual expenses can lead to significant savings for major goals.
-
-**2. Credit Fasting: The Patience of Borrowing**
-
-**Core Principle:** **Credit Fasting** is a deliberate and strategic pause in your credit-seeking activity. The goal is to build a strong **reputation as a borrower**—demonstrating to the entire financial system that you are a stable, reliable, and patient individual, not someone overly reliant on new lines of credit.
-
-Examples:
-
-* **The Small Business Owner:** Ramon, a café owner, wants a large bank loan but is concerned his recent history of taking out small loans and credit cards makes him look risky. He goes on an 18-month "credit fast," paying down existing debts and not applying for any new credit. When he applies for the bank loan, his financial profile is much stronger, and he secures a lower interest rate, saving him tens of thousands of pesos.
-
-* **The Post-Debt Recovery:** Sofia has just paid off her student loans and is tempted to apply for a new credit card to buy a car. Instead, she engages in a six-month "credit fast." She focuses on saving money for a down payment and allows her credit report to reflect her newly paid-off debt. When she applies for a car loan, her clean credit history and zero recent inquiries make her an ideal candidate, earning her the best possible interest rate.
-
-* **The Person Building Their Credit History:** Alex, 22, has just received their first credit card. Instead of applying for a second one to "boost" their score, they commit to a one-year "credit fast." They focus on using their single card responsibly and keeping their credit utilization low. After a year of zero new credit inquiries, their credit score has steadily and significantly improved, allowing them to qualify for a more rewarding credit card with a high limit.
-
 **Reality 30: You Will Not Be Swayed by "No-Credit-Check" Loans**
 
 As a person with a strong credit history, you will see constant marketing for "easy" loans that promise no credit checks. These are often high-interest and predatory in nature. A person following "The SuperHighness Way" would immediately recognize these for what they are: products designed for those with poor credit.
