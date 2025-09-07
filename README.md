@@ -3221,7 +3221,7 @@ In this example, we take only 8 because the result is a single digit.
 Step three: We sum up the two total results. If the result is exactly the 10th, in other words if mod10 is zero, we can say that the credit card number is valid.
 16 + 64 = 80 (the card number is valid since 10 is the full rank).
 
-Demo: SuperHighness Credit Card Generator
+Demo: https://creditcard.run/generator/jcb
 
 ## License: The SuperHighness Way
 
