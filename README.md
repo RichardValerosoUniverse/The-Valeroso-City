@@ -3179,7 +3179,7 @@ When you receive a call, remain calm and professional. Do not argue. Your first 
 * **Log Entry Example:**
     * **Date & Time:** September 5, 2025, 1:30 PM
     * **Collector's Name:** Mr. Santos
-    * **Agency:** Debt Collection PH
+    * **Agency:** Collections Party
     * **Summary:** Called me at my workplace. Insisted I pay the full amount today. Threatened to "ruin my reputation" if I didn't.
 
 **Step 3: Negotiate a Settlement (The Proactive Approach)**
