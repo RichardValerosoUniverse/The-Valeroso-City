@@ -3175,7 +3175,7 @@ When you receive a call, remain calm and professional. Do not argue. Your first 
 **Step 2: Create a Communication Log**
 * **Action:** Start a simple log to document every single interaction. This is your most important piece of evidence if you need to file a complaint.
 * **Log Entry Example:**
-    * **Date & Time:** September 7, 2025, 1:30 PM
+    * **Date & Time:** September 5, 2025, 1:30 PM
     * **Collector's Name:** Mr. Santos
     * **Agency:** Debt Collection PH
     * **Summary:** Called me at my workplace. Insisted I pay the full amount today. Threatened to "ruin my reputation" if I didn't.
