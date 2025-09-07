@@ -6,7 +6,7 @@
 
 Imagine your credit score in the Philippines isn't a mystery, but a tool you can master. For too long, we've been given advice that feels like guesswork, leading to frustration and missed opportunities. What if you could finally get a clear, powerful blueprint to build your financial future?
 
-That's the promise of my work, **"Credit Card Score in PH,"** now accessible on GitHub. This isn't just a book; it's a dynamic discipline I've named **The SuperHighness Way**. It's a journey designed to transform you from a passive participant in your financial life into its active architect.
+That's the promise of my work, **"Credit Card Score in PH,"** now accessible on GitHub. This isn't just a book; it's a dynamic discipline I've named **The SuperHighness Way**. It's a journey designed to transform you from a passive participant in your financial life into its active psychiatrist.
 
 **Phase 1: Your Foundation of Financial Power**
 
