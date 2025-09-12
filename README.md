@@ -49,7 +49,7 @@ When it comes to age, the main requirements are **maturity and responsibility**.
 
 Your credit card activity is a permanent part of your financial history. It's a lifetime commitment. Mistakes, once recorded by the CIC, can be difficult to remove and may follow you for years. Therefore, it is always better to be late in getting a credit card than to rush into a commitment you aren't ready for. **"The SuperHighness Way"** is about building a foundation that lasts, because life is forever in the SuperHighness Way.
 
-**Phase 1: The Foundational Independent Account**
+**Phase 1: The Foundational Independent Account** 
 The first and most critical step is to get your own credit account. Since you likely don't have a credit history yet, a **secured credit card** is your best tool. Many financial institutions in the Philippines offer these.
 A secured credit card is a type of credit card that requires a cash deposit to serve as collateral. This deposit is held by the bank and typically becomes your credit limit.
 
