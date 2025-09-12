@@ -3164,6 +3164,59 @@ Step three: We sum up the two total results. If the result is exactly the 10th, 
 
 Demo: https://creditcard.run/checker
 
+## Luhn Algorithm: A Complete Guide
+
+A credit card generator is a tool used by developers to create valid-looking but completely fake credit card numbers for testing payment systems. The key to making these numbers appear legitimate is the **Luhn algorithm**.
+
+Developed in the 1950s by Hans Peter Luhn, this algorithm is a simple checksum formula that validates a card number's structure, helping prevent simple typing errors.
+
+Here is a corrected, step-by-step guide on how the algorithm works, using two contrasting examples to show both a valid and an invalid outcome.
+
+**Example 1: An Invalid Card Number**
+
+Let's apply the algorithm to your number: **4242-4242-4242-4242**.
+
+1.  **Double every second digit from the right.**
+    Starting with the second digit from the right, double every alternating digit. In this case, that means all the `2`s.
+    * `2 x 2 = 4` (for each `2`)
+
+2.  **Sum all the digits.**
+    Now, add up all the digits in the card number. This includes the digits that were not doubled (the `4`s) and the ones you just doubled (which are also `4`s).
+    * `4+4+4+4+4+4+4+4 + 4+4+4+4+4+4+4+4` = `64`
+
+3.  **Check for validity.**
+    A valid Luhn number must have a sum that is a multiple of 10.
+    * `64` is not a multiple of 10.
+    
+    Therefore, **4242-4242-4242-4242** is **not a valid number**.
+
+**Example 2: A Valid Card Number**
+
+To truly understand how a valid number is created, let's use a standard test number: **79927398713**.
+
+1.  **Double every second digit from the right.**
+    Starting from the right, the digits to be doubled are `1`, `8`, `3`, `2`, and `9`.
+    * `1 x 2 = 2`
+    * `8 x 2 = 16`
+    * `3 x 2 = 6`
+    * `2 x 2 = 4`
+    * `9 x 2 = 18`
+
+2.  **If a doubled digit is over 9, add its digits together.**
+    * `16` becomes `1 + 6 = 7`
+    * `18` becomes `1 + 8 = 9`
+
+3.  **Sum all the single digits.**
+    Now, add up every single-digit number, including the original digits (those not doubled) and the results from the previous step.
+    * `3` + `2` + `7` + `7` + `9` + `6` + `7` + `4` + `9` + `9` + `7` = `70`
+
+4.  **Check for validity.**
+    The sum, `70`, is a multiple of 10.
+    
+    This means **79927398713** is a **valid Luhn number**.
+
+Understanding this process is what allows a credit card generator to create useful, valid-looking numbers for testing and development.
+
 ## License: The SuperHighness Way
 
 SuperHighness Richard Madriñan Valeroso License
