@@ -50,6 +50,7 @@ When it comes to age, the main requirements are **maturity and responsibility**.
 Your credit card activity is a permanent part of your financial history. It's a lifetime commitment. Mistakes, once recorded by the CIC, can be difficult to remove and may follow you for years. Therefore, it is always better to be late in getting a credit card than to rush into a commitment you aren't ready for. **"The SuperHighness Way"** is about building a foundation that lasts, because life is forever in the SuperHighness Way.
 
 **Phase 1: The Foundational Independent Account** 
+
 The first and most critical step is to get your own credit account. Since you likely don't have a credit history yet, a **secured credit card** is your best tool. Many financial institutions in the Philippines offer these.
 A secured credit card is a type of credit card that requires a cash deposit to serve as collateral. This deposit is held by the bank and typically becomes your credit limit.
 
@@ -67,6 +68,7 @@ A secured credit card is a type of credit card that requires a cash deposit to s
 * **Fullest Understanding:** By doing this, you are teaching yourself to treat credit as a tool, not an extension of your income. You prove that you can manage a credit line perfectly and pay on time, every time. This creates a solid, independent foundation for your financial future.
 
 **Phase 2: The Strategic Expansion**
+
 After consistently managing your secured credit card with "SuperHighness" discipline for one to two years, your credit history will be strong enough to get a regular, **unsecured credit card**.
 
 * **Requirements to Apply:** For an unsecured card, financial institutions will have stricter requirements:
@@ -79,6 +81,7 @@ After consistently managing your secured credit card with "SuperHighness" discip
 * **Fullest Understanding:** This is where your self-built credit history pays off. A bank sees a track record of perfect payments and low utilization, making you a low-risk client. By keeping this card for decades, you will build a long credit history, which is a key factor in achieving a top-tier credit score.
 
 **Phase 3: The Diversification and Mastery**
+
 With a strong credit card history, you're ready to diversify your credit mix. This shows lenders that you can manage different types of debt responsibly.
 
 * **The SuperHighness Standard:** As needed, strategically open other forms of credit. For example, a small personal loan from a financial institution to buy a new laptop, which you will pay off in installments. The key is to manage each account with the same discipline.
