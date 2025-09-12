@@ -51,9 +51,10 @@ Your credit card activity is a permanent part of your financial history. It's a 
 
 **Phase 1: The Foundational Independent Account**
 The first and most critical step is to get your own credit account. Since you likely don't have a credit history yet, a **secured credit card** is your best tool. Many financial institutions in the Philippines offer these.
+A secured credit card is a type of credit card that requires a cash deposit to serve as collateral. This deposit is held by the bank and typically becomes your credit limit.
 
-* **What it is:** A secured credit card requires a cash deposit, which then becomes your credit limit. For example, if you deposit ₱10,000, your credit limit is ₱10,000. It works just like a regular credit card, and all your payment activity is reported to the **CIC**.
-
+* **How it Works:** For instance, if you make a cash deposit of ₱10,000, your credit limit will be either the full ₱10,000 or a percentage of it, such as 80% to 90%, depending on the bank's specific policy.
+* **Purpose and Function:** Secured cards function just like a regular credit card. They are an effective tool for individuals who are new to credit or who need to rebuild their credit history. All of your payment activity, including on-time and late payments, is reported to the Credit Information Corporation (CIC), allowing you to establish a positive credit standing.
 * **Requirements to Apply:** To get a secured credit card, you must meet the following general requirements, though they can vary slightly by financial institution:
     * **Age:** You must be at least 21 years old to be the primary cardholder for most institutions.
     * **Identification:** You need a valid, government-issued photo ID (e.g., Philippine Identification System or PhilSys ID, Driver's License, SSS, or Passport).
