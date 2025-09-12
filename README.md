@@ -6,7 +6,7 @@
 
 Are you living by someone else's financial rules? Are you a passive subject in your own life, trapped by a system designed to confuse and control you? It's time to reject that reality.
 
-This book is my manifesto. It is **A Complete Guide to Credit Mastery and Financial Wellness with The SuperHighness Way**—a dynamic discipline, a living guide I have been writing, which I have now made accessible through GitHub. This is a journey to dismantle a lifetime of misinformation and claim a truth that will set you free.
+This book is my manifesto. It is **A Complete Guide to Credit Mastery and Financial Wellness with The SuperHighness Way in PH**—a dynamic discipline, a living guide I have been writing, which I have now made accessible through GitHub. This is a journey to dismantle a lifetime of misinformation and claim a truth that will set you free.
 
 **Phase 1: The Revelation**
 
