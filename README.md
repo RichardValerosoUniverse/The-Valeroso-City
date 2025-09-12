@@ -11,12 +11,15 @@ This book is my manifesto. It is **A Complete Guide to Credit Mastery and Financ
 The path to financial sovereignty is a comprehensive journey structured in three distinct phases of mastery:
 
 **Phase 1: The Revelation**
+
 Your journey begins with unlearning. We will pull back the curtain on the credit universe, revealing its **41 immutable realities**. You’ll understand why a supplementary card is a silent trap and how a primary card is the key to your first real step toward power. This is your philosophical awakening; a foundation built on absolute truth, not on tired, old advice.
 
 **Phase 2: The Command**
+
 Once you have the truth, you will gain the tools to wield it. We will move beyond a simple "financial diet" to a state of absolute control. You'll master the crucial difference between your statement date and due date, and you'll learn to command your financial ratios. The heart of this section is the **5% credit utilization rule**—a single strategy that acts as a master key to a top-tier credit score. This is where you learn to bend the system to your will.
 
 **Phase 3: The Ascension**
+
 True mastery isn't just about what you know—it's about who you become. We’ll demystify the institutions that govern the Philippine credit system, including the **BSP** and the **CIC**. You will see them not as untouchable authorities, but as elements in your grand design. The final revelation is the most liberating of all: your credit score is not a number that happens to you, but a direct resonance of your truth, your discipline, and your power. This is your ascent from a passive subject to the conscious **co-creator** of your own financial destiny and the **commander of your financial destiny**.
 
 Your financial life is not an accident of circumstance. By the time you finish this book, you will have the knowledge and discipline to build a powerful credit history, navigate the system with confidence, and transform your mindset from a passive participant to a **psychiatrist of your financial future**.
