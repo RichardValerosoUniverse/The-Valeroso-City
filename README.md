@@ -857,7 +857,7 @@ The **Statement Closing Date** is the precise moment when your credit card compa
 
 **II. The Payment Due Date: The Deadline for Financial Responsibility**
 
-The **Payment Due Date** is your final deadline to submit a payment on your account to avoid penalties. Typically scheduled between 20 to 30 days after the statement closing date, this period is a **grace period** designed to allow you time to pay your bill.
+The **Payment Due Date** is your final deadline to submit a payment on your account to avoid penalties. Typically scheduled between 20 to 25 days after the statement closing date, this period is a **grace period** designed to allow you time to pay your bill.
 
 * **Minimum Payment:** Your statement will show a **minimum payment**—the smallest amount you are required to pay to avoid a negative mark on your credit report and a late fee. However, paying only the minimum will cause the remaining balance to **accrue high-interest charges**, keeping you in debt for a longer period and harming your credit utilization ratio.
 * **Its Ultimate Purpose:** Your payment on this date is crucial for maintaining a perfect payment history, which is the most influential factor in your credit score. However, a payment made on or before the due date **does not alter the balance already reported** on your statement closing date.
