@@ -845,7 +845,7 @@ For your loans, your main job is much simpler:
 
 **Always make your payments on time.** The high balance on a loan is not a concern; consistent, on-time payments are the most important factor for building a positive credit history.
 
-## **The Cornerstone of Credit Mastery: The Strategic Distinction Between Your Statement Closing Date and Payment Due Date**
+## **The Strategic Distinction Between Your Statement Closing Date and Payment Due Date**
 
 True financial mastery is not about reacting to bills, but about proactively shaping your financial narrative. At the heart of this discipline lies a profound understanding of two distinct, yet commonly confused, milestones in your credit cycle: the Statement Closing Date and the Payment Due Date.
 
@@ -853,7 +853,7 @@ True financial mastery is not about reacting to bills, but about proactively sha
 
 The **Statement Closing Date** is the precise moment when your credit card company officially concludes your monthly billing cycle. On this day, a comprehensive snapshot of your account activity—including all purchases, payments, and fees—is taken to calculate your final **statement balance**.
 
-* **Its Ultimate Purpose:** This is the balance that is transmitted to major credit bureaus, such as the Credit Information Corporation (CIC). This figure is the single most critical input used to calculate your **credit utilization ratio**, a factor so heavily weighted in credit scoring models that it can determine the trajectory of your creditworthiness.
+* **Its Ultimate Purpose:** This is the balance that is transmitted to Credit Information Corporation (CIC). This figure is the single most critical input used to calculate your **credit utilization ratio**, a factor so heavily weighted in credit scoring models that it can determine the trajectory of your creditworthiness.
 
 **II. The Payment Due Date: The Deadline for Financial Responsibility**
 
