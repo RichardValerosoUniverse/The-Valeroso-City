@@ -132,7 +132,7 @@ In conclusion, the statement "Credit Card is not for everyone" is a powerful war
 
 **Why Credit Is Not For Everyone: A Comparison Table**
 
-| Aspect of Credit Use | The Ideal User (A Master) | The Vulnerable User (A Liability) |   | :--- | :--- | :--- |
+| Aspect of Credit Use  | The Ideal User (A Master) | The Vulnerable User (A Liability) |   | :--- | :--- | :--- |
 | Financial Mindset                | Sees a credit card as a tool for building credit and leveraging financial power.              | Views a credit card as an extension of income or "extra money."                         |
 | Handling of Debt                 | Pays the full statement balance every month, avoiding all interest charges and fees.          | Only makes the minimum payment, getting caught in a high-interest debt spiral.          |
 | Spending Habits                  | Follows a strict budget and uses the card for intentional, planned purchases.                 | Is prone to impulsive spending and uses the card to cope with emotional stress.          |
