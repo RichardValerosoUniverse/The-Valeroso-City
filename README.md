@@ -116,6 +116,18 @@ While anyone can fall victim to credit card debt, certain personality types and 
 
 In conclusion, the statement "Credit Card is not for everyone" is a powerful warning. While credit cards are indispensable for the financially savvy, they are a dangerous and often destructive force for those who lack a solid financial foundation, a disciplined mindset, and an understanding of the product they are using. For these individuals, a debit card or cash is not a less-advanced alternative; it is a smarter, safer, and ultimately more liberating financial choice.
 
+**Why Credit Is Not for Everyone: A Comparison**
+
+| Aspect of Credit Use | The Ideal User (A Master) | The Vulnerable User (A Liability) |
+| :--- | :--- | :--- |
+| **Financial Mindset** | Sees a credit card as a **tool** for building credit and leveraging financial power. | Views a credit card as an **extension of income** or "extra money." |
+| **Handling of Debt** | Pays the full statement balance every month, avoiding all interest charges and fees. | Only makes the minimum payment, getting caught in a **high-interest debt spiral**. |
+| **Spending Habits** | Follows a strict budget and uses the card for intentional, planned purchases. | Is prone to **impulsive spending** and uses the card to cope with emotional stress. |
+| **Understanding the Model** | Is **financially educated**, understanding grace periods, interest rates, and fees. | Is uneducated on financial terms and easily falls into traps set by the credit card model. |
+| **Psychological Impact** | Maintains a healthy, confident relationship with money and credit. | Feels a **psychological disconnect** between spending and paying, leading to stress and anxiety. |
+| **Financial Foundation** | Has an **emergency fund** and uses the card for convenience, not out of desperation. | Uses the card as a **"safety net,"** making a single emergency the start of a debt cycle. |
+| **Long-Term Outcome**| Builds a strong credit score, which opens doors to better loans and financial opportunities. | Can easily **damage their credit score**, leading to long-term financial hardships and limiting future options. |
+
 ## Reasons why the **The SuperHighness Way** rejects the idea of being a Supplementary Credit Card holder rather than a Primary one
 
 In the Philippines, a supplementary cardholder's credit activity is indeed reported to the **Credit Information Corporation (CIC)**, the country's central credit registry. However, this is the most critical detail: the information is not reported as a separate, independent credit history. Instead, all activity—both positive and negative—is tied to the primary cardholder's main account.
