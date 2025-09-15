@@ -16,7 +16,7 @@ Your journey begins with unlearning. We will pull back the curtain on the credit
 
 **Phase 2: The Command**
 
-Once you have the truth, you will gain the tools to wield it. We will move beyond a simple "financial diet" to a state of absolute control. You'll master the crucial difference between your statement date and due date, and you'll learn to command your financial ratios. The heart of this section is the **5% credit utilization rule**—a single strategy that acts as a master key to a top-tier credit score. This is where you learn to bend the system to your will.
+Once you have the truth, you will gain the tools to wield it. We will move beyond a simple "financial diet" to a state of absolute control. You'll master the crucial difference between your **statement date and due date**, and you'll learn to command your financial ratios. We'll also expose **the minimum payment trap**, which is **the deceptive illusion that is stealing your financial future**. The heart of this section is the **5% credit utilization rule**—a single strategy that acts as a master key to a top-tier credit score. This is where you learn to bend the system to your will.
 
 **Phase 3: The Ascension**
 
