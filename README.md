@@ -3104,27 +3104,6 @@ The central bank regulates the conduct of credit card issuers through BSP Circul
 | **Criminal Liability (Exception)** | Criminal liability *only* arises if the non-payment is linked to fraud, such as: 1) Issuance of a bouncing check (Batas Pambansa 22). 2) Fraudulent intent under the Access Devices Regulation Act (RA 8484). |
 | **Debt Restructuring** | The cardholder has the right to approach the bank for a restructured payment plan, which can sometimes be mediated through the BSP Consumer Empowerment Group (CEG). |
 
-**1–29 Days Past Due: Initial Delinquency and Warning Signs**
-
-Your account is considered technically delinquent the day after a missed payment. During this initial stage, the bank's internal collections department will send you payment reminders via text, email, or a polite phone call.
-
-* **Consequence:** Your account will immediately incur late payment fees.
-* **Credit Impact:** Crucially, the delinquency is **not yet reported** to the major credit bureaus. This window provides a chance to pay and avoid long-term credit damage.
-
-**30–90 Days Past Due: Severe Delinquency and Account Suspension**
-
-If the debt is not settled within the first month, the bank will intensify its internal collection efforts. The consequences become far more severe, escalating with each passing month.
-
-* **30–59 Days:** The delinquency is officially **reported to credit bureaus**, causing a significant drop in your credit score. Formal demand letters and frequent calls begin.
-* **60–89 Days:** The account is reported as 60 days past due, causing further credit score damage. To prevent further charges, the bank will likely **suspend your credit card account** and may impose a high **Penalty APR** (interest rate) on your existing balance.
-
-**90–180+ Days Past Due: The Charge-Off and External Collection**
-
-Your account is now considered severely delinquent and is flagged as a high risk. This stage marks the final steps before the bank washes its hands of the debt and outsources collection.
-
-* **90–179 Days:** The account is reported as 90+ days past due. The bank prepares to officially **"write off"** the debt as a loss on its books. Charging privileges remain suspended.
-* **180+ Days (The Critical Mark):** The debt is officially **charged-off**. This is an internal accounting procedure that **does not erase your obligation to pay.** At this point, the bank will either **sell the debt** to a third-party collection agency for a fraction of its value or **hand it over** to one for a commission-based recovery effort.
-
 The external agency then takes over and becomes your primary point of contact, beginning the final, most aggressive phase of the collection process.
 
 **Scenario 1: The Escalation of a ₱100,000 Debt**
