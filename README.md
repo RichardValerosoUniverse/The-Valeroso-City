@@ -3055,18 +3055,18 @@ So, while the lack of criminal liability means you won't be jailed, the civil co
 
 When your credit card debt is transferred to a collection agency, it can be a stressful and confusing experience. However, it's crucial to understand that you have significant rights and are not defenseless. In the Philippines, debt collection is governed by strict regulations from the Bangko Sentral ng Pilipinas (BSP), and knowing these rules is your most powerful tool.
 
-**Understanding the Escalation: Why the debt is passed to Collection
+**Understanding the Escalation: Why the debt is passed to collection
 
 The progression from a missed payment to an external collection agency is typically broken down into the following milestones:
 
-* **1–29 Days Past Due: Initial Delinquency and Warning Signs**
+**1–29 Days Past Due: Initial Delinquency and Warning Signs**
 
 Your account is considered technically delinquent the day after a missed payment. During this initial stage, the bank's internal collections department will send you payment reminders via text, email, or a polite phone call.
 
 * **Consequence:** Your account will immediately incur late payment fees.
 * **Credit Impact:** Crucially, the delinquency is **not yet reported** to the major credit bureaus. This window provides a chance to pay and avoid long-term credit damage.
 
-* **30–90 Days Past Due: Severe Delinquency and Account Suspension**
+**30–90 Days Past Due: Severe Delinquency and Account Suspension**
 
 If the debt is not settled within the first month, the bank will intensify its internal collection efforts. The consequences become far more severe, escalating with each passing month.
 
