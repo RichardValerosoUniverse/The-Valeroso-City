@@ -3059,14 +3059,14 @@ When your credit card debt is transferred to a collection agency, it can be a st
 
 The progression from a missed payment to an external collection agency is typically broken down into the following milestones:
 
-**1–29 Days Past Due: Initial Delinquency and Warning Signs**
+* **1–29 Days Past Due: Initial Delinquency and Warning Signs**
 
 Your account is considered technically delinquent the day after a missed payment. During this initial stage, the bank's internal collections department will send you payment reminders via text, email, or a polite phone call.
 
 * **Consequence:** Your account will immediately incur late payment fees.
 * **Credit Impact:** Crucially, the delinquency is **not yet reported** to the major credit bureaus. This window provides a chance to pay and avoid long-term credit damage.
 
-**30–90 Days Past Due: Severe Delinquency and Account Suspension**
+* **30–90 Days Past Due: Severe Delinquency and Account Suspension**
 
 If the debt is not settled within the first month, the bank will intensify its internal collection efforts. The consequences become far more severe, escalating with each passing month.
 
@@ -3081,6 +3081,7 @@ Your account is now considered severely delinquent and is flagged as a high risk
 * **180+ Days (The Critical Mark):** The debt is officially **charged-off**. This is an internal accounting procedure that **does not erase your obligation to pay.** At this point, the bank will either **sell the debt** to a third-party collection agency for a fraction of its value or **hand it over** to one for a commission-based recovery effort.
 
 The external agency then takes over and becomes your primary point of contact, beginning the final, most aggressive phase of the collection process.
+
 **Scenario 1: The Escalation of a ₱100,000 Debt**
 * Mark, a business owner, faces a cash flow problem and misses his ₱100,000 credit card payment. He receives a polite call from his bank's in-house collector reminding him of the due date.
 * After his account is **120 days past due**, the bank officially writes it off and endorses it to a collection agency. The agency now has the legal authority to pursue the debt on the bank's behalf.
