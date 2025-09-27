@@ -467,7 +467,6 @@ While their other products seem doing good in the philippine market, their credi
 Here are the following philippine-issued and philippine-based credit cards that apparently have scamming attributes and for the sake of others, please avoid these card companies:
 
     AVOID, AVOID, and AVOID all of these credit card companies so your life is Peaceful
-* BDO
 * BPI
 * PNB
 * Citibank/Unionbank
@@ -493,7 +492,7 @@ Scammers are individuals who demonstrate a self-serving approach, characterized 
 - *Lack of transparency*: Hiding true intentions, motives, or information to maintain an advantage.
 - *Exploitation*: Taking unfair advantage of others' vulnerabilities, needs, or trust for personal benefit.
 
-**23 Potential SCAMMING ATTRIBUTES of BDO, BPI, PNB, Citibank/Unionbank, RCBC, Eastwest Bank and Metrobank credit card companies as I carefully observed and reviewed:**
+**23 Potential SCAMMING ATTRIBUTES of BPI, PNB, Citibank/Unionbank, RCBC, Eastwest Bank and Metrobank credit card companies as I carefully observed and reviewed:**
 
 1. Hidden Fees: Charging unexpected or undisclosed fees.
 2. Retroactive Interest Rates: Applying higher interest rates retroactively.
