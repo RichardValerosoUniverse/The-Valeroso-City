@@ -3107,7 +3107,7 @@ Your only defense against harassment is irrefutable evidence.
 1.  **Start a "Collection Log":** Use a simple notebook or spreadsheet to record *every* contact:
     * **Date and Time:** (Exact time is crucial for the 6 AM to 10 PM rule).
     * **Collector Name/ID:** Always ask for their full name and employee ID. If they refuse, note the refusal.
-    * **Company Name:** (e.g., *Acme Collections* acting for *BDO*).
+    * **Company Name:** (e.g., *Acme Collections*).
     * **Summary of Conversation/Threat:** Write down the exact, offensive phrases used (e.g., "Threatened to arrest me and my wife").
 2.  **Preserve Digital Evidence:**
     * **Calls:** If permitted by law in your location, record the call. If not, record the call log (time/duration) and the threats immediately after.
