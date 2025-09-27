@@ -3125,7 +3125,7 @@ A court lawsuit is the only valid way to compel payment. Threats of a suit mean 
 | **Small Claims Case (P1M or below)** | File a formal **Response** to the Statement of Claim within the specified period. You can represent yourself, but a lawyer is highly recommended. | Default judgment, leading to a Writ of Execution (garnishment/levy). |
 | **Winning the Case** | If you successfully prove the debt is **Prescribed**, or that the interest/fees claimed are **Exorbitant/Illegal**, the case can be dismissed, or the amount significantly reduced. | |
 
-### Important: Judgment vs. Execution
+Important: Judgment vs. Execution
 Winning the lawsuit (a **Judgment**) does not automatically mean the money is collected. The bank must then apply for a **Writ of Execution**. The Writ is the only legal document that authorizes a court sheriff to **garnish your non-exempt assets** (bank accounts, vehicles, etc.).
 
 Part 5: Where to Report Unfair Collection Practices
@@ -3138,8 +3138,6 @@ If you have documented evidence of harassment or illegal practices, file a forma
 | **National Privacy Commission (NPC)** | Any entity that discloses your personal or financial data to unauthorized third parties (DPA violation). | **File a Complaint** for public shaming, texting or calling non-guarantor family/employers about the debt, or posting information online. |
 | **Securities and Exchange Commission (SEC)** | Lending companies and financing companies (common for small, quick cash/online loans). | The SEC has its own strict rules on unfair collection practices, similar to the BSP. File a complaint via their online portal for violations. |
 | **Local Police/Barangay** | For extreme cases involving physical presence, direct threats of violence, or repeated unwelcome visits to your home (Unjust Vexation). | File a **Blotter Report** (police) or seek **Barangay Conciliation** (mediation). This documents the incident for future civil or criminal cases. |
-
-When your credit card debt is transferred to a collection agency, it can be a stressful and confusing experience. However, it's crucial to understand that you have significant rights and are not defenseless. In the Philippines, debt collection is governed by strict regulations from the Bangko Sentral ng Pilipinas (BSP), and knowing these rules is your most powerful tool.
 
 ## **Understanding Credit Card Delinquency in the Philippines: Timeline, CIC Reporting, and Legal Consequences**
 
