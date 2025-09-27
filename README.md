@@ -3055,7 +3055,7 @@ So, while the lack of criminal liability means you won't be jailed, the civil co
 
 When your credit card debt is transferred to a collection agency, it can be a stressful and confusing experience. However, it's crucial to understand that you have significant rights and are not defenseless. In the Philippines, debt collection is governed by strict regulations from the Bangko Sentral ng Pilipinas (BSP), and knowing these rules is your most powerful tool.
 
-**Understanding the Escalation: Why the debt is passed to collection
+**Understanding the Escalation: Why the debt is passed to collection**
 
 The progression from a missed payment to an external collection agency is typically broken down into the following milestones:
 
