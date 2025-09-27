@@ -3063,6 +3063,14 @@ A bank doesn't immediately hand over your debt to an external agency. The proces
 * **30-90 Days Past Due:** The bank will intensify its internal collection efforts. You will receive more frequent calls and formal demand letters. Your credit card account will likely be suspended to prevent further charges.
 * **90-180+ Days Past Due:** Your account is now considered severely delinquent. The bank may "write off" the debt as a loss on its books. This is an internal accounting procedure that does **not** erase your obligation to pay. At this point, the bank will either sell the debt to a third-party collection agency for a fraction of its value or hand it over to one for a commission-based recovery effort. This is when the external agency takes over and becomes your primary point of contact.
 
+| Time Past Due | Key Consequences |
+| :--- | :--- |
+| **1–29 Days** | Late fees are charged by the creditor. **No reporting** to credit bureaus yet. |
+| **30–59 Days** | The delinquency is **reported to credit bureaus**, causing a significant drop in your credit score. Internal collection efforts begin. |
+| **60–89 Days** | The account is reported as 60 days past due, causing further credit score damage. The bank may impose a high **Penalty APR** on the balance. |
+| **90–179 Days** | The account is severely delinquent (90+ days). Charging privileges are usually suspended. The bank prepares the account for final charge-off. |
+| **180+ Days** | The debt is **charged-off** (written off as a loss) and is typically **sold or transferred to an external collection agency**, making the agency your new point of contact. |
+
 **Scenario 1: The Escalation of a ₱100,000 Debt**
 * Mark, a business owner, faces a cash flow problem and misses his ₱100,000 credit card payment. He receives a polite call from his bank's in-house collector reminding him of the due date.
 * After his account is **120 days past due**, the bank officially writes it off and endorses it to a collection agency. The agency now has the legal authority to pursue the debt on the bank's behalf.
