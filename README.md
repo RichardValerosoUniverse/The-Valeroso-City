@@ -31,11 +31,12 @@ This is not a gentle exploration; it is an uncompromising path to financial powe
 
 This book is for anyone ready to take command of their financial life. It is for:
 
-* **The Newcomer:** If you're a young professional or student looking to establish credit the right way from day one, avoiding the common pitfalls that hold others back.
-* **The Frustrated Achiever:** If you’re tired of getting mixed signals from your credit score and are looking for a clear, no-nonsense path to dramatic improvement.
-* **The Strategic Professional:** If you’re a seasoned credit card user who wants to level up your strategy beyond basic payments and optimize your portfolio for maximum benefit.
-* **The Conscious Co-Creator:** If you believe in the power of knowledge and are ready to move beyond being a victim of circumstance to a master of your financial destiny.
-
+* **The Credit Novice** who is tired of fear-based, basic advice and is ready for an advanced education in credit strategy.
+* **The Subordinate Cardholder** who wants to transition from merely managing debt to actively building a powerful financial asset.
+* **The Aspiring Strategist** who seeks to master the exact regulatory (**BSP/CIC**) and mathematical mechanisms that govern credit scoring.
+* **The Filipino** seeking the definitive, technically rigorous roadmap out of financial uncertainty and into absolute financial control.
+* **Anyone** determined to stop merely *using* their credit card and start **mastering** it, building a life of absolute control through a proven, superior strategy.
+  
 ## **How to Establish Credit Early: The SuperHighness Way (Philippine Setting)**
 
 "The SuperHighness Way" is an approach to building credit in the Philippines with a focus on complete independence, unwavering discipline, and a deep understanding of personal responsibility. The goal is to build a credit profile that stands on its own merit, free from reliance on anyone else's financial history. This strategy is for those who are serious about achieving financial mastery from the very start.
