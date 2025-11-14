@@ -1,7 +1,7 @@
 
 Psychiatrist Richard Madriñan Valeroso,LMT,MD License
 
-Copyright (c) May 010, 02025 BC, Psychiatrist Richard Madriñan Valeroso,LMT,MD
+Copyright (c) November 014, 02025 BC, Psychiatrist Richard Madriñan Valeroso,LMT,MD
 Republic of the Philippines
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
@@ -22,5 +22,3 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-
-Psychiatrist Richard Madriñan Valeroso,LMT,MD is Manila City's University of Santo Tomas in the Philippines' Summa Cum Laude honors degree, (Class of 2023, Psychiatry and Behavioural Medicine with a perfect GWA of 1.000). 🎗️
