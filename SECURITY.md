@@ -2,7 +2,9 @@
 Psychiatrist Richard Madriñan Valeroso,LMT,MD License
 
 Copyright (c) November 014, 02025 BC, Psychiatrist Richard Madriñan Valeroso,LMT,MD
+
 Republic of the Philippines
+
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
