@@ -1,12 +1,26 @@
-For security purposes, just call My name and Myself of mine is gonna burn you alive and devour your ashes due to your "Polpol" and "kapalmuks" face and behaviour to be done within Davao City environment!! 🎗️ Imma kill you and cremate you for real. This is not just threat but a statement of reality!!
 
-**I am seriously asking:**
+Psychiatrist Richard Madriñan Valeroso,LMT,MD License
 
-*Were you born in this country?*
+Copyright (c) May 010, 02025 BC, Psychiatrist Richard Madriñan Valeroso,LMT,MD
+Republic of the Philippines
 
-*Were you born inside or outside the Mental Hospital Of Definitely Davao City?* 
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
 
-*Is your name on the list for the Fires of hell?*
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
 
-🤔 
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
 
+
+Psychiatrist Richard Madriñan Valeroso,LMT,MD is Manila City's University of Santo Tomas in the Philippines' Summa Cum Laude honors degree, (Class of 2023, Psychiatry and Behavioural Medicine with a perfect GWA of 1.000). 🎗️
