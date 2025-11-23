@@ -1016,9 +1016,14 @@ The **Late Fee** confirms the failure to pay the Total Amount Due (TAD), instant
 
 **B. CIC Delinquency Mark (Reputational and Lifetime Cost)**
 
-If the late status persists for 30 days or more, the account is reported as delinquent to the **Credit Information Corporation (CIC)**.
+If the late status persists for 30 days or more, the account is reported as delinquent to the **Credit Information Corporation (CIC)**. The **Late Fee** is the initial documentation that leads to this reporting.
 
-* **Example:** The delinquency mark, preceded by the **Late Fee**, forces a borrower seeking a **₱6,000,000** mortgage to pay a higher interest rate (e.g., 7.5% vs. 6.0%). This 1.5% difference results in over **₱1.2 Million** in extra interest paid over a 20-year term, verifying the catastrophic long-term implication of the initial **Late Fee**. 
+| Illustrative Example: Impaired Access and Credit Limits |
+| :--- |
+| **Action:** The delinquency mark, preceded by the **Late Fee**, remains on your credit file. |
+| **Scenario 1: New Card Application Impact** | You apply for a premium travel rewards card (which requires an excellent credit score). **Impact:** Your application is **denied**, or you are only approved for a much less beneficial, low-limit/high-fee card, directly costing you the value of travel points and premium perks. |
+| **Scenario 2: Interest Rate Pricing** | Your existing card issuer or a new bank offers you a **Balance Transfer** promotion. **Impact:** Instead of the promotional **0.5%** interest rate offered to prime clients, the bank's risk assessment (due to the CIC mark) deems you ineligible, or offers you a sub-optimal rate of **1.5%** to cover their perceived risk. |
+| **Lifetime Cost:** This damaged reputation directly limits your access to the cheapest forms of credit (low-interest transfers, rewards cards), translating into thousands of pesos in missed savings and fees over several years.  |
 
 The **Late Fee** is, therefore, the key administrative action that unlocks maximum punitive interest and imposes a non-negotiable, long-term premium on all future borrowing.
 
