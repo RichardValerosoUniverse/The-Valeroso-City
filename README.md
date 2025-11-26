@@ -2786,66 +2786,6 @@ In the event of a severe liquidity crisis, the BSP provides emergency funding to
 
 The BSP's role is not just to build a credit system, but to manage its psychological health. It’s a job that requires not just economic expertise, but a deep understanding of human behavior and a constant readiness to intervene when the system’s fears, anxieties, or excesses threaten to unravel it. It is, without a doubt, the psychiatrist of the Philippine credit system.
 
-## The Definitive Guide to Credit Card Regulation in the Philippines: Key BSP Circulars and Consumer Protection Mandates 
-
-The **Bangko Sentral ng Pilipinas (BSP)** enforces a robust and highly detailed regulatory framework over the credit card industry. This structure ensures financial stability, mandates ethical operations, and provides stringent consumer protection against excessive fees, unfair practices, and fraud.
-
-**Summary Comparison of Key BSP Mandates**
-
-This table provides a quick reference to the most critical **financial caps** (governed primarily by Circular 1165) and **consumer deadlines** (governed by Circular 1048 and others). 
-
-| Category | Specific Mandate | BSP Circular | Current Limit/Deadline |
-| :--- | :--- | :--- | :--- |
-| **I. Cost Cap** | Maximum Revolving Interest Rate | **C. No. 1165 (2023)** | **3.0% per month (36% APR)** |
-| **I. Cost Cap** | Maximum Installment Add-on Rate | **C. No. 1165 (2023)** | **1.0% per month** |
-| **I. Cost Cap** | Maximum Cash Advance Processing Fee | **C. No. 1165 (2023)** | **₱200.00** per transaction |
-| **II. Fraud/Dispute** | Provisional Credit Deadline | **C. No. 1048 (2019)** | **10 banking days** |
-| **III. Compliance** | Unsolicited Card Issuance | **C. No. 845 (2014)** | **Strictly Prohibited** |
-| **III. Compliance** | Large Cash Transaction Vetting Threshold | **C. No. 1218 (2025)** | **₱500,000** |
-| **III. Compliance** | Advance Notice for Fee Increases | **RA 10870** | **90 calendar days** |
-
-**I. Cost of Credit and Pricing Ceilings (The Price Cap)**
-
-These circulars set the **maximum interest rates and fees** that banks are legally allowed to charge.
-
-| No. | Circular/Issuance | Date Issued | Core Mandate & Impact | Verifiable Example |
-| :--- | :--- | :--- | :--- | :--- |
-| **1.** | **Circular No. 1165** | Jan 2023 | **Current Maximum Rate:** Sets the maximum **revolving interest rate** at **3.0% per month (36% APR)**. Capped installment loan add-on rate at **1.0%** monthly and the cash advance processing fee at **₱200.00**. | On an unpaid balance of **₱50,000**, the maximum finance charge is strictly **₱1,500** (₱50,000 $\times$ 3.0%). |
-| **2.** | **Circular No. 1098** | Sep 2020 | **Initial Rate Cap:** Historically set the first regulatory ceiling on revolving interest at **2.0% per month** (24% APR). | Banks charging 3.25% pre-2020 were **mandated** to reduce their rate to the 2.0% maximum upon the circular's effectivity. |
-| **3.** | **RA 10870** | 2016 | **The Credit Card Industry Regulation Law:** Sets the framework for the **90-day notice requirement** for fee increases, and caps the Late Payment Fee. | If a bank's fixed Late Fee is **₱800** but the Minimum Amount Due is only **₱650**, the bank can only charge **₱650**. |
-
-**II. Consumer Redress and Anti-Fraud Measures**
-
-These regulations ensure consumer rights are protected when dealing with fraud, disputes, and unethical issuance.
-
-| No. | Circular/Issuance | Date Issued | Core Mandate & Impact | Verifiable Example |
-| :--- | :--- | :--- | :--- | :--- |
-| **4.** | **Circular No. 1215** | May 2025 | **Anti-Financial Account Scamming Act (AFASA) Rules:** Supplements fraud handling by introducing rules for the **Temporary Holding of Funds Subject of Disputed Transactions** and a **Coordinated Verification Process** for digital transactions. | If a scammer uses a credit card cash advance to transfer **₱40,000** via InstaPay, the bank must implement protocols to place a **temporary hold** on the funds in the receiving account pending verification. |
-| **5.** | **Circular No. 1048** | Sep 2019 | **Fraud/Dispute Handling (Zero Liability):** Requires banks to **provisionally credit** disputed amounts within **10 banking days** during the investigation. | A cardholder reports **₱80,000** in unauthorized charges. The bank **must** provisionally credit the ₱80,000, preventing the cardholder from incurring 3.0% interest on the fraudulent amount. |
-| **6.** | **Circular No. 845** | Aug 2014 | **Prohibition on Unsolicited Cards:** **Explicitly prohibits** the issuance of unsolicited or "pre-approved" credit cards without the consumer's written, formal application and consent. | A depositor receives an unapplied-for, active card in the mail. This is a direct **violation**, and the recipient is **not liable** for any charges unless they voluntarily activate the card. |
-| **7.** | **Circular No. 1169** | Mar 2023 | **Adjudication Rules (FCPA):** Implements the rules for the **Consumer Assistance Mechanism (CAM)** and the BSP's enhanced power to **mediate and adjudicate** financial consumer complaints. | If a bank refuses to waive an unfair fee, the cardholder can escalate the case to the **BSP's CAM**, prompting the BSP to review and potentially **compel the bank to refund** the fee. |
-
-**III. Foundational Rules and Ethical Practices**
-
-These circulars establish the baseline standards for disclosures, financial due diligence, and prohibit abusive debt collection methods.
-
-| No. | Circular/Issuance | Date Issued | Core Mandate & Impact | Verifiable Example |
-| :--- | :--- | :--- | :--- | :--- |
-| **8.** | **Circular No. 702** | Dec 2010 | **Enhanced Disclosure & Due Diligence:** Requires banks to conduct a **thorough credit risk assessment** to ensure the applicant's **financial capacity** and mandates **clear, legible disclosure** of all fees. | An applicant earning **₱30,000/month** should only be approved for a responsible credit limit (e.g., **₱60,000**) to comply with the mandate to prevent over-indebtedness. |
-| **9.** | **BSP Circular 454** | Nov 2004 | **Unfair Collection Practices:** Prohibits **malicious and unreasonable debt collection practices** (e.g., threats, use of obscenities, or unauthorized disclosure to third parties). | A collector calls a cardholder's workplace and reveals the specific outstanding debt amount to the HR manager. This is a direct **violation** as it improperly discloses client information for harassment purposes. |
-| **10.** | **Circular No. 1218** | Sep 2025 | **Large Value Cash Transactions Limit:** Requires large value transactions (above **₱500,000**) to be conducted through traceable digital channels. | A client attempts to pay a **₱650,000** credit card debt in cash at the counter. The bank must implement Enhanced Due Diligence (EDD) and encourage payment via check or fund transfer for traceability. |
-| **11.** | **Circular No. 1195** | 2024 | **Digital Payment Redress:** Establishes standards for timely fund returns and redress for electronic fund transfers (EFTs). | If a **₱5,000** InstaPay payment fails but the funds are debited from the sender's account, the bank must automatically reverse the debit and credit the **₱5,000 back within one hour**. |
-
-**IV. Compliance, Management, and Standardization**
-
-These circulars ensure the stability, ethics, and clarity of the entire credit card system.
-
-| No. | Circular/Issuance | Date Issued | Core Mandate & Impact | Verifiable Example |
-| :--- | :--- | :--- | :--- | :--- |
-| **12.** | **Circular No. 1003** | May 2018 | **Consolidated Definitions:** Defined key operational terms such as **Minimum Amount Due (MAD)** and **Billing Cycle** for standardization. | Every bank's statement must use the same legal definition for **"Minimum Amount Due,"** preventing consumer confusion caused by differing calculations or labeling. |
-| **13.** | **Circular No. 812** | Aug 2013 | **Credit Card Business Activity Report (CCBAR):** Mandates all issuers to submit detailed **quarterly reports** on portfolio health and delinquency rates. | Quarterly data submitted on Non-Performing Loans (NPLs) for credit cards is used by the Monetary Board to inform the decision on whether to raise, lower, or maintain the rate cap (Circular 1165). |
-| **14.** | **Circular No. 232** | Mar 2000 | **DOSRI Rules Application:** Clarifies that the stringent **DOSRI (Directors, Officers, Stockholders, and Related Interests)** lending rules do not apply to credit card operations. | A bank director is approved for the same credit limit and terms as any non-related applicant, confirming the card is treated as a general consumer product, not a preferential insider loan. |
-
 ## The Definitive Guide to Credit Card Regulation in the Philippines: Key BSP Circulars and Consumer Protection Mandates
 
 The **Bangko Sentral ng Pilipinas (BSP)** enforces a robust regulatory framework over the credit card industry, structured around two pillars: **Core BSP Circulars** (focused on financial health and pricing) and **Statutory Mandates** (focused on consumer rights derived from Republic Acts). This structure ensures financial stability, mandates ethical operations, and provides stringent consumer protection.
