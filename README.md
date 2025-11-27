@@ -2790,20 +2790,6 @@ The BSP's role is not just to build a credit system, but to manage its psycholog
 
 The **Bangko Sentral ng Pilipinas (BSP)** enforces a robust regulatory framework over the credit card industry, structured around two pillars: **Core BSP Circulars** (focused on financial health and pricing) and **Statutory Mandates** (focused on consumer rights derived from Republic Acts). This structure ensures financial stability, mandates ethical operations, and provides stringent consumer protection.
 
-**Summary Comparison of Key BSP Mandates**
-
-This table provides a quick reference to the most critical **financial caps** and **consumer deadlines** that define the operational bounds of the industry.
-
-| Category | Specific Mandate | Primary Regulatory Source | Current Limit/Deadline |
-| :--- | :--- | :--- | :--- |
-| **I. Cost Cap** | Maximum Revolving Interest Rate | **C. No. 1165 (2023)** | **3.0% per month (36% APR)** |
-| **I. Cost Cap** | Maximum Installment Add-on Rate | **C. No. 1165 (2023)** | **1.0% per month** |
-| **I. Cost Cap** | Maximum Cash Advance Processing Fee | **C. No. 1165 (2023)** | **₱200.00** per transaction |
-| **II. Fraud/Dispute** | Provisional Credit Deadline | **C. No. 1048 (2019)** | **10 banking days** |
-| **III. Compliance** | Unsolicited Card Issuance | **C. No. 845 (2014)** | **Strictly Prohibited** |
-| **III. Compliance** | Large Cash Transaction Vetting Threshold | **C. No. 1218 (2025)** | **₱500,000** |
-| **III. Compliance** | Advance Notice for Fee Increases | **RA 10870** | **90 calendar days** |
-
 **I. Core BSP Circulars: Cost of Credit, Pricing Ceilings, and Risk Management**
 
 These circulars are **direct policy instruments** of the Monetary Board, primarily aimed at **managing the financial system's stability, pricing, and operational risk**.
