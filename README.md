@@ -2832,7 +2832,7 @@ The **CIC** is the **Credit Registry**—a single, government-mandated entity. A
 
 **The Role of the SAEs (The Private Analysts)**
 
-**SAEs** are the accredited **Credit Bureaus**. They are private, specialized companies that retrieve the raw CIC data, apply their proprietary algorithms and scoring models (e.g., FICO, VantageScore), and generate the crucial **Credit Score**. This three-digit number, along with the detailed report, is what banks primarily rely on for quick lending decisions.
+**SAEs** are the accredited **Credit Bureaus**. They are private, specialized companies that retrieve the raw CIC data, apply their proprietary algorithms and scoring models and generate the crucial **Credit Score**. This three-digit number, along with the detailed report, is what banks primarily rely on for quick lending decisions.
 
 * **Accredited SAEs include:** Advintel Inc., CIBI Information, Inc., CRIF Corporation, Island Credit Solutions Corp., Juanscore Corporation, and TransUnion Philippines.
 
