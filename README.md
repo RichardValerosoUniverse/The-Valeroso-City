@@ -197,17 +197,17 @@ While a supplementary card may offer a quick and easy entry into the credit worl
 
 The Strategic Choice—Primary Card Ownership—is fundamentally about seizing **financial destiny** by achieving **independence** and **self-determination** in three critical ways:
 
-**1. **Establishing an Independent Financial Identity**
+**1**. **Establishing an Independent Financial Identity**
 
 * **The Foundation:** Control over one's destiny begins with self-identity. Owning a principal card is the act of establishing yourself, the individual, as a reliable debtor in the eyes of the financial system. You move from being a **dependent shadow user** (supplementary) to a **primary financial entity**.
 * **The Asset:** This identity is formalized in the **Credit Information Corporation (CIC)** database. Your personal payment history becomes a quantifiable asset—a financial resume—that works for you, independent of any family member or principal account holder.
 
-**2. **Achieving Unfettered Financial Power**
+**2**. **Achieving Unfettered Financial Power**
 
 * **The Key to Autonomy:** Controlling your destiny means holding the keys to your financial mobility. The principal card provides **unfettered power** over your credit line, allowing you to scale your credit limit as your income grows, without needing approval from another person.
 * **Strategic Freedom:** This power grants strategic freedom to access liquidity through **Cash Advances** or to optimize debt through **Balance Transfers**, treating the card not just as a spending tool, but as a flexible component of a broader financial plan.
 
-**3. **Eliminating Inherited Risk**
+**3**. **Eliminating Inherited Risk**
 
 * **The Sovereign Stance:** To control one's destiny is to control one's liabilities. By choosing primary ownership, you **eliminate the asymmetrical risk** inherent in the supplementary model—the risk of being legally liable (solidarily) for debt and facing a negative credit report, all while having zero control over the principal's ultimate payment decisions.
 * **The Price of Dependency:** Settling for supplementary status is choosing **convenience at the high cost of dependency** and vulnerability. It is a tacit acceptance that another person's financial failure can directly and severely compromise your future borrowing power.
