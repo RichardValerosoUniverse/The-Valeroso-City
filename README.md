@@ -3519,7 +3519,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
-## Attribution 🇵🇭🎗️
-
-*I’m deeply honored to have graduated Summa Cum Laude from the University of Santo Tomas in Manila City, Philippines, as part of the Class of 2023. Earning my degree in Psychiatry and Behavioural Medicine with a perfect General Weighted Average of 1.000 has been a humbling milestone—one that reflects my enduring commitment to excellence, empathy, and the transformative work of mental health care.🎗️*
