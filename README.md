@@ -3612,7 +3612,9 @@ If the bank's Customer Assistance Unit (Sec. 17) fails to resolve your dispute w
 Use this template to notify bank management that you are prepared to file a formal BSP complaint.
 
 > **TO:** The Board of Directors / Head of Consumer Affairs
+
 > **BANK NAME:** [Insert Bank Name]
+
 > **DATE:** [Insert Date]
 >
 > **SUBJECT: FORMAL NOTICE OF ESCALATION (RA 10870 VIOLATION)**
