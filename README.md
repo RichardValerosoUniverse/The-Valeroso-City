@@ -3498,15 +3498,18 @@ The central bank regulates the conduct of credit card issuers through BSP Circul
 **I. LEGISLATIVE FOUNDATION: THE "CONSUMER BILL OF RIGHTS"**
 
 **1. Historical Context: Ending the Era of Impunity**
+
 Before 2016, the Philippine credit card industry was governed largely by contractual "fine print" and non-binding Bangko Sentral ng Pilipinas (BSP) circulars. Consumers faced "residual interest" traps and aggressive collection agencies utilizing "debt-shaming" tactics. **RA 10870** was enacted to codify these protections into a national statute, transforming administrative guidelines into a powerful criminal and administrative law.
 
 **2. The Constitutional Enactment: President Benigno "Noynoy" Aquino III**
+
 The law reached its final stage during a critical transition in Philippine politics. After being passed by both the Senate and the House of Representatives, the bill was sent to Malacañang for the President's signature.
 
 * **The Lapse into Law:** President **Benigno "Noynoy" Aquino III** allowed the bill to **lapse into law on July 17, 2016**.
 * **The Mechanism:** Under the 1987 Constitution, if the President does not sign or veto a bill within 30 days of receipt, it automatically becomes a statute. By allowing it to lapse, the Aquino administration ensured these protections became permanent, independent of any singular political signature.
   
 **II. SECTION 5: STATUTORY DEFINITION OF TERMS**
+
 *As explicitly defined in the text of the law to prevent "semantic trickery":*
 
 (a) **Acceleration Clause** – a contract provision that allows a credit card issuer to impose a condition of full settlement of the entire obligation on a cardholder in the event of default or other events of default as may be provided under the credit card agreement;
