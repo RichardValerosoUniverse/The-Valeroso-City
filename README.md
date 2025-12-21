@@ -3510,7 +3510,9 @@ The law reached its final stage during a critical transition in Philippine polit
 *As explicitly defined in the text of the law to prevent "semantic trickery":*
 
 (a) **Acceleration Clause** – a contract provision that allows a credit card issuer to impose a condition of full settlement of the entire obligation on a cardholder in the event of default or other events of default as may be provided under the credit card agreement;
+
 (b) **Acquirer** – the institution that accepts and processes the credit card transaction which shall eventually be settled by the credit card issuer;
+
 (c) **Balance Transfer** – the transfer of a cardholder’s credit card indebtedness from one credit card issuer to another;
 (d) **Billing Cycle/Billing Period** – the period of time between the dates of regular periodic statements, which shall not be lower than fifteen (15) days;
 (e) **Card Association** – any organization whose members issue credit cards and where such organization provides the network for the proper routing and processing of credit card transactions;
