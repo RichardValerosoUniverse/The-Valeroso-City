@@ -3514,21 +3514,37 @@ The law reached its final stage during a critical transition in Philippine polit
 (b) **Acquirer** – the institution that accepts and processes the credit card transaction which shall eventually be settled by the credit card issuer;
 
 (c) **Balance Transfer** – the transfer of a cardholder’s credit card indebtedness from one credit card issuer to another;
+
 (d) **Billing Cycle/Billing Period** – the period of time between the dates of regular periodic statements, which shall not be lower than fifteen (15) days;
+
 (e) **Card Association** – any organization whose members issue credit cards and where such organization provides the network for the proper routing and processing of credit card transactions;
+
 (f) **Cash Advances** – any cash loan or withdrawal obtained through the use of a credit card;
+
 (g) **Credit Card** – any card, plate, or other device which may be physical or virtual, existing now or in the future, used for the purpose of obtaining money, property, or services on credit;
+
 (h) **Credit Card Issuer** – a bank or a corporation that offers the use of a credit card;
+
 (i) **Credit Card Limit** – the maximum total amount for which a cardholder is authorized to purchase or borrow on credit;
+
 (j) **Default or Delinquency** – the nonpayment of at least the minimum amount due for at least three (3) billing cycles;
+
 (k) **Finance Charges** – the amount to be paid by the debtor for the privilege of using the credit line, such as interest or discounts;
+
 (l) **Installment Purchases** – transactions wherein payment for which is amortized over a fixed period;
+
 (m) **Industry Association** – an association composed of credit card issuers or other players in the credit card industry;
+
 (n) **Membership Fee** – the fees levied by the credit card issuer on the cardholder for the right to use the credit card and avail of the services that come with it;
+
 (o) **Minimum Amount Due** or **Minimum Payment Required** – the minimum amount that the cardholder needs to pay on or before the due date;
+
 (p) **Outstanding Balance** – the amount of the total obligation of the cardholder to the credit card issuer as of a certain date;
+
 (q) **Statement Cut-off Date** – the date at the end of the billing cycle when the cardholders’ purchases, fees, and other charges are summarized;
+
 (r) **Statement of Account** or **Billing Statement** – the regular listing of transactions, payments, and other charges issued to the cardholder; and
+
 (s) **Supplementary Card** or **Extension Card** – a credit card issued to another person whose spending shall be charged to the credit card limit of the primary cardholder.
 
 **III. INDIVIDUAL ANALYSIS OF ALL 31 SECTIONS**
