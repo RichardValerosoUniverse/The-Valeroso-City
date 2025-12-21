@@ -3612,33 +3612,33 @@ If the bank's Customer Assistance Unit (Sec. 17) fails to resolve your dispute w
 
 **VI. LEGAL TOOLKIT: NOTICE OF ESCALATION**
 
-Use this template to notify bank management that you are prepared to file a formal BSP complaint.
+*Use this template to notify bank management that you are prepared to file a formal BSP complaint.*
 
-> **TO:** The Board of Directors / Head of Consumer Affairs
+**TO:** The Board of Directors / Head of Consumer Affairs
 
-> **BANK NAME:** [Insert Bank Name]
+**BANK NAME:** [Insert Bank Name]
 
-> **DATE:** [Insert Date]
-
-
+**DATE:** [Insert Date]
 
 
-> **SUBJECT: FORMAL NOTICE OF ESCALATION (RA 10870 VIOLATION)**
 
 
-> **Dear Management,**
->
-> This serves as a formal notice regarding my account [Insert Account Number]. I am escalating an unresolved grievance involving a direct violation of **Republic Act No. 10870**.
->
-> Specifically, your institution has violated:
-> * **Section [Number]:** [e.g., Section 19 regarding Collection Harassment].
-> * **Details:** [Briefly describe incident].
->
-> Under **Section 22 (Solidary Liability)**, your institution is legally responsible for these actions. If this is not rectified within **five (5) business days**, I will escalate this to the **Bangko Sentral ng Pilipinas (BSP)** via the **BOB** system and **consumeraffairs@bsp.gov.ph**. I am prepared to pursue all administrative sanctions (Sec. 26) and criminal penalties (Sec. 27).
->
-> Sincerely,
->
-> **[Your Name]**
+**SUBJECT: FORMAL NOTICE OF ESCALATION (RA 10870 VIOLATION)**
+
+
+**Dear Management,**
+
+This serves as a formal notice regarding my account [Insert Account Number]. I am escalating an unresolved grievance involving a direct violation of **Republic Act No. 10870**.
+
+Specifically, your institution has violated:
+ * **Section [Number]:** [e.g., Section 19 regarding Collection Harassment].
+ * **Details:** [Briefly describe incident].
+
+Under **Section 22 (Solidary Liability)**, your institution is legally responsible for these actions. If this is not rectified within **five (5) business days**, I will escalate this to the **Bangko Sentral ng Pilipinas (BSP)** via the **BOB** system and **consumeraffairs@bsp.gov.ph**. I am prepared to pursue all administrative sanctions (Sec. 26) and criminal penalties (Sec. 27).
+
+Sincerely,
+
+**[Your Name]**
 
 ## Luhn Algorithm: A Complete Guide
 
