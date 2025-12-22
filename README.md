@@ -3582,7 +3582,7 @@ The law reached its final stage during a critical transition in Philippine polit
 **Chapter V: Collection and Payment**
 * **Section 20. Use of Third-Party Collection Agents:** Issuers may hire agents but remain responsible for ensuring their conduct complies with Sections 16 and 19 of this Act.
 * **Section 21. Endorsement of Debt to a Collection Agency:** Issuers must give **prior written notice (at least 7 days)** to the cardholder before endorsement, including the name and contact details of the agency.
-* **Section 22. Submission of Names of Collection Agencies:** Issuers shall inform the BSP of the names of agencies they use.
+* **Section 22. Communication in Connection With Debt Collection:** The credit card issuer or its collection agency may communicate with a credit cardholder in connection with the collection of any debt through the mode or modes prescribed by the Bangko Sentral ng Pilipinas in guidelines it shall issue for this purpose.”
 * **Section 23. Payment Due Date:** If the due date falls on a **weekend or regular national holiday**, it is automatically moved to the **next business day.**
 * **Section 24. Application of Payments:** Payments exceeding the minimum must be applied first to fees/charges, then to the balance with the **highest interest rate**, and then sequentially to lower rates.
 
