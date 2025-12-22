@@ -3582,7 +3582,7 @@ The law reached its final stage during a critical transition in Philippine polit
 **Chapter V: Collection and Payment**
 * **Section 20. Use of Third-Party Collection Agents:** Issuers may hire agents but remain responsible for ensuring their conduct complies with Sections 16 and 19 of this Act.
 * **Section 21. Endorsement of Debt to a Collection Agency:** Issuers must give **prior written notice (at least 7 days)** to the cardholder before endorsement, including the name and contact details of the agency.
-* **Section 22. Communication in Connection With Debt Collection:** The credit card issuer or its collection agency may communicate with a credit cardholder in connection with the collection of any debt through the mode or modes prescribed by the Bangko Sentral ng Pilipinas in guidelines it shall issue for this purpose.”
+* **Section 22. Communication in Connection With Debt Collection:** The credit card issuer or its collection agency may communicate with a credit cardholder in connection with the collection of any debt through the mode or modes prescribed by the Bangko Sentral ng Pilipinas in guidelines it shall issue for this purpose.
 * **Section 23. Payment Due Date:** If the due date falls on a **weekend or regular national holiday**, it is automatically moved to the **next business day.**
 * **Section 24. Application of Payments:** Payments exceeding the minimum must be applied first to fees/charges, then to the balance with the **highest interest rate**, and then sequentially to lower rates.
 
@@ -3626,32 +3626,6 @@ If the bank's Customer Assistance Unit (Sec. 17) fails to resolve your dispute w
 **VI. LEGAL TOOLKIT: NOTICE OF ESCALATION**
 
 *Use this template to notify bank management that you are prepared to file a formal BSP complaint.*
-
-**TO:** The Board of Directors / Head of Consumer Affairs
-
-**BANK NAME:** [Insert Bank Name]
-
-**DATE:** [Insert Date]
-
-
-
-
-**SUBJECT: FORMAL NOTICE OF ESCALATION (RA 10870 VIOLATION)**
-
-
-**Dear Management,**
-
-This serves as a formal notice regarding my account [Insert Account Number]. I am escalating an unresolved grievance involving a direct violation of **Republic Act No. 10870**.
-
-Specifically, your institution has violated:
- * **Section [Number]:** [e.g., Section 19 regarding Collection Harassment].
- * **Details:** [Briefly describe incident].
-
-Under **Section 22 (Solidary Liability)**, your institution is legally responsible for these actions. If this is not rectified within **five (5) business days**, I will escalate this to the **Bangko Sentral ng Pilipinas (BSP)** via the **BOB** system and **consumeraffairs@bsp.gov.ph**. I am prepared to pursue all administrative sanctions (Sec. 26) and criminal penalties (Sec. 27).
-
-Sincerely,
-
-**[Your Name]**
 
 ## Luhn Algorithm: A Complete Guide
 
