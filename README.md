@@ -3548,7 +3548,7 @@ The law reached its final stage during a critical transition in Philippine polit
 
 (r) **Statement of Account** or **Billing Statement** – the regular listing of transactions, payments, and other charges issued to the cardholder; and
 
-(s) **Supplementary Card** or **Extension Card** – a credit card issued to another person whose spending shall be charged to the credit card limit of the primary cardholder.
+(s) **Supplementary Card** or **Extension Card** – refers to a credit card issued to another person whose credit limit is consolidated with the primary cardholder.
 
 **III. INDIVIDUAL ANALYSIS OF ALL 31 SECTIONS**
 
