@@ -3659,6 +3659,23 @@ If the bank's Customer Assistance Unit (Sec. 17) fails to resolve your dispute w
 * **Facebook Messenger:** Search for **@BangkoSentralngPilipinas**.
 * **SMS/Text:** Send your report to **21582277** (Globe subscribers).
 
+As requested, here is the summary table outlining the specific **Rights of the Cardholder** versus the **Obligations of the Issuer** under **Republic Act No. 10870**.
+
+### **Summary of Rights and Obligations under RA 10870**
+
+| **Category** | **Rights of the Cardholder** | **Obligations of the Credit Card Issuer** |
+| :--- | :--- | :--- |
+| **Issuance & Limits** | Right to **decline** any credit limit increase (Sec. 9). | Must conduct **KYC** and verify financial capacity before issuance (Sec. 7). |
+| | Right **not to receive unsolicited** or pre-approved cards (Sec. 7). | Must set limits based on **creditworthiness** and risk management (Sec. 9). |
+| **Transparency** | Right to be notified **90 days** before any change in fees or rates (Sec. 13). | Must provide a **clear illustration** of how all charges and fees are computed (Sec. 12). |
+| | Right to a full disclosure of APR, finance charges, and late fees (Sec. 11). | Must include the **mandatory "Important Reminder"** regarding minimum payments (Sec. 11). |
+| **Billing & Errors** | Right to **dispute billing errors** within 30 calendar days (Sec. 18). | Must act on billing complaints within **10 business days** of receipt (Sec. 18). |
+| | Right to a **next-business-day due date** if it falls on a weekend/holiday (Sec. 23). | Must apply excess payments to the **highest-interest balance** first (Sec. 24). |
+| **Debt Collection** | Right to be **free from harassment**, abuse, or unscrupulous acts (Sec. 19). | Must give **7 days' prior notice** before endorsing debt to an agency (Sec. 21). |
+| | Right to receive notice of the collection agency's name and contact details (Sec. 21). | Remains **legally responsible** for the conduct of third-party agents (Sec. 20). |
+| **Privacy & Term.** | Right to **strict confidentiality** of personal data (Sec. 16). | Must establish a **Customer Assistance Unit** for prompt resolution (Sec. 17). |
+| | Right to **terminate the account** at any time (Sec. 25). | Must maintain a **documented risk management system** (Sec. 6). |
+
 **VI. LEGAL TOOLKIT: NOTICE OF ESCALATION**
 
 *Use this template to notify bank management that you are prepared to file a formal BSP complaint.*
