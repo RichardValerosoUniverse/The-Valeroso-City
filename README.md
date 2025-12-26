@@ -3638,7 +3638,7 @@ RA 10870 is a "special penal law." Under **Section 25**, willful violators face:
 1. **The RA 10870 Violation Checklist (Technical Audit)**
 *Check these boxes if the issuer or agent has committed a specific statutory violation:*
 
-* **[ ] Sec. 21 | Lack of Pre-Endorsement Notice:** Did the bank fail to provide a written notice at least **7 business days** before handing your account to a third-party lawyer or collection agency?
+* **[ ] [ ] { } Sec. 21 | Lack of Pre-Endorsement Notice:** Did the bank fail to provide a written notice at least **7 business days** before handing your account to a third-party lawyer or collection agency?
 * **[ ] Sec. 19 | Unfair Collection Practices:** Did the collector use "shaming" tactics, such as contacting your social media friends, posting your name publicly, or using "force, violence, or other criminal means" to collect?
 * **[ ] Sec. 20 | Violation of Privacy/Time Limits:** Did you receive calls between **10:01 PM and 5:59 AM**, or did the collector disclose your debt status to anyone other than you, your spouse, or your authorized agent?
 * **[ ] Sec. 10 | Incorrect Interest Application:** Did the bank calculate interest on the "Total Outstanding Balance" even though you made a partial payment? *(Interest should only apply to the **unpaid portion** of the principal).*
