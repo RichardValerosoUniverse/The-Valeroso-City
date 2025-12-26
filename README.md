@@ -3493,7 +3493,7 @@ The central bank regulates the conduct of credit card issuers through BSP Circul
 | **Criminal Liability (Exception)** | Criminal liability *only* arises if the non-payment is linked to fraud, such as: 1) Issuance of a bouncing check (Batas Pambansa 22). 2) Fraudulent intent under the Access Devices Regulation Act (RA 8484). |
 | **Debt Restructuring** | The cardholder has the right to approach the bank for a restructured payment plan, which can sometimes be mediated through the BSP Consumer Empowerment Group (CEG). |
 
-## **The Philippine Credit Card Industry Regulation Law (Republic Act No. 10870)
+## **The Philippine Credit Card Industry Regulation Law (Republic Act No. 10870)**
 
 At the turn of the 21st century, the Philippine credit card industry operated within a regulatory patchwork that left consumers vulnerable to systemic debt cycles. **Republic Act No. 10870**, otherwise known as the **Philippine Credit Card Industry Regulation Law**, was enacted to correct this structural imbalance. This analysis explores the law’s existence as a consumer safeguard, its unique enactment through constitutional "inaction" during a presidential transition, and its robust implementation under the **Duterte Administration**, which defined the law’s contemporary application through interest rate caps and the criminalization of harassment.
 
@@ -3661,7 +3661,7 @@ If the bank's Customer Assistance Unit (Sec. 17) fails to resolve your dispute w
 
 As requested, here is the summary table outlining the specific **Rights of the Cardholder** versus the **Obligations of the Issuer** under **Republic Act No. 10870**.
 
-### **Summary of Rights and Obligations under RA 10870**
+**Summary of Rights and Obligations under RA 10870**
 
 | **Category** | **Rights of the Cardholder** | **Obligations of the Credit Card Issuer** |
 | :--- | :--- | :--- |
