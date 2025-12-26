@@ -3633,23 +3633,42 @@ RA 10870 is a "special penal law." Under **Section 25**, willful violators face:
 * **Section 30. Repealing Clause:** All inconsistent laws (e.g., parts of the Truth in Lending Act) are **repealed or amended accordingly.**
 * **Section 31. Effectivity:** This Act took effect fifteen (15) days after publication. It lapsed into law on **July 17, 2016**.
 
-**IV. THE VIOLATION & PUBLIC AWARENESS CHECKLISTS**
+**THE VIOLATION & PUBLIC AWARENESS CHECKLISTS"*
 
-**1. The RA Violation Checklist (Technical Audit)**
-* [ ] **Sec 21:** Endorsed to a collector without a **7-day prior written notice** from the bank?
-* [ ] **Sec 19:** Collector contacted your workplace, HR, or social media to "shame" you?
-* [ ] **Sec 20:** Received collection calls outside the **6 AM to 10 PM** window?
-* [ ] **Sec 10:** Charged interest on the portion of the bill you **already paid**?
-* [ ] **Sec 23:** Charged a late fee for a payment made on a Monday when the due date was a Sunday?
-* [ ] **Sec 13:** Annual fees or interest rates increased without a **90-day warning**?
+1. **The RA 10870 Violation Checklist (Technical Audit)**
+*Check these boxes if the issuer or agent has committed a specific statutory violation:*
 
-**2. The Public Awareness Checklist (Your Rights at a Glance)**
-* [ ] **Right to Privacy:** My debt cannot be disclosed to third parties without legal cause.
-* [ ] **Right to Refuse:** I can decline any credit limit increase offered by the bank.
-* [ ] **Right to Clarity:** My monthly bill must show a sample calculation of my interest.
-* [ ] **Right to Recourse:** I have the right to escalate any ignored grievance to the BSP.
+* **[ ] Sec. 21 | Lack of Pre-Endorsement Notice:** Did the bank fail to provide a written notice at least **7 business days** before handing your account to a third-party lawyer or collection agency?
+* **[ ] Sec. 19 | Unfair Collection Practices:** Did the collector use "shaming" tactics, such as contacting your social media friends, posting your name publicly, or using "force, violence, or other criminal means" to collect?
+* **[ ] Sec. 20 | Violation of Privacy/Time Limits:** Did you receive calls between **10:01 PM and 5:59 AM**, or did the collector disclose your debt status to anyone other than you, your spouse, or your authorized agent?
+* **[ ] Sec. 10 | Incorrect Interest Application:** Did the bank calculate interest on the "Total Outstanding Balance" even though you made a partial payment? *(Interest should only apply to the **unpaid portion** of the principal).*
+* **[ ] Sec. 23 | Weekend/Holiday Due Dates:** Were you penalized for paying on a Monday when your due date fell on a Sunday or a National Holiday? **(This is a direct violation of the "Next Business Day" rule).**
+* **[ ] Sec. 13 | Hidden Fee Changes:** Did the bank implement a new fee structure or increase interest rates without notifying you in writing **90 calendar days** in advance?
+* **[ ] Sec. 14 | Failure to Provide SOA:** Did the bank fail to send your Statement of Account (SOA) at least **15 calendar days** before the payment due date?
+* **[ ] Sec. 22 | Termination Breach:** Did the bank refuse to allow you to terminate your card immediately, provided you settled the balance or entered a payment plan?
 
-**V. REPORTING TO THE BANGKO SENTRAL NG PILIPINAS (BSP)**
+2. **The Public Awareness Checklist (Your Rights at a Glance)**
+*These rights are "non-waivable," meaning even if you signed a contract saying otherwise, the law protects you.*
+
+* **[ ] Right to Confidentiality (Sec. 18):** My credit data is strictly confidential. It can only be shared with credit bureaus (like CIC), the BSP, or by court order. **Banks cannot sell your data to marketing firms without your separate consent.**
+* **[ ] Right to Transparency in Financing (Sec. 11):** My bill must clearly show the **Effective Interest Rate (EIR)** per month and per annum, not just the nominal rate.
+* **[ ] Right to Dispute (Sec. 15):** I have **30 days** from the statement date to report an error. The bank **cannot** charge interest on the disputed amount while the investigation is ongoing.
+* **[ ] Right to Fair Compounding:** I have the right to ensure that interest is not "capitalized" (added to the principal) to create "interest on interest" unless explicitly agreed upon in a restructuring catch-up plan.
+* **[ ] Right to Limit Denial:** I can refuse a credit limit increase. If I do not explicitly "opt-in" to an increase in some cases, the bank should not automatically raise my credit risk.
+* **[ ] Right to Legal Recourse:** I have the right to file a formal complaint with the **BSP Consumer Protection and Market Conduct Office (CPMCO)** if the bank's internal grievance system fails to resolve my issue within **7 to 15 days**.
+
+3. **The "Default" Protection Audit**
+*Many consumers don't know that "Default" has a legal definition under RA 10870:*
+
+* **[ ] Proper Definition of Default:** You are only legally "in default" if you fail to pay the **Minimum Amount Due** for at least **three (3) consecutive billing cycles**. 
+* **[ ] Acceleration Clause Transparency:** The bank must explain clearly when the "Total Outstanding Balance" becomes due and demandable; they cannot simply "surprise" you with a full-balance demand after one missed day.
+
+**Summary of Actionable Steps**
+If you checked any boxes in **Section 1**, you have sufficient grounds to file a **formal protest**. 
+
+> **Tip:** Always quote the specific **Section Number** of RA 10870 when talking to bank supervisors or collectors. It signals that you are an informed consumer and often stops harassment immediately.
+
+**REPORTING TO THE BANGKO SENTRAL NG PILIPINAS (BSP)**
 
 If the bank's Customer Assistance Unit (Sec. 17) fails to resolve your dispute within 10 business days, escalate immediately via the **BSP Consumer Assistance Mechanism**.
 
@@ -3676,7 +3695,7 @@ As requested, here is the summary table outlining the specific **Rights of the C
 | **Privacy & Term.** | Right to **strict confidentiality** of personal data (Sec. 16). | Must establish a **Customer Assistance Unit** for prompt resolution (Sec. 17). |
 | | Right to **terminate the account** at any time (Sec. 25). | Must maintain a **documented risk management system** (Sec. 6). |
 
-**VI. LEGAL TOOLKIT: NOTICE OF ESCALATION**
+**LEGAL TOOLKIT: NOTICE OF ESCALATION**
 
 *Use this template to notify bank management that you are prepared to file a formal BSP complaint.*
 
