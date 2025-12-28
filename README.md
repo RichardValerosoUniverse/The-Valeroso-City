@@ -3700,17 +3700,24 @@ Here is the summary table outlining the specific **Rights of the Cardholder** ve
 *Use this template to notify bank management that you are prepared to file a formal BSP complaint.*
 
 > **NOTICE OF ESCALATION: DEMAND FOR STATUTORY COMPLIANCE**
-**RE: Formal Dispute under Republic Act No. 10870**
+> **RE: Formal Dispute under Republic Act No. 10870**
 
-**DATE:** [Date of Sending]
+> **DATE:** [Date of Sending]
 
-**TO:** [Name of Bank] – Consumer Assistance Management Department
-**CC:** Bangko Sentral ng Pilipinas – CPMCO (**consumeraffairs@bsp.gov.ph**)
-**ATTENTION:** Head of Credit Card Operations / Dispute Resolution Unit
+> **TO:** [Name of Bank] – Consumer Assistance Management Department
 
-**SUBJECT: FINAL NOTICE UNDER R.A. 10870 – [Ticket/Reference Number]**
+> **CC:** Bangko Sentral ng Pilipinas – CPMCO (**consumeraffairs@bsp.gov.ph**)
 
-**Dear Management,**
+
+> **ATTENTION:** Head of Credit Card Operations / Dispute Resolution Unit
+
+
+> **SUBJECT: FINAL NOTICE UNDER R.A. 10870 – [Ticket/Reference Number]**
+
+
+
+
+> **Dear Management,**
 
 This serves as a formal escalation regarding my unresolved dispute under Reference Number **[Ticket Number]**. To date, your institution has failed to provide a definitive resolution. I am now formally invoking my rights under **Republic Act No. 10870**, otherwise known as the *"Philippine Credit Card Industry Regulation Law."*
 
