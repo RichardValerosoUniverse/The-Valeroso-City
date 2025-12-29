@@ -2942,6 +2942,41 @@ The Philippine credit card model is thus characterized by **high accessibility**
 
 ## The Definitive Guide to Credit Card Regulation in the Philippines: Key BSP Circulars and Consumer Protection Mandates
 
+This guide provides a comprehensive and verified overview of the Philippine banking regulations governing credit cards and digital transactions as of **late 2025**. It incorporates the finalized implementing rules of the **Anti-Financial Account Scamming Act (AFASA)** and the **Financial Consumer Protection Act (FCPA)**.
+
+# **The Definitive Guide to Credit Card Regulation in the Philippines: Key BSP Circulars and Consumer Protection Mandates**
+
+In 2025, the Bangko Sentral ng Pilipinas (BSP) shifted from standard oversight to a **"Proactive Defense"** model. With the rise of digital fraud, the legal landscape now empowers consumers with specific tools—like the mandatory **"Kill Switch"** and **"Coordinated Verification"**—to protect their assets in real-time.
+
+**The Master Reference Table: Verified BSP Circulars**
+
+| BSP Circular No. | Regulatory Pillar | Meaning & Function for the Consumer |
+| :--- | :--- | :--- |
+| **No. 1215 (2025)** | **AFASA: Temporary Holding of Funds** | **Scam Intervention:** Banks can freeze suspicious digital transfers for an **initial 5 days** (extendable to **30 days** total) to intercept stolen funds before they are withdrawn. |
+| **No. 1213 (2025)** | **AFASA: Advanced Security Standards** | **Phasing out SMS OTPs:** Mandates a shift toward **phishing-resistant biometrics** (Passkeys/FIDO2) and requires a **24-hour "Transaction Pause"** after key account changes. |
+| **No. 1218 (2025)** | **Large Value Cash Transactions** | **Traceability:** Effective **Oct 7, 2025**, cash withdrawals over **₱500,000** must be processed via traceable digital channels (checks/transfers) to prevent untraceable fraud payouts. |
+| **No. 1195 (2024)** | **NRPS Consumer Redress** | **Notification Standards:** Mandates strict 24/7 automated dispute filing and real-time status notifications for failed/delayed InstaPay/EFT transfers. |
+| **No. 1165 (2023)** | **Interest Rate & Fee Ceilings** | **Price Caps:** Strictly limits monthly interest to **3%** (36% APR), installment add-on rates to **1%**, and cash advance fees to **₱200**. |
+| **No. 1160 (2022)** | **Financial Consumer Protection (FCPA)** | **Right to Recourse:** Implements RA 11765, granting a **2-day cooling-off period** for new products and making banks legally liable for third-party collector conduct. |
+| **No. 1003 (2018)** | **The Credit Card "Bible"** | **Payment Hierarchy:** Payments above the minimum **must** apply to the **highest interest balance first**. It also bans charging interest on interest. |
+| **No. 454 (2004)** | **Fair Debt Collection Standards** | **Anti-Harassment:** Prohibits threats and shaming. Restricts collection calls to between **6:00 AM and 10:00 PM** unless the account is over 60 days past due. |
+
+**Critical Rights & Innovations (2025 Update)**
+
+**1. The Mandatory "Kill Switch"**
+Under **Circular 1213**, every mobile banking app must feature a prominent, 24/7 accessible mechanism (a "Kill Switch"). This allows you to instantly suspend your account and block outgoing financial transactions without having to wait on a customer service hotline.
+
+**2. Phishing-Resistant Authentication (Passkeys)**
+The BSP has officially deemed SMS OTPs as "legacy/weak" authentication. Per **Circular 1213**, banks are now required to transition to cryptographically verifiable methods like **biometric passkeys** (FIDO2 standards). This ensures that even if a scammer tricks you into giving a code, they cannot access your account without your physical device or biometrics.
+
+**3. Coordinated Verification Process (AFASA)**
+Previously, if money left your bank and went to another, your bank would claim they "lost jurisdiction." Under **Circular 1215**, the **Originating Financial Institution (OFI)** and **Receiving Financial Institution (RFI)** are now legally mandated to coordinate a verification process. They must follow the "money trail" to recover disputed funds before they are moved to "money mule" accounts.
+
+**4. The "Arial 12" Transparency Rule**
+Per **Circular 1160** (FCPA), banks are prohibited from hiding critical fees in fine print. Key terms, interest rates, and fees must be presented in a **Summary Table** on the front page of your statement or contract using a clear, legible font size (minimum Arial 12).
+
+---
+
 The **Bangko Sentral ng Pilipinas (BSP)** enforces a robust regulatory framework over the credit card industry, structured around two pillars: **Core BSP Circulars** (focused on financial health and pricing) and **Statutory Mandates** (focused on consumer rights derived from Republic Acts). This structure ensures financial stability, mandates ethical operations, and provides stringent consumer protection.
 
 **I. Core BSP Circulars: Cost of Credit, Pricing Ceilings, and Risk Management**
