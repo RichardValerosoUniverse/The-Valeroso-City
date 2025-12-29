@@ -3700,6 +3700,7 @@ Here is the summary table outlining the specific **Rights of the Cardholder** ve
 *Use this template to notify bank management that you are prepared to file a formal BSP complaint.*
 
 > **NOTICE OF ESCALATION: DEMAND FOR STATUTORY COMPLIANCE**
+
 > **RE: Formal Dispute under Republic Act No. 10870**
 
 > **DATE:** [Date of Sending]
@@ -3713,7 +3714,6 @@ Here is the summary table outlining the specific **Rights of the Cardholder** ve
 
 
 > **SUBJECT: FINAL NOTICE UNDER R.A. 10870 – [Ticket/Reference Number]**
-
 
 
 
@@ -3733,9 +3733,9 @@ Pursuant to R.A. 10870, I am contesting the following breaches of the law:
 > * **Section 16 (Confidentiality of Information):** I am seeking verification that no derogatory information has been shared with third-party credit bureaus or collection agencies while this dispute is pending, as protected under this Act.
 
 > II. SUMMARY OF CLAIM
-* **Disputed Amount:** PHP [Amount]
-* **Transaction Date:** [Date]
-* **Nature of Error:** [Briefly describe: e.g., Fraud, Double Charge, or Unreversed Credit]
+> * **Disputed Amount:** PHP [Amount]
+> * **Transaction Date:** [Date]
+> * **Nature of Error:** [Briefly describe: e.g., Fraud, Double Charge, or Unreversed Credit]
 
 > III. DEMAND FOR IMMEDIATE ACTION
 Under the regulatory framework of R.A. 10870, I demand the following:
@@ -3749,10 +3749,14 @@ Please be advised that Section 26 of R.A. 10870 grants the **Bangko Sentral ng P
 
 > If this matter is not resolved within **five (5) banking days**, I will escalate this file to the BSP Consumer Protection and Market Conduct Office (CPMCO) for a formal investigation into your compliance with R.A. 10870.
 
+
+
 > **[Your Signature]**
 
 > **[Your Full Printed Name]**
+
 > **Card Identifier:** [Bank Name] ending in **[Last 4 Digits]**
+
 > **Contact Number:**[Your Phone Number]
 
 ## Luhn Algorithm: A Complete Guide
