@@ -2957,6 +2957,29 @@ In 2025, the Bangko Sentral ng Pilipinas (BSP) shifted from standard oversight t
 | **No. 1003 (2018)** | **The Credit Card "Bible"** | **Payment Hierarchy:** Payments above the minimum **must** apply to the **highest interest balance first**. It also bans charging interest on interest. |
 | **No. 454 (2004)** | **Fair Debt Collection Standards** | **Anti-Harassment:** Prohibits threats and shaming. Restricts collection calls to between **6:00 AM and 10:00 PM** unless the account is over 60 days past due. |
 
+To provide a comprehensive understanding, the table below integrates the **Master Reference Table** with specific **Real-World Scenarios** for each regulatory pillar. This allows for a direct comparison between the legal mandate and its practical application.
+
+**2025 Comprehensive Regulatory Comparison Table**
+
+| BSP Circular No. | Regulatory Pillar | Meaning & Function | **Real-World Scenario / Example** |
+| :--- | :--- | :--- | :--- |
+| **No. 1215 (2025)** | **AFASA: Disputed Funds** | Banks can freeze suspicious digital transfers for **5 days** (Initial), extendable to **30 days** (Total). | **The "Social Engineering" Scenario:** You are tricked into a "fake investment" and transfer **₱50,000** to a stranger. You report it 10 mins later. Your bank triggers an **Initial Holding Request** to the recipient's bank, freezing the funds before they can be withdrawn at an ATM. |
+| **No. 1214 (2025)** | **AFASA: Inquiry & Sharing** | Grants BSP authority to bypass bank secrecy laws to **inquire into account data** for scam cases. | **The "Money Mule" Scenario:** A scammer moves stolen money through five different e-wallets to hide the trail. Previously, "Bank Secrecy" blocked investigators. Now, the BSP instantly tracks the money through all five accounts to identify and block the final payout point. |
+| **No. 1213 (2025)** | **AFASA: Security Standards** | Mandates a **24-hour Transaction Pause** after key account changes and shifts to **Biometric Passkeys**. | **The "Accidental Phishing" Scenario:** You accidentally give your login to a scammer. They try to change your registered mobile number to steal OTPs. The bank triggers a **24-hour pause** on all outgoing transfers, giving you time to use the **Kill Switch** and secure your funds. |
+| **No. 1218 (2025)** | **Large Value Transactions** | Cash withdrawals over **₱500,000** must use digital/traceable channels (checks/transfers). | **The "Forced Withdrawal" Scenario:** A criminal forces a victim to withdraw **₱1,000,000** in cash to avoid a paper trail. The bank teller blocks the cash release, requiring a manager's check or digital transfer, effectively stopping the untraceable theft. |
+| **No. 1195 (2024)** | **NRPS Consumer Redress** | Mandates **1-Hour Refund** for failed instant transfers (InstaPay) and real-time notifications. | **The "InstaPay Limbo" Scenario:** You pay your ₱20,000 rent. Your account is debited, but the landlord never receives it. Under this rule, the bank must return the ₱20,000 to your account within **1 hour** of the failed transaction. |
+| **No. 1165 (2023)** | **Interest & Fee Ceilings** | Limits monthly interest to **3%**, installment add-ons to **1%**, and cash advance fees to **₱200**. | **The "Hidden Rate" Scenario:** A bank attempts to charge a 4% monthly interest rate on your credit card due to "market volatility." This is illegal. You point to Circular 1165, and the bank is legally forced to revert your rate to the **3% cap**. |
+| **No. 1160 (2022)** | **Consumer Protection (FCPA)** | Grants a **2-day cooling-off period** for new products and protects against collector harassment. | **The "Buyer’s Remorse" Scenario:** A bank agent pressures you into a 5-year insurance-investment plan while you're applying for a credit card. You have **48 hours** to cancel the entire contract without penalty or providing a reason. |
+| **No. 1003 (2018)** | **Credit Card Payment Rule** | Payments above the minimum **must** apply to the **highest interest balance first**. | **The "Smart Pay" Scenario:** You have a ₱10k **Cash Advance** (high interest) and a ₱10k **Retail Purchase** (lower interest). You pay ₱5k. The bank **must** apply that ₱5k to the Cash Advance first, saving you from mounting high-interest debt. |
+
+**How to Use This Table for Disputes**
+
+When communicating with a **Bangko Sentral-Supervised Institution (BSI)**, follow this script to maximize your protection:
+
+1.  **Identify the Breach:** Look at the table above to find which scenario matches your problem.
+2.  **Cite the Specific Circular:** Instead of saying "I want my money back," say: *"Under **BSP Circular No. 1215**, I am requesting an Initial Holding Request on this transaction as it was facilitated through social engineering."*
+3.  **Demand the Timeline:** For digital transfer errors, state: *"Per **Circular No. 1195**, I expect the return of these unsuccessful funds to my account within the 1-hour mandate."*
+
 **Critical Rights & Innovations (2025 Update)**
 
 **1. The Mandatory "Kill Switch"**
