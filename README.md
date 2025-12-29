@@ -3717,6 +3717,8 @@ Here is the summary table outlining the specific **Rights of the Cardholder** ve
 
 
 
+
+
 > **Dear Management,**
 
 > This serves as a formal escalation regarding my unresolved dispute under Reference Number **[Ticket Number]**. To date, your institution has failed to provide a definitive resolution. I am now formally invoking my rights under **Republic Act No. 10870**, otherwise known as the *"Philippine Credit Card Industry Regulation Law."*
@@ -3748,6 +3750,9 @@ Under the regulatory framework of R.A. 10870, I demand the following:
 Please be advised that Section 26 of R.A. 10870 grants the **Bangko Sentral ng Pilipinas (BSP)** the power to impose administrative sanctions on credit card issuers for violations of this Act. 
 
 > If this matter is not resolved within **five (5) banking days**, I will escalate this file to the BSP Consumer Protection and Market Conduct Office (CPMCO) for a formal investigation into your compliance with R.A. 10870.
+
+
+
 
 
 
