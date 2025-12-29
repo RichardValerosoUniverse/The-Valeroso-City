@@ -2944,19 +2944,6 @@ The Philippine credit card model is thus characterized by **high accessibility**
 
 In 2025, the Bangko Sentral ng Pilipinas (BSP) shifted from standard oversight to a **"Proactive Defense"** model. With the rise of digital fraud, the legal landscape now empowers consumers with specific tools—like the mandatory **"Kill Switch"** and **"Coordinated Verification"**—to protect their assets in real-time.
 
-**The Master Reference Table: Verified BSP Circulars**
-
-| BSP Circular No. | Regulatory Pillar | Meaning & Function for the Consumer |
-| :--- | :--- | :--- |
-| **No. 1215 (2025)** | **AFASA: Temporary Holding of Funds** | **Scam Intervention:** Banks can freeze suspicious digital transfers for an **initial 5 days** (extendable to **30 days** total) to intercept stolen funds before they are withdrawn. |
-| **No. 1213 (2025)** | **AFASA: Advanced Security Standards** | **Phasing out SMS OTPs:** Mandates a shift toward **phishing-resistant biometrics** (Passkeys/FIDO2) and requires a **24-hour "Transaction Pause"** after key account changes. |
-| **No. 1218 (2025)** | **Large Value Cash Transactions** | **Traceability:** Effective **Oct 7, 2025**, cash withdrawals over **₱500,000** must be processed via traceable digital channels (checks/transfers) to prevent untraceable fraud payouts. |
-| **No. 1195 (2024)** | **NRPS Consumer Redress** | **Notification Standards:** Mandates strict 24/7 automated dispute filing and real-time status notifications for failed/delayed InstaPay/EFT transfers. |
-| **No. 1165 (2023)** | **Interest Rate & Fee Ceilings** | **Price Caps:** Strictly limits monthly interest to **3%** (36% APR), installment add-on rates to **1%**, and cash advance fees to **₱200**. |
-| **No. 1160 (2022)** | **Financial Consumer Protection (FCPA)** | **Right to Recourse:** Implements RA 11765, granting a **2-day cooling-off period** for new products and making banks legally liable for third-party collector conduct. |
-| **No. 1003 (2018)** | **The Credit Card "Bible"** | **Payment Hierarchy:** Payments above the minimum **must** apply to the **highest interest balance first**. It also bans charging interest on interest. |
-| **No. 454 (2004)** | **Fair Debt Collection Standards** | **Anti-Harassment:** Prohibits threats and shaming. Restricts collection calls to between **6:00 AM and 10:00 PM** unless the account is over 60 days past due. |
-
 To provide a comprehensive understanding, the table below integrates the **Master Reference Table** with specific **Real-World Scenarios** for each regulatory pillar. This allows for a direct comparison between the legal mandate and its practical application.
 
 **2025 Comprehensive Regulatory Comparison Table**
