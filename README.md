@@ -3719,41 +3719,41 @@ Here is the summary table outlining the specific **Rights of the Cardholder** ve
 
 > **Dear Management,**
 
-This serves as a formal escalation regarding my unresolved dispute under Reference Number **[Ticket Number]**. To date, your institution has failed to provide a definitive resolution. I am now formally invoking my rights under **Republic Act No. 10870**, otherwise known as the *"Philippine Credit Card Industry Regulation Law."*
+> This serves as a formal escalation regarding my unresolved dispute under Reference Number **[Ticket Number]**. To date, your institution has failed to provide a definitive resolution. I am now formally invoking my rights under **Republic Act No. 10870**, otherwise known as the *"Philippine Credit Card Industry Regulation Law."*
 
-I. STATUTORY BASIS OF DISPUTE
+> I. STATUTORY BASIS OF DISPUTE
 Pursuant to R.A. 10870, I am contesting the following breaches of the law:
 
-* **Section 11 (Expeditious Care):** The law mandates that "Card issuers shall exercise expeditious care in handling consumer complaints." The delay in resolving my case exceeds the reasonable standards of care expected under the Act.
-* **Section 15 (Billing Errors and Disputed Transactions):** I am exercising my right to dispute charges based on:
+> * **Section 11 (Expeditious Care):** The law mandates that "Card issuers shall exercise expeditious care in handling consumer complaints." The delay in resolving my case exceeds the reasonable standards of care expected under the Act.
+> * **Section 15 (Billing Errors and Disputed Transactions):** I am exercising my right to dispute charges based on:
     * *Unauthorized/Fraudulent Transactions* not sanctioned by the cardholder.
     * *Clerical or Mathematical Errors* in the Statement of Account.
     * *Non-delivery or Non-acceptance* of goods/services charged.
-* **Section 14 (Late Payment Charges):** I contest the imposition of late fees/interest on a disputed amount that was reported in a timely manner according to the law’s billing cycle provisions.
-* **Section 16 (Confidentiality of Information):** I am seeking verification that no derogatory information has been shared with third-party credit bureaus or collection agencies while this dispute is pending, as protected under this Act.
+> * **Section 14 (Late Payment Charges):** I contest the imposition of late fees/interest on a disputed amount that was reported in a timely manner according to the law’s billing cycle provisions.
+> * **Section 16 (Confidentiality of Information):** I am seeking verification that no derogatory information has been shared with third-party credit bureaus or collection agencies while this dispute is pending, as protected under this Act.
 
-II. SUMMARY OF CLAIM
+> II. SUMMARY OF CLAIM
 * **Disputed Amount:** PHP [Amount]
 * **Transaction Date:** [Date]
 * **Nature of Error:** [Briefly describe: e.g., Fraud, Double Charge, or Unreversed Credit]
 
-III. DEMAND FOR IMMEDIATE ACTION
+> III. DEMAND FOR IMMEDIATE ACTION
 Under the regulatory framework of R.A. 10870, I demand the following:
 
-1.  **Provisional Credit/Freeze:** Immediate suspension of interest accrual on the disputed amount while the investigation is ongoing.
-2.  **Documentary Proof:** Per the card issuer's burden of proof, I require a copy of the transaction records or verification logs used to validate these charges.
-3.  **Final Resolution:** A written explanation of your findings and the immediate reversal of all erroneous charges and associated fees.
+> 1.  **Provisional Credit/Freeze:** Immediate suspension of interest accrual on the disputed amount while the investigation is ongoing.
+> 2.  **Documentary Proof:** Per the card issuer's burden of proof, I require a copy of the transaction records or verification logs used to validate these charges.
+> 3.  **Final Resolution:** A written explanation of your findings and the immediate reversal of all erroneous charges and associated fees.
 
-IV. NOTICE OF REGULATORY FILING
+> IV. NOTICE OF REGULATORY FILING
 Please be advised that Section 26 of R.A. 10870 grants the **Bangko Sentral ng Pilipinas (BSP)** the power to impose administrative sanctions on credit card issuers for violations of this Act. 
 
-If this matter is not resolved within **five (5) banking days**, I will escalate this file to the BSP Consumer Protection and Market Conduct Office (CPMCO) for a formal investigation into your compliance with R.A. 10870.
+> If this matter is not resolved within **five (5) banking days**, I will escalate this file to the BSP Consumer Protection and Market Conduct Office (CPMCO) for a formal investigation into your compliance with R.A. 10870.
 
-**[Your Signature]**
+> **[Your Signature]**
 
-**[Your Full Printed Name]**
-**Card Identifier:** [Bank Name] ending in **[Last 4 Digits]**
-**Contact Number:**[Your Phone Number]
+> **[Your Full Printed Name]**
+> **Card Identifier:** [Bank Name] ending in **[Last 4 Digits]**
+> **Contact Number:**[Your Phone Number]
 
 ## Luhn Algorithm: A Complete Guide
 
