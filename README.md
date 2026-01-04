@@ -3866,17 +3866,17 @@ This letter is issued without prejudice to any other remedies available under la
 
 
 
-Sincerely,
+> Sincerely,
 
-[Your Signature]
+> [Your Signature]
 
-[Your Full Name]
+> [Your Full Name]
 
-Credit Card Issuer: [Bank Name]
+> Credit Card Issuer: [Bank Name]
 
-Card Identifier: Ending in [Last 4 Digits]
+> Card Identifier: Ending in [Last 4 Digits]
 
-Contact Information: [Phone / Email]
+> Contact Information: [Phone / Email]
 
 ## Luhn Algorithm: A Complete Guide
 
