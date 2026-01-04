@@ -3553,57 +3553,19 @@ RA 10870 is a "special penal law." Under **Section 25**, willful violators face:
 * **Fines:** ₱50,000 to ₱200,000.
 * **Administrative Sanctions:** The BSP can revoke the issuer's authority to operate.
 
-**SECTION 5: STATUTORY DEFINITION OF TERMS**
+**SECTIONS 1 TO 31 OF REPUBLIC ACT 10870**
 
-*As explicitly defined in the text of the law to prevent "semantic trickery":*
+* **SECTION 1. Short Title.**
+This Act shall be known as the **"Philippine Credit Card Industry Regulation Law"**.
 
-(a) **Acceleration Clause** – a contract provision that allows a credit card issuer to impose a condition of full settlement of the entire obligation on a cardholder in the event of default or other events of default as may be provided under the credit card agreement;
+* **SECTION 2. Declaration of Basic Policy.**
+It is the policy of the State to foster the development of the credit card industry as an indispensable tool in making consumer credit readily available to all Filipinos under conditions of fair and sound consumer credit practices which are aligned with global best practices, in promoting an efficient payments system. To ensure the vibrancy and growth of the credit card industry, the State shall institute appropriate mechanisms to protect and educate credit cardholders.
 
-(b) **Acquirer** – the institution that accepts and processes the credit card transaction which shall eventually be settled by the credit card issuer;
+* **SECTION 3. Scope and Coverage.**
+This Act shall govern all credit card issuers, acquirers and all credit card transactions.
 
-(c) **Balance Transfer** – the transfer of a cardholder’s credit card indebtedness from one credit card issuer to another;
-
-(d) **Billing Cycle/Billing Period** – the period of time between the dates of regular periodic statements, which shall not be lower than fifteen (15) days;
-
-(e) **Card Association** – any organization whose members issue credit cards and where such organization provides the network for the proper routing and processing of credit card transactions;
-
-(f) **Cash Advances** – any cash loan or withdrawal obtained through the use of a credit card;
-
-(g) **Credit Card** – any card, plate, or other device which may be physical or virtual, existing now or in the future, used for the purpose of obtaining money, property, or services on credit;
-
-(h) **Credit Card Issuer** – a bank or a corporation that offers the use of a credit card;
-
-(i) **Credit Card Limit** – the maximum total amount for which a cardholder is authorized to purchase or borrow on credit;
-
-(j) **Default or Delinquency** – the nonpayment of at least the minimum amount due for at least three (3) billing cycles;
-
-(k) **Finance Charges** – the amount to be paid by the debtor for the privilege of using the credit line, such as interest or discounts;
-
-(l) **Installment Purchases** – transactions wherein payment for which is amortized over a fixed period;
-
-(m) **Industry Association** – an association composed of credit card issuers or other players in the credit card industry;
-
-(n) **Membership Fee** – the fees levied by the credit card issuer on the cardholder for the right to use the credit card and avail of the services that come with it;
-
-(o) **Minimum Amount Due** or **Minimum Payment Required** – the minimum amount that the cardholder needs to pay on or before the due date;
-
-(p) **Outstanding Balance** – the amount of the total obligation of the cardholder to the credit card issuer as of a certain date;
-
-(q) **Statement Cut-off Date** – the date at the end of the billing cycle when the cardholders’ purchases, fees, and other charges are summarized;
-
-(r) **Statement of Account** or **Billing Statement** – the regular listing of transactions, payments, and other charges issued to the cardholder; and
-
-(s) **Supplementary Card** or **Extension Card** – refers to a credit card issued to another person whose credit limit is consolidated with the primary cardholder.
-
-**INDIVIDUAL ANALYSIS OF ALL 31 SECTIONS**
-
-**SECTION 1. Short Title.** — This Act shall be known as the **"Philippine Credit Card Industry Regulation Law"**.
-
-**SECTION 2. Declaration of Basic Policy.** — It is the policy of the State to foster the development of the credit card industry as an indispensable tool in making consumer credit readily available to all Filipinos under conditions of fair and sound consumer credit practices which are aligned with global best practices, in promoting an efficient payments system. To ensure the vibrancy and growth of the credit card industry, the State shall institute appropriate mechanisms to protect and educate credit cardholders.
-
-**SECTION 3. Scope and Coverage.** — This Act shall govern all credit card issuers, acquirers and all credit card transactions.
-
-**SECTION 4. Supervision.** — The Bangko Sentral ng Pilipinas (BSP) shall supervise all credit card issuers and acquirers. Supervision shall include the following:
+* **SECTION 4. Supervision.**
+The Bangko Sentral ng Pilipinas (BSP) shall supervise all credit card issuers and acquirers. Supervision shall include the following:
 
 (a) The issuance of rules of conduct or the establishment of standards of operation for uniform application to all institutions or functions covered, and the imposition of penalties in case of noncompliance therewith;
 
@@ -3672,14 +3634,23 @@ Finance charges and other fees arising from nonpayment in full or on time of the
 
 SECTION 11. Information to be Disclosed.
 A credit card issuer shall disclose to all credit cardholders and potential credit cardholders the following information:
+
 (a) Finance charges for unpaid amounts after payment due date;
+
 (b) The percentage that the interest bears to the total amount to be financed expressed as a simple monthly or annual rate, as the case may be, on the outstanding balance of the obligation;
+
 (c) The default, late payment/penalty fees or similar delinquency-related charges payable in the event of late payments: Provided, That late payment fee or penalty for late payment shall be based on the unpaid minimum amount due or a prescribed minimum fixed amount whichever is lower; Provided, further, That the late payment fees may be based on the total outstanding balance of the credit card obligation, including amounts payable under installment terms or deferred payment schemes, if the contract between the issuer and the cardholder contains an acceleration clause and the total outstanding balance of the credit card is classified and reported as past due;
+
 (d) The method of determining the balance upon which interest and/or delinquency charges may be imposed;
+
 (e) The method of determining the amount of interest and/or delinquency charges, including any minimum or fixed amount imposed as interest and/or delinquency charge;
+
 (f) Other fees, such as membership/renewal fees, processing fees, over-the-limit fees, collection fees, credit investigation fees and attorney’s fees;
+
 (g) For transactions made in foreign currencies, for dual currency accounts (peso and dollar billings), as well as payments made by credit cardholders in any currency other than the billing currency, the manner of conversion from the transaction currency and payment currency to Philippine pesos or billing currency, which may be a definition or general description of conversion rates;
+
 (h) A reminder to the cardholder in the billing statement, or its equivalent document, that payment of only the minimum amount due or any amount less than the total amount due for the billing cycle/billing period, would mean the imposition of interest and/or other charges. A written statement in the following form must be printed in the billing statement— “Important Reminder: Paying less than the total amount due will increase the amount of interest you pay and the time it takes to repay your balance”; and
+
 (i) Any other information that may be required by the BSP.
 The credit card issuer shall endeavor to convey the information in a manner that is understandable to the credit cardholder: Provided, That the items enumerated above may be included in a billing statement on a quarterly basis at the minimum in tabular format. 
 
