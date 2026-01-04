@@ -3792,70 +3792,105 @@ Here is the summary table outlining the specific **Rights of the Cardholder** ve
 
 *Use this template to notify bank management that you are prepared to file a formal BSP complaint.*
 
-> **NOTICE OF ESCALATION: DEMAND FOR STATUTORY COMPLIANCE**
+NOTICE OF ESCALATION AND DEMAND FOR STATUTORY COMPLIANCE
+RE: Formal Credit Card Dispute under Republic Act No. 10870
 
-> **RE: Formal Dispute under Republic Act No. 10870**
+DATE: [Date of Sending]
+TO: [Name of Bank] – Consumer Assistance Management Department
+ATTENTION: Head of Credit Card Operations / Dispute Resolution Unit
+CC: Bangko Sentral ng Pilipinas – Consumer Protection and Market Conduct Office (CPMCO)
+(consumeraffairs@bsp.gov.ph)
 
-> **DATE:** [Date of Sending]
+---
 
-> **TO:** [Name of Bank] – Consumer Assistance Management Department
+Dear Management,
 
-> **CC:** Bangko Sentral ng Pilipinas – CPMCO (**consumeraffairs@bsp.gov.ph**)
+This correspondence serves as a formal escalation and final demand for statutory compliance in relation to an unresolved credit card dispute under Reference Number [Ticket/Reference Number], filed in accordance with Republic Act No. 10870, otherwise known as the Philippine Credit Card Industry Regulation Law.
 
+This notice is issued in good faith, with full transparency, and for public-interest purposes, to ensure adherence to the minimum standards of consumer protection mandated by law.
 
-> **ATTENTION:** Head of Credit Card Operations / Dispute Resolution Unit
+For clarity and context, I place on record that the account subject of this dispute has been consistently maintained in good standing, characterized by timely payments, responsible usage, and the absence of any prior delinquency, collection action, or adverse credit history. The present dispute is isolated, legitimate, and procedural in nature, and does not arise from misuse, neglect, or bad faith on the part of the cardholder.
 
+Despite timely notice of the dispute and continued cooperation, your institution has not provided a definitive written resolution within a reasonable or transparent timeframe, raising serious concerns regarding compliance with R.A. 10870.
 
-> **SUBJECT: FINAL NOTICE UNDER R.A. 10870 – [Ticket/Reference Number]**
+---
 
+I. STATUTORY AND REGULATORY BASIS
 
+Pursuant to Republic Act No. 10870, the following provisions are directly implicated:
 
+1. Section 17 – Expeditious Care and Customer Assistance
 
+The law requires credit card issuers to exercise expeditious care in the handling of consumer complaints through a duly constituted Customer Assistance Unit.
 
-> **Dear Management,**
+A prolonged or unexplained delay in dispute resolution—despite complete notice and cooperation—constitutes a failure to meet the statutory standard of care, regardless of the ultimate outcome of the investigation.
 
-> This serves as a formal escalation regarding my unresolved dispute under Reference Number **[Ticket Number]**. To date, your institution has failed to provide a definitive resolution. I am now formally invoking my rights under **Republic Act No. 10870**, otherwise known as the *"Philippine Credit Card Industry Regulation Law."*
+2. Section 18 – Billing Errors and Disputed Transactions
 
-> I. STATUTORY BASIS OF DISPUTE
-Pursuant to R.A. 10870, I am contesting the following breaches of the law:
+The charges under dispute fall within the categories expressly recognized by law, including:
 
-> * **Section 11 (Expeditious Care):** The law mandates that "Card issuers shall exercise expeditious care in handling consumer complaints." The delay in resolving my case exceeds the reasonable standards of care expected under the Act.
-> * **Section 15 (Billing Errors and Disputed Transactions):** I am exercising my right to dispute charges based on:
-    * *Unauthorized/Fraudulent Transactions* not sanctioned by the cardholder.
-    * *Clerical or Mathematical Errors* in the Statement of Account.
-    * *Non-delivery or Non-acceptance* of goods/services charged.
-> * **Section 14 (Late Payment Charges):** I contest the imposition of late fees/interest on a disputed amount that was reported in a timely manner according to the law’s billing cycle provisions.
-> * **Section 16 (Confidentiality of Information):** I am seeking verification that no derogatory information has been shared with third-party credit bureaus or collection agencies while this dispute is pending, as protected under this Act.
+- Unauthorized or fraudulent transactions not consented to by the cardholder;
+- Clerical or mathematical errors reflected in the Statement of Account; and/or
+- Charges for goods or services not delivered, not accepted, or not rendered as agreed.
 
-> II. SUMMARY OF CLAIM
-> * **Disputed Amount:** PHP [Amount]
-> * **Transaction Date:** [Date]
-> * **Nature of Error:** [Briefly describe: e.g., Fraud, Double Charge, or Unreversed Credit]
+The dispute was reported within the period prescribed by law, thereby activating the issuer’s non-discretionary duty to investigate, document, and communicate the results in a clear and timely manner.
 
-> III. DEMAND FOR IMMEDIATE ACTION
-Under the regulatory framework of R.A. 10870, I demand the following:
+3. Section 10 – Finance Charges, Interest, and Penalties
 
-> 1.  **Provisional Credit/Freeze:** Immediate suspension of interest accrual on the disputed amount while the investigation is ongoing.
-> 2.  **Documentary Proof:** Per the card issuer's burden of proof, I require a copy of the transaction records or verification logs used to validate these charges.
-> 3.  **Final Resolution:** A written explanation of your findings and the immediate reversal of all erroneous charges and associated fees.
+Under Section 10, finance charges and interest must be imposed only on unpaid and undisputed balances. The continued accrual or imposition of charges on an amount under active dispute—absent final determination—raises compliance concerns and undermines the fairness principles embedded in the Act.
 
-> IV. NOTICE OF REGULATORY FILING
-Please be advised that Section 26 of R.A. 10870 grants the **Bangko Sentral ng Pilipinas (BSP)** the power to impose administrative sanctions on credit card issuers for violations of this Act. 
+4. Section 16 – Confidentiality and Non-Disclosure
 
-> If this matter is not resolved within **five (5) banking days**, I will escalate this file to the BSP Consumer Protection and Market Conduct Office (CPMCO) for a formal investigation into your compliance with R.A. 10870.
+While the dispute remains unresolved, the law expressly protects the cardholder from the disclosure of adverse, derogatory, or prejudicial information to:
 
+- Credit bureaus;
+- Collection agencies; or
+- Any third party not authorized by law.
 
+Written confirmation of compliance with this confidentiality obligation is respectfully required.
 
+---
 
+II. SUMMARY OF THE DISPUTE (FOR THE RECORD)
 
+- Disputed Amount: PHP [Amount]
+- Transaction Date(s): [Date(s)]
+- Nature of Dispute: [Fraud / Double Charge / Non-delivery / Unreversed Credit / Other]
 
-> **[Your Signature]**
+---
 
-> **[Your Full Printed Name]**
+III. FORMAL AND TRANSPARENT DEMANDS
 
-> **Card Identifier:** [Bank Name] ending in **[Last 4 Digits]**
+Consistent with the letter and spirit of R.A. 10870, the following actions are formally demanded:
 
-> **Contact Number:**[Your Phone Number]
+1. Suspension of Interest, Finance Charges, and Penalties
+All charges related to the disputed amount must be suspended pending final resolution.
+
+2. Full and Verifiable Disclosure
+Complete disclosure of all documents, records, and data relied upon in validating the disputed transactions, including but not limited to transaction slips, authorization logs, merchant submissions, and relevant system audit trails.
+
+3. Written Final Determination
+A clear, written explanation of findings, supported by evidence, and the immediate reversal of all erroneous charges and related fees, if warranted.
+
+---
+
+IV. NOTICE OF REGULATORY AND PUBLIC ESCALATION
+
+Pursuant to Section 26 of R.A. 10870, in relation to Section 37 of R.A. 7653, the Bangko Sentral ng Pilipinas (BSP) is expressly empowered to impose administrative sanctions for violations of consumer protection laws and regulations.
+
+Should this matter remain unresolved within five (5) banking days from receipt of this notice, the dispute will be formally elevated to the BSP–CPMCO for regulatory review, including an assessment of systemic compliance practices.
+
+This notice is issued without prejudice to any other remedies available under law, regulation, or equity, and may be cited or relied upon in regulatory, administrative, or public consumer-protection proceedings.
+
+---
+
+Respectfully,
+
+[Your Signature]
+[Your Full Printed Name]
+Credit Card Issuer: [Bank Name]
+Card Identifier: Ending in [Last 4 Digits]
+Contact Information: [Phone / Email]
 
 ## Luhn Algorithm: A Complete Guide
 
