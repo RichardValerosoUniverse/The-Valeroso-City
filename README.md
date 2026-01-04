@@ -3808,6 +3808,76 @@ If the bank's Customer Assistance Unit (Sec. 17) fails to resolve your dispute w
 * **Facebook Messenger:** Search for **@BangkoSentralngPilipinas**.
 * **SMS/Text:** Send your report to **21582277** (Globe subscribers).
 
+**SAMPLE CREDIT CARD DISPUTE LETTER – RA 10870 VIOLATIONS**
+
+> DATE: [Insert Date]
+
+> TO: [Bank Name] – Consumer Assistance Management Department
+
+> ATTENTION: Head of Credit Card Operations / Dispute Resolution Unit
+
+> CC: Bangko Sentral ng Pilipinas – Consumer Protection and Market Conduct Office (CPMCO) (consumeraffairs@bsp.gov.ph)
+SUBJECT: Formal Credit Card Dispute under Republic Act No. 10870 – Reference Number [Insert Reference Number]
+
+
+
+
+> Dear Management,
+
+> I am writing to formally dispute certain charges and practices related to my credit card account ending in [Last 4 Digits], under Reference Number [Insert Reference Number], in accordance with Republic Act No. 10870 (Philippine Credit Card Industry Regulation Law).
+This account has been consistently maintained in good standing, with timely payments and responsible usage. The present dispute is isolated and procedural, and not due to misuse or negligence on my part.
+
+> I. NATURE OF DISPUTE / STATUTORY VIOLATIONS
+I am contesting the following violations of RA 10870:
+Section 10 – Finance Charges and Interest
+The issuer applied interest and penalties on disputed amounts or amounts already paid, contrary to the statutory requirement that finance charges apply only to unpaid, undisputed balances.
+Section 11 – Statement of Account
+The issuer failed to provide a timely and accurate Statement of Account for the billing cycle(s) in question.
+Section 16 – Confidentiality of Information
+I require confirmation that no adverse, derogatory, or prejudicial information was shared with credit bureaus, collection agencies, or unauthorized parties during the dispute.
+Section 18 – Billing Errors and Disputed Transactions
+My dispute of [insert specific charge(s)] was reported within the statutory period, yet the issuer failed to investigate and provide a resolution within a reasonable time, violating the cardholder’s rights.
+Section 19 / 21 – Collection Practices / Pre-Endorsement Notice (if applicable)
+The issuer or its collection agent engaged in [harassment/unfair practices] or failed to provide written notice prior to account endorsement to a collection agency.
+
+> II. SUMMARY OF DISPUTED TRANSACTIONS
+> Transaction Date
+> Merchant / Description
+> Disputed Amount (PHP)
+> Nature of Dispute
+> [Date]
+> [Merchant]
+> [Amount]
+> [Fraud / Double Charge / Non-delivery / Other]
+
+> III. FORMAL DEMANDS
+> In accordance with RA 10870, I hereby formally demand the following:
+Immediate Suspension of Interest / Finance Charges / Penalties
+All interest and penalties on disputed amounts must be suspended pending resolution.
+Full Documentary Disclosure
+Provide all supporting documentation, transaction logs, authorizations, and audit trails used to validate the charges.
+Written Resolution
+A clear, written explanation of findings, with immediate reversal of any erroneous charges and related fees, if applicable.
+
+> IV. NOTICE OF REGULATORY ESCALATION
+Should this dispute not be resolved within five (5) banking days from receipt of this letter, I will formally escalate this matter to the BSP–CPMCO for review and potential administrative action, in accordance with Section 26 of RA 10870.
+This letter is issued without prejudice to any other remedies available under law or equity.
+
+
+
+
+Sincerely,
+
+[Your Signature]
+
+[Your Full Name]
+
+Credit Card Issuer: [Bank Name]
+
+Card Identifier: Ending in [Last 4 Digits]
+
+Contact Information: [Phone / Email]
+
 ## Luhn Algorithm: A Complete Guide
 
 A **Credit Card Generator** is a tool used to create fake credit card numbers and test BIN codes. It's designed for developers and testers who need to create valid-looking, virtual card numbers for testing payment APIs and other code. These generated numbers appear legitimate but are completely fake and can't be used for real transactions. The key to their apparent validity is the **Luhn algorithm**.
