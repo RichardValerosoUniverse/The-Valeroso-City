@@ -3655,6 +3655,22 @@ As used in this Act, the following terms are defined as follows:
 
 (s) Supplementary card or extension card refers to a credit card issued to another person whose credit limit is consolidated with the primary cardholder.
 
+SECTION 6. Minimum Requirements for Risk Management System of Credit Card Issuers.
+To effectively deliver services and at the same time safeguard their interests, the credit card issuer and acquirer must establish an appropriate system for managing risk exposures arising from credit card operations. Such risk management system shall be documented in a complete and concise manner, and shall cover the organizational set-up for the institution engaged in or unit handling the credit card business, its information management system, as well as accounting policies and procedures, internal and external functions, and internal control system. 
+
+SECTION 7. Minimum Requirements for the Issuance of Credit Cards.
+Before issuing credit cards, credit card issuers must conduct know-your-client (KYC) procedures and exercise proper diligence in ascertaining that applicants possess good credit standing and are financially capable of fulfilling their credit commitments. 
+
+SECTION 8. Service Level Agreement.
+There shall be, in the service level agreement between the acquiring banks and their partner merchants, a provision requiring merchants to perform due diligence to establish the identity of the cardholders. Nothing in this Act shall preclude a card issuer from verifying or seeking confirmation with the cardholder any purchase if in their assessment there is reasonable concern as to the validity of the purchase.
+
+SECTION 9. Determination of Credit Card Limit; Changes Thereof.
+Credit card issuers shall determine, based on the credit standing and financial capacity of the cardholder, the credit limit to be extended to the cardholder. The card issuers may thereafter implement changes in the credit limit applicable to the account based on their risk management policies and guidelines: Provided, That the cardholder is notified of such changes: Provided, further, That any credit limit increase may be declined by the cardholder: Provided, finally, That the cardholder has the option to request for a credit limit adjustment subject to the approval of the credit card issuer. 
+
+SECTION 10. Imposition of Finance Charges.
+Finance charges and other fees arising from nonpayment in full or on time of the outstanding balance shall be based on the unpaid amount of the outstanding balance. 
+
+
 
 **Chapter I: General Provisions**
 * **Section 1. Short Title:** This Act shall be known as the **"Philippine Credit Card Industry Regulation Law."**
