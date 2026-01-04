@@ -3616,108 +3616,114 @@ As used in this Act, the following terms are defined as follows:
 
     * (s) Supplementary card or extension card refers to a credit card issued to another person whose credit limit is consolidated with the primary cardholder.
 
-SECTION 6. Minimum Requirements for Risk Management System of Credit Card Issuers.
+* **SECTION 6. Minimum Requirements for Risk Management System of Credit Card Issuers.**
 To effectively deliver services and at the same time safeguard their interests, the credit card issuer and acquirer must establish an appropriate system for managing risk exposures arising from credit card operations. Such risk management system shall be documented in a complete and concise manner, and shall cover the organizational set-up for the institution engaged in or unit handling the credit card business, its information management system, as well as accounting policies and procedures, internal and external functions, and internal control system. 
 
-SECTION 7. Minimum Requirements for the Issuance of Credit Cards.
+* **SECTION 7. Minimum Requirements for the Issuance of Credit Cards.**
 Before issuing credit cards, credit card issuers must conduct know-your-client (KYC) procedures and exercise proper diligence in ascertaining that applicants possess good credit standing and are financially capable of fulfilling their credit commitments. 
 
-SECTION 8. Service Level Agreement.
+* **SECTION 8. Service Level Agreement.**
 There shall be, in the service level agreement between the acquiring banks and their partner merchants, a provision requiring merchants to perform due diligence to establish the identity of the cardholders. Nothing in this Act shall preclude a card issuer from verifying or seeking confirmation with the cardholder any purchase if in their assessment there is reasonable concern as to the validity of the purchase.
 
-SECTION 9. Determination of Credit Card Limit; Changes Thereof.
+* **SECTION 9. Determination of Credit Card Limit; Changes Thereof.**
 Credit card issuers shall determine, based on the credit standing and financial capacity of the cardholder, the credit limit to be extended to the cardholder. The card issuers may thereafter implement changes in the credit limit applicable to the account based on their risk management policies and guidelines: Provided, That the cardholder is notified of such changes: Provided, further, That any credit limit increase may be declined by the cardholder: Provided, finally, That the cardholder has the option to request for a credit limit adjustment subject to the approval of the credit card issuer. 
 
-SECTION 10. Imposition of Finance Charges.
+* **SECTION 10. Imposition of Finance Charges.**
 Finance charges and other fees arising from nonpayment in full or on time of the outstanding balance shall be based on the unpaid amount of the outstanding balance. 
 
-SECTION 11. Information to be Disclosed.
+* **SECTION 11. Information to be Disclosed.**
 A credit card issuer shall disclose to all credit cardholders and potential credit cardholders the following information:
 
-(a) Finance charges for unpaid amounts after payment due date;
+    * (a) Finance charges for unpaid amounts after payment due date;
 
-(b) The percentage that the interest bears to the total amount to be financed expressed as a simple monthly or annual rate, as the case may be, on the outstanding balance of the obligation;
+    * (b) The percentage that the interest bears to the total amount to be financed expressed as a simple monthly or annual rate, as the case may be, on the outstanding balance of the obligation;
 
-(c) The default, late payment/penalty fees or similar delinquency-related charges payable in the event of late payments: Provided, That late payment fee or penalty for late payment shall be based on the unpaid minimum amount due or a prescribed minimum fixed amount whichever is lower; Provided, further, That the late payment fees may be based on the total outstanding balance of the credit card obligation, including amounts payable under installment terms or deferred payment schemes, if the contract between the issuer and the cardholder contains an acceleration clause and the total outstanding balance of the credit card is classified and reported as past due;
+    * (c) The default, late payment/penalty fees or similar delinquency-related charges payable in the event of late payments: Provided, That late payment fee or penalty for late payment shall be based on the unpaid minimum amount due or a prescribed minimum fixed amount whichever is lower; Provided, further, That the late payment fees may be based on the total outstanding balance of the credit card obligation, including amounts payable under installment terms or deferred payment schemes, if the contract between the issuer and the cardholder contains an acceleration clause and the total outstanding balance of the credit card is classified and reported as past due;
 
-(d) The method of determining the balance upon which interest and/or delinquency charges may be imposed;
+    * (d) The method of determining the balance upon which interest and/or delinquency charges may be imposed;
 
-(e) The method of determining the amount of interest and/or delinquency charges, including any minimum or fixed amount imposed as interest and/or delinquency charge;
+    * (e) The method of determining the amount of interest and/or delinquency charges, including any minimum or fixed amount imposed as interest and/or delinquency charge;
 
-(f) Other fees, such as membership/renewal fees, processing fees, over-the-limit fees, collection fees, credit investigation fees and attorney’s fees;
+    * (f) Other fees, such as membership/renewal fees, processing fees, over-the-limit fees, collection fees, credit investigation fees and attorney’s fees;
 
-(g) For transactions made in foreign currencies, for dual currency accounts (peso and dollar billings), as well as payments made by credit cardholders in any currency other than the billing currency, the manner of conversion from the transaction currency and payment currency to Philippine pesos or billing currency, which may be a definition or general description of conversion rates;
+    * (g) For transactions made in foreign currencies, for dual currency accounts (peso and dollar billings), as well as payments made by credit cardholders in any currency other than the billing currency, the manner of conversion from the transaction currency and payment currency to Philippine pesos or billing currency, which may be a definition or general description of conversion rates;
 
-(h) A reminder to the cardholder in the billing statement, or its equivalent document, that payment of only the minimum amount due or any amount less than the total amount due for the billing cycle/billing period, would mean the imposition of interest and/or other charges. A written statement in the following form must be printed in the billing statement— “Important Reminder: Paying less than the total amount due will increase the amount of interest you pay and the time it takes to repay your balance”; and
+    * (h) A reminder to the cardholder in the billing statement, or its equivalent document, that payment of only the minimum amount due or any amount less than the total amount due for the billing cycle/billing period, would mean the imposition of interest and/or other charges. A written statement in the following form must be printed in the billing statement— “Important Reminder: Paying less than the total amount due will increase the amount of interest you pay and the time it takes to repay your balance”; and
 
-(i) Any other information that may be required by the BSP.
+    * (i) Any other information that may be required by the BSP.
 The credit card issuer shall endeavor to convey the information in a manner that is understandable to the credit cardholder: Provided, That the items enumerated above may be included in a billing statement on a quarterly basis at the minimum in tabular format. 
 
-SECTION 12. Computations to be Disclosed.
+* **SECTION 12. Computations to be Disclosed.**
 In addition to the foregoing, a credit card issuer must, to the extent practicable, provide a detailed explanation and a clear illustration of the manner by which all charges and fees are computed. The BSP shall determine the implementation date. 
 
-SECTION 13. Changes in the Manner of Computation and Fees.
+* **SECTION 13. Changes in the Manner of Computation and Fees.**
 The cardholder shall be notified at least ninety (90) days prior to any change in the manner of computation of the outstanding balance and the amount of fees to be imposed on the cardholder. If the cardholder finds the change to be unacceptable, he/she shall have the right to terminate his/her account with the credit card issuer subject to Section 25 of this Act. Compliance with this section may be deferred for such reasonable time as the BSP may determine within which credit card issuers should modify their systems accordingly. 
 
-SECTION 14. Over-the-Limit Transaction.
+* **SECTION 14. Over-the-Limit Transaction.**
 If a cardholder breaches the credit limit by a new transaction, the subject transaction may be processed subject to the discretion of the credit card issuer: Provided, That such fees are clearly and prominently disclosed in the table of fees and charges. 
 
-SECTION 15. Lost or Stolen Card.
+* **SECTION 15. Lost or Stolen Card.**
 In case a credit card is lost or stolen, any transaction made prior to reporting to the credit card issuer shall be for the account of the cardholder. 
 
-SECTION 16. Confidentiality of Information.
+* **SECTION 16. Confidentiality of Information.**
 Credit card issuers, their officers, employees and agents shall keep strictly confidential the data on the cardholder, except under any of the following circumstances:
-(a) When disclosure of information is with the consent of the cardholder;
-(b) When the customer information is released, submitted or exchanged with credit information bureaus, industry association, or card association;
-(c) Upon orders of a court of competent jurisdiction or any government office or agency authorized by law, or under such conditions as may be prescribed by the Monetary Board of the BSP;
-(d) When disclosure to third party service providers is necessary for the sole purpose of assisting or rendering services to the credit card issuer in enforcing its rights against the cardholder;
-(e) When disclosure to third parties such as insurance companies is necessary for the sole purpose of insuring the credit card issuer from cardholder default or other credit loss, and the cardholder from fraud or unauthorized charges; and
-(f) When disclosure to third parties is for the purpose of investigating fraud or unauthorized activities or mitigating risk involving card issuance, use and acquiring.
+
+    * (a) When disclosure of information is with the consent of the cardholder;
+
+    * (b) When the customer information is released, submitted or exchanged with credit information bureaus, industry association, or card association;
+
+    * (c) Upon orders of a court of competent jurisdiction or any government office or agency authorized by law, or under such conditions as may be prescribed by the Monetary Board of the BSP;
+
+    * (d) When disclosure to third party service providers is necessary for the sole purpose of assisting or rendering services to the credit card issuer in enforcing its rights against the cardholder;
+
+    * (e) When disclosure to third parties such as insurance companies is necessary for the sole purpose of insuring the credit card issuer from cardholder default or other credit loss, and the cardholder from fraud or unauthorized charges; and
+
+    * (f) When disclosure to third parties is for the purpose of investigating fraud or unauthorized activities or mitigating risk involving card issuance, use and acquiring.
 The recipient of information described herein shall likewise be bound to preserve confidentiality of the cardholder data. 
 
-SECTION 17. Customer Assistance Unit.
+* **SECTION 17. Customer Assistance Unit.**
 A card issuer shall establish a customer assistance unit within its organization which shall be responsible for providing prompt action for the expeditious resolution of complaints, inquiries and requests. 
 
-SECTION 18. Complaint on Billing Error or Discrepancy.
+* **SECTION 18. Complaint on Billing Error or Discrepancy.**
 A credit card issuer shall give cardholders up to thirty (30) calendar days from statement date to report any error or discrepancy in their billing statement. The credit card issuer shall take action within ten (10) business days from receipt of such notice. 
 
-SECTION 19. Appropriate Manner of Collection.
+* **SECTION 19. Appropriate Manner of Collection.**
 A credit card issuer may resort to all reasonable and legally permissible means to collect amounts due them under the credit card agreement: Provided, That in the exercise of its rights and performance of duties, they must observe good faith, reasonable conduct and proper decorum and refrain from engaging in unscrupulous acts. A credit card issuer or collection agent shall not harass, abuse or oppress any person or engage in any unfair practices, as may be defined by BSP rules and regulations, in connection with the collection of any credit card debt. 
 
-SECTION 20. Use of Third-Party Collection Agents.
+* **SECTION 20. Use of Third-Party Collection Agents.**
 A credit card issuer may engage qualified third party service providers/collection agents for the purpose of assisting or rendering services in the administration of the credit card business including recovery of unpaid obligations and enforcement of rights against the cardholder. 
 
-SECTION 21. Endorsement of Credit Card Debt Collection by the Credit Card Issuer to a Collection Agency.
+* **SECTION 21. Endorsement of Credit Card Debt Collection by the Credit Card Issuer to a Collection Agency.**
 A credit card issuer shall inform its cardholder in writing of the endorsement of the collection of the account to a collection agency, or the endorsement of the account from one collection agency to another, prior to the actual endorsement. The notification shall include the full name of the collection agency and its contact details. The requirement to notify a cardholder in writing about the endorsement of the account to the collection agency shall be included in the terms and conditions of the credit card agreement: Provided, That the credit card issuer shall refer the collection of an account to only one collection agency at any one time. 
 
-SECTION 22. Communication in Connection With Debt Collection.
+* **SECTION 22. Communication in Connection With Debt Collection.**
 The credit card issuer or its collection agency may communicate with a credit cardholder in connection with the collection of any debt through the mode or modes prescribed by the BSP in guidelines it shall issue for this purpose. 
 
-SECTION 23. Due Date.
+* **SECTION 23. Due Date.**
 Notwithstanding any provision in the contract, if the payment due date for a credit card falls on weekends and regular national holidays, the card payment due date is automatically moved to the next business day. Payment through any authorized mode, made to any accredited payment centers of the credit card issuer shall be considered as payment to the credit card issuer made on the same date. 
 
-SECTION 24. Application of Card Payment.
+* **SECTION 24. Application of Card Payment.**
 Upon receipt of a payment from a cardholder whose account carries different interest rates for different types of purchases (i.e., cash advances, regular purchases, balance transfers), the credit card issuer shall apply amounts in excess of the minimum payment amount first to the fees and charges, and then to the billed balance bearing the highest rate of interest, followed by the billed balance bearing the next higher rate of interest, until the payment is exhausted: Provided, That the original rates for promotional offers shall be the basis for determining hierarchy of payment. 
 
-SECTION 25. Termination of Account.
+* **SECTION 25. Termination of Account.**
 A cardholder may cancel or terminate his/her account anytime; Provided, That the cardholder either pays in full or enters into another agreement for payment of the outstanding balance and new purchases, debits and deferred installments payment may be made either through a one-time payment or on installments within a fixed period of time: Provided, further, That repayment in installments shall only be generally subject to interest unless there is a violation of the new agreement. 
 
-SECTION 26. Administrative Sanctions on Credit Card Issuers.
+* **SECTION 26. Administrative Sanctions on Credit Card Issuers.**
 The provisions of Section 37 of Republic Act No. 7653, otherwise known as “The New Central Bank Act”, shall be made applicable to any credit card issuer, acquirer, their directors and officers including, but not limited to, the administrative sanctions that may be imposed, without prejudice to the criminal sanctions against the culpable persons provided in Section 25 of this Act, for any willful violation of this Act or any related rules, regulations, orders or instructions issued by the Monetary Board; Provided, That in addition to the administrative sanctions that may be imposed, the authority of the credit card issuer to issue credit cards may be suspended or cancelled by the BSP. 
 
-SECTION 27. Violation of this Act and Other Related Rules, Regulations, Orders or Instructions.
+* **SECTION 27. Violation of this Act and Other Related Rules, Regulations, Orders or Instructions.**
 A person who willfully violates any provision of this Act or any related rules, regulations, order or instructions, issued by the Monetary Board shall be punished by imprisonment of not less than two (2) years nor more than ten (10) years, or by a fine of not less than fifty thousand pesos (₱50,000.00) but not more than two hundred thousand pesos (₱200,000.00), or both, at the discretion of the court. 
 
-SECTION 28. Transitory Provision.
+* **SECTION 28. Transitory Provision.**
 All existing credit card companies that are not supervised by the BSP are hereby given such reasonable time as the Monetary Board may determine in order to comply with applicable rules and regulations. 
 
-SECTION 29. Separability Clause.
+* **SECTION 29. Separability Clause.**
 If any provision or section of this Act is held to be unconstitutional or invalid, the other provisions or sections hereof which are not affected thereby shall continue to be in full force and effect. 
 
-SECTION 30. Repealing Clause.
+* **SECTION 30. Repealing Clause.**
 All other laws, decrees, executive orders, proclamations and administrative regulations, or parts thereof inconsistent herewith are hereby repealed or modified accordingly. 
 
-SECTION 31. Effectivity.
+* **SECTION 31. Effectivity.**
 This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in at least two (2) national newspapers of general circulation. 
 
 **THE VIOLATION & PUBLIC AWARENESS CHECKLISTS**
