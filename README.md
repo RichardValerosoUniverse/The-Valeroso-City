@@ -3670,6 +3670,52 @@ Credit card issuers shall determine, based on the credit standing and financial 
 SECTION 10. Imposition of Finance Charges.
 Finance charges and other fees arising from nonpayment in full or on time of the outstanding balance shall be based on the unpaid amount of the outstanding balance. 
 
+SECTION 11. Information to be Disclosed.
+A credit card issuer shall disclose to all credit cardholders and potential credit cardholders the following information:
+(a) Finance charges for unpaid amounts after payment due date;
+(b) The percentage that the interest bears to the total amount to be financed expressed as a simple monthly or annual rate, as the case may be, on the outstanding balance of the obligation;
+(c) The default, late payment/penalty fees or similar delinquency-related charges payable in the event of late payments: Provided, That late payment fee or penalty for late payment shall be based on the unpaid minimum amount due or a prescribed minimum fixed amount whichever is lower; Provided, further, That the late payment fees may be based on the total outstanding balance of the credit card obligation, including amounts payable under installment terms or deferred payment schemes, if the contract between the issuer and the cardholder contains an acceleration clause and the total outstanding balance of the credit card is classified and reported as past due;
+(d) The method of determining the balance upon which interest and/or delinquency charges may be imposed;
+(e) The method of determining the amount of interest and/or delinquency charges, including any minimum or fixed amount imposed as interest and/or delinquency charge;
+(f) Other fees, such as membership/renewal fees, processing fees, over-the-limit fees, collection fees, credit investigation fees and attorney’s fees;
+(g) For transactions made in foreign currencies, for dual currency accounts (peso and dollar billings), as well as payments made by credit cardholders in any currency other than the billing currency, the manner of conversion from the transaction currency and payment currency to Philippine pesos or billing currency, which may be a definition or general description of conversion rates;
+(h) A reminder to the cardholder in the billing statement, or its equivalent document, that payment of only the minimum amount due or any amount less than the total amount due for the billing cycle/billing period, would mean the imposition of interest and/or other charges. A written statement in the following form must be printed in the billing statement— “Important Reminder: Paying less than the total amount due will increase the amount of interest you pay and the time it takes to repay your balance”; and
+(i) Any other information that may be required by the BSP.
+The credit card issuer shall endeavor to convey the information in a manner that is understandable to the credit cardholder: Provided, That the items enumerated above may be included in a billing statement on a quarterly basis at the minimum in tabular format. 
+
+SECTION 12. Computations to be Disclosed.
+In addition to the foregoing, a credit card issuer must, to the extent practicable, provide a detailed explanation and a clear illustration of the manner by which all charges and fees are computed. The BSP shall determine the implementation date. 
+
+SECTION 13. Changes in the Manner of Computation and Fees.
+The cardholder shall be notified at least ninety (90) days prior to any change in the manner of computation of the outstanding balance and the amount of fees to be imposed on the cardholder. If the cardholder finds the change to be unacceptable, he/she shall have the right to terminate his/her account with the credit card issuer subject to Section 25 of this Act. Compliance with this section may be deferred for such reasonable time as the BSP may determine within which credit card issuers should modify their systems accordingly. 
+
+SECTION 14. Over-the-Limit Transaction.
+If a cardholder breaches the credit limit by a new transaction, the subject transaction may be processed subject to the discretion of the credit card issuer: Provided, That such fees are clearly and prominently disclosed in the table of fees and charges. 
+
+SECTION 15. Lost or Stolen Card.
+In case a credit card is lost or stolen, any transaction made prior to reporting to the credit card issuer shall be for the account of the cardholder. 
+
+SECTION 16. Confidentiality of Information.
+Credit card issuers, their officers, employees and agents shall keep strictly confidential the data on the cardholder, except under any of the following circumstances:
+(a) When disclosure of information is with the consent of the cardholder;
+(b) When the customer information is released, submitted or exchanged with credit information bureaus, industry association, or card association;
+(c) Upon orders of a court of competent jurisdiction or any government office or agency authorized by law, or under such conditions as may be prescribed by the Monetary Board of the BSP;
+(d) When disclosure to third party service providers is necessary for the sole purpose of assisting or rendering services to the credit card issuer in enforcing its rights against the cardholder;
+(e) When disclosure to third parties such as insurance companies is necessary for the sole purpose of insuring the credit card issuer from cardholder default or other credit loss, and the cardholder from fraud or unauthorized charges; and
+(f) When disclosure to third parties is for the purpose of investigating fraud or unauthorized activities or mitigating risk involving card issuance, use and acquiring.
+The recipient of information described herein shall likewise be bound to preserve confidentiality of the cardholder data. 
+
+SECTION 17. Customer Assistance Unit.
+A card issuer shall establish a customer assistance unit within its organization which shall be responsible for providing prompt action for the expeditious resolution of complaints, inquiries and requests. 
+
+SECTION 18. Complaint on Billing Error or Discrepancy.
+A credit card issuer shall give cardholders up to thirty (30) calendar days from statement date to report any error or discrepancy in their billing statement. The credit card issuer shall take action within ten (10) business days from receipt of such notice. 
+
+SECTION 19. Appropriate Manner of Collection.
+A credit card issuer may resort to all reasonable and legally permissible means to collect amounts due them under the credit card agreement: Provided, That in the exercise of its rights and performance of duties, they must observe good faith, reasonable conduct and proper decorum and refrain from engaging in unscrupulous acts. A credit card issuer or collection agent shall not harass, abuse or oppress any person or engage in any unfair practices, as may be defined by BSP rules and regulations, in connection with the collection of any credit card debt. 
+
+SECTION 20. Use of Third-Party Collection Agents.
+A credit card issuer may engage qualified third party service providers/collection agents for the purpose of assisting or rendering services in the administration of the credit card business including recovery of unpaid obligations and enforcement of rights against the cardholder. 
 
 
 **Chapter I: General Provisions**
