@@ -3731,63 +3731,63 @@ For public awareness and sample use only.
 
 Cardholders should verify which items apply to their specific account or dispute.
 
-A. COLLECTION & ENDORSEMENT PRACTICES
+**A. COLLECTION & ENDORSEMENT PRACTICES**
 
-☐ Section 19 – Prohibited Collection Practices
+* [ ] Section 19 – Prohibited Collection Practices
 Issuer or collection agent harassed, abused, or used unfair practices in attempting to collect a debt.
 Statutory text:
 “…A credit card issuer or collection agent shall not harass, abuse or oppress any person or engage in any unfair practices…”
 
-☐ Section 21 – Written Pre-Endorsement Notice
+* [ ] Section 21 – Written Pre-Endorsement Notice
 Issuer failed to notify the cardholder in writing prior to endorsing the account to a collection agency.
 Statutory text:
 “…A credit card issuer shall inform its cardholder in writing of the endorsement of the collection of the account to a collection agency… prior to the actual endorsement…”
 
-B. FINANCE CHARGES, INTEREST, AND PENALTIES
+**B. FINANCE CHARGES, INTEREST, AND PENALTIES**
 
-☐ Section 10 – Finance Charges and Interest
+* [ ] Section 10 – Finance Charges and Interest
 Issuer calculated interest, finance charges, or penalties on amounts that are disputed or already paid, instead of only on unpaid, undisputed balances.
 Statutory text:
 “Finance charges and other fees arising from nonpayment in full or on time of the outstanding balance shall be based on the unpaid amount of the outstanding balance.”
 
-☐ Section 23 – Payment Due Dates on Weekends/Holidays
+* [ ] Section 23 – Payment Due Dates on Weekends/Holidays
 Issuer penalized the cardholder for payments made on the next business day when the due date fell on a weekend or national holiday.
 Statutory text:
 “…if the payment due date for a credit card falls on weekends and regular national holidays, the card payment due date is automatically moved to the next business day.”
 
-C. DISCLOSURES, STATEMENTS & BILLING ERRORS
+**C. DISCLOSURES, STATEMENTS & BILLING ERRORS**
 
-☐ Section 11 – Statement of Account / Billing Statement
+* [ ] Section 11 – Statement of Account / Billing Statement
 Issuer failed to provide a Statement of Account listing all transactions, payments, and fees for the billing cycle.
 Statutory text:
 “…Statement of account or billing statement refers to the regular statement listing of the purchases, payments and other debits and credits made to the credit card account…”
 
-☐ Section 18 – Billing Errors & Disputed Transactions
+* [ ] Section 18 – Billing Errors & Disputed Transactions
 Issuer did not allow the cardholder to report errors or failed to act on reported billing errors within the statutory period.
 Statutory text:
 “Cardholders shall have up to thirty (30) calendar days from the statement date to report any billing error or discrepancy. The credit card issuer shall take action within ten (10) business days…”
 
-D. CONFIDENTIALITY & DATA PROTECTION
+**D. CONFIDENTIALITY & DATA PROTECTION**
 
-☐ Section 16 – Confidentiality of Information
+* [ ] Section 16 – Confidentiality of Information
 Issuer disclosed the cardholder’s account information to unauthorized parties, credit bureaus, or collection agencies while a dispute is pending.
 Statutory text:
 “Credit card issuers, their officers, employees and agents shall keep strictly confidential the data on the cardholder…”
 
-E. TERMINATION RIGHTS
+**E. TERMINATION RIGHTS**
 
-☐ Section 25 – Termination of Account
+* [ ] Section 25 – Termination of Account
 Issuer refused to allow termination of the cardholder’s account, provided the balance is settled or a payment agreement is entered.
 Statutory text:
 “…A cardholder may cancel or terminate his/her account anytime; provided that the cardholder either pays in full or enters into another agreement for payment of the outstanding balance…”
 
 **HOW TO USE THIS CHECKLIST**
 * **Check the applicable violations based on your account history, statements, notices, or communications with the issuer.
-* **Collect evidence such as:
+* Collect evidence such as:
 Written notices, SOAs, emails, or call logs
 Copies of disputed transactions
-* **Any documentation showing collection practices
-* **Use this checklist to:
+* Any documentation showing collection practices
+* Use this checklist to:
     * Draft formal escalation letters to your bank
     * File complaints with BSP‑CPMCO
     * Educate the public or support consumer‑protection advocacy
@@ -3811,27 +3811,6 @@ It does not constitute legal advice
 * [ ] Sec. 13 | Hidden Fee Changes: Did the bank implement a new fee structure or increase interest rates without notifying you in writing **90 calendar days** in advance?
 * [ ] Sec. 14 | Failure to Provide SOA: Did the bank fail to send your Statement of Account (SOA) at least **15 calendar days** before the payment due date?
 * [ ] Sec. 22 | Termination Breach: Did the bank refuse to allow you to terminate your card immediately, provided you settled the balance or entered a payment plan?
-
-2. **The Public Awareness Checklist (Your Rights at a Glance)**
-*These rights are "non-waivable," meaning even if you signed a contract saying otherwise, the law protects you.*
-
-* [ ] Right to Confidentiality (Sec. 18): My credit data is strictly confidential. It can only be shared with credit bureaus (like CIC), the BSP, or by court order. **Banks cannot sell your data to marketing firms without your separate consent.**
-* [ ] Right to Transparency in Financing (Sec. 11): My bill must clearly show the **Effective Interest Rate (EIR)** per month and per annum, not just the nominal rate.
-* [ ] Right to Dispute (Sec. 15): I have **30 days** from the statement date to report an error. The bank **cannot** charge interest on the disputed amount while the investigation is ongoing.
-* [ ] Right to Fair Compounding: I have the right to ensure that interest is not "capitalized" (added to the principal) to create "interest on interest" unless explicitly agreed upon in a restructuring catch-up plan.
-* [ ] Right to Limit Denial: I can refuse a credit limit increase. If I do not explicitly "opt-in" to an increase in some cases, the bank should not automatically raise my credit risk.
-* [ ] Right to Legal Recourse: I have the right to file a formal complaint with the **BSP Consumer Protection and Market Conduct Office (CPMCO)** if the bank's internal grievance system fails to resolve my issue within **7 to 15 days**.
-
-3. **The "Default" Protection Audit**
-*Many consumers don't know that "Default" has a legal definition under RA 10870:*
-
-* [ ] Proper Definition of Default: You are only legally "in default" if you fail to pay the **Minimum Amount Due** for at least **three (3) consecutive billing cycles**. 
-* [ ] Acceleration Clause Transparency: The bank must explain clearly when the "Total Outstanding Balance" becomes due and demandable; they cannot simply "surprise" you with a full-balance demand after one missed day.
-
-**Summary of Actionable Steps**
-If you checked any boxes in **Section 1**, you have sufficient grounds to file a **formal protest**. 
-
-> **Tip:** Always quote the specific **Section Number** of RA 10870 when talking to bank supervisors or collectors. It signals that you are an informed consumer and often stops harassment immediately.
 
 **REPORTING TO THE BANGKO SENTRAL NG PILIPINAS (BSP)**
 
