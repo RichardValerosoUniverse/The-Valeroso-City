@@ -3808,7 +3808,7 @@ If the bank's Customer Assistance Unit (Sec. 17) fails to resolve your dispute w
 * **Facebook Messenger:** Search for **@BangkoSentralngPilipinas**.
 * **SMS/Text:** Send your report to **21582277** (Globe subscribers).
 
-**SAMPLE CREDIT CARD DISPUTE LETTER – RA 10870 VIOLATIONS**
+**SAMPLE CREDIT CARD DISPUTE LETTER (Escalation Letter) – RA 10870 VIOLATIONS**
 
 > DATE: [Insert Date]
 
@@ -3817,12 +3817,15 @@ If the bank's Customer Assistance Unit (Sec. 17) fails to resolve your dispute w
 > ATTENTION: Head of Credit Card Operations / Dispute Resolution Unit
 
 > CC: Bangko Sentral ng Pilipinas – Consumer Protection and Market Conduct Office (CPMCO) (consumeraffairs@bsp.gov.ph)
-SUBJECT: Formal Credit Card Dispute under Republic Act No. 10870 – Reference Number [Insert Reference Number]
+
+> SUBJECT: Formal Credit Card Dispute under Republic Act No. 10870 – Reference Number [Insert Reference Number]
+
 
 
 
 
 > Dear Management,
+
 
 > I am writing to formally dispute certain charges and practices related to my credit card account ending in [Last 4 Digits], under Reference Number [Insert Reference Number], in accordance with Republic Act No. 10870 (Philippine Credit Card Industry Regulation Law).
 This account has been consistently maintained in good standing, with timely payments and responsible usage. The present dispute is isolated and procedural, and not due to misuse or negligence on my part.
@@ -3862,6 +3865,8 @@ A clear, written explanation of findings, with immediate reversal of any erroneo
 > IV. NOTICE OF REGULATORY ESCALATION
 Should this dispute not be resolved within five (5) banking days from receipt of this letter, I will formally escalate this matter to the BSP–CPMCO for review and potential administrative action, in accordance with Section 26 of RA 10870.
 This letter is issued without prejudice to any other remedies available under law or equity.
+
+
 
 
 
