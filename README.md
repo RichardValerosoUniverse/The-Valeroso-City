@@ -3782,7 +3782,7 @@ Statutory text:
 “…A cardholder may cancel or terminate his/her account anytime; provided that the cardholder either pays in full or enters into another agreement for payment of the outstanding balance…”
 
 **HOW TO USE THIS CHECKLIST**
-* **Check the applicable violations based on your account history, statements, notices, or communications with the issuer.
+* Check the applicable violations based on your account history, statements, notices, or communications with the issuer.
 * Collect evidence such as:
 Written notices, SOAs, emails, or call logs
 Copies of disputed transactions
@@ -3797,20 +3797,6 @@ Copies of disputed transactions
 Items must be adapted to the cardholder’s actual dispute.
 All facts here come directly from Republic Act No. 10870.
 It does not constitute legal advice
-
-**THE VIOLATION & PUBLIC AWARENESS CHECKLISTS**
-
-1. **The RA 10870 Violation Checklist (Technical Audit)**
-*Check these boxes if the issuer or agent has committed a specific statutory violation:*
-
-* [ ] Sec. 21 | Lack of Pre-Endorsement Notice: Did the bank fail to provide a written notice at least **7 business days** before handing your account to a third-party lawyer or collection agency?
-* [ ] Sec. 19 | Unfair Collection Practices: Did the collector use "shaming" tactics, such as contacting your social media friends, posting your name publicly, or using "force, violence, or other criminal means" to collect?
-* [ ] Sec. 20 | Violation of Privacy/Time Limits: Did you receive calls between **10:01 PM and 5:59 AM**, or did the collector disclose your debt status to anyone other than you, your spouse, or your authorized agent?
-* [ ] Sec. 10 | Incorrect Interest Application: Did the bank calculate interest on the "Total Outstanding Balance" even though you made a partial payment? *(Interest should only apply to the **unpaid portion** of the principal).*
-* [ ] Sec. 23 | Weekend/Holiday Due Dates: Were you penalized for paying on a Monday when your due date fell on a Sunday or a National Holiday? **(This is a direct violation of the "Next Business Day" rule).**
-* [ ] Sec. 13 | Hidden Fee Changes: Did the bank implement a new fee structure or increase interest rates without notifying you in writing **90 calendar days** in advance?
-* [ ] Sec. 14 | Failure to Provide SOA: Did the bank fail to send your Statement of Account (SOA) at least **15 calendar days** before the payment due date?
-* [ ] Sec. 22 | Termination Breach: Did the bank refuse to allow you to terminate your card immediately, provided you settled the balance or entered a payment plan?
 
 **REPORTING TO THE BANGKO SENTRAL NG PILIPINAS (BSP)**
 
