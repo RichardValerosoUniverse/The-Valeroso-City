@@ -3597,6 +3597,19 @@ RA 10870 is a "special penal law." Under **Section 25**, willful violators face:
 
 **INDIVIDUAL ANALYSIS OF ALL 31 SECTIONS**
 
+**SECTION 1. Short Title.** — This Act shall be known as the **"Philippine Credit Card Industry Regulation Law"**.
+
+**SECTION 2. Declaration of Basic Policy.** — It is the policy of the State to foster the development of the credit card industry as an indispensable tool in making consumer credit readily available to all Filipinos under conditions of fair and sound consumer credit practices which are aligned with global best practices, in promoting an efficient payments system. To ensure the vibrancy and growth of the credit card industry, the State shall institute appropriate mechanisms to protect and educate credit cardholders.
+
+**SECTION 3. Scope and Coverage.** — This Act shall govern all credit card issuers, acquirers and all credit card transactions.
+
+**SECTION 4. Supervision.** — The Bangko Sentral ng Pilipinas (BSP) shall supervise all credit card issuers and acquirers. Supervision shall include the following:
+(a) The issuance of rules of conduct or the establishment of standards of operation for uniform application to all institutions or functions covered, and the imposition of penalties in case of noncompliance therewith;
+(b) The conduct of examination as determined by the Monetary
+
+
+
+
 **Chapter I: General Provisions**
 * **Section 1. Short Title:** This Act shall be known as the **"Philippine Credit Card Industry Regulation Law."**
 * **Section 2. Declaration of Basic Policy:** The State shall foster the development of the credit card industry under conditions of **fair and sound consumer credit practices** aligned with global best practices, while instituting mechanisms of protection and education for cardholders.
