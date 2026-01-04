@@ -3567,55 +3567,54 @@ This Act shall govern all credit card issuers, acquirers and all credit card tra
 * **SECTION 4. Supervision.**
 The Bangko Sentral ng Pilipinas (BSP) shall supervise all credit card issuers and acquirers. Supervision shall include the following:
 
-(a) The issuance of rules of conduct or the establishment of standards of operation for uniform application to all institutions or functions covered, and the imposition of penalties in case of noncompliance therewith;
+    * (a) The issuance of rules of conduct or the establishment of standards of operation for uniform application to all institutions or functions covered, and the imposition of penalties in case of noncompliance therewith;
 
-(b) The conduct of examination as determined by the Monetary Board to determine compliance with laws and regulations;
+    * (b) The conduct of examination as determined by the Monetary Board to determine compliance with laws and regulations;
 
-(c) Oversight to ascertain that laws and regulations are complied with; and
+    * (c) Oversight to ascertain that laws and regulations are complied with; and
 
-(d) Determining the reasonableness of fees and charges and the issuance of regulations on the same. 
+    * (d) Determining the reasonableness of fees and charges and the issuance of regulations on the same. 
 
-**SECTION 5. Definition of Terms.**
-
+* **SECTION 5. Definition of Terms.**
 As used in this Act, the following terms are defined as follows:
 
-(a) Acceleration clause refers to the provision in the contract between the credit card issuer and the cardholder that gives the credit card issuer the right to demand the full settlement of the obligation in case of default or nonpayment of any amount due or for any valid reason;
+    * (a) Acceleration clause refers to the provision in the contract between the credit card issuer and the cardholder that gives the credit card issuer the right to demand the full settlement of the obligation in case of default or nonpayment of any amount due or for any valid reason;
 
-(b) Acquirer refers to the institution that accepts and facilitates the processing of the credit card transaction which is initially accepted by the merchant;
+    * (b) Acquirer refers to the institution that accepts and facilitates the processing of the credit card transaction which is initially accepted by the merchant;
 
-(c) Balance transfer refers to the transfer of the balance in a credit card account to another credit card account;
+    * (c) Balance transfer refers to the transfer of the balance in a credit card account to another credit card account;
 
-(d) Billing cycle/billing period refers to the period of time between billings. Billing cycles shall comprise at least fifteen (15) days;
+    * (d) Billing cycle/billing period refers to the period of time between billings. Billing cycles shall comprise at least fifteen (15) days;
 
-(e) Card association refers to any company that provides credit card network such as, but not limited to, American Express, VISA International, MasterCard International, JCB International, Diners Club, and China Union Pay;
+    * (e) Card association refers to any company that provides credit card network such as, but not limited to, American Express, VISA International, MasterCard International, JCB International, Diners Club, and China Union Pay;
 
-(f) Cash advances refer to cash obtained from the credit card account in any manner availed by the cardholder;
+    * (f) Cash advances refer to cash obtained from the credit card account in any manner availed by the cardholder;
 
-(g) Credit card refers to any card or other credit device intended for the purpose of obtaining money, property, or services on credit;
+    * (g) Credit card refers to any card or other credit device intended for the purpose of obtaining money, property, or services on credit;
 
-(h) Credit card issuer refers to a bank or a corporation that offers the use of its credit card;
+    * (h) Credit card issuer refers to a bank or a corporation that offers the use of its credit card;
 
-(i) Credit card limit refers to the maximum total amount for purchases, cash advances, balance transfers, and finance charges, service fees, penalties, and other charges which can be charged to the credit card;
+    * (i) Credit card limit refers to the maximum total amount for purchases, cash advances, balance transfers, and finance charges, service fees, penalties, and other charges which can be charged to the credit card;
 
-(j) Default or delinquency refers to the nonpayment of, or payment of an amount less than, the minimum amount due or minimum payment required, or words of similar import for at least three (3) billing cycles;
+    * (j) Default or delinquency refers to the nonpayment of, or payment of an amount less than, the minimum amount due or minimum payment required, or words of similar import for at least three (3) billing cycles;
 
-(k) Finance charges refer to the interest charged to the cardholder on all credit card transactions in accordance with the terms and conditions specified in the agreement on the use of the credit card;
+    * (k) Finance charges refer to the interest charged to the cardholder on all credit card transactions in accordance with the terms and conditions specified in the agreement on the use of the credit card;
 
-(l) Installment purchases refer to transactions wherein payment for which is amortized in parts over a fixed period;
+    * (l) Installment purchases refer to transactions wherein payment for which is amortized in parts over a fixed period;
 
-(m) Industry association refers to an association composed of companies engaged in the business of banking, finance, credit and payments;
+    * (m) Industry association refers to an association composed of companies engaged in the business of banking, finance, credit and payments;
 
-(n) Membership fee refers to the amount a credit card issuer levies for the right to use its credit card and acquire access to other membership benefits. This may also be referred to as annual membership fee, annual fee, joining fee or application fee;
+    * (n) Membership fee refers to the amount a credit card issuer levies for the right to use its credit card and acquire access to other membership benefits. This may also be referred to as annual membership fee, annual fee, joining fee or application fee;
 
-(o) Minimum amount due or minimum payment required refers to the minimum amount that a cardholder is required to pay on or before the payment due date for a particular billing cycle/billing period which may include: (1) Outstanding balance multiplied by the required payment percentage or a fixed amount, whichever is higher; (2) Any amount which is part of any fixed monthly installment that is charged to the card; (3) Any amount in excess of the credit line; and (4) All past due amounts, if any;
+    * (o) Minimum amount due or minimum payment required refers to the minimum amount that a cardholder is required to pay on or before the payment due date for a particular billing cycle/billing period which may include: (1) Outstanding balance multiplied by the required payment percentage or a fixed amount, whichever is higher; (2) Any amount which is part of any fixed monthly installment that is charged to the card; (3) Any amount in excess of the credit line; and (4) All past due amounts, if any;
 
-(p) Outstanding balance refers to the amount to be repaid as of statement cut-off date;
+    * (p) Outstanding balance refers to the amount to be repaid as of statement cut-off date;
 
-(q) Statement cut-off date refers to the end date of a billing cycle as determined by the credit card issuer, when account activities (purchases, payments, charges) during the billing cycle are summarized;
+    * (q) Statement cut-off date refers to the end date of a billing cycle as determined by the credit card issuer, when account activities (purchases, payments, charges) during the billing cycle are summarized;
 
-(r) Statement of account or billing statement refers to the regular statement listing of the purchases, payments and other debits and credits made to the credit card account within the billing cycle; and
+    * (r) Statement of account or billing statement refers to the regular statement listing of the purchases, payments and other debits and credits made to the credit card account within the billing cycle; and
 
-(s) Supplementary card or extension card refers to a credit card issued to another person whose credit limit is consolidated with the primary cardholder.
+    * (s) Supplementary card or extension card refers to a credit card issued to another person whose credit limit is consolidated with the primary cardholder.
 
 SECTION 6. Minimum Requirements for Risk Management System of Credit Card Issuers.
 To effectively deliver services and at the same time safeguard their interests, the credit card issuer and acquirer must establish an appropriate system for managing risk exposures arising from credit card operations. Such risk management system shall be documented in a complete and concise manner, and shall cover the organizational set-up for the institution engaged in or unit handling the credit card business, its information management system, as well as accounting policies and procedures, internal and external functions, and internal control system. 
