@@ -3717,51 +3717,38 @@ A credit card issuer may resort to all reasonable and legally permissible means 
 SECTION 20. Use of Third-Party Collection Agents.
 A credit card issuer may engage qualified third party service providers/collection agents for the purpose of assisting or rendering services in the administration of the credit card business including recovery of unpaid obligations and enforcement of rights against the cardholder. 
 
+SECTION 21. Endorsement of Credit Card Debt Collection by the Credit Card Issuer to a Collection Agency.
+A credit card issuer shall inform its cardholder in writing of the endorsement of the collection of the account to a collection agency, or the endorsement of the account from one collection agency to another, prior to the actual endorsement. The notification shall include the full name of the collection agency and its contact details. The requirement to notify a cardholder in writing about the endorsement of the account to the collection agency shall be included in the terms and conditions of the credit card agreement: Provided, That the credit card issuer shall refer the collection of an account to only one collection agency at any one time. 
 
-**Chapter I: General Provisions**
-* **Section 1. Short Title:** This Act shall be known as the **"Philippine Credit Card Industry Regulation Law."**
-* **Section 2. Declaration of Basic Policy:** The State shall foster the development of the credit card industry under conditions of **fair and sound consumer credit practices** aligned with global best practices, while instituting mechanisms of protection and education for cardholders.
-* **Section 3. Scope and Coverage:** This Act shall govern **all credit card issuers, acquirers, and all credit card transactions** in the Philippines.
-* **Section 4. Supervision:** The **Bangko Sentral ng Pilipinas (BSP)** shall supervise all credit card issuers and acquirers. This includes the authority to issue rules of conduct, conduct examinations, oversee compliance, and **determine the reasonableness of fees and charges.**
-* **Section 5. Definition of Terms:** Statutorily defines 19 specific terms listed verbatim above.
+SECTION 22. Communication in Connection With Debt Collection.
+The credit card issuer or its collection agency may communicate with a credit cardholder in connection with the collection of any debt through the mode or modes prescribed by the BSP in guidelines it shall issue for this purpose. 
 
-**Chapter II: Risk Management and Operations**
-* **Section 6. Risk Management System:** Issuers must establish a documented risk management system covering organizational setup, information management, and accounting policies to identify and manage credit, operational, and fraud risks.
-* **Section 7. Minimum Requirements for the Issuance of Credit Cards:** Issuers must conduct **Know-Your-Client (KYC)** and verify financial capacity. It strictly prohibits the issuance of **unsolicited or "pre-approved" credit cards.**
-* **Section 8. Service Level Agreement:** Agreements between acquirers and merchants must require merchants to perform **due diligence** to establish the identity of the cardholder at the point of sale.
-* **Section 9. Determination of Credit Card Limit; Changes Thereof:** Limits must be based on creditworthiness. While issuers may implement changes, the cardholder **must be notified** and has the **right to decline any credit limit increase.**
+SECTION 23. Due Date.
+Notwithstanding any provision in the contract, if the payment due date for a credit card falls on weekends and regular national holidays, the card payment due date is automatically moved to the next business day. Payment through any authorized mode, made to any accredited payment centers of the credit card issuer shall be considered as payment to the credit card issuer made on the same date. 
 
-**Chapter III: Disclosure and Interest Calculation**
-* **Section 10. Imposition of Finance Charges:** Finance charges and other fees shall be based on the **unpaid amount of the outstanding balance** as of the statement cut-off date.
-* **Section 11. Information to be Disclosed:** Issuers must disclose (a) APR, (b) Finance charges, (c) Late payment fees, (d) Balance determination method, and (e) The mandatory **"Important Reminder"** regarding the cost of paying only the minimum.
-* **Section 12. Method of Computing Interest:** The billing statement must provide a **clear illustration** of how all charges and fees are computed.
-* **Section 13. Notice of Changes in Rates and Fees:** Cardholders must be notified at least **ninety (90) days** prior to any change in the computation method or fee amounts. The cardholder may terminate the account if they disagree.
-* **Section 14. Over-the-Limit Transaction:** An issuer may process transactions exceeding the limit at its discretion, provided the associated fees were **disclosed in the table of charges.**
+SECTION 24. Application of Card Payment.
+Upon receipt of a payment from a cardholder whose account carries different interest rates for different types of purchases (i.e., cash advances, regular purchases, balance transfers), the credit card issuer shall apply amounts in excess of the minimum payment amount first to the fees and charges, and then to the billed balance bearing the highest rate of interest, followed by the billed balance bearing the next higher rate of interest, until the payment is exhausted: Provided, That the original rates for promotional offers shall be the basis for determining hierarchy of payment. 
 
-**Chapter IV: Protection and Confidentiality**
-* **Section 15. Lost or Stolen Card:** Transactions made **prior to reporting** the loss to the issuer shall be for the account of the cardholder.
-* **Section 16. Confidentiality of Information:** Cardholder data must be kept **strictly confidential**, except for: (a) Consent, (b) Credit bureaus, (c) Court/Govt orders, (d) Service providers, (e) Insurance, and (f) Fraud investigations.
-* **Section 17. Customer Assistance Unit:** Issuers must establish a unit for the **prompt resolution** of complaints, inquiries, and requests.
-* **Section 18. Billing Error Complaints:** Cardholders have **thirty (30) calendar days** from the statement date to report errors. The issuer must take action within **ten (10) business days** of receipt.
-* **Section 19. Appropriate Manner of Collection:** Issuers must observe **good faith and proper decorum**, and refrain from harassment, abuse, or unscrupulous acts.
+SECTION 25. Termination of Account.
+A cardholder may cancel or terminate his/her account anytime; Provided, That the cardholder either pays in full or enters into another agreement for payment of the outstanding balance and new purchases, debits and deferred installments payment may be made either through a one-time payment or on installments within a fixed period of time: Provided, further, That repayment in installments shall only be generally subject to interest unless there is a violation of the new agreement. 
 
-**Chapter V: Collection and Payment**
-* **Section 20. Use of Third-Party Collection Agents:** Issuers may hire agents but remain responsible for ensuring their conduct complies with Sections 16 and 19 of this Act.
-* **Section 21. Endorsement of Debt to a Collection Agency:** Issuers must give **prior written notice (at least 7 days)** to the cardholder before endorsement, including the name and contact details of the agency.
-* **Section 22. Communication in Connection With Debt Collection:** The credit card issuer or its collection agency may communicate with a credit cardholder in connection with the collection of any debt through the mode or modes prescribed by the Bangko Sentral ng Pilipinas in guidelines it shall issue for this purpose.
-* **Section 23. Payment Due Date:** If the due date falls on a **weekend or regular national holiday**, it is automatically moved to the **next business day.**
-* **Section 24. Application of Payments:** Payments exceeding the minimum must be applied first to fees/charges, then to the balance with the **highest interest rate**, and then sequentially to lower rates.
+SECTION 26. Administrative Sanctions on Credit Card Issuers.
+The provisions of Section 37 of Republic Act No. 7653, otherwise known as “The New Central Bank Act”, shall be made applicable to any credit card issuer, acquirer, their directors and officers including, but not limited to, the administrative sanctions that may be imposed, without prejudice to the criminal sanctions against the culpable persons provided in Section 25 of this Act, for any willful violation of this Act or any related rules, regulations, orders or instructions issued by the Monetary Board; Provided, That in addition to the administrative sanctions that may be imposed, the authority of the credit card issuer to issue credit cards may be suspended or cancelled by the BSP. 
 
-**Chapter VI: Account Termination and Sanctions**
-* **Section 25. Termination of Account:** Cardholders may terminate their account anytime, provided they pay in full or enter a **repayment agreement.**
-* **Section 26. Administrative Sanctions:** The BSP may impose fines (up to **₱2,000,000 per violation**), suspension, or cancellation of authority for non-compliance.
-* **Section 27. Violation of this Act (Penal Provisions):** Any person who **willfully violates** this Act shall be punished by imprisonment of **2 to 10 years**, and/or a fine of **₱50,000 to ₱200,000.**
-* **Section 28. Transitory Provision:** Existing credit card companies were given a reasonable period to align their operations with the Act.
+SECTION 27. Violation of this Act and Other Related Rules, Regulations, Orders or Instructions.
+A person who willfully violates any provision of this Act or any related rules, regulations, order or instructions, issued by the Monetary Board shall be punished by imprisonment of not less than two (2) years nor more than ten (10) years, or by a fine of not less than fifty thousand pesos (₱50,000.00) but not more than two hundred thousand pesos (₱200,000.00), or both, at the discretion of the court. 
 
-**Chapter VII: Miscellaneous**
-* **Section 29. Separability Clause:** If any section is held unconstitutional, the remainder stays in effect.
-* **Section 30. Repealing Clause:** All inconsistent laws (e.g., parts of the Truth in Lending Act) are **repealed or amended accordingly.**
-* **Section 31. Effectivity:** This Act took effect fifteen (15) days after publication. It lapsed into law on **July 17, 2016**.
+SECTION 28. Transitory Provision.
+All existing credit card companies that are not supervised by the BSP are hereby given such reasonable time as the Monetary Board may determine in order to comply with applicable rules and regulations. 
+
+SECTION 29. Separability Clause.
+If any provision or section of this Act is held to be unconstitutional or invalid, the other provisions or sections hereof which are not affected thereby shall continue to be in full force and effect. 
+
+SECTION 30. Repealing Clause.
+All other laws, decrees, executive orders, proclamations and administrative regulations, or parts thereof inconsistent herewith are hereby repealed or modified accordingly. 
+
+SECTION 31. Effectivity.
+This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in at least two (2) national newspapers of general circulation. 
 
 **THE VIOLATION & PUBLIC AWARENESS CHECKLISTS**
 
