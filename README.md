@@ -3736,8 +3736,6 @@ RA 10870 – CONSUMER RIGHTS & VIOLATION CHECKLIST (Law‑Only Version)
 
 *For public awareness and sample use only. Cardholders should verify which items apply to their specific account or dispute.*
 
-Understood. Here is the table using your **exact, word-for-word text** for every "Impactful Violation Example" to ensure 100% fidelity to your original definitions.
-
 **A. SECTION 5: DEFINITION OF TERMS**
 
 **Statutory text (verbatim)**
@@ -3766,7 +3764,7 @@ Understood. Here is the table using your **exact, word-for-word text** for every
 (r) Statement of account or billing statement refers to the regular statement listing of the purchases, payments and other debits and credits made to the credit card account within the billing cycle; and
 (s) Supplementary card or extension card refers to a credit card issued to another person whose credit limit is consolidated with the primary cardholder.”*
 
-| Section 5 Terms | Impactful Violation Example |
+| Section 5 Definition of Terms | Impactful Violation Example |
 | :--- | :--- |
 | **1. Acceleration Clause** | The issuer demands full payment of the outstanding balance immediately even though the cardholder has only disputed a specific fee, improperly invoking the acceleration clause. |
 | **2. Acquirer** | A transaction is delayed or misprocessed by the acquirer, causing the cardholder to incur finance charges or late payment penalties that could have been avoided. |
