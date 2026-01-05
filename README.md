@@ -3736,7 +3736,33 @@ RA 10870 – CONSUMER RIGHTS & VIOLATION CHECKLIST (Law‑Only Version)
 
 *For public awareness and sample use only. Cardholders should verify which items apply to their specific account or dispute.*
 
-A. **CREDIT CARD ISSUANCE, LIMITS & ACCOUNT SAFEGUARDS**
+Understood. Here is the table using your **exact, word-for-word text** for every "Impactful Violation Example" to ensure 100% fidelity to your original definitions.
+
+A. Section 5: Definitions and Violations Comparison
+
+| Term | Impactful Violation Example |
+| :--- | :--- |
+| **1. Acceleration Clause** | The issuer demands full payment of the outstanding balance immediately even though the cardholder has only disputed a specific fee, improperly invoking the acceleration clause. |
+| **2. Acquirer** | A transaction is delayed or misprocessed by the acquirer, causing the cardholder to incur finance charges or late payment penalties that could have been avoided. |
+| **3. Balance Transfer** | The issuer fails to properly transfer the balance to another account, resulting in duplicate finance charges on both accounts and increased debt. |
+| **4. Billing Cycle / Billing Period** | Payments made within the designated billing cycle are incorrectly considered late, leading to unlawful finance charges or penalties. |
+| **5. Card Association** | The issuer applies fees or penalties that violate the rules of the card association network (e.g., international transaction fees not allowed under VISA or Mastercard guidelines). |
+| **6. Cash Advances** | The issuer applies cash advance fees or interest retroactively, before the advance was actually requested, improperly increasing the debt owed. |
+| **7. Credit Card** | A promotional or rewards card is treated as outside RA 10870 protections, denying the cardholder the right to dispute errors or billing discrepancies. |
+| **8. Credit Card Issuer** | The issuer claims exemptions from RA 10870 protections and imposes prohibited collection or billing practices, ignoring statutory obligations. |
+| **9. Credit Card Limit** | Disputed or unpaid charges are counted toward the credit limit, restricting the cardholder’s legally available credit and causing over-limit fees. |
+| **10. Default or Delinquency** | The cardholder is reported as delinquent for a disputed charge, affecting credit reporting and triggering unlawful finance charges. |
+| **11. Finance Charges** | Finance charges are applied to already-paid amounts or disputed balances, rather than only on the unpaid, undisputed balance. |
+| **12. Installment Purchases** | Installment transactions are treated as regular purchases for interest computation, resulting in higher finance charges than permitted. |
+| **13. Industry Association** | The issuer ignores mandatory guidelines issued by the industry association on billing, disputes, or fees, harming the cardholder. |
+| **14. Membership Fee** | The issuer charges an undisclosed or excessive annual membership fee without providing prior written disclosure at application. |
+| **15. Minimum Amount Due** | The issuer calculates the minimum payment higher than allowed, keeping the cardholder in perpetual debt and triggering avoidable penalties. |
+| **16. Outstanding Balance** | The outstanding balance includes disputed, already-paid, or unauthorized charges, inflating the amount owed and triggering improper finance charges. |
+| **17. Statement Cut-Off Date** | Transactions posted just after the statement cut-off are treated as overdue, resulting in unlawful late fees and finance charges. |
+| **18. Statement of Account** | The billing statement omits transactions, fees, or adjustments, preventing the cardholder from identifying errors or filing disputes within the statutory period. |
+| **19. Supplementary Card** | A supplementary cardholder makes unauthorized purchases, and the issuer charges the primary cardholder for the full amount without notice or opportunity to dispute, exposing the primary cardholder to unexpected debt and finance charges. |
+
+B. **CREDIT CARD ISSUANCE, LIMITS & ACCOUNT SAFEGUARDS**
 
 * [ ] **Section 7 – Minimum Requirements for the Issuance of Credit Cards**
 
@@ -3766,7 +3792,7 @@ A. **CREDIT CARD ISSUANCE, LIMITS & ACCOUNT SAFEGUARDS**
 
 *You immediately report your credit card as stolen, yet the issuer continues to bill you for transactions made after the report, refusing to reverse fraudulent charges.*
 
-**B. CUSTOMER ASSISTANCE**
+**C. CUSTOMER ASSISTANCE**
 
 * [ ] **Section 17 – Customer Assistance Unit**
 
@@ -3777,7 +3803,7 @@ A. **CREDIT CARD ISSUANCE, LIMITS & ACCOUNT SAFEGUARDS**
 
 *The cardholder repeatedly raises complaints regarding billing issues and account concerns, but the issuer has no identifiable customer assistance unit, fails to act promptly, and allows complaints to remain unresolved for an unreasonable period.*
 
-**C. INTEREST, FEES & PAYMENT COMPUTATION TRANSPARENCY**
+**D. INTEREST, FEES & PAYMENT COMPUTATION TRANSPARENCY**
 
 * [ ] **Section 10 – Imposition of Finance Charges**
 
@@ -3824,7 +3850,7 @@ A. **CREDIT CARD ISSUANCE, LIMITS & ACCOUNT SAFEGUARDS**
 
 *Your payment above the minimum is applied first to low-interest balances or non-fee categories, prolonging the debt on high-interest balances, contrary to law.*
 
-**D. CONFIDENTIALITY & DATA PROTECTION**
+**E. CONFIDENTIALITY & DATA PROTECTION**
 
 * [ ] **Section 16 – Confidentiality of Information**
 
@@ -3835,7 +3861,7 @@ A. **CREDIT CARD ISSUANCE, LIMITS & ACCOUNT SAFEGUARDS**
 
 *Your account information is shared with unauthorized companies, telemarketers, or collection agents while a dispute is pending — without consent or court order.*
 
-**E. DISCLOSURES, STATEMENTS & BILLING ERRORS**
+**F. DISCLOSURES, STATEMENTS & BILLING ERRORS**
 
 * [ ] **Section 18 – Billing Errors & Disputed Transactions**
 
@@ -3846,7 +3872,7 @@ A. **CREDIT CARD ISSUANCE, LIMITS & ACCOUNT SAFEGUARDS**
 
 *You report an incorrect charge within 30 days, but the issuer fails to investigate or correct it within 10 business days, leaving you responsible for erroneous charges.*
 
-**F. COLLECTION, COMMUNICATION & ENDORSEMENT PRACTICES**
+**G. COLLECTION, COMMUNICATION & ENDORSEMENT PRACTICES**
 
 * [ ] **Section 19 – Prohibited Collection Practices**
 
@@ -3884,7 +3910,7 @@ A. **CREDIT CARD ISSUANCE, LIMITS & ACCOUNT SAFEGUARDS**
 
 *A collection agent repeatedly calls the cardholder at midnight, sends threatening messages, or contacts the cardholder’s employer or neighbors to pressure payment, violating the law’s communication restrictions.*
 
-**G. FINANCE CHARGES, INTEREST, AND PENALTIES**
+**H. FINANCE CHARGES, INTEREST, AND PENALTIES**
 
 * [ ] **Section 23 – Payment Due Dates on Weekends/Holidays**
 
@@ -3895,7 +3921,7 @@ A. **CREDIT CARD ISSUANCE, LIMITS & ACCOUNT SAFEGUARDS**
 
 *You paid on the next business day after a holiday/weekend, yet the issuer charged a late fee or reported a default.*
 
-**H. TERMINATION & ENFORCEMENT**
+**I. TERMINATION & ENFORCEMENT**
 
 * [ ] **Section 25 – Termination of Account**
 
