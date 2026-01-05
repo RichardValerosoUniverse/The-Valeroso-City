@@ -3553,6 +3553,7 @@ RA 10870 is a "special penal law." Under **Section 25**, willful violators face:
 * **Fines:** ₱50,000 to ₱200,000.
 * **Administrative Sanctions:** The BSP can revoke the issuer's authority to operate.
 
+---
 **SECTIONS 1 TO 31 OF REPUBLIC ACT 10870**
 
 * **SECTION 1. Short Title.**
@@ -3726,6 +3727,7 @@ All other laws, decrees, executive orders, proclamations and administrative regu
 * **SECTION 31. Effectivity.**
 This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in at least two (2) national newspapers of general circulation. 
 
+---
 RA 10870 – CONSUMER RIGHTS & VIOLATION CHECKLIST (LAW‑ONLY VERSION)
 For public awareness and sample use only.
 
@@ -3806,8 +3808,8 @@ Items must be adapted to the cardholder’s actual dispute.
 All facts here come directly from Republic Act No. 10870.
 It does not constitute legal advice
 
-**REPORTING TO THE BANGKO SENTRAL NG PILIPINAS (BSP)**
 ---
+**REPORTING TO THE BANGKO SENTRAL NG PILIPINAS (BSP)**
 
 If the bank's Customer Assistance Unit (Sec. 17) fails to resolve your dispute within 10 business days, escalate immediately via the **BSP Consumer Assistance Mechanism**.
 
