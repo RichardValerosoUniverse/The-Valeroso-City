@@ -3766,7 +3766,7 @@ RA 10870 – CONSUMER RIGHTS & VIOLATION CHECKLIST (Law‑Only Version)
 
 | Section 5 Definition of Terms | Impactful Violation Example |
 | :--- | :--- |
-| * [ ] 1. Acceleration Clause | The issuer demands full payment of the outstanding balance immediately even though the cardholder has only disputed a specific fee, improperly invoking the acceleration clause. |
+| [ ] 1. Acceleration Clause | The issuer demands full payment of the outstanding balance immediately even though the cardholder has only disputed a specific fee, improperly invoking the acceleration clause. |
 | [ ] **2. Acquirer** | A transaction is delayed or misprocessed by the acquirer, causing the cardholder to incur finance charges or late payment penalties that could have been avoided. |
 | [ ] **3. Balance Transfer** | The issuer fails to properly transfer the balance to another account, resulting in duplicate finance charges on both accounts and increased debt. |
 | [ ] **4. Billing Cycle / Billing Period** | Payments made within the designated billing cycle are incorrectly considered late, leading to unlawful finance charges or penalties. |
