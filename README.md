@@ -3770,7 +3770,7 @@ RA 10870 – CONSUMER RIGHTS & VIOLATION CHECKLIST (Law‑Only Version)
 | [ ] **2. Acquirer** | A transaction is delayed or misprocessed by the acquirer, causing the cardholder to incur finance charges or late payment penalties that could have been avoided. |
 | [ ] **3. Balance Transfer** | The issuer fails to properly transfer the balance to another account, resulting in duplicate finance charges on both accounts and increased debt. |
 | [ ] **4. Billing Cycle / Billing Period** | Payments made within the designated billing cycle are incorrectly considered late, leading to unlawful finance charges or penalties. |
-| [ ] **5. Card Association** | The issuer applies fees or penalties that violate the rules of the card association network (e.g., international transaction fees not allowed under VISA or Mastercard guidelines). |
+| [ ] **5. Card Association** | A card association fails to enforce its network rules against a member issuer that imposes unauthorized fees or penalties, allowing continued processing of transactions despite clear violations, thereby facilitating non-compliance and consumer harm. |
 | [ ] **6. Cash Advances** | The issuer applies cash advance fees or interest retroactively, before the advance was actually requested, improperly increasing the debt owed. |
 | [ ] **7. Credit Card** | A promotional or rewards card is treated as outside RA 10870 protections, denying the cardholder the right to dispute errors or billing discrepancies. |
 | [ ] **8. Credit Card Issuer** | The issuer claims exemptions from RA 10870 protections and imposes prohibited collection or billing practices, ignoring statutory obligations. |
