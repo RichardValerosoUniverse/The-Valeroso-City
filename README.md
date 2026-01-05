@@ -3739,8 +3739,9 @@ RA 10870 – CONSUMER RIGHTS & VIOLATION CHECKLIST (Law‑Only Version)
 **A. FINANCE CHARGES, INTEREST, AND PENALTIES**
 
 * [ ] **Section 10 – Imposition of Finance Charges**
-Statutory text (verbatim):
-“Finance charges and other fees arising from nonpayment in full or on time of the outstanding balance shall be based on the unpaid amount of the outstanding balance.” 
+
+**Statutory text (verbatim):**
+*“Finance charges and other fees arising from nonpayment in full or on time of the outstanding balance shall be based on the unpaid amount of the outstanding balance.”*
 
 **Impactful violation example:**
 
