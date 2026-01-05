@@ -3736,7 +3736,37 @@ RA 10870 – CONSUMER RIGHTS & VIOLATION CHECKLIST (Law‑Only Version)
 
 *For public awareness and sample use only. Cardholders should verify which items apply to their specific account or dispute.*
 
-**A. FINANCE CHARGES, INTEREST, AND PENALTIES**
+A. **CREDIT CARD ISSUANCE, LIMITS & ACCOUNT SAFEGUARDS**
+
+* [ ] **Section 7 – Minimum Requirements for the Issuance of Credit Cards**
+
+**Statutory text (verbatim):**
+*“Credit card issuers shall ensure that applicants for credit cards meet the minimum requirements prescribed by the BSP, including the submission of documentary requirements necessary to assess the applicant’s creditworthiness.”*
+
+**Impactful violation example:**
+
+*A credit card is approved and issued without income verification or proper credit assessment, resulting in excessive debt that the cardholder was clearly unable to repay from the start.*
+
+* [ ] **Section 9 – Determination of Credit Card Limit; Changes Thereof**
+
+**Statutory text (verbatim):**
+*“The credit card limit shall be determined based on the cardholder’s capacity to pay and creditworthiness. Any change in the credit limit shall be subject to prior written notice to the cardholder.”*
+
+**Impactful violation example:**
+
+*The issuer suddenly reduces your credit limit without prior written notice, causing transactions to be declined and triggering over-limit fees or penalties.*
+
+* [ ] **Section 15 – Lost or Stolen Card**
+
+**Statutory text (verbatim):**
+*“In case a credit card is lost or stolen, any transaction made prior to the reporting of the loss or theft to the credit card issuer shall be for the account of the cardholder.”
+(By implication under the law and standard application, transactions after proper reporting should no longer be charged to the cardholder.)*
+
+**Impactful violation example:**
+
+*You immediately report your credit card as stolen, yet the issuer continues to bill you for transactions made after the report, refusing to reverse fraudulent charges.*
+
+**B. FINANCE CHARGES, INTEREST, AND PENALTIES**
 
 * [ ] **Section 10 – Imposition of Finance Charges**
 
@@ -3747,7 +3777,7 @@ RA 10870 – CONSUMER RIGHTS & VIOLATION CHECKLIST (Law‑Only Version)
 
 *Interest or penalty fees are applied to amounts you already paid or amounts you formally disputed, causing unnecessary financial burden.*
 
-**B. CONFIDENTIALITY & DATA PROTECTION**
+**C. CONFIDENTIALITY & DATA PROTECTION**
 
 * [ ] **Section 16 – Confidentiality of Information**
 
@@ -3758,7 +3788,7 @@ RA 10870 – CONSUMER RIGHTS & VIOLATION CHECKLIST (Law‑Only Version)
 
 *Your account information is shared with unauthorized companies, telemarketers, or collection agents while a dispute is pending — without consent or court order.*
 
-**C. DISCLOSURES, STATEMENTS & BILLING ERRORS**
+**D. DISCLOSURES, STATEMENTS & BILLING ERRORS**
 
 * [ ] **Section 18 – Billing Errors & Disputed Transactions**
 
@@ -3769,7 +3799,7 @@ RA 10870 – CONSUMER RIGHTS & VIOLATION CHECKLIST (Law‑Only Version)
 
 *You report an incorrect charge within 30 days, but the issuer fails to investigate or correct it within 10 business days, leaving you responsible for erroneous charges.*
 
-**D. COLLECTION & ENDORSEMENT PRACTICES**
+**E. COLLECTION & ENDORSEMENT PRACTICES**
 
 * [ ] **Section 19 – Prohibited Collection Practices**
 
@@ -3789,7 +3819,7 @@ RA 10870 – CONSUMER RIGHTS & VIOLATION CHECKLIST (Law‑Only Version)
 
 *Your account is sent to a collection agency without prior written notice; you only learn when the agency begins contacting you.*
 
-**E. FINANCE CHARGES, INTEREST, AND PENALTIES**
+**F. FINANCE CHARGES, INTEREST, AND PENALTIES**
 
 * [ ] **Section 23 – Payment Due Dates on Weekends/Holidays**
 
@@ -3800,7 +3830,7 @@ RA 10870 – CONSUMER RIGHTS & VIOLATION CHECKLIST (Law‑Only Version)
 
 *You paid on the next business day after a holiday/weekend, yet the issuer charged a late fee or reported a default.*
 
-**F. TERMINATION RIGHTS**
+**G. TERMINATION RIGHTS**
 
 * [ ] **Section 25 – Termination of Account**
 
