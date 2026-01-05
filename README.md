@@ -3766,7 +3766,18 @@ A. **CREDIT CARD ISSUANCE, LIMITS & ACCOUNT SAFEGUARDS**
 
 *You immediately report your credit card as stolen, yet the issuer continues to bill you for transactions made after the report, refusing to reverse fraudulent charges.*
 
-**B. FINANCE CHARGES, INTEREST, AND PENALTIES**
+**B. CUSTOMER ASSISTANCE**
+
+* [ ] **Section 17 – Customer Assistance Unit**
+
+**Statutory text (verbatim):**
+*“A card issuer shall establish a customer assistance unit within its organization which shall be responsible for providing prompt action for the expeditious resolution of complaints, inquiries and requests.”*
+
+**Impactful violation example:**
+
+*The cardholder repeatedly raises complaints regarding billing issues and account concerns, but the issuer has no identifiable customer assistance unit, fails to act promptly, and allows complaints to remain unresolved for an unreasonable period.*
+
+**C. FINANCE CHARGES, INTEREST, AND PENALTIES**
 
 * [ ] **Section 10 – Imposition of Finance Charges**
 
@@ -3777,7 +3788,7 @@ A. **CREDIT CARD ISSUANCE, LIMITS & ACCOUNT SAFEGUARDS**
 
 *Interest or penalty fees are applied to amounts you already paid or amounts you formally disputed, causing unnecessary financial burden.*
 
-**C. CONFIDENTIALITY & DATA PROTECTION**
+**D. CONFIDENTIALITY & DATA PROTECTION**
 
 * [ ] **Section 16 – Confidentiality of Information**
 
@@ -3788,7 +3799,7 @@ A. **CREDIT CARD ISSUANCE, LIMITS & ACCOUNT SAFEGUARDS**
 
 *Your account information is shared with unauthorized companies, telemarketers, or collection agents while a dispute is pending — without consent or court order.*
 
-**D. DISCLOSURES, STATEMENTS & BILLING ERRORS**
+**E. DISCLOSURES, STATEMENTS & BILLING ERRORS**
 
 * [ ] **Section 18 – Billing Errors & Disputed Transactions**
 
@@ -3799,7 +3810,7 @@ A. **CREDIT CARD ISSUANCE, LIMITS & ACCOUNT SAFEGUARDS**
 
 *You report an incorrect charge within 30 days, but the issuer fails to investigate or correct it within 10 business days, leaving you responsible for erroneous charges.*
 
-**E. COLLECTION & ENDORSEMENT PRACTICES**
+**F. COLLECTION & ENDORSEMENT PRACTICES**
 
 * [ ] **Section 19 – Prohibited Collection Practices**
 
@@ -3819,7 +3830,7 @@ A. **CREDIT CARD ISSUANCE, LIMITS & ACCOUNT SAFEGUARDS**
 
 *Your account is sent to a collection agency without prior written notice; you only learn when the agency begins contacting you.*
 
-**F. FINANCE CHARGES, INTEREST, AND PENALTIES**
+**G. FINANCE CHARGES, INTEREST, AND PENALTIES**
 
 * [ ] **Section 23 – Payment Due Dates on Weekends/Holidays**
 
@@ -3830,7 +3841,7 @@ A. **CREDIT CARD ISSUANCE, LIMITS & ACCOUNT SAFEGUARDS**
 
 *You paid on the next business day after a holiday/weekend, yet the issuer charged a late fee or reported a default.*
 
-**G. TERMINATION RIGHTS**
+**H. TERMINATION RIGHTS**
 
 * [ ] **Section 25 – Termination of Account**
 
