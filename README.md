@@ -3732,70 +3732,79 @@ All other laws, decrees, executive orders, proclamations and administrative regu
 This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in at least two (2) national newspapers of general circulation. 
 
 ---
-RA 10870 – CONSUMER RIGHTS & VIOLATION CHECKLIST (LAW‑ONLY VERSION)
-For public awareness and sample use only.
+RA 10870 – CONSUMER RIGHTS & VIOLATION CHECKLIST (Law‑Only Version)
 
-Cardholders should verify which items apply to their specific account or dispute.
+*For public awareness and sample use only. Cardholders should verify which items apply to their specific account or dispute.*
 
-**A. COLLECTION & ENDORSEMENT PRACTICES**
+**A. FINANCE CHARGES, INTEREST, AND PENALTIES**
 
-* [ ] Section 19 – Prohibited Collection Practices
-Issuer or collection agent harassed, abused, or used unfair practices in attempting to collect a debt.
+* [ ] **Section 10 – Imposition of Finance Charges**
+Statutory text (verbatim):
+“Finance charges and other fees arising from nonpayment in full or on time of the outstanding balance shall be based on the unpaid amount of the outstanding balance.” 
 
-Statutory text:
-*“…A credit card issuer or collection agent shall not harass, abuse or oppress any person or engage in any unfair practices…”*
+**Impactful violation example:**
+Interest or penalty fees are applied to amounts you already paid or amounts you formally disputed, causing unnecessary financial burden.
 
-* [ ] Section 21 – Written Pre-Endorsement Notice
-Issuer failed to notify the cardholder in writing prior to endorsing the account to a collection agency.
+**B. CONFIDENTIALITY & DATA PROTECTION**
 
-Statutory text:
-*“…A credit card issuer shall inform its cardholder in writing of the endorsement of the collection of the account to a collection agency… prior to the actual endorsement…”*
+* [ ] **Section 16 – Confidentiality of Information**
 
-**B. FINANCE CHARGES, INTEREST, AND PENALTIES**
+**Statutory text (verbatim):**
+*“Credit card issuers, their officers, employees and agents shall keep strictly confidential the data on the cardholder, except under any of the following circumstances: (a) When disclosure of information is with the consent of the cardholder; (b) When the customer information is released, submitted or exchanged with credit information bureaus, industry association, or card association; (c) Upon orders of a court of competent jurisdiction or any government office or agency authorized by law, or under such conditions as may be prescribed by the Monetary Board of the BSP; (d) When disclosure to third party service providers is necessary for the sole purpose of assisting or rendering services to the credit card issuer in enforcing its rights…; (e) … to third parties such as insurance companies…; and (f) … for the purpose of investigating fraud… The recipient of information described herein shall likewise be bound to preserve confidentiality of the cardholder data.”*
 
-* [ ] Section 10 – Finance Charges and Interest
-Issuer calculated interest, finance charges, or penalties on amounts that are disputed or already paid, instead of only on unpaid, undisputed balances.
-
-Statutory text:
-*“Finance charges and other fees arising from nonpayment in full or on time of the outstanding balance shall be based on the unpaid amount of the outstanding balance.”*
-
-* [ ] Section 23 – Payment Due Dates on Weekends/Holidays
-Issuer penalized the cardholder for payments made on the next business day when the due date fell on a weekend or national holiday.
-
-Statutory text:
-*“…if the payment due date for a credit card falls on weekends and regular national holidays, the card payment due date is automatically moved to the next business day.”*
+**Impactful violation example:**
+Your account information is shared with unauthorized companies, telemarketers, or collection agents while a dispute is pending — without consent or court order.
 
 **C. DISCLOSURES, STATEMENTS & BILLING ERRORS**
 
-* [ ] Section 11 – Statement of Account / Billing Statement
-Issuer failed to provide a Statement of Account listing all transactions, payments, and fees for the billing cycle.
+* [ ] **Section 18 – Billing Errors & Disputed Transactions**
 
-Statutory text:
-*“…Statement of account or billing statement refers to the regular statement listing of the purchases, payments and other debits and credits made to the credit card account…”*
+**Statutory text (verbatim):**
+*“A credit card issuer shall give cardholders up to thirty (30) calendar days from the statement date to report any error or discrepancy in their billing statement. The credit card issuer shall take action within ten (10) business days from receipt of such notice.”*
 
-* [ ] Section 18 – Billing Errors & Disputed Transactions
-Issuer did not allow the cardholder to report errors or failed to act on reported billing errors within the statutory period.
+**Impactful violation example:**
+You report an incorrect charge within 30 days, but the issuer fails to investigate or correct it within 10 business days, leaving you responsible for erroneous charges.
 
-Statutory text:
-*“Cardholders shall have up to thirty (30) calendar days from the statement date to report any billing error or discrepancy. The credit card issuer shall take action within ten (10) business days…”*
+**D. COLLECTION & ENDORSEMENT PRACTICES**
 
-**D. CONFIDENTIALITY & DATA PROTECTION**
+* [ ] **Section 19 – Prohibited Collection Practices**
 
-* [ ] Section 16 – Confidentiality of Information
-Issuer disclosed the cardholder’s account information to unauthorized parties, credit bureaus, or collection agencies while a dispute is pending.
+**Statutory text (verbatim):**
+*“…A credit card issuer or collection agent shall not harass, abuse or oppress any person or engage in any unfair practices, as may be defined by BSP rules and regulations, in connection with the collection of any credit card debt.”*
 
-Statutory text:
-*“Credit card issuers, their officers, employees and agents shall keep strictly confidential the data on the cardholder…”*
+**Impactful violation example:**
+Debt collectors repeatedly call multiple times per day, threaten legal action not allowed by law, or publicly shame you — constituting harassment.
 
-**E. TERMINATION RIGHTS**
+* [ ] **Section 21 – Written Pre‑Endorsement Notice**
 
-* [ ] Section 25 – Termination of Account
-Issuer refused to allow termination of the cardholder’s account, provided the balance is settled or a payment agreement is entered.
-Statutory text:
+**Statutory text (verbatim):**
+*“…A credit card issuer shall inform its cardholder in writing of the endorsement of the collection of the account to a collection agency, or the endorsement of the account from one collection agency to another, prior to the actual endorsement. The notification shall include the full name of the collection agency and its contact details. The requirement to notify a cardholder in writing about the endorsement of the account to the collection agency shall be included in the terms and conditions of the credit card agreement…”*
 
-*“…A cardholder may cancel or terminate his/her account anytime; provided that the cardholder either pays in full or enters into another agreement for payment of the outstanding balance…”*
+**Impactful violation example:**
+Your account is sent to a collection agency without prior written notice; you only learn when the agency begins contacting you.
+
+**E. FINANCE CHARGES, INTEREST, AND PENALTIES**
+
+* [ ] **Section 23 – Payment Due Dates on Weekends/Holidays**
+
+**Statutory text (verbatim):**
+*“…Notwithstanding any provision in the contract, if the payment due date for a credit card falls on weekends and regular national holidays, the card payment due date is automatically moved to the next business day. Payment through any authorized mode, made to any accredited payment centers of the credit card issuer shall be considered as payment to the credit card issuer made on the same date.”*
+
+**Impactful violation example:**
+You paid on the next business day after a holiday/weekend, yet the issuer charged a late fee or reported a default.
+
+**F. TERMINATION RIGHTS**
+
+* [ ] **Section 25 – Termination of Account**
+
+**Statutory text (verbatim):**
+*“A cardholder may cancel or terminate his/her account anytime; Provided, That the cardholder either pays in full or enters into another agreement for payment of the outstanding balance and new purchases, debits and deferred installments payment may be made either through a one‑time payment or on installments within a fixed period of time: Provided, further, That repayment in installments shall only be generally subject to interest unless there is a violation of the new agreement.”*
+
+**Impactful violation example:**
+You request to close your account and either pay in full or enter a payment plan, but the issuer refuses termination or continues to charge fees.
 
 **HOW TO USE THIS CHECKLIST**
+
 * Check the applicable violations based on your account history, statements, notices, or communications with the issuer.
 * Collect evidence such as:
 Written notices, SOAs, emails, or call logs
