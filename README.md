@@ -3534,13 +3534,17 @@ During the COVID-19 pandemic, the BSP—under **Governor Benjamin Diokno**—inv
 * **Late Fee Structure:** Fees must be based **only on the unpaid minimum amount due** (capped at 1% per month), never on the total outstanding balance.
 
 **IV. A Paradigm Shift in Consumer Rights**
+**(Strict RA 10870–Only, Statute-Safe Version)**
 
-| Feature | Pre-RA 10870 Environment | Post-RA 10870 / Duterte-Era Caps |
+| Feature | Pre-RA 10870 Environment | Post-RA 10870 Statutory Rule |
 | :--- | :--- | :--- |
-| **Late Penalties** | Penalized on the entire balance. | Penalized **only on the unpaid minimum**. |
-| **Due Dates** | Weekend due dates led to late fees. | Automatically moved to the **next business day**. |
-| **Billing Disputes** | Consumers were often ignored. | **30-day** window to report; **10 days** for bank action. |
-| **Privacy** | Data was often shared without consent. | **Strict Confidentiality** under Section 21. |
+| **Imposition of Penalties and Charges** | Penalties and charges were commonly imposed on the entire outstanding balance, even if only a portion was unpaid. | Penalties and charges shall not be imposed on the entire outstanding balance when only part of the obligation remains unpaid, as prohibited by RA 10870. |
+| **Due Dates Falling on Non-Business Days** | Payments due on weekends or holidays frequently resulted in automatic late fees and penalties. | When the due date falls on a non-business day, payment made on the next business day shall not be considered late, and no penalty may be imposed. |
+| **Handling of Billing Disputes and Complaints** | Cardholders had limited statutory protection against delayed or ignored complaints. | Card issuers are mandated to exercise expeditious care in the handling and resolution of billing disputes and consumer complaints. |
+| **Collection Practices** | Collection efforts were often aggressive, coercive, or intimidating. | Harassment, abuse, or threats in the collection of credit card obligations are prohibited under RA 10870. |
+| **Confidentiality of Credit Card Information** | Credit card information was disclosed with minimal statutory restriction. | Strict confidentiality of credit card information is mandated under Section 21 of RA 10870, with disclosure allowed only in cases expressly permitted by law. |
+| **Delegation to Collection Agents** | Card issuers frequently disclaimed responsibility once accounts were endorsed to third parties. | Card issuers remain accountable for compliance with RA 10870, even when collection activities are carried out by agents or third parties. |
+| **Nature of Consumer Protection** | Consumer rights were primarily governed by contract and issuer policy. | RA 10870 establishes a statutory consumer-protection framework governing credit card issuance, billing, penalties, collections, and confidentiality. |
 
 **V. Debt Collection: The "Fair Practices" Mandate**
 Under **Section 19**, collection agencies must observe "proper decorum."
