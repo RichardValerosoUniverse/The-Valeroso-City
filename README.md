@@ -3818,6 +3818,16 @@ If the bank's Customer Assistance Unit (Sec. 17) fails to resolve your dispute w
 
 **SAMPLE CREDIT CARD DISPUTE LETTER (Escalation Letter) – RA 10870 VIOLATIONS**
 
+This Sample Credit Card Dispute (Escalation) Letter is provided for general guidance and informational purposes only in relation to Republic Act No. 10870 (Philippine Credit Card Industry Regulation Law). It is not legal advice, does not create an attorney–client relationship, and should not be treated as a substitute for professional legal counsel.
+
+*Users are advised to:*
+* *Customize the contents to accurately reflect their specific facts, dates, amounts, and circumstances.*
+* *Verify all factual statements and legal citations before submission.*
+* *Attach supporting documents (billing statements, correspondence, screenshots, receipts) when sending the letter.*
+* *Observe prescribed timelines under RA 10870 and applicable Bangko Sentral ng Pilipinas (BSP) regulations when filing disputes or escalations.*
+* *Seek independent legal advice or assistance from a qualified lawyer, consumer protection office, or the Bangko Sentral ng Pilipinas if the dispute involves substantial amounts, complex issues, or potential litigation.*
+
+
 > DATE: [Insert Date]
 
 > TO: [Bank Name] – Consumer Assistance Management Department
@@ -3840,14 +3850,19 @@ This account has been consistently maintained in good standing, with timely paym
 
 > I. NATURE OF DISPUTE / STATUTORY VIOLATIONS
 I am contesting the following violations of RA 10870:
+
 Section 10 – Finance Charges and Interest
 The issuer applied interest and penalties on disputed amounts or amounts already paid, contrary to the statutory requirement that finance charges apply only to unpaid, undisputed balances.
+
 Section 11 – Statement of Account
 The issuer failed to provide a timely and accurate Statement of Account for the billing cycle(s) in question.
+
 Section 16 – Confidentiality of Information
 I require confirmation that no adverse, derogatory, or prejudicial information was shared with credit bureaus, collection agencies, or unauthorized parties during the dispute.
+
 Section 18 – Billing Errors and Disputed Transactions
 My dispute of [insert specific charge(s)] was reported within the statutory period, yet the issuer failed to investigate and provide a resolution within a reasonable time, violating the cardholder’s rights.
+
 Section 19 / 21 – Collection Practices / Pre-Endorsement Notice (if applicable)
 The issuer or its collection agent engaged in [harassment/unfair practices] or failed to provide written notice prior to account endorsement to a collection agency.
 
