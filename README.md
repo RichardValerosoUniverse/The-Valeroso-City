@@ -3895,16 +3895,34 @@ A. **CREDIT CARD ISSUANCE, LIMITS & ACCOUNT SAFEGUARDS**
 
 *You paid on the next business day after a holiday/weekend, yet the issuer charged a late fee or reported a default.*
 
-**H. TERMINATION RIGHTS**
+**H. TERMINATION & ENFORCEMENT**
 
-* [ ] **Section 25 – Termination of Account**
+* [ ] **Section 25 – Termination of Account**
 
 **Statutory text (verbatim):**
-*“A cardholder may cancel or terminate his/her account anytime; Provided, That the cardholder either pays in full or enters into another agreement for payment of the outstanding balance and new purchases, debits and deferred installments payment may be made either through a one‑time payment or on installments within a fixed period of time: Provided, further, That repayment in installments shall only be generally subject to interest unless there is a violation of the new agreement.”*
+*“A cardholder may cancel or terminate his/her account anytime; provided that the cardholder either pays in full or enters into another agreement for payment of the outstanding balance.”*
 
 **Impactful violation example:**
 
-*You request to close your account and either pay in full or enter a payment plan, but the issuer refuses termination or continues to charge fees.*
+*You request account closure after settling your balance, but the issuer refuses to terminate the account or continues billing you for future fees, obstructing your legal right*
+
+* [ ] **Section 26 – Administrative Sanctions**
+
+**Statutory text (verbatim):**
+*“Any credit card issuer who violates any provision of this Act shall be subject to administrative sanctions imposed by the Bangko Sentral ng Pilipinas in accordance with existing laws and regulations.”*
+
+**Impactful violation example:**
+
+*The issuer repeatedly ignores RA 10870 requirements — such as billing errors or harassment — but no corrective action or sanctions are imposed until BSP intervention occurs.*
+
+* [ ] **Section 27 – Violations**
+
+**Statutory text (verbatim):**
+*“Any person who violates any provision of this Act shall be liable to penalties, fines or other sanctions provided under the general banking and credit regulations, without prejudice to civil liability.”*
+
+**Impactful violation example:**
+
+*A cardholder suffers financial harm due to repeated statutory violations (unauthorized fees, harassment, or data breaches), giving the issuer potential civil liability and regulatory penalties under BSP oversight.*
 
 **HOW TO USE THIS CHECKLIST**
 
