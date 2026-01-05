@@ -3777,16 +3777,52 @@ A. **CREDIT CARD ISSUANCE, LIMITS & ACCOUNT SAFEGUARDS**
 
 *The cardholder repeatedly raises complaints regarding billing issues and account concerns, but the issuer has no identifiable customer assistance unit, fails to act promptly, and allows complaints to remain unresolved for an unreasonable period.*
 
-**C. FINANCE CHARGES, INTEREST, AND PENALTIES**
+**C. INTEREST, FEES & PAYMENT COMPUTATION TRANSPARENCY**
 
-* [ ] **Section 10 – Imposition of Finance Charges**
+* [ ] **Section 10 – Imposition of Finance Charges**
 
 **Statutory text (verbatim):**
 *“Finance charges and other fees arising from nonpayment in full or on time of the outstanding balance shall be based on the unpaid amount of the outstanding balance.”*
 
 **Impactful violation example:**
 
-*Interest or penalty fees are applied to amounts you already paid or amounts you formally disputed, causing unnecessary financial burden.*
+*The issuer charges interest or late fees on amounts that have already been paid or disputed, instead of applying them only to the unpaid, undisputed balance, causing the cardholder to pay double.*
+
+* [ ] **Section 12 – Computations to be Disclosed**
+
+**Statutory text (verbatim):**
+*“In addition to the foregoing, a credit card issuer must, to the extent practicable, provide a detailed explanation and a clear illustration of the manner by which all charges and fees are computed. The BSP shall determine the implementation date.”*
+
+**Impactful violation example:**
+
+*Your statement lists finance fees and miscellaneous charges without showing how they were computed, making it impossible to verify correctness or detect errors.*
+
+* [ ] **Section 13 – Changes in the Manner of Computation and Fees**
+
+**Statutory text (verbatim):**
+*“The cardholder shall be notified at least ninety (90) days prior to any change in the manner of computation of the outstanding balance and the amount of fees to be imposed on the cardholder. If the cardholder finds the change to be unacceptable, he/she shall have the right to terminate his/her account with the credit card issuer subject to Section 25 of this Act. Compliance with this section may be deferred for such reasonable time as the BSP may determine within which credit card issuers should modify their systems accordingly.”*
+
+**Impactful violation example:**
+
+*The issuer increases interest rates or adds new fees without giving 90-day prior written notice and does not allow the cardholder to close the account without penalty.*
+
+* [ ] **Section 14 – Over-the-Limit Transaction**
+
+**Statutory text (verbatim):**
+*“…If a cardholder breaches the credit limit by a new transaction, the subject transaction may be processed subject to the discretion of the credit card issuer: Provided, That such fees are clearly and prominently disclosed in the table of fees and charges.”*
+
+**Impactful violation example:**
+
+*A transaction above your credit limit is processed and the issuer charges an over-limit fee, even though the fee was not clearly disclosed in the issuer’s table of fees.*
+
+* [ ] **Section 24 – Application of Card Payment**
+
+**Statutory text (verbatim):**
+*“…Upon receipt of a payment from a cardholder whose account carries different interest rates for different types of purchases… amounts in excess of the minimum payment amount shall be applied first to the fees and charges, and then to the billed balance bearing the highest rate of interest… Provided, That the original rates for promotional offers shall be the basis for determining hierarchy of payment.”*
+
+**Impactful violation example:**
+
+*Your payment above the minimum is applied first to low-interest balances or non-fee categories, prolonging the debt on high-interest balances, contrary to law.*
 
 **D. CONFIDENTIALITY & DATA PROTECTION**
 
