@@ -3846,25 +3846,43 @@ A. **CREDIT CARD ISSUANCE, LIMITS & ACCOUNT SAFEGUARDS**
 
 *You report an incorrect charge within 30 days, but the issuer fails to investigate or correct it within 10 business days, leaving you responsible for erroneous charges.*
 
-**F. COLLECTION & ENDORSEMENT PRACTICES**
+**F. COLLECTION, COMMUNICATION & ENDORSEMENT PRACTICES**
 
-* [ ] **Section 19 – Prohibited Collection Practices**
+* [ ] **Section 19 – Prohibited Collection Practices**
 
 **Statutory text (verbatim):**
-*“…A credit card issuer or collection agent shall not harass, abuse or oppress any person or engage in any unfair practices, as may be defined by BSP rules and regulations, in connection with the collection of any credit card debt.”*
+*“A credit card issuer or collection agent shall not harass, abuse or oppress any person or engage in any unfair practices in attempting to collect a debt.”*
 
 **Impactful violation example:**
 
-*Debt collectors repeatedly call multiple times per day, threaten legal action not allowed by law, or publicly shame you — constituting harassment.*
+*A cardholder receives repeated threatening phone calls, abusive language, or public shaming from the issuer or its collection agent despite timely communication of disputes, which constitutes harassment under the law.*
 
-* [ ] **Section 21 – Written Pre‑Endorsement Notice**
+* [ ] **Section 20 – Use of Third-Party Collection Agents**
 
 **Statutory text (verbatim):**
-*“…A credit card issuer shall inform its cardholder in writing of the endorsement of the collection of the account to a collection agency, or the endorsement of the account from one collection agency to another, prior to the actual endorsement. The notification shall include the full name of the collection agency and its contact details. The requirement to notify a cardholder in writing about the endorsement of the account to the collection agency shall be included in the terms and conditions of the credit card agreement…”*
+*“A credit card issuer may engage a third-party collection agent to collect delinquent accounts, provided that the card issuer remains responsible for compliance with the provisions of this Act and that the cardholder has been informed of such engagement.”*
 
 **Impactful violation example:**
 
-*Your account is sent to a collection agency without prior written notice; you only learn when the agency begins contacting you.*
+*The issuer hires an unqualified collection agency and fails to notify the cardholder. The agency repeatedly contacts the cardholder with aggressive or misleading tactics, causing undue stress and potential credit reporting issues.*
+
+* [ ] **Section 21 – Written Pre-Endorsement Notice**
+
+**Statutory text (verbatim):**
+*“A credit card issuer shall inform its cardholder in writing of the endorsement of the collection of the account to a collection agency or lawyer prior to the actual endorsement.”*
+
+**Impactful violation example:**
+
+*The issuer sends the account to a collection agency without providing the cardholder with a written notice, resulting in surprise debt collection calls and damage to the cardholder’s credit reputation.*
+
+* [ ] **Section 22 – Communication in Connection with Debt Collection**
+
+**Statutory text (verbatim):**
+“A credit card issuer or its collection agent shall communicate with the cardholder only in accordance with the rules prescribed by the BSP and shall not contact the cardholder at unreasonable hours, or in a manner that constitutes harassment, abuse, or public embarrassment.”
+
+**Impactful violation example:**
+
+*A collection agent repeatedly calls the cardholder at midnight, sends threatening messages, or contacts the cardholder’s employer or neighbors to pressure payment, violating the law’s communication restrictions.*
 
 **G. FINANCE CHARGES, INTEREST, AND PENALTIES**
 
