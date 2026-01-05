@@ -3806,7 +3806,6 @@ Items must be adapted to the cardholder’s actual dispute.
 All facts here come directly from Republic Act No. 10870.
 It does not constitute legal advice
 
----
 **REPORTING TO THE BANGKO SENTRAL NG PILIPINAS (BSP)**
 ---
 
@@ -3820,9 +3819,8 @@ If the bank's Customer Assistance Unit (Sec. 17) fails to resolve your dispute w
 
 ---
 **SAMPLE CREDIT CARD DISPUTE LETTER (Escalation Letter) – RA 10870 VIOLATIONS**
----
 
-**Disclaimer:** This Sample Credit Card Dispute (Escalation) Letter is provided for general guidance and informational purposes only in relation to Republic Act No. 10870 (Philippine Credit Card Industry Regulation Law). It is not legal advice, does not create an attorney–client relationship, and should not be treated as a substitute for professional legal counsel.
+**Disclaimer:** *This Sample Credit Card Dispute (Escalation) Letter is provided for general guidance and informational purposes only in relation to Republic Act No. 10870 (Philippine Credit Card Industry Regulation Law). It is not legal advice, does not create an attorney–client relationship, and should not be treated as a substitute for professional legal counsel.*
 
 *Users are advised to:*
 * *Customize the contents to accurately reflect their specific facts, dates, amounts, and circumstances.*
