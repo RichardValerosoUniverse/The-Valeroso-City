@@ -3735,51 +3735,59 @@ Cardholders should verify which items apply to their specific account or dispute
 
 * [ ] Section 19 – Prohibited Collection Practices
 Issuer or collection agent harassed, abused, or used unfair practices in attempting to collect a debt.
+
 Statutory text:
-“…A credit card issuer or collection agent shall not harass, abuse or oppress any person or engage in any unfair practices…”
+*“…A credit card issuer or collection agent shall not harass, abuse or oppress any person or engage in any unfair practices…”*
 
 * [ ] Section 21 – Written Pre-Endorsement Notice
 Issuer failed to notify the cardholder in writing prior to endorsing the account to a collection agency.
+
 Statutory text:
-“…A credit card issuer shall inform its cardholder in writing of the endorsement of the collection of the account to a collection agency… prior to the actual endorsement…”
+*“…A credit card issuer shall inform its cardholder in writing of the endorsement of the collection of the account to a collection agency… prior to the actual endorsement…”*
 
 **B. FINANCE CHARGES, INTEREST, AND PENALTIES**
 
 * [ ] Section 10 – Finance Charges and Interest
 Issuer calculated interest, finance charges, or penalties on amounts that are disputed or already paid, instead of only on unpaid, undisputed balances.
+
 Statutory text:
-“Finance charges and other fees arising from nonpayment in full or on time of the outstanding balance shall be based on the unpaid amount of the outstanding balance.”
+*“Finance charges and other fees arising from nonpayment in full or on time of the outstanding balance shall be based on the unpaid amount of the outstanding balance.”*
 
 * [ ] Section 23 – Payment Due Dates on Weekends/Holidays
 Issuer penalized the cardholder for payments made on the next business day when the due date fell on a weekend or national holiday.
+
 Statutory text:
-“…if the payment due date for a credit card falls on weekends and regular national holidays, the card payment due date is automatically moved to the next business day.”
+*“…if the payment due date for a credit card falls on weekends and regular national holidays, the card payment due date is automatically moved to the next business day.”*
 
 **C. DISCLOSURES, STATEMENTS & BILLING ERRORS**
 
 * [ ] Section 11 – Statement of Account / Billing Statement
 Issuer failed to provide a Statement of Account listing all transactions, payments, and fees for the billing cycle.
+
 Statutory text:
-“…Statement of account or billing statement refers to the regular statement listing of the purchases, payments and other debits and credits made to the credit card account…”
+*“…Statement of account or billing statement refers to the regular statement listing of the purchases, payments and other debits and credits made to the credit card account…”*
 
 * [ ] Section 18 – Billing Errors & Disputed Transactions
 Issuer did not allow the cardholder to report errors or failed to act on reported billing errors within the statutory period.
+
 Statutory text:
-“Cardholders shall have up to thirty (30) calendar days from the statement date to report any billing error or discrepancy. The credit card issuer shall take action within ten (10) business days…”
+*“Cardholders shall have up to thirty (30) calendar days from the statement date to report any billing error or discrepancy. The credit card issuer shall take action within ten (10) business days…”*
 
 **D. CONFIDENTIALITY & DATA PROTECTION**
 
 * [ ] Section 16 – Confidentiality of Information
 Issuer disclosed the cardholder’s account information to unauthorized parties, credit bureaus, or collection agencies while a dispute is pending.
+
 Statutory text:
-“Credit card issuers, their officers, employees and agents shall keep strictly confidential the data on the cardholder…”
+*“Credit card issuers, their officers, employees and agents shall keep strictly confidential the data on the cardholder…”*
 
 **E. TERMINATION RIGHTS**
 
 * [ ] Section 25 – Termination of Account
 Issuer refused to allow termination of the cardholder’s account, provided the balance is settled or a payment agreement is entered.
 Statutory text:
-“…A cardholder may cancel or terminate his/her account anytime; provided that the cardholder either pays in full or enters into another agreement for payment of the outstanding balance…”
+
+*“…A cardholder may cancel or terminate his/her account anytime; provided that the cardholder either pays in full or enters into another agreement for payment of the outstanding balance…”*
 
 **HOW TO USE THIS CHECKLIST**
 * Check the applicable violations based on your account history, statements, notices, or communications with the issuer.
