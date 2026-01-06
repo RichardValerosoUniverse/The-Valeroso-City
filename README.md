@@ -1,4 +1,4 @@
-## The SuperHighness Way: 2026 Updates
+# The SuperHighness Way: 2026 Updates
 
 ## **Introduction**
 
