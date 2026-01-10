@@ -3764,7 +3764,7 @@ RA 10870 – CONSUMER RIGHTS & VIOLATION CHECKLIST (Law‑Only Version)
 | Section 5 Definition of Terms | Impactful Violation Example |
 | :--- | :--- |
 | []☐**1. Acceleration Clause**  | The issuer improperly invokes the acceleration clause by demanding immediate full payment of the entire outstanding balance despite the absence of default, where the cardholder has only disputed a specific fee in good faith. Such action constitutes an abusive and premature acceleration not justified under the credit card agreement or under RA 10870. |
-| [ ] **2. Acquirer** | A transaction is delayed or misprocessed by the acquirer, causing the cardholder to incur finance charges or late payment penalties that could have been avoided. |
+| [ ] **2. Acquirer** | The acquirer delays or misprocesses a valid transaction or reversal, resulting in incorrect or late transmission of transaction data to the issuer. As a consequence, the issuer posts erroneous balances or delayed credits, causing the cardholder to incur avoidable finance charges or late payment penalties. |
 | [ ] **3. Balance Transfer** | The issuer fails to properly transfer the balance to another account, resulting in duplicate finance charges on both accounts and increased debt. |
 | [ ] **4. Billing Cycle / Billing Period** | Payments made within the designated billing cycle are incorrectly considered late, leading to unlawful finance charges or penalties. |
 | [ ] **5. Card Association** | A card association fails to enforce its network rules against a member issuer that imposes unauthorized fees or penalties, allowing continued processing of transactions despite clear violations, thereby facilitating non-compliance and consumer harm. |
