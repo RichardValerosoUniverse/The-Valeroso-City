@@ -4037,14 +4037,16 @@ Foreign currency transactions are billed without disclosing the conversion metho
 
 *The issuer repeatedly ignores RA 10870 requirements — such as billing errors or harassment — but no corrective action or sanctions are imposed until BSP intervention occurs.*
 
-* [ ] **Section 27 – Violations**
+**M. CRIMINAL LIABILITY FOR WILLFUL NON-COMPLIANCE**
 
-**Statutory text (verbatim):**
-*“Any person who violates any provision of this Act shall be liable to penalties, fines or other sanctions provided under the general banking and credit regulations, without prejudice to civil liability.”*
+* [ ] **Section 27 — Violation of this Act and Other Related Rules, Regulations, Orders or Instructions**
+
+**Statutory Text (Verbatim):**
+*“A person who willfully violates any provision of this Act or any related rules, regulations, order or instructions, issued by the Monetary Board shall be punished by imprisonment of not less than two (2) years nor more than ten (10) years, or by a fine of not less than fifty thousand pesos (P50,000.00) but not more than two hundred thousand pesos (P200,000.00), or both, at the discretion of the court.”*
 
 **Impactful violation example:**
 
-*A cardholder suffers financial harm due to repeated statutory violations (unauthorized fees, harassment, or data breaches), giving the issuer potential civil liability and regulatory penalties under BSP oversight.*
+*A credit card issuer intentionally fails to disclose finance charges, late payment fees, minimum payment rules, or the method of calculating interest, fully aware of the statutory disclosure obligations under RA 10870 and BSP Circulars. The issuer also knowingly imposes unauthorized penalties, accelerates disputed balances, and ignores BSP corrective orders, thereby deliberately violating the law and BSP-issued rules.*
 
 **HOW TO USE THIS CHECKLIST**
 
