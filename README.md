@@ -3840,13 +3840,11 @@ The credit card issuer shall endeavor to convey the information in a manner that
 → Violates Sec. 11(a)
 * [ ] 2: The applicable monthly or annual interest rate is not clearly disclosed, or is obscured through complex or misleading presentation
 → Violates Sec. 11(b)
-* [ ] 3: Penalty & Delinquency Mis-Disclosure
-Late payment or penalty fees are charged without disclosing their statutory basis, including whether they are computed on the unpaid minimum amount due or a fixed minimum amount
+* [ ] 3: Late payment or penalty fees are charged without disclosing their statutory basis, including whether they are computed on the unpaid minimum amount due or a fixed minimum amount
 → Violates Sec. 11(c)
 * [ ] 4: The issuer fails to disclose the conditions under which penalties may be based on the total outstanding balance, particularly when an acceleration clause applies
 → Violates Sec. 11(c), second proviso
-* [ ] 5: Computation Transparency Violations
-The issuer does not disclose how the balance subject to interest or delinquency charges is determined, preventing the cardholder from verifying correctness
+* [ ] 5: The issuer does not disclose how the balance subject to interest or delinquency charges is determined, preventing the cardholder from verifying correctness
 → Violates Sec. 11(d)
 * [ ] 6: The issuer fails to disclose the method of computing interest or delinquency charges, including minimum or fixed charge thresholds
 → Violates Sec. 11(e)
@@ -3857,8 +3855,7 @@ Foreign currency transactions are billed without disclosing the conversion metho
 → Violates Sec. 11(g)
 * [ ] 9: The billing statement omits the required “Important Reminder” regarding minimum payments, or alters its wording
 → Violates Sec. 11(h)
-* [ ] 10: BSP-Mandated Disclosure Non-Compliance
-The issuer fails to disclose additional information required by BSP circulars or regulations
+* [ ] 10: The issuer fails to disclose additional information required by BSP circulars or regulations
 → Violates Sec. 11(i)
 
 **E. CREDIT CARD ISSUANCE, LIMITS & ACCOUNT SAFEGUARDS**
