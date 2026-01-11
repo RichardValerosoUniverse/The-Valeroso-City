@@ -3801,7 +3801,24 @@ Section 6 – Minimum Requirements for Risk Management System
 * [ ] 7: Failure to document internal controls, procedures, or operational policies, preventing audits, regulatory inspections, and corrective actions, exposing cardholders to harm.
 * [ ] 8: Ignoring operational risks identified through monitoring, such as repeated posting errors or system glitches, resulting in unlawful finance charges or duplicate billing.
 
-C. **CREDIT CARD ISSUANCE, LIMITS & ACCOUNT SAFEGUARDS**
+**C. MERCHANT DUE DILIGENCE & ACQUIRER OVERSIGHT (TRANSACTION VALIDITY CONTROL)**
+
+**SECTION 8 — Service Level Agreement**
+
+**Statutory text (verbatim):**
+*“There shall be, in the service level agreement between the acquiring banks and their partner merchants, a provision requiring merchants to perform due diligence to establish the identity of the cardholders. Nothing in this Act shall preclude a card issuer from verifying or seeking confirmation with the cardholder any purchase if in their assessment there is reasonable concern as to the validity of the purchase.”*
+
+**Impactful violation examples:**
+
+* [ ] 1: The acquiring bank fails to include a due-diligence requirement in its service level agreement, allowing merchants to process card transactions without establishing the identity of the cardholder.
+* [ ] 2: A merchant processes transactions without performing identity-verification due diligence, and the acquiring bank permits continued processing despite this statutory and contractual failure.
+* [ ] 3: The acquiring bank does not enforce merchant compliance with identity-verification provisions in the service level agreement, resulting in repeated unauthorized or invalid transactions.
+* [ ] 4: The issuer fails to verify or seek confirmation from the cardholder despite reasonable concern as to the validity of a purchase, allowing a questionable transaction to post and generate charges.
+* [ ] 5: The service level agreement contains vague, ineffective, or purely nominal due-diligence language, rendering the statutory requirement unenforceable in practice.
+* [ ] 6: The acquiring bank continues to accredit or retain merchants with known due-diligence failures, effectively facilitating invalid or unauthorized transactions.
+* [ ] 7. Internal policies of the issuer or acquirer discourage transaction verification, even when reasonable concerns about validity exist, undermining Section 8’s protective intent.
+
+**D. CREDIT CARD ISSUANCE, LIMITS & ACCOUNT SAFEGUARDS**
 
 * [ ] **Section 7 – Minimum Requirements for the Issuance of Credit Cards**
 
@@ -3831,7 +3848,7 @@ C. **CREDIT CARD ISSUANCE, LIMITS & ACCOUNT SAFEGUARDS**
 
 *You immediately report your credit card as stolen, yet the issuer continues to bill you for transactions made after the report, refusing to reverse fraudulent charges.*
 
-**D. CUSTOMER ASSISTANCE**
+**E. CUSTOMER ASSISTANCE**
 
 * [ ] **Section 17 – Customer Assistance Unit**
 
@@ -3842,7 +3859,7 @@ C. **CREDIT CARD ISSUANCE, LIMITS & ACCOUNT SAFEGUARDS**
 
 *The cardholder repeatedly raises complaints regarding billing issues and account concerns, but the issuer has no identifiable customer assistance unit, fails to act promptly, and allows complaints to remain unresolved for an unreasonable period.*
 
-**E. INTEREST, FEES & PAYMENT COMPUTATION TRANSPARENCY**
+**F. INTEREST, FEES & PAYMENT COMPUTATION TRANSPARENCY**
 
 * [ ] **Section 10 – Imposition of Finance Charges**
 
@@ -3889,7 +3906,7 @@ C. **CREDIT CARD ISSUANCE, LIMITS & ACCOUNT SAFEGUARDS**
 
 *Your payment above the minimum is applied first to low-interest balances or non-fee categories, prolonging the debt on high-interest balances, contrary to law.*
 
-**F. CONFIDENTIALITY & DATA PROTECTION**
+**G. CONFIDENTIALITY & DATA PROTECTION**
 
 * [ ] **Section 16 – Confidentiality of Information**
 
@@ -3900,7 +3917,7 @@ C. **CREDIT CARD ISSUANCE, LIMITS & ACCOUNT SAFEGUARDS**
 
 *Your account information is shared with unauthorized companies, telemarketers, or collection agents while a dispute is pending — without consent or court order.*
 
-**G. DISCLOSURES, STATEMENTS & BILLING ERRORS**
+**H. DISCLOSURES, STATEMENTS & BILLING ERRORS**
 
 * [ ] **Section 18 – Billing Errors & Disputed Transactions**
 
@@ -3911,7 +3928,7 @@ C. **CREDIT CARD ISSUANCE, LIMITS & ACCOUNT SAFEGUARDS**
 
 *You report an incorrect charge within 30 days, but the issuer fails to investigate or correct it within 10 business days, leaving you responsible for erroneous charges.*
 
-**H. COLLECTION, COMMUNICATION & ENDORSEMENT PRACTICES**
+**I. COLLECTION, COMMUNICATION & ENDORSEMENT PRACTICES**
 
 * [ ] **Section 19 – Prohibited Collection Practices**
 
@@ -3949,7 +3966,7 @@ C. **CREDIT CARD ISSUANCE, LIMITS & ACCOUNT SAFEGUARDS**
 
 *A collection agent repeatedly calls the cardholder at midnight, sends threatening messages, or contacts the cardholder’s employer or neighbors to pressure payment, violating the law’s communication restrictions.*
 
-**I. FINANCE CHARGES, INTEREST, AND PENALTIES**
+**J. FINANCE CHARGES, INTEREST, AND PENALTIES**
 
 * [ ] **Section 23 – Payment Due Dates on Weekends/Holidays**
 
@@ -3960,7 +3977,7 @@ C. **CREDIT CARD ISSUANCE, LIMITS & ACCOUNT SAFEGUARDS**
 
 *You paid on the next business day after a holiday/weekend, yet the issuer charged a late fee or reported a default.*
 
-**G. TERMINATION & ENFORCEMENT**
+**K. TERMINATION & ENFORCEMENT**
 
 * [ ] **Section 25 – Termination of Account**
 
