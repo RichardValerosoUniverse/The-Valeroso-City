@@ -4028,14 +4028,14 @@ Foreign currency transactions are billed without disclosing the conversion metho
 
 *You request account closure after settling your balance, but the issuer refuses to terminate the account or continues billing you for future fees, obstructing your legal right*
 
-* [ ] **Section 26 – Administrative Sanctions**
+* [ ] **SECTION 26 — administrative sanctions on credit card issuers**
 
-**Statutory text (verbatim):**
-*“Any credit card issuer who violates any provision of this Act shall be subject to administrative sanctions imposed by the Bangko Sentral ng Pilipinas in accordance with existing laws and regulations.”*
+**Statutory text (Verbatim):**
+*“The provisions of Section 37 of Republic Act No. 7653, otherwise known as “The New Central Bank Act”, shall be made applicable to any credit card issuer, acquirer, their directors and officers including, but not limited to, the administrative sanctions that may be imposed, without prejudice to the criminal sanctions against the culpable persons provided in Section 25 of this Act, for any willful violation of this Act or any related rules, regulations, orders or instructions issued by the Monetary Board; Provided, That in addition to the administrative sanctions that may be imposed, the authority of the credit card issuer to issue credit cards may be suspended or cancelled by the BSP.”*
 
 **Impactful violation example:**
 
-*The issuer repeatedly ignores RA 10870 requirements — such as billing errors or harassment — but no corrective action or sanctions are imposed until BSP intervention occurs.*
+*A credit card issuer repeatedly and willfully fails to comply with disclosure and transparency requirements under RA 10870 and related BSP regulations, leading the Bangko Sentral ng Pilipinas to impose administrative sanctions (such as fines, reprimands, or corrective orders) under the applicable provisions of RA 7653. In addition, BSP suspends or revokes the issuer’s authority to issue credit cards due to persistent non‑compliance with statutory and regulatory obligations.*
 
 **M. CRIMINAL LIABILITY FOR WILLFUL NON-COMPLIANCE**
 
