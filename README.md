@@ -3783,7 +3783,26 @@ RA 10870 – CONSUMER RIGHTS & VIOLATION CHECKLIST (Law‑Only Version)
 | ☐ **18. Statement of Account** | The issuer provides a statement of account that contains inaccurate transaction postings, omits disputed or reversed charges, miscalculates finance charges or minimum amounts due, or fails to reflect the correct billing period, thereby misleading the cardholder and causing an undue financial burden. |
 | ☐ **19. Supplementary Card** | The issuer fails to recognize a supplementary or extension cardholder as entitled to statutory protections under RA 10870, including the right to dispute unauthorized, erroneous, or misposted transactions, or fails to properly allocate charges and liabilities between the principal and supplementary accounts, resulting in inaccurate billing, misapplied finance charges or fees, and undue financial burden on the cardholder. |
 
-B. **CREDIT CARD ISSUANCE, LIMITS & ACCOUNT SAFEGUARDS**
+B. **Risk Management / Operational Compliance
+
+Section 6 – Minimum Requirements for Risk Management System
+
+**Statutory Text (verbatim):**
+*“Section 6. Minimum Requirements for Risk Management System of Credit Card Issuers. – To effectively deliver services and at the same time safeguard their interests, the credit card issuer and acquirer must establish an appropriate system for managing risk exposures arising from credit card operations. Such risk management system shall be documented in a complete and concise manner, and shall cover the organizational set‑up for the institution engaged in or unit handling the credit card business, its information management system, as well as accounting policies and procedures, internal and external functions, and internal control system."*
+📋 Best-of-the-Best Impactful Violation Examples – Section 6
+
+**Impactful violation examples:**
+
+* [ ] 1: The issuer or acquirer fails to implement a fully documented risk management system, leaving credit card operations vulnerable to errors, unauthorized transactions, or financial loss.
+* [ ] 2: Organizational responsibilities are unclear or absent, resulting in repeated compliance failures, mishandled transactions, or failure to respond to disputes.
+* [ ] 3: Information management systems are inadequate, causing posting errors, delayed or misprocessed transactions, or exposure of sensitive cardholder data.
+* [ ] 4: Accounting policies and procedures are insufficient or not followed, leading to miscalculated balances, incorrect minimum payments, or unauthorized finance charges.
+* [ ] 5: Internal controls are weak, missing, or nonfunctional, allowing duplicate charges, misapplied fees, or failure to detect and correct disputed transactions.
+* [ ] 6: The risk management system is not reviewed or updated when products, technology, or transaction volumes change, resulting in systemic failures or new compliance risks.
+* [ ] 7: Failure to document internal controls, procedures, or operational policies, preventing audits, regulatory inspections, and corrective actions, exposing cardholders to harm.
+* [ ] 8: Ignoring operational risks identified through monitoring, such as repeated posting errors or system glitches, resulting in unlawful finance charges or duplicate billing.
+
+C. **CREDIT CARD ISSUANCE, LIMITS & ACCOUNT SAFEGUARDS**
 
 * [ ] **Section 7 – Minimum Requirements for the Issuance of Credit Cards**
 
@@ -3813,7 +3832,7 @@ B. **CREDIT CARD ISSUANCE, LIMITS & ACCOUNT SAFEGUARDS**
 
 *You immediately report your credit card as stolen, yet the issuer continues to bill you for transactions made after the report, refusing to reverse fraudulent charges.*
 
-**C. CUSTOMER ASSISTANCE**
+**D. CUSTOMER ASSISTANCE**
 
 * [ ] **Section 17 – Customer Assistance Unit**
 
@@ -3824,7 +3843,7 @@ B. **CREDIT CARD ISSUANCE, LIMITS & ACCOUNT SAFEGUARDS**
 
 *The cardholder repeatedly raises complaints regarding billing issues and account concerns, but the issuer has no identifiable customer assistance unit, fails to act promptly, and allows complaints to remain unresolved for an unreasonable period.*
 
-**D. INTEREST, FEES & PAYMENT COMPUTATION TRANSPARENCY**
+**E. INTEREST, FEES & PAYMENT COMPUTATION TRANSPARENCY**
 
 * [ ] **Section 10 – Imposition of Finance Charges**
 
@@ -3871,7 +3890,7 @@ B. **CREDIT CARD ISSUANCE, LIMITS & ACCOUNT SAFEGUARDS**
 
 *Your payment above the minimum is applied first to low-interest balances or non-fee categories, prolonging the debt on high-interest balances, contrary to law.*
 
-**E. CONFIDENTIALITY & DATA PROTECTION**
+**F. CONFIDENTIALITY & DATA PROTECTION**
 
 * [ ] **Section 16 – Confidentiality of Information**
 
@@ -3882,7 +3901,7 @@ B. **CREDIT CARD ISSUANCE, LIMITS & ACCOUNT SAFEGUARDS**
 
 *Your account information is shared with unauthorized companies, telemarketers, or collection agents while a dispute is pending — without consent or court order.*
 
-**F. DISCLOSURES, STATEMENTS & BILLING ERRORS**
+**G. DISCLOSURES, STATEMENTS & BILLING ERRORS**
 
 * [ ] **Section 18 – Billing Errors & Disputed Transactions**
 
@@ -3893,7 +3912,7 @@ B. **CREDIT CARD ISSUANCE, LIMITS & ACCOUNT SAFEGUARDS**
 
 *You report an incorrect charge within 30 days, but the issuer fails to investigate or correct it within 10 business days, leaving you responsible for erroneous charges.*
 
-**G. COLLECTION, COMMUNICATION & ENDORSEMENT PRACTICES**
+**H. COLLECTION, COMMUNICATION & ENDORSEMENT PRACTICES**
 
 * [ ] **Section 19 – Prohibited Collection Practices**
 
@@ -3931,7 +3950,7 @@ B. **CREDIT CARD ISSUANCE, LIMITS & ACCOUNT SAFEGUARDS**
 
 *A collection agent repeatedly calls the cardholder at midnight, sends threatening messages, or contacts the cardholder’s employer or neighbors to pressure payment, violating the law’s communication restrictions.*
 
-**H. FINANCE CHARGES, INTEREST, AND PENALTIES**
+**I. FINANCE CHARGES, INTEREST, AND PENALTIES**
 
 * [ ] **Section 23 – Payment Due Dates on Weekends/Holidays**
 
@@ -3942,7 +3961,7 @@ B. **CREDIT CARD ISSUANCE, LIMITS & ACCOUNT SAFEGUARDS**
 
 *You paid on the next business day after a holiday/weekend, yet the issuer charged a late fee or reported a default.*
 
-**I. TERMINATION & ENFORCEMENT**
+**G. TERMINATION & ENFORCEMENT**
 
 * [ ] **Section 25 – Termination of Account**
 
