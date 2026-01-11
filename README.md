@@ -3733,7 +3733,7 @@ RA 10870 – CONSUMER RIGHTS & VIOLATION CHECKLIST (Law‑Only Version)
 
 *For public awareness and sample use only. Cardholders should verify which items apply to their specific account or dispute.*
 
-**A. SECTION 5: DEFINITION OF TERMS**
+**A. Section 5: Definition of terms**
 
 **Statutory text (verbatim)**
 *“As used in this Act, the following terms are defined as follows:
@@ -3785,7 +3785,7 @@ RA 10870 – CONSUMER RIGHTS & VIOLATION CHECKLIST (Law‑Only Version)
 
 **B. RISK MANAGEMENT / OPERATIONAL COMPLIANCE**
 
-Section 6 – Minimum Requirements for Risk Management System
+**Section 6 – Minimum Requirements for Risk Management System**
 
 **Statutory Text (verbatim):**
 *“Section 6. Minimum Requirements for Risk Management System of Credit Card Issuers. – To effectively deliver services and at the same time safeguard their interests, the credit card issuer and acquirer must establish an appropriate system for managing risk exposures arising from credit card operations. Such risk management system shall be documented in a complete and concise manner, and shall cover the organizational set‑up for the institution engaged in or unit handling the credit card business, its information management system, as well as accounting policies and procedures, internal and external functions, and internal control system."*
@@ -3803,7 +3803,7 @@ Section 6 – Minimum Requirements for Risk Management System
 
 **C. MERCHANT DUE DILIGENCE & ACQUIRER OVERSIGHT (TRANSACTION VALIDITY CONTROL)**
 
-**SECTION 8 — Service Level Agreement**
+**Section 8 — Service Level Agreement**
 
 **Statutory text (verbatim):**
 *“There shall be, in the service level agreement between the acquiring banks and their partner merchants, a provision requiring merchants to perform due diligence to establish the identity of the cardholders. Nothing in this Act shall preclude a card issuer from verifying or seeking confirmation with the cardholder any purchase if in their assessment there is reasonable concern as to the validity of the purchase.”*
@@ -3818,7 +3818,50 @@ Section 6 – Minimum Requirements for Risk Management System
 * [ ] 6: The acquiring bank continues to accredit or retain merchants with known due-diligence failures, effectively facilitating invalid or unauthorized transactions.
 * [ ] 7. Internal policies of the issuer or acquirer discourage transaction verification, even when reasonable concerns about validity exist, undermining Section 8’s protective intent.
 
-**D. CREDIT CARD ISSUANCE, LIMITS & ACCOUNT SAFEGUARDS**
+**D. MANDATORY DISCLOSURE & TRANSPARENCY OBLIGATIONS OF CREDIT CARD ISSUERS**
+
+**Section 11 — Information to be disclosed**
+**Statutory text (verbatim):**
+*“Section 11. Information to be Disclosed. – A credit card issuer shall disclose to all credit cardholders and potential credit cardholders the following information:
+(a) Finance charges for unpaid amounts after payment due date;
+(b) The percentage that the interest bears to the total amount to be financed expressed as a simple monthly or annual rate, as the case may be, on the outstanding balance of the obligation;
+(c) The default, late payment/penalty fees or similar delinquency-related charges payable in the event of late payments: Provided, That late payment fee or penalty for late payment shall be based on the unpaid minimum amount due or a prescribed minimum fixed amount whichever is lower; Provided, further, That the late payment fees may be based on the total outstanding balance of the credit card obligation, including amounts payable under installment terms or deferred payment schemes, if the contract between the issuer and the cardholder contains an acceleration clause and the total outstanding balance of the credit card is classified and reported as past due;
+(d) The method of determining the balance upon which interest and/or delinquency charges may be imposed;
+(e) The method of determining the amount of interest and/or delinquency charges, including any minimum or fixed amount imposed as interest and/or delinquency charge;
+(f) Other fees, such as membership/renewal fees, processing fees, over-the-limit fees, collection fees, credit investigation fees and attorney’s fees;
+(g) For transactions made in foreign currencies, for dual currency accounts (peso and dollar billings), as well as payments made by credit cardholders in any currency other than the billing currency, the manner of conversion from the transaction currency and payment currency to Philippine pesos or billing currency, which may be a definition or general description of conversion rates;
+(h) A reminder to the cardholder in the billing statement, or its equivalent document, that payment of only the minimum amount due or any amount less than the total amount due for the billing cycle/billing period, would mean the imposition of interest and/or other charges. A written statement in the following form must be printed in the billing statement — “Important Reminder: Paying less than the total amount due will increase the amount of interest you pay and the time it takes to repay your balance”; and
+(i) Any other information that may be required by the BSP.
+The credit card issuer shall endeavor to convey the information in a manner that is understandable to the credit cardholder: Provided, That the items enumerated above may be included in a billing statement on a quarterly basis at the minimum in tabular format.”*
+
+**Impactful violation examples:**
+
+* [ ] 1: Finance charges are imposed without prior or clear disclosure, causing cardholders to incur interest without informed consent
+→ Violates Sec. 11(a)
+* [ ] 2: The applicable monthly or annual interest rate is not clearly disclosed, or is obscured through complex or misleading presentation
+→ Violates Sec. 11(b)
+* [ ] 3: Penalty & Delinquency Mis-Disclosure
+Late payment or penalty fees are charged without disclosing their statutory basis, including whether they are computed on the unpaid minimum amount due or a fixed minimum amount
+→ Violates Sec. 11(c)
+* [ ] 4: The issuer fails to disclose the conditions under which penalties may be based on the total outstanding balance, particularly when an acceleration clause applies
+→ Violates Sec. 11(c), second proviso
+* [ ] 5: Computation Transparency Violations
+The issuer does not disclose how the balance subject to interest or delinquency charges is determined, preventing the cardholder from verifying correctness
+→ Violates Sec. 11(d)
+* [ ] 6: The issuer fails to disclose the method of computing interest or delinquency charges, including minimum or fixed charge thresholds
+→ Violates Sec. 11(e)
+* [ ] 7: Membership, renewal, over-limit, collection, investigation, or attorney’s fees are charged without clear prior disclosure
+→ Violates Sec. 11(f)
+* [ ] 8: Foreign Currency Conversion Violations
+Foreign currency transactions are billed without disclosing the conversion method or rate basis, resulting in unexpected peso or billing-currency amounts
+→ Violates Sec. 11(g)
+* [ ] 9: The billing statement omits the required “Important Reminder” regarding minimum payments, or alters its wording
+→ Violates Sec. 11(h)
+* [ ] 10: BSP-Mandated Disclosure Non-Compliance
+The issuer fails to disclose additional information required by BSP circulars or regulations
+→ Violates Sec. 11(i)
+
+**E. CREDIT CARD ISSUANCE, LIMITS & ACCOUNT SAFEGUARDS**
 
 * [ ] **Section 7 – Minimum Requirements for the Issuance of Credit Cards**
 
@@ -3848,7 +3891,7 @@ Section 6 – Minimum Requirements for Risk Management System
 
 *You immediately report your credit card as stolen, yet the issuer continues to bill you for transactions made after the report, refusing to reverse fraudulent charges.*
 
-**E. CUSTOMER ASSISTANCE**
+**F. CUSTOMER ASSISTANCE**
 
 * [ ] **Section 17 – Customer Assistance Unit**
 
@@ -3859,7 +3902,7 @@ Section 6 – Minimum Requirements for Risk Management System
 
 *The cardholder repeatedly raises complaints regarding billing issues and account concerns, but the issuer has no identifiable customer assistance unit, fails to act promptly, and allows complaints to remain unresolved for an unreasonable period.*
 
-**F. INTEREST, FEES & PAYMENT COMPUTATION TRANSPARENCY**
+**G. INTEREST, FEES & PAYMENT COMPUTATION TRANSPARENCY**
 
 * [ ] **Section 10 – Imposition of Finance Charges**
 
@@ -3906,7 +3949,7 @@ Section 6 – Minimum Requirements for Risk Management System
 
 *Your payment above the minimum is applied first to low-interest balances or non-fee categories, prolonging the debt on high-interest balances, contrary to law.*
 
-**G. CONFIDENTIALITY & DATA PROTECTION**
+**H. CONFIDENTIALITY & DATA PROTECTION**
 
 * [ ] **Section 16 – Confidentiality of Information**
 
@@ -3917,7 +3960,7 @@ Section 6 – Minimum Requirements for Risk Management System
 
 *Your account information is shared with unauthorized companies, telemarketers, or collection agents while a dispute is pending — without consent or court order.*
 
-**H. DISCLOSURES, STATEMENTS & BILLING ERRORS**
+**I. DISCLOSURES, STATEMENTS & BILLING ERRORS**
 
 * [ ] **Section 18 – Billing Errors & Disputed Transactions**
 
@@ -3928,7 +3971,7 @@ Section 6 – Minimum Requirements for Risk Management System
 
 *You report an incorrect charge within 30 days, but the issuer fails to investigate or correct it within 10 business days, leaving you responsible for erroneous charges.*
 
-**I. COLLECTION, COMMUNICATION & ENDORSEMENT PRACTICES**
+**J. COLLECTION, COMMUNICATION & ENDORSEMENT PRACTICES**
 
 * [ ] **Section 19 – Prohibited Collection Practices**
 
@@ -3966,7 +4009,7 @@ Section 6 – Minimum Requirements for Risk Management System
 
 *A collection agent repeatedly calls the cardholder at midnight, sends threatening messages, or contacts the cardholder’s employer or neighbors to pressure payment, violating the law’s communication restrictions.*
 
-**J. FINANCE CHARGES, INTEREST, AND PENALTIES**
+**K. FINANCE CHARGES, INTEREST, AND PENALTIES**
 
 * [ ] **Section 23 – Payment Due Dates on Weekends/Holidays**
 
@@ -3977,7 +4020,7 @@ Section 6 – Minimum Requirements for Risk Management System
 
 *You paid on the next business day after a holiday/weekend, yet the issuer charged a late fee or reported a default.*
 
-**K. TERMINATION & ENFORCEMENT**
+**L. TERMINATION & ENFORCEMENT**
 
 * [ ] **Section 25 – Termination of Account**
 
