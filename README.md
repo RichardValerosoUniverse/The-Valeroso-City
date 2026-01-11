@@ -4050,7 +4050,7 @@ Foreign currency transactions are billed without disclosing the conversion metho
 
 **N. REGULATORY COMPLIANCE TRANSITION / BSP SUPERVISION SCOPE**
 
-**Section 28 — Transitory Provision**
+* [ ] **Section 28 — Transitory Provision**
 
 **Statutory text (verbatim):**
 *“Section 28. Transitory Provision. — All existing credit card companies that are not supervised by the BSP are hereby given such reasonable time as the Monetary Board may determine in order to comply with applicable rules and regulations.”*
@@ -4063,7 +4063,7 @@ Note: Section 28 grants a reasonable period, determined by the Monetary Board,
 
 **O. STATUTORY CONTINUITY / LEGAL EFFECTIVENESS**
 
-**Section 29 — Separability Clause**
+* [ ] **Section 29 — Separability Clause**
 
 **Statutory text (verbatim):**
 *“Section 29. Separability Clause. — If any provision or section of this Act is held to be unconstitutional or invalid, the other provisions or sections hereof which are not affected thereby shall continue to be in full force and effect.”*
@@ -4071,6 +4071,17 @@ Note: Section 28 grants a reasonable period, determined by the Monetary Board,
 **Impactful violation example:**
 
 *A credit card issuer refuses to comply with valid provisions of RA 10870 (such as billing disclosures, dispute resolution procedures, or interest computation rules) on the incorrect assumption that a separate provision of the law was invalidated by a court decision. By treating the entire law as unenforceable, the issuer violates Section 29’s separability clause and exposes cardholders to unregulated practices, including incorrect charges, incomplete statements, or denial of dispute rights.*
+
+**P. SUPERSESSION / LEGAL CONTINUITY / COMPLIANCE ENFORCEMENT**
+
+* [ ] **Section 30 — Repealing Clause**
+
+**Statutory text (verbatim):**
+*“Section 30. Repealing Clause. — All laws, decrees, executive orders, rules and regulations or parts thereof which are inconsistent with the provisions of this Act are hereby repealed or modified accordingly.”*
+
+**Impactful violation example:**
+
+*A credit card issuer continues to apply outdated policies or internal procedures that were permitted under previous laws, executive orders, or internal rules but are inconsistent with RA 10870. For example, retroactively charging interest on disputed transactions, applying unauthorized fees, or sending incomplete statements, despite RA 10870 explicitly prohibiting these practices. By persisting in these actions, the issuer violates the Repealing Clause, directly harming cardholders through overcharges, misstatements, and denial of statutory rights guaranteed under the law.*
 
 **HOW TO USE THIS CHECKLIST**
 
