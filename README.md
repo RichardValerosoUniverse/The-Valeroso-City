@@ -3783,13 +3783,12 @@ RA 10870 – CONSUMER RIGHTS & VIOLATION CHECKLIST (Law‑Only Version)
 | ☐ **18. Statement of Account** | The issuer provides a statement of account that contains inaccurate transaction postings, omits disputed or reversed charges, miscalculates finance charges or minimum amounts due, or fails to reflect the correct billing period, thereby misleading the cardholder and causing an undue financial burden. |
 | ☐ **19. Supplementary Card** | The issuer fails to recognize a supplementary or extension cardholder as entitled to statutory protections under RA 10870, including the right to dispute unauthorized, erroneous, or misposted transactions, or fails to properly allocate charges and liabilities between the principal and supplementary accounts, resulting in inaccurate billing, misapplied finance charges or fees, and undue financial burden on the cardholder. |
 
-B. **Risk Management / Operational Compliance
+**B. RISK MANAGEMENT / OPERATIONAL COMPLIANCE**
 
 Section 6 – Minimum Requirements for Risk Management System
 
 **Statutory Text (verbatim):**
 *“Section 6. Minimum Requirements for Risk Management System of Credit Card Issuers. – To effectively deliver services and at the same time safeguard their interests, the credit card issuer and acquirer must establish an appropriate system for managing risk exposures arising from credit card operations. Such risk management system shall be documented in a complete and concise manner, and shall cover the organizational set‑up for the institution engaged in or unit handling the credit card business, its information management system, as well as accounting policies and procedures, internal and external functions, and internal control system."*
-📋 Best-of-the-Best Impactful Violation Examples – Section 6
 
 **Impactful violation examples:**
 
