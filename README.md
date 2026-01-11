@@ -3733,6 +3733,24 @@ RA 10870 – CONSUMER RIGHTS & VIOLATION CHECKLIST (Law‑Only Version)
 
 *For public awareness and sample use only. Cardholders should verify which items apply to their specific account or dispute.*
 
+**A. REGULATORY SUPERVISION / COMPLIANCE OVERSIGHT / ENFORCEMENT AUTHORITY**
+
+**SECTION 4 — SUPERVISION**
+
+**Statutory text (verbatim):**
+*“Section 4. Supervision. — The Bangko Sentral ng Pilipinas (BSP) shall supervise all credit card issuers and acquirers. Supervision shall include the following:
+(a) The issuance of rules of conduct or the establishment of standards of operation for uniform application to all institutions or functions covered, and the imposition of penalties in case of noncompliance therewith;
+(b) The conduct of examination as determined by the Monetary Board to determine compliance with laws and regulations;
+(c) Oversight to ascertain that laws and regulations are complied with; and
+(d) Determining the reasonableness of fees and charges and the issuance of regulations on the same.”*
+
+**Impactful violation examples:**
+
+* [ ] 1: A credit card issuer applies inconsistent interest computation, billing cycles, or penalty charges across accounts, ignoring RA 10870 standards for uniform application. Cardholders with similar accounts are treated differently, creating unfair advantages and violating Section 4(a).
+* [ ] 2: During a BSP examination, the issuer delays providing transaction records, falsifies billing statements, or obstructs auditor access to internal systems, preventing verification of compliance with RA 10870. This active obstruction constitutes a violation of Section 4(b).
+* [ ] 3: Despite prior BSP warnings, an issuer continues prohibited practices—retroactive finance charges on disputed transactions, over-limit fees applied to unresolved charges, or denial of dispute resolutions. This shows deliberate disregard for oversight and violates Section 4(c).
+* [ ] 4: An issuer imposes excessive annual fees, multiple convenience charges for a single transaction, or hidden penalties without justification. Cardholders are unfairly charged amounts disproportionate to the service provided, violating Section 4(d).
+
 **A. Section 5: Definition of terms**
 
 **Statutory text (verbatim)**
