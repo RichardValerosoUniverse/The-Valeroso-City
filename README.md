@@ -3855,7 +3855,7 @@ Foreign currency transactions are billed without disclosing the conversion metho
 → Violates Sec. 11(g)
 * [ ] 9: The billing statement omits the required “Important Reminder” regarding minimum payments, or alters its wording
 → Violates Sec. 11(h)
-* [ ] 10: The issuer fails to disclose additional information required by BSP circulars or regulations
+* [ ] 10: Despite a duly issued Bangko Sentral ng Pilipinas regulation requiring additional disclosures in credit card billing statements and cardholder communications, the credit card issuer deliberately omits, delays, or disregards such disclosures, thereby denying cardholders regulator-mandated information and directly defying BSP’s statutory authority under RA 10870.
 → Violates Sec. 11(i)
 
 **E. CREDIT CARD ISSUANCE, LIMITS & ACCOUNT SAFEGUARDS**
