@@ -3733,6 +3733,18 @@ RA 10870 – CONSUMER RIGHTS & VIOLATION CHECKLIST (Law‑Only Version)
 
 *For public awareness and sample use only. Cardholders should verify which items apply to their specific account or dispute.*
 
+**A. COVERAGE / REGULATORY SCOPE**
+
+* [ ] **Section 3 — Scope of Application**
+
+**Statutory text (verbatim):**
+*“Section 3. Scope of Application. — This Act shall apply to all credit card issuers and acquirers operating in the Philippines, including banks, non-bank financial institutions, and other entities engaged in credit card operations. All transactions, practices, and relationships governed by the credit card business shall be subject to the provisions of this Act.”*
+
+**Impactful violation example:**
+
+*A financial institution issuing credit cards refuses to comply with RA 10870 provisions, claiming that certain types of cards, transactions, or customer accounts are “outside the law’s scope.” For example, promotional, rewards, or supplementary cards are treated as exempt from dispute resolution procedures, billing accuracy requirements, or interest computation rules. This constitutes a violation of Section 3, as RA 10870 applies to all credit card issuers and acquirers in the Philippines without exception.*
+
+
 **A. REGULATORY SUPERVISION / COMPLIANCE OVERSIGHT / ENFORCEMENT AUTHORITY**
 
 **SECTION 4 — SUPERVISION**
