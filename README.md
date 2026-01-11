@@ -4048,6 +4048,19 @@ Foreign currency transactions are billed without disclosing the conversion metho
 
 *A credit card issuer intentionally fails to disclose finance charges, late payment fees, minimum payment rules, or the method of calculating interest, fully aware of the statutory disclosure obligations under RA 10870 and BSP Circulars. The issuer also knowingly imposes unauthorized penalties, accelerates disputed balances, and ignores BSP corrective orders, thereby deliberately violating the law and BSP-issued rules.*
 
+**N. REGULATORY COMPLIANCE TRANSITION / BSP SUPERVISION SCOPE**
+
+**Section 28 — Transitory Provision**
+
+**Statutory text (verbatim):**
+*“Section 28. Transitory Provision. — All existing credit card companies that are not supervised by the BSP are hereby given such reasonable time as the Monetary Board may determine in order to comply with applicable rules and regulations.”*
+
+Note: While all current credit card issuers are BSP-supervised, this section historically applied to pre-existing companies at the time the law took effect. The principle remains: a reasonable transition period is allowed to implement new RA 10870 rules and BSP regulations.
+
+**Impactful violation example:**
+
+*After RA 10870 became effective, a credit card company fails to implement required updates to its internal billing, disclosure, and consumer protection procedures within the transition period set by the Monetary Board. As a result, cardholders receive incomplete statements, incorrect finance charges are applied, and statutory disclosures are missing, constituting a violation of Section 28’s transitory compliance requirement.*
+
 **HOW TO USE THIS CHECKLIST**
 
 * Check the applicable violations based on your account history, statements, notices, or communications with the issuer.
