@@ -4055,7 +4055,7 @@ Foreign currency transactions are billed without disclosing the conversion metho
 **Statutory text (verbatim):**
 *“Section 28. Transitory Provision. — All existing credit card companies that are not supervised by the BSP are hereby given such reasonable time as the Monetary Board may determine in order to comply with applicable rules and regulations.”*
 
-Note: While all current credit card issuers are BSP-supervised, this section historically applied to pre-existing companies at the time the law took effect. The principle remains: a reasonable transition period is allowed to implement new RA 10870 rules and BSP regulations.
+Note: Section 28 grants a reasonable period, determined by the Monetary Board, for existing credit card companies to comply with the provisions of RA 10870 and its implementing BSP rules and regulations. The purpose of this transitory provision is to allow issuers sufficient time to update internal policies, billing systems, disclosures, and consumer protection mechanisms so that they fully conform to the law, without being immediately considered in violation during this transition period.
 
 **Impactful violation example:**
 
