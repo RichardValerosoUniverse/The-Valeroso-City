@@ -4083,6 +4083,17 @@ Note: Section 28 grants a reasonable period, determined by the Monetary Board,
 
 *A credit card issuer continues to apply outdated policies or internal procedures that were permitted under previous laws, executive orders, or internal rules but are inconsistent with RA 10870. For example, retroactively charging interest on disputed transactions, applying unauthorized fees, or sending incomplete statements, despite RA 10870 explicitly prohibiting these practices. By persisting in these actions, the issuer violates the Repealing Clause, directly harming cardholders through overcharges, misstatements, and denial of statutory rights guaranteed under the law.*
 
+**Q. LEGAL COMMENCEMENT / BINDING COMPLIANCE / ENFORCEMENT START**
+
+**Section 31 — Effectivity**
+
+**Statutory text (verbatim):**
+*“Section 31. Effectivity. — This Act shall take effect fifteen (15) days after its complete publication in the Official Gazette or in at least two (2) newspapers of general circulation.”*
+
+**Impactful violation example:**
+
+*A credit card issuer, after the 15-day effectivity period, continues to use outdated billing methods, misapplies finance charges, or neglects required disclosures, claiming that the law “has not yet fully taken effect.” This constitutes a direct violation of Section 31, as RA 10870’s provisions are fully enforceable from the statutory effectivity date. Such non-compliance exposes cardholders to unauthorized fees, inaccurate statements, and denial of dispute rights, directly contravening the law.*
+
 **HOW TO USE THIS CHECKLIST**
 
 * Check the applicable violations based on your account history, statements, notices, or communications with the issuer.
