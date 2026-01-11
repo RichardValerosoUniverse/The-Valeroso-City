@@ -3771,7 +3771,7 @@ RA 10870 – CONSUMER RIGHTS & VIOLATION CHECKLIST (Law‑Only Version)
 | [ ] **6. Cash Advances** | The issuer applies cash advance fees or interest before the cash advance is actually requested or completed, resulting in an improper increase of the cardholder’s outstanding balance. |
 | [ ] **7. Credit Card** | The issuer or merchant treats a credit card—including standard, promotional, or rewards cards—as not covered by RA 10870, thereby denying the cardholder the statutory right to dispute billing errors, unauthorized charges, or transaction discrepancies.|
 | [ ] **8. Credit Card Issuer** | The issuer improperly claims exemptions from RA 10870 protections and engages in prohibited billing, collection, or account-handling practices, disregarding its statutory obligations to the cardholder.|
-| [ ] **9. Credit Card Limit** | Disputed or unpaid charges are counted toward the credit limit, restricting the cardholder’s legally available credit and causing over-limit fees. |
+| [ ] **9. Credit Card Limit** | The issuer counts disputed, unauthorized, or unpaid charges toward the cardholder’s credit limit, thereby restricting legally available credit and causing over-limit fees in violation of statutory protections. |
 | [ ] **10. Default or Delinquency** | The cardholder is reported as delinquent for a disputed charge, affecting credit reporting and triggering unlawful finance charges. |
 | [ ] **11. Finance Charges** | Finance charges are applied to already-paid amounts or disputed balances, rather than only on the unpaid, undisputed balance. |
 | [ ] **12. Installment Purchases** | Installment transactions are treated as regular purchases for interest computation, resulting in higher finance charges than permitted. |
