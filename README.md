@@ -3733,7 +3733,18 @@ RA 10870 – CONSUMER RIGHTS & VIOLATION CHECKLIST (Law‑Only Version)
 
 *For public awareness and sample use only. Cardholders should verify which items apply to their specific account or dispute.*
 
-**A. COVERAGE / REGULATORY SCOPE**
+**A. LEGISLATIVE INTENT / CONSUMER PROTECTION FOUNDATION**
+
+* [ ] **SECTION 2 — DECLARATION OF POLICY**
+
+**Statutory text (verbatim):**
+*“Section 2. Declaration of Policy. — It is the policy of the State to protect the interests of credit card holders and promote a fair, transparent, and efficient credit card industry in the Philippines. The State recognizes the rights of cardholders to accurate billing, reasonable fees, timely dispute resolution, and full disclosure of terms and conditions. All credit card issuers and acquirers shall operate in a manner consistent with these principles.”*
+
+**Impactful violation example:**
+
+*A credit card issuer systematically issues misleading statements, imposes hidden or excessive fees, delays dispute resolution, or applies inconsistent interest calculations. By engaging in these practices, the issuer violates the fundamental policy of RA 10870 to protect cardholder interests and ensure fairness, transparency, and efficiency. Such conduct undermines consumer trust, exposes cardholders to financial harm, and contravenes the legislative intent established in Section 2.*
+
+**B. COVERAGE / REGULATORY SCOPE**
 
 * [ ] **Section 3 — Scope of Application**
 
@@ -3745,7 +3756,7 @@ RA 10870 – CONSUMER RIGHTS & VIOLATION CHECKLIST (Law‑Only Version)
 *A financial institution issuing credit cards refuses to comply with RA 10870 provisions, claiming that certain types of cards, transactions, or customer accounts are “outside the law’s scope.” For example, promotional, rewards, or supplementary cards are treated as exempt from dispute resolution procedures, billing accuracy requirements, or interest computation rules. This constitutes a violation of Section 3, as RA 10870 applies to all credit card issuers and acquirers in the Philippines without exception.*
 
 
-**A. REGULATORY SUPERVISION / COMPLIANCE OVERSIGHT / ENFORCEMENT AUTHORITY**
+**C. REGULATORY SUPERVISION / COMPLIANCE OVERSIGHT / ENFORCEMENT AUTHORITY**
 
 **SECTION 4 — SUPERVISION**
 
@@ -3763,7 +3774,7 @@ RA 10870 – CONSUMER RIGHTS & VIOLATION CHECKLIST (Law‑Only Version)
 * [ ] 3: Despite prior BSP warnings, an issuer continues prohibited practices—retroactive finance charges on disputed transactions, over-limit fees applied to unresolved charges, or denial of dispute resolutions. This shows deliberate disregard for oversight and violates Section 4(c).
 * [ ] 4: An issuer imposes excessive annual fees, multiple convenience charges for a single transaction, or hidden penalties without justification. Cardholders are unfairly charged amounts disproportionate to the service provided, violating Section 4(d).
 
-**A. Section 5: Definition of terms**
+**D. Section 5: Definition of terms**
 
 **Statutory text (verbatim)**
 *“As used in this Act, the following terms are defined as follows:
@@ -3813,7 +3824,7 @@ RA 10870 – CONSUMER RIGHTS & VIOLATION CHECKLIST (Law‑Only Version)
 | ☐ **18. Statement of Account** | The issuer provides a statement of account that contains inaccurate transaction postings, omits disputed or reversed charges, miscalculates finance charges or minimum amounts due, or fails to reflect the correct billing period, thereby misleading the cardholder and causing an undue financial burden. |
 | ☐ **19. Supplementary Card** | The issuer fails to recognize a supplementary or extension cardholder as entitled to statutory protections under RA 10870, including the right to dispute unauthorized, erroneous, or misposted transactions, or fails to properly allocate charges and liabilities between the principal and supplementary accounts, resulting in inaccurate billing, misapplied finance charges or fees, and undue financial burden on the cardholder. |
 
-**B. RISK MANAGEMENT / OPERATIONAL COMPLIANCE**
+**E. RISK MANAGEMENT / OPERATIONAL COMPLIANCE**
 
 **Section 6 – Minimum Requirements for Risk Management System**
 
@@ -3831,7 +3842,7 @@ RA 10870 – CONSUMER RIGHTS & VIOLATION CHECKLIST (Law‑Only Version)
 * [ ] 7: Failure to document internal controls, procedures, or operational policies, preventing audits, regulatory inspections, and corrective actions, exposing cardholders to harm.
 * [ ] 8: Ignoring operational risks identified through monitoring, such as repeated posting errors or system glitches, resulting in unlawful finance charges or duplicate billing.
 
-**C. MERCHANT DUE DILIGENCE & ACQUIRER OVERSIGHT (TRANSACTION VALIDITY CONTROL)**
+**F. MERCHANT DUE DILIGENCE & ACQUIRER OVERSIGHT (TRANSACTION VALIDITY CONTROL)**
 
 **Section 8 — Service Level Agreement**
 
@@ -3848,7 +3859,7 @@ RA 10870 – CONSUMER RIGHTS & VIOLATION CHECKLIST (Law‑Only Version)
 * [ ] 6: The acquiring bank continues to accredit or retain merchants with known due-diligence failures, effectively facilitating invalid or unauthorized transactions.
 * [ ] 7. Internal policies of the issuer or acquirer discourage transaction verification, even when reasonable concerns about validity exist, undermining Section 8’s protective intent.
 
-**D. MANDATORY DISCLOSURE & TRANSPARENCY OBLIGATIONS OF CREDIT CARD ISSUERS**
+**G. MANDATORY DISCLOSURE & TRANSPARENCY OBLIGATIONS OF CREDIT CARD ISSUERS**
 
 **Section 11 — Information to be disclosed**
 **Statutory text (verbatim):**
@@ -3888,7 +3899,7 @@ Foreign currency transactions are billed without disclosing the conversion metho
 * [ ] 10: Despite a duly issued Bangko Sentral ng Pilipinas regulation requiring additional disclosures in credit card billing statements and cardholder communications, the credit card issuer deliberately omits, delays, or disregards such disclosures, thereby denying cardholders regulator-mandated information and directly defying BSP’s statutory authority under RA 10870.
 → Violates Sec. 11(i)
 
-**E. CREDIT CARD ISSUANCE, LIMITS & ACCOUNT SAFEGUARDS**
+**H. CREDIT CARD ISSUANCE, LIMITS & ACCOUNT SAFEGUARDS**
 
 * [ ] **Section 7 – Minimum Requirements for the Issuance of Credit Cards**
 
@@ -3918,7 +3929,7 @@ Foreign currency transactions are billed without disclosing the conversion metho
 
 *You immediately report your credit card as stolen, yet the issuer continues to bill you for transactions made after the report, refusing to reverse fraudulent charges.*
 
-**F. CUSTOMER ASSISTANCE**
+**I. CUSTOMER ASSISTANCE**
 
 * [ ] **Section 17 – Customer Assistance Unit**
 
@@ -3929,7 +3940,7 @@ Foreign currency transactions are billed without disclosing the conversion metho
 
 *The cardholder repeatedly raises complaints regarding billing issues and account concerns, but the issuer has no identifiable customer assistance unit, fails to act promptly, and allows complaints to remain unresolved for an unreasonable period.*
 
-**G. INTEREST, FEES & PAYMENT COMPUTATION TRANSPARENCY**
+**J. INTEREST, FEES & PAYMENT COMPUTATION TRANSPARENCY**
 
 * [ ] **Section 10 – Imposition of Finance Charges**
 
@@ -3976,7 +3987,7 @@ Foreign currency transactions are billed without disclosing the conversion metho
 
 *Your payment above the minimum is applied first to low-interest balances or non-fee categories, prolonging the debt on high-interest balances, contrary to law.*
 
-**H. CONFIDENTIALITY & DATA PROTECTION**
+**K. CONFIDENTIALITY & DATA PROTECTION**
 
 * [ ] **Section 16 – Confidentiality of Information**
 
@@ -3987,7 +3998,7 @@ Foreign currency transactions are billed without disclosing the conversion metho
 
 *Your account information is shared with unauthorized companies, telemarketers, or collection agents while a dispute is pending — without consent or court order.*
 
-**I. DISCLOSURES, STATEMENTS & BILLING ERRORS**
+**L. DISCLOSURES, STATEMENTS & BILLING ERRORS**
 
 * [ ] **Section 18 – Billing Errors & Disputed Transactions**
 
@@ -3998,7 +4009,7 @@ Foreign currency transactions are billed without disclosing the conversion metho
 
 *You report an incorrect charge within 30 days, but the issuer fails to investigate or correct it within 10 business days, leaving you responsible for erroneous charges.*
 
-**J. COLLECTION, COMMUNICATION & ENDORSEMENT PRACTICES**
+**M. COLLECTION, COMMUNICATION & ENDORSEMENT PRACTICES**
 
 * [ ] **Section 19 – Prohibited Collection Practices**
 
@@ -4036,7 +4047,7 @@ Foreign currency transactions are billed without disclosing the conversion metho
 
 *A collection agent repeatedly calls the cardholder at midnight, sends threatening messages, or contacts the cardholder’s employer or neighbors to pressure payment, violating the law’s communication restrictions.*
 
-**K. FINANCE CHARGES, INTEREST, AND PENALTIES**
+**N. FINANCE CHARGES, INTEREST, AND PENALTIES**
 
 * [ ] **Section 23 – Payment Due Dates on Weekends/Holidays**
 
@@ -4047,7 +4058,7 @@ Foreign currency transactions are billed without disclosing the conversion metho
 
 *You paid on the next business day after a holiday/weekend, yet the issuer charged a late fee or reported a default.*
 
-**L. TERMINATION & ENFORCEMENT**
+**O. TERMINATION & ENFORCEMENT**
 
 * [ ] **Section 25 – Termination of Account**
 
@@ -4067,7 +4078,7 @@ Foreign currency transactions are billed without disclosing the conversion metho
 
 *A credit card issuer repeatedly and willfully fails to comply with disclosure and transparency requirements under RA 10870 and related BSP regulations, leading the Bangko Sentral ng Pilipinas to impose administrative sanctions (such as fines, reprimands, or corrective orders) under the applicable provisions of RA 7653. In addition, BSP suspends or revokes the issuer’s authority to issue credit cards due to persistent non‑compliance with statutory and regulatory obligations.*
 
-**M. CRIMINAL LIABILITY FOR WILLFUL NON-COMPLIANCE**
+**P. CRIMINAL LIABILITY FOR WILLFUL NON-COMPLIANCE**
 
 * [ ] **Section 27 — Violation of this Act and Other Related Rules, Regulations, Orders or Instructions**
 
@@ -4078,7 +4089,7 @@ Foreign currency transactions are billed without disclosing the conversion metho
 
 *A credit card issuer intentionally fails to disclose finance charges, late payment fees, minimum payment rules, or the method of calculating interest, fully aware of the statutory disclosure obligations under RA 10870 and BSP Circulars. The issuer also knowingly imposes unauthorized penalties, accelerates disputed balances, and ignores BSP corrective orders, thereby deliberately violating the law and BSP-issued rules.*
 
-**N. REGULATORY COMPLIANCE TRANSITION / BSP SUPERVISION SCOPE**
+**Q. REGULATORY COMPLIANCE TRANSITION / BSP SUPERVISION SCOPE**
 
 * [ ] **Section 28 — Transitory Provision**
 
@@ -4091,7 +4102,7 @@ Note: Section 28 grants a reasonable period, determined by the Monetary Board,
 
 *After RA 10870 became effective, a credit card company fails to implement required updates to its internal billing, disclosure, and consumer protection procedures within the transition period set by the Monetary Board. As a result, cardholders receive incomplete statements, incorrect finance charges are applied, and statutory disclosures are missing, constituting a violation of Section 28’s transitory compliance requirement.*
 
-**O. STATUTORY CONTINUITY / LEGAL EFFECTIVENESS**
+**R. STATUTORY CONTINUITY / LEGAL EFFECTIVENESS**
 
 * [ ] **Section 29 — Separability Clause**
 
@@ -4102,7 +4113,7 @@ Note: Section 28 grants a reasonable period, determined by the Monetary Board,
 
 *A credit card issuer refuses to comply with valid provisions of RA 10870 (such as billing disclosures, dispute resolution procedures, or interest computation rules) on the incorrect assumption that a separate provision of the law was invalidated by a court decision. By treating the entire law as unenforceable, the issuer violates Section 29’s separability clause and exposes cardholders to unregulated practices, including incorrect charges, incomplete statements, or denial of dispute rights.*
 
-**P. SUPERSESSION / LEGAL CONTINUITY / COMPLIANCE ENFORCEMENT**
+**S. SUPERSESSION / LEGAL CONTINUITY / COMPLIANCE ENFORCEMENT**
 
 * [ ] **Section 30 — Repealing Clause**
 
@@ -4113,7 +4124,7 @@ Note: Section 28 grants a reasonable period, determined by the Monetary Board,
 
 *A credit card issuer continues to apply outdated policies or internal procedures that were permitted under previous laws, executive orders, or internal rules but are inconsistent with RA 10870. For example, retroactively charging interest on disputed transactions, applying unauthorized fees, or sending incomplete statements, despite RA 10870 explicitly prohibiting these practices. By persisting in these actions, the issuer violates the Repealing Clause, directly harming cardholders through overcharges, misstatements, and denial of statutory rights guaranteed under the law.*
 
-**Q. LEGAL COMMENCEMENT / BINDING COMPLIANCE / ENFORCEMENT START**
+**T. LEGAL COMMENCEMENT / BINDING COMPLIANCE / ENFORCEMENT START**
 
 **Section 31 — Effectivity**
 
