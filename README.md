@@ -4061,6 +4061,17 @@ Note: Section 28 grants a reasonable period, determined by the Monetary Board,
 
 *After RA 10870 became effective, a credit card company fails to implement required updates to its internal billing, disclosure, and consumer protection procedures within the transition period set by the Monetary Board. As a result, cardholders receive incomplete statements, incorrect finance charges are applied, and statutory disclosures are missing, constituting a violation of Section 28’s transitory compliance requirement.*
 
+**O. STATUTORY CONTINUITY / LEGAL EFFECTIVENESS**
+
+**Section 29 — Separability Clause**
+
+**Statutory text (verbatim):**
+*“Section 29. Separability Clause. — If any provision or section of this Act is held to be unconstitutional or invalid, the other provisions or sections hereof which are not affected thereby shall continue to be in full force and effect.”*
+
+**Impactful violation example:**
+
+*A credit card issuer refuses to comply with valid provisions of RA 10870 (such as billing disclosures, dispute resolution procedures, or interest computation rules) on the incorrect assumption that a separate provision of the law was invalidated by a court decision. By treating the entire law as unenforceable, the issuer violates Section 29’s separability clause and exposes cardholders to unregulated practices, including incorrect charges, incomplete statements, or denial of dispute rights.*
+
 **HOW TO USE THIS CHECKLIST**
 
 * Check the applicable violations based on your account history, statements, notices, or communications with the issuer.
