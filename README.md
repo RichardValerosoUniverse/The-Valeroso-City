@@ -4315,8 +4315,8 @@ Psychiatrist and Mental Hospital Authority License
 Copyright (c) December 21, 2025
    * *World and Universe's Ruler of the Philippines*
    * *Bravissimus In Fide*
-   * *THERE IS ALWAYS LIFE®*
-   * *Republic of the Philippines*
+     
+     
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
