@@ -4044,7 +4044,7 @@ Foreign currency transactions are billed without disclosing the conversion metho
 * [ ] **Section 21 – Written Pre-Endorsement Notice**
 
 **Statutory text (verbatim):**
-*“A credit card issuer shall inform its cardholder in writing of the endorsement of the collection of the account to a collection agency or lawyer prior to the actual endorsement.”*
+*“A credit card issuer shall inform its cardholder in writing of the endorsement of the collection of the account to a collection agency, or the endorsement of the account from one collection agency to another, prior to the actual endorsement. The notification shall include the full name of the collection agency and its contact details. The requirement to notify a cardholder in writing about the endorsement of the account to the collection agency shall be included in the terms and conditions of the credit card agreement: Provided, That the credit card issuer shall refer the collection of an account to only one collection agency at any one time".*
 
 **Impactful violation example:**
 
