@@ -4053,7 +4053,7 @@ Foreign currency transactions are billed without disclosing the conversion metho
 * [ ] **Section 22 – Communication in Connection with Debt Collection**
 
 **Statutory text (verbatim):**
-“A credit card issuer or its collection agent shall communicate with the cardholder only in accordance with the rules prescribed by the BSP and shall not contact the cardholder at unreasonable hours, or in a manner that constitutes harassment, abuse, or public embarrassment.”
+*“The credit card issuer or its collection agency may communicate with a credit cardholder in connection with the collection of any debt through the mode or modes prescribed by the BSP in guidelines it shall issue for this purpose.”*
 
 **Impactful violation example:**
 
