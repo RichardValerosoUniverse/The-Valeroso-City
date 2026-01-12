@@ -3934,8 +3934,9 @@ Foreign currency transactions are billed without disclosing the conversion metho
 * [ ] **Section 15 – Lost or Stolen Card**
 
 **Statutory text (verbatim):**
-*“In case a credit card is lost or stolen, any transaction made prior to the reporting of the loss or theft to the credit card issuer shall be for the account of the cardholder.”
-(By implication under the law and standard application, transactions after proper reporting should no longer be charged to the cardholder.)*
+*“In case a credit card is lost or stolen, any transaction made prior to the reporting of the loss or theft to the credit card issuer shall be for the account of the cardholder.”*
+
+Note: By implication under the law and standard application, transactions after proper reporting should no longer be charged to the cardholder.
 
 **Impactful violation example:**
 
