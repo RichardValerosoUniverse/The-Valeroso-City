@@ -3999,14 +3999,19 @@ Note: By implication under the law and standard application, transactions after 
 
 **L. CONFIDENTIALITY & DATA PROTECTION**
 
-* [ ] **Section 16 – Confidentiality of Information**
+**Section 16 – Confidentiality of Information**
 
 **Statutory text (verbatim):**
 *“Credit card issuers, their officers, employees and agents shall keep strictly confidential the data on the cardholder, except under any of the following circumstances: (a) When disclosure of information is with the consent of the cardholder; (b) When the customer information is released, submitted or exchanged with credit information bureaus, industry association, or card association; (c) Upon orders of a court of competent jurisdiction or any government office or agency authorized by law, or under such conditions as may be prescribed by the Monetary Board of the BSP; (d) When disclosure to third party service providers is necessary for the sole purpose of assisting or rendering services to the credit card issuer in enforcing its rights…; (e) … to third parties such as insurance companies…; and (f) … for the purpose of investigating fraud… The recipient of information described herein shall likewise be bound to preserve confidentiality of the cardholder data.”*
 
-**Impactful violation example:**
+**Impactful violation examples:**
 
-*Your account information is shared with unauthorized companies, telemarketers, or collection agents while a dispute is pending — without consent or court order.*
+* [ ] **1: The issuer shared my detailed transaction history, contact info, and billing statements with a third‑party marketing partner without my explicit consent or any documented authorization, contrary to the consent requirement of 16(a).**
+* [ ] **2: While my dispute was still pending, the issuer reported disputed charges as “delinquent” to a credit information bureau, damaging my credit profile and reputation. This reporting went beyond lawful information exchange permitted in 16(b).**
+* [ ] **3: My full personal and account data were disclosed to a private collection firm and local agents without a valid court order or lawful government agency request, in violation of the limited legal authority specified in 16(c).**
+* [ ] **4: The issuer transmitted my cardholder information to a third‑party analytics vendor for purposes unrelated to enforcing its rights against me (such as commercial segmentation/public profiling), exceeding the allowed scope of 16(d).**
+* [ ] **5: My confidential data was shared with an insurance partner for cross‑selling unrelated products and services rather than for fraud prevention or coverage against credit loss, which exceeds the narrow purpose allowed under 16(e).**
+* [ ] **6: The bank provided my transaction patterns and personal data to an external analytics company not engaged in fraud investigation or risk mitigation, but instead for unrelated commercial processing, contravening the permitted use in 16(f).**
 
 **M. DISCLOSURES, STATEMENTS & BILLING ERRORS**
 
