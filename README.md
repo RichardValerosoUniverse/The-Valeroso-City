@@ -4106,7 +4106,7 @@ Foreign currency transactions are billed without disclosing the conversion metho
 * [ ] **Section 28 — Transitory Provision**
 
 **Statutory text (verbatim):**
-*“Section 28. Transitory Provision. — All existing credit card companies that are not supervised by the BSP are hereby given such reasonable time as the Monetary Board may determine in order to comply with applicable rules and regulations.”*
+*“All existing credit card companies that are not supervised by the BSP are hereby given such reasonable time as the Monetary Board may determine in order to comply with applicable rules and regulations.”*
 
 Note: Section 28 grants a reasonable period, determined by the Monetary Board, for existing credit card companies to comply with the provisions of RA 10870 and its implementing BSP rules and regulations. The purpose of this transitory provision is to allow issuers sufficient time to update internal policies, billing systems, disclosures, and consumer protection mechanisms so that they fully conform to the law, without being immediately considered in violation during this transition period.
 
@@ -4119,7 +4119,7 @@ Note: Section 28 grants a reasonable period, determined by the Monetary Board,
 * [ ] **Section 29 — Separability Clause**
 
 **Statutory text (verbatim):**
-*“Section 29. Separability Clause. — If any provision or section of this Act is held to be unconstitutional or invalid, the other provisions or sections hereof which are not affected thereby shall continue to be in full force and effect.”*
+*“If any provision or section of this Act is held to be unconstitutional or invalid, the other provisions or sections hereof which are not affected thereby shall continue to be in full force and effect.”*
 
 **Impactful violation example:**
 
@@ -4130,7 +4130,7 @@ Note: Section 28 grants a reasonable period, determined by the Monetary Board,
 * [ ] **Section 30 — Repealing Clause**
 
 **Statutory text (verbatim):**
-*“Section 30. Repealing Clause. — All laws, decrees, executive orders, rules and regulations or parts thereof which are inconsistent with the provisions of this Act are hereby repealed or modified accordingly.”*
+*“All laws, decrees, executive orders, rules and regulations or parts thereof which are inconsistent with the provisions of this Act are hereby repealed or modified accordingly.”*
 
 **Impactful violation example:**
 
@@ -4141,7 +4141,7 @@ Note: Section 28 grants a reasonable period, determined by the Monetary Board,
 **Section 31 — Effectivity**
 
 **Statutory text (verbatim):**
-*“Section 31. Effectivity. — This Act shall take effect fifteen (15) days after its complete publication in the Official Gazette or in at least two (2) newspapers of general circulation.”*
+*“This Act shall take effect fifteen (15) days after its complete publication in the Official Gazette or in at least two (2) newspapers of general circulation.”*
 
 **Impactful violation example:**
 
