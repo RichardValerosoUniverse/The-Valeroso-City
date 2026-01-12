@@ -3875,7 +3875,7 @@ RA 10870 – CONSUMER RIGHTS & VIOLATION CHECKLIST (Law‑Only Version)
 
 **Section 11 — Information to be disclosed**
 **Statutory text (verbatim):**
-*“Section 11. Information to be Disclosed. – A credit card issuer shall disclose to all credit cardholders and potential credit cardholders the following information:
+*“A credit card issuer shall disclose to all credit cardholders and potential credit cardholders the following information:
 (a) Finance charges for unpaid amounts after payment due date;
 (b) The percentage that the interest bears to the total amount to be financed expressed as a simple monthly or annual rate, as the case may be, on the outstanding balance of the obligation;
 (c) The default, late payment/penalty fees or similar delinquency-related charges payable in the event of late payments: Provided, That late payment fee or penalty for late payment shall be based on the unpaid minimum amount due or a prescribed minimum fixed amount whichever is lower; Provided, further, That the late payment fees may be based on the total outstanding balance of the credit card obligation, including amounts payable under installment terms or deferred payment schemes, if the contract between the issuer and the cardholder contains an acceleration clause and the total outstanding balance of the credit card is classified and reported as past due;
