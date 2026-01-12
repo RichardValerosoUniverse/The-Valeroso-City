@@ -3925,7 +3925,7 @@ Foreign currency transactions are billed without disclosing the conversion metho
 * [ ] **Section 9 – Determination of Credit Card Limit; Changes Thereof**
 
 **Statutory text (verbatim):**
-*“The credit card limit shall be determined based on the cardholder’s capacity to pay and creditworthiness. Any change in the credit limit shall be subject to prior written notice to the cardholder.”*
+*"Credit card issuers shall determine, based on the credit standing and financial capacity of the cardholder, the credit limit to be extended to the cardholder. The card issuers may thereafter implement changes in the credit limit applicable to the account based on their risk management policies and guidelines: Provided, That the cardholder is notified of such changes: Provided, further, That any credit limit increase may be declined by the cardholder: Provided, finally, That the cardholder has the option to request for a credit limit adjustment subject to the approval of the credit card issuer".*
 
 **Impactful violation example:**
 
