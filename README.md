@@ -3758,10 +3758,10 @@ RA 10870 – CONSUMER RIGHTS & VIOLATION CHECKLIST (Law‑Only Version)
 
 **C. COVERAGE / REGULATORY SCOPE**
 
-* [ ] **Section 3 — Scope of Application**
+* [ ] **Section 3 — Scope and Coverage**
 
 **Statutory text (verbatim):**
-*“Section 3. Scope of Application. — This Act shall apply to all credit card issuers and acquirers operating in the Philippines, including banks, non-bank financial institutions, and other entities engaged in credit card operations. All transactions, practices, and relationships governed by the credit card business shall be subject to the provisions of this Act.”*
+*“This Act shall govern all credit card issuers, acquirers and all credit card transactions.”*
 
 **Impactful violation example:**
 
