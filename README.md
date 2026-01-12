@@ -4057,7 +4057,7 @@ Foreign currency transactions are billed without disclosing the conversion metho
 
 **Impactful violation example:**
 
-*A collection agent repeatedly calls the cardholder at midnight, sends threatening messages, or contacts the cardholder’s employer or neighbors to pressure payment, violating the law’s communication restrictions.*
+*A credit card issuer or collection agency repeatedly harassing a cardholder through prohibited channels, ignoring BSP guidelines and the cardholder’s communication request, constitutes the clearest and most impactful violation of Section 22.*
 
 **O. FINANCE CHARGES, INTEREST, AND PENALTIES**
 
