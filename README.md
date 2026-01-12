@@ -3916,7 +3916,7 @@ Foreign currency transactions are billed without disclosing the conversion metho
 * [ ] **Section 7 – Minimum Requirements for the Issuance of Credit Cards**
 
 **Statutory text (verbatim):**
-*“Credit card issuers shall ensure that applicants for credit cards meet the minimum requirements prescribed by the BSP, including the submission of documentary requirements necessary to assess the applicant’s creditworthiness.”*
+*"Before issuing credit cards, credit card issuers must conduct know‑your‑client (KYC) procedures and exercise proper diligence in ascertaining that applicants possess good credit standing and are financially capable of fulfilling their credit commitments.”*
 
 **Impactful violation example:**
 
