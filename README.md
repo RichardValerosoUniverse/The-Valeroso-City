@@ -3747,10 +3747,10 @@ RA 10870 – CONSUMER RIGHTS & VIOLATION CHECKLIST (Law‑Only Version)
 
 **B. LEGISLATIVE INTENT / CONSUMER PROTECTION FOUNDATION**
 
-* [ ] **SECTION 2 — DECLARATION OF POLICY**
+* [ ] **SECTION 2 — Declaration of basic policy**
 
 **Statutory text (verbatim):**
-*“Section 2. Declaration of Policy. — It is the policy of the State to protect the interests of credit card holders and promote a fair, transparent, and efficient credit card industry in the Philippines. The State recognizes the rights of cardholders to accurate billing, reasonable fees, timely dispute resolution, and full disclosure of terms and conditions. All credit card issuers and acquirers shall operate in a manner consistent with these principles.”*
+*“It is the policy of the State to foster the development of the credit card industry as an indispensable tool in making consumer credit readily available to all Filipinos under conditions of fair and sound consumer credit practices which are aligned with global best practices, in promoting an efficient payments system and in encouraging competition and transparency that support a more effective delivery of credit card services. To ensure the vibrancy and growth of the credit card industry, the State shall institute appropriate mechanisms to protect and educate credit cardholders."*
 
 **Impactful violation example:**
 
