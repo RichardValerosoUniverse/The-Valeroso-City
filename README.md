@@ -4035,7 +4035,7 @@ Foreign currency transactions are billed without disclosing the conversion metho
 * [ ] **Section 20 – Use of Third-Party Collection Agents**
 
 **Statutory text (verbatim):**
-*“A credit card issuer may engage a third-party collection agent to collect delinquent accounts, provided that the card issuer remains responsible for compliance with the provisions of this Act and that the cardholder has been informed of such engagement.”*
+*"A credit card issuer may engage qualified third party service providers/collection agents for the purpose of assisting or rendering services in the administration of the credit card business including recovery of unpaid obligations and enforcement of rights against the cardholder.”*
 
 **Impactful violation example:**
 
