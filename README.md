@@ -3738,7 +3738,7 @@ RA 10870 – CONSUMER RIGHTS & VIOLATION CHECKLIST (Law‑Only Version)
 * [ ] **Section 1 — Short title**
 
 **Statutory text (verbatim):**
-*“SECTION 1. Short Title. — This Act shall be known as the ‘Philippine Credit Card Industry Regulation Law.’”*
+*“This Act shall be known as the ‘Philippine Credit Card Industry Regulation Law.’”*
 
 **Impactful violation example:*"
 
@@ -3747,7 +3747,7 @@ RA 10870 – CONSUMER RIGHTS & VIOLATION CHECKLIST (Law‑Only Version)
 
 **B. LEGISLATIVE INTENT / CONSUMER PROTECTION FOUNDATION**
 
-* [ ] **SECTION 2 — Declaration of basic policy**
+* [ ] **SECTION 2 — Declaration of Basic Policy**
 
 **Statutory text (verbatim):**
 *“It is the policy of the State to foster the development of the credit card industry as an indispensable tool in making consumer credit readily available to all Filipinos under conditions of fair and sound consumer credit practices which are aligned with global best practices, in promoting an efficient payments system and in encouraging competition and transparency that support a more effective delivery of credit card services. To ensure the vibrancy and growth of the credit card industry, the State shall institute appropriate mechanisms to protect and educate credit cardholders."*
@@ -3770,7 +3770,7 @@ RA 10870 – CONSUMER RIGHTS & VIOLATION CHECKLIST (Law‑Only Version)
 
 **D. REGULATORY SUPERVISION / COMPLIANCE OVERSIGHT / ENFORCEMENT AUTHORITY**
 
-**SECTION 4 — SUPERVISION**
+**SECTION 4 — Supervision**
 
 **Statutory text (verbatim):**
 *“Section 4. Supervision. — The Bangko Sentral ng Pilipinas (BSP) shall supervise all credit card issuers and acquirers. Supervision shall include the following:
