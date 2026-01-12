@@ -4153,12 +4153,14 @@ Each section contains the verbatim statutory text and one high-impact illustrati
     * *"A violation may exist when an issuer’s act, omission, or practice matches or substantially resembles those described. Findings should be based on verifiable evidence."*
 
 **Procedure:**
-    * 1. File a formal complaint or dispute with the credit card issuer, citing the specific section of RA 10870.
-    * 2. If unresolved or ignored, escalate the complaint to the Bangko Sentral ng Pilipinas (BSP).
+    
+  * **1. File a formal complaint or dispute with the credit card issuer, citing the specific section of RA 10870.**
+  * **2. If unresolved or ignored, escalate the complaint to the Bangko Sentral ng Pilipinas (BSP).**
 
-NOTE: This checklist does not alter or expand the law and is intended to promote consumer protection, transparency, accountability, and responsible credit card use.
+**NOTE: This checklist does not alter or expand the law and is intended to promote consumer protection, transparency, accountability, and responsible credit card use.**
 
 ---
+
 **REPORTING TO THE BANGKO SENTRAL NG PILIPINAS (BSP)**
 
 If the bank's Customer Assistance Unit (Sec. 17) fails to resolve your dispute within 10 business days, escalate immediately via the **BSP Consumer Assistance Mechanism**.
