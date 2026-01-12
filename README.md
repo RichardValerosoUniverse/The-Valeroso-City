@@ -4023,14 +4023,14 @@ Foreign currency transactions are billed without disclosing the conversion metho
 
 **N. COLLECTION, COMMUNICATION & ENDORSEMENT PRACTICES**
 
-* [ ] **Section 19 – Prohibited Collection Practices**
+* [ ] **Section 19 – Appropriate Manner of Collection**
 
 **Statutory text (verbatim):**
-*“A credit card issuer or collection agent shall not harass, abuse or oppress any person or engage in any unfair practices in attempting to collect a debt.”*
+*"A credit card issuer may resort to all reasonable and legally permissible means to collect amounts due them under the credit card agreement: Provided, That in the exercise of its rights and performance of duties, they must observe good faith, reasonable conduct and proper decorum and refrain from engaging in unscrupulous acts. A credit card issuer or collection agent shall not harass, abuse or oppress any person or engage in any unfair practices, as may be defined by BSP rules and regulations, in connection with the collection of any credit card debt.”*
 
 **Impactful violation example:**
 
-*A cardholder receives repeated threatening phone calls, abusive language, or public shaming from the issuer or its collection agent despite timely communication of disputes, which constitutes harassment under the law.*
+*"A credit card issuer or collection agent repeatedly harassing and threatening a cardholder, while contacting family or employer and ignoring lawful communication preferences, constitutes the clearest violation of Section 19."*
 
 * [ ] **Section 20 – Use of Third-Party Collection Agents**
 
