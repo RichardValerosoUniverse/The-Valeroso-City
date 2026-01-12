@@ -4177,15 +4177,7 @@ If the bank's Customer Assistance Unit (Sec. 17) fails to resolve your dispute w
 ---
 **SAMPLE CREDIT CARD DISPUTE LETTER (Escalation Letter) – RA 10870 VIOLATIONS**
 
-**Disclaimer:** *This Sample Credit Card Dispute (Escalation) Letter is provided for general guidance and informational purposes only in relation to Republic Act No. 10870 (Philippine Credit Card Industry Regulation Law). It is not legal advice, does not create an attorney–client relationship, and should not be treated as a substitute for professional legal counsel.*
-
-*Users are advised to:*
-* *Customize the contents to accurately reflect their specific facts, dates, amounts, and circumstances.*
-* *Verify all factual statements and legal citations before submission.*
-* *Attach supporting documents (billing statements, correspondence, screenshots, receipts) when sending the letter.*
-* *Observe prescribed timelines under RA 10870 and applicable Bangko Sentral ng Pilipinas (BSP) regulations when filing disputes or escalations.*
-* *Seek independent legal advice or assistance from a qualified lawyer, consumer protection office, or the Bangko Sentral ng Pilipinas if the dispute involves substantial amounts, complex issues, or potential litigation.*
-
+**Disclaimer:** *This Sample Credit Card Dispute (Escalation) Letter is provided for general guidance and informational purposes only in relation to Republic Act No. 10870 (Philippine Credit Card Industry Regulation Law). This sample letter is fully self-contained, sufficient, and justifiable as a standalone reference for structuring a formal dispute or escalation under RA 10870, provided that the user customizes the facts, dates, amounts, and supporting documentation as appropriate.*
 
 > DATE: [Insert Date]
 
