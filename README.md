@@ -4145,23 +4145,18 @@ Note: Section 28 grants a reasonable period, determined by the Monetary Board,
 
 *A credit card issuer, after the 15-day effectivity period, continues to use outdated billing methods, misapplies finance charges, or neglects required disclosures, claiming that the law “has not yet fully taken effect.” This constitutes a direct violation of Section 31, as RA 10870’s provisions are fully enforceable from the statutory effectivity date. Such non-compliance exposes cardholders to unauthorized fees, inaccurate statements, and denial of dispute rights, directly contravening the law.*
 
-**HOW TO USE THIS CHECKLIST**
+* **DISCLOSURE / HOW TO USE THE CHECKLIST**
 
-* Check the applicable violations based on your account history, statements, notices, or communications with the issuer.
-* Collect evidence such as:
-Written notices, SOAs, emails, or call logs
-Copies of disputed transactions
-* Any documentation showing collection practices
-* Use this checklist to:
-    * Draft formal escalation letters to your bank
-    * File complaints with BSP‑CPMCO
-    * Educate the public or support consumer‑protection advocacy
+    * *"This checklist is a stand-alone, legally grounded public reference based solely on Republic Act No. 10870 (Philippine Credit Card Industry Regulation Law). It enables credit card users, compliance teams, and the public to identify, understand, and act on potential violations of the law with accuracy and confidence.
+Each section contains the verbatim statutory text and one high-impact illustrative violation example (with some sections containing additional examples to reflect complexity). All examples are illustrative, not exhaustive."*
 
-**DISCLAIMER**
-> This checklist is for public awareness and sample use only.
-Items must be adapted to the cardholder’s actual dispute.
-All facts here come directly from Republic Act No. 10870.
-It does not constitute legal advice
+    * *"A violation may exist when an issuer’s act, omission, or practice matches or substantially resembles those described. Findings should be based on verifiable evidence."*
+
+**Procedure:**
+    * 1. File a formal complaint or dispute with the credit card issuer, citing the specific section of RA 10870.
+    * 2. If unresolved or ignored, escalate the complaint to the Bangko Sentral ng Pilipinas (BSP).
+
+NOTE: This checklist does not alter or expand the law and is intended to promote consumer protection, transparency, accountability, and responsible credit card use.
 
 ---
 **REPORTING TO THE BANGKO SENTRAL NG PILIPINAS (BSP)**
