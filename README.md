@@ -3728,10 +3728,7 @@ All other laws, decrees, executive orders, proclamations and administrative regu
 * **SECTION 31. Effectivity.**
 This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in at least two (2) national newspapers of general circulation. 
 
----
-RA 10870 – CONSUMER RIGHTS & VIOLATION CHECKLIST (Law‑Only Version)
-
-*For public awareness and sample use only. Cardholders should verify which items apply to their specific account or dispute.*
+## RA 10870 — Impactful Section by Section Violation Checklist ✅
 
 **A. STATUTORY IDENTITY / LEGAL RECOGNITION PROVISION**
 
