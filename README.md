@@ -3735,7 +3735,7 @@ RA 10870 – CONSUMER RIGHTS & VIOLATION CHECKLIST (Law‑Only Version)
 
 **A. STATUTORY IDENTITY / LEGAL RECOGNITION PROVISION**
 
-**Section 1 — Short title**
+* [ ] **Section 1 — Short title**
 
 **Statutory text (verbatim):**
 *“SECTION 1. Short Title. — This Act shall be known as the ‘Philippine Credit Card Industry Regulation Law.’”*
