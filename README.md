@@ -4012,7 +4012,7 @@ Foreign currency transactions are billed without disclosing the conversion metho
 
 **M. DISCLOSURES, STATEMENTS & BILLING ERRORS**
 
-* [ ] **Section 18 – Billing Errors & Disputed Transactions**
+* [ ] **Section 18. Complaint on Billing Error or Discrepancy**
 
 **Statutory text (verbatim):**
 *“A credit card issuer shall give cardholders up to thirty (30) calendar days from the statement date to report any error or discrepancy in their billing statement. The credit card issuer shall take action within ten (10) business days from receipt of such notice.”*
