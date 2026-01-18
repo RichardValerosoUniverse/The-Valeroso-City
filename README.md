@@ -3877,7 +3877,7 @@ Statutory text (verbatim): "Before issuing credit cards, credit card issuers mus
 * [ ] 6: The acquiring bank continues to accredit or retain merchants with known due-diligence failures, effectively facilitating invalid or unauthorized transactions.
 * [ ] 7. Internal policies of the issuer or acquirer discourage transaction verification, even when reasonable concerns about validity exist, undermining Section 8’s protective intent.
 
-**H. MANDATORY DISCLOSURE & TRANSPARENCY OBLIGATIONS OF CREDIT CARD ISSUERS**
+**I. MANDATORY DISCLOSURE & TRANSPARENCY OBLIGATIONS OF CREDIT CARD ISSUERS**
 
 **Section 11 — Information to be disclosed**
 **Statutory text (verbatim):**
@@ -3917,7 +3917,7 @@ Foreign currency transactions are billed without disclosing the conversion metho
 * [ ] 10: Despite a duly issued Bangko Sentral ng Pilipinas regulation requiring additional disclosures in credit card billing statements and cardholder communications, the credit card issuer deliberately omits, delays, or disregards such disclosures, thereby denying cardholders regulator-mandated information and directly defying BSP’s statutory authority under RA 10870.
 → Violates Sec. 11(i)
 
-**I. CREDIT LIMIT DETERMINATION AND ADJUSTMENT PRACTICES**
+**J. CREDIT LIMIT DETERMINATION AND ADJUSTMENT PRACTICES**
 
 * [ ] **Section 9 – Determination of Credit Card Limit; Changes Thereof**
 
@@ -3939,7 +3939,7 @@ Note: By implication under the law and standard application, transactions after 
 
 *You immediately report your credit card as stolen, yet the issuer continues to bill you for transactions made after the report, refusing to reverse fraudulent charges.*
 
-**J. CUSTOMER ASSISTANCE**
+**K. CUSTOMER ASSISTANCE**
 
 * [ ] **Section 17 – Customer Assistance Unit**
 
@@ -3950,7 +3950,7 @@ Note: By implication under the law and standard application, transactions after 
 
 *The cardholder repeatedly raises complaints regarding billing issues and account concerns, but the issuer has no identifiable customer assistance unit, fails to act promptly, and allows complaints to remain unresolved for an unreasonable period.*
 
-**K. INTEREST, FEES & PAYMENT COMPUTATION TRANSPARENCY**
+**L. INTEREST, FEES & PAYMENT COMPUTATION TRANSPARENCY**
 
 * [ ] **Section 10 – Imposition of Finance Charges**
 
@@ -3997,7 +3997,7 @@ Note: By implication under the law and standard application, transactions after 
 
 *Your payment above the minimum is applied first to low-interest balances or non-fee categories, prolonging the debt on high-interest balances, contrary to law.*
 
-**L. CONFIDENTIALITY & DATA PROTECTION**
+**M. CONFIDENTIALITY & DATA PROTECTION**
 
 **Section 16 – Confidentiality of Information**
 
@@ -4013,7 +4013,7 @@ Note: By implication under the law and standard application, transactions after 
 * [ ] **5: My confidential data was shared with an insurance partner for cross‑selling unrelated products and services rather than for fraud prevention or coverage against credit loss, which exceeds the narrow purpose allowed under 16(e).**
 * [ ] **6: The bank provided my transaction patterns and personal data to an external analytics company not engaged in fraud investigation or risk mitigation, but instead for unrelated commercial processing, contravening the permitted use in 16(f).**
 
-**M. DISCLOSURES, STATEMENTS & BILLING ERRORS**
+**N. DISCLOSURES, STATEMENTS & BILLING ERRORS**
 
 * [ ] **Section 18. Complaint on Billing Error or Discrepancy**
 
@@ -4024,7 +4024,7 @@ Note: By implication under the law and standard application, transactions after 
 
 *You report an incorrect charge within 30 days, but the issuer fails to investigate or correct it within 10 business days, leaving you responsible for erroneous charges.*
 
-**N. COLLECTION, COMMUNICATION & ENDORSEMENT PRACTICES**
+**O. COLLECTION, COMMUNICATION & ENDORSEMENT PRACTICES**
 
 * [ ] **Section 19 – Appropriate Manner of Collection**
 
@@ -4062,7 +4062,7 @@ Note: By implication under the law and standard application, transactions after 
 
 *A credit card issuer or collection agency repeatedly harassing a cardholder through prohibited channels, ignoring BSP guidelines and the cardholder’s communication request, constitutes the clearest and most impactful violation of Section 22.*
 
-**O. FINANCE CHARGES, INTEREST, AND PENALTIES**
+**P. FINANCE CHARGES, INTEREST, AND PENALTIES**
 
 * [ ] **Section 23 – Payment Due Dates on Weekends/Holidays**
 
@@ -4073,7 +4073,7 @@ Note: By implication under the law and standard application, transactions after 
 
 *You paid on the next business day after a holiday/weekend, yet the issuer charged a late fee or reported a default.*
 
-**P. TERMINATION & ENFORCEMENT**
+**Q. TERMINATION & ENFORCEMENT**
 
 * [ ] **Section 25 – Termination of Account**
 
@@ -4093,7 +4093,7 @@ Note: By implication under the law and standard application, transactions after 
 
 *A credit card issuer repeatedly and willfully fails to comply with disclosure and transparency requirements under RA 10870 and related BSP regulations, leading the Bangko Sentral ng Pilipinas to impose administrative sanctions (such as fines, reprimands, or corrective orders) under the applicable provisions of RA 7653. In addition, BSP suspends or revokes the issuer’s authority to issue credit cards due to persistent non‑compliance with statutory and regulatory obligations.*
 
-**Q. CRIMINAL LIABILITY FOR WILLFUL NON-COMPLIANCE**
+**R. CRIMINAL LIABILITY FOR WILLFUL NON-COMPLIANCE**
 
 * [ ] **Section 27 — Violation of this Act and Other Related Rules, Regulations, Orders or Instructions**
 
@@ -4104,7 +4104,7 @@ Note: By implication under the law and standard application, transactions after 
 
 *A credit card issuer intentionally fails to disclose finance charges, late payment fees, minimum payment rules, or the method of calculating interest, fully aware of the statutory disclosure obligations under RA 10870 and BSP Circulars. The issuer also knowingly imposes unauthorized penalties, accelerates disputed balances, and ignores BSP corrective orders, thereby deliberately violating the law and BSP-issued rules.*
 
-**R. REGULATORY COMPLIANCE TRANSITION / BSP SUPERVISION SCOPE**
+**S. REGULATORY COMPLIANCE TRANSITION / BSP SUPERVISION SCOPE**
 
 * [ ] **Section 28 — Transitory Provision**
 
@@ -4117,7 +4117,7 @@ Note: Section 28 grants a reasonable period, determined by the Monetary Board,
 
 *After RA 10870 became effective, a credit card company fails to implement required updates to its internal billing, disclosure, and consumer protection procedures within the transition period set by the Monetary Board. As a result, cardholders receive incomplete statements, incorrect finance charges are applied, and statutory disclosures are missing, constituting a violation of Section 28’s transitory compliance requirement.*
 
-**S. STATUTORY CONTINUITY / LEGAL EFFECTIVENESS**
+**T. STATUTORY CONTINUITY / LEGAL EFFECTIVENESS**
 
 * [ ] **Section 29 — Separability Clause**
 
@@ -4128,7 +4128,7 @@ Note: Section 28 grants a reasonable period, determined by the Monetary Board,
 
 *A credit card issuer refuses to comply with valid provisions of RA 10870 (such as billing disclosures, dispute resolution procedures, or interest computation rules) on the incorrect assumption that a separate provision of the law was invalidated by a court decision. By treating the entire law as unenforceable, the issuer violates Section 29’s separability clause and exposes cardholders to unregulated practices, including incorrect charges, incomplete statements, or denial of dispute rights.*
 
-**T. SUPERSESSION / LEGAL CONTINUITY / COMPLIANCE ENFORCEMENT**
+**U. SUPERSESSION / LEGAL CONTINUITY / COMPLIANCE ENFORCEMENT**
 
 * [ ] **Section 30 — Repealing Clause**
 
@@ -4139,7 +4139,7 @@ Note: Section 28 grants a reasonable period, determined by the Monetary Board,
 
 *A credit card issuer continues to apply outdated policies or internal procedures that were permitted under previous laws, executive orders, or internal rules but are inconsistent with RA 10870. For example, retroactively charging interest on disputed transactions, applying unauthorized fees, or sending incomplete statements, despite RA 10870 explicitly prohibiting these practices. By persisting in these actions, the issuer violates the Repealing Clause, directly harming cardholders through overcharges, misstatements, and denial of statutory rights guaranteed under the law.*
 
-**U. LEGAL COMMENCEMENT / BINDING COMPLIANCE / ENFORCEMENT START**
+**V. LEGAL COMMENCEMENT / BINDING COMPLIANCE / ENFORCEMENT START**
 
 * [ ] **Section 31 — Effectivity**
 
