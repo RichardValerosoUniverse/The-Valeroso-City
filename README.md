@@ -3877,7 +3877,7 @@ Statutory text (verbatim): "Before issuing credit cards, credit card issuers mus
 * [ ] 6: The acquiring bank continues to accredit or retain merchants with known due-diligence failures, effectively facilitating invalid or unauthorized transactions.
 * [ ] 7. Internal policies of the issuer or acquirer discourage transaction verification, even when reasonable concerns about validity exist, undermining Section 8’s protective intent.
 
-**I. MANDATORY DISCLOSURE & TRANSPARENCY OBLIGATIONS OF CREDIT CARD ISSUERS**
+**H. MANDATORY DISCLOSURE & TRANSPARENCY OBLIGATIONS OF CREDIT CARD ISSUERS**
 
 **Section 11 — Information to be disclosed**
 **Statutory text (verbatim):**
@@ -3917,7 +3917,7 @@ Foreign currency transactions are billed without disclosing the conversion metho
 * [ ] 10: Despite a duly issued Bangko Sentral ng Pilipinas regulation requiring additional disclosures in credit card billing statements and cardholder communications, the credit card issuer deliberately omits, delays, or disregards such disclosures, thereby denying cardholders regulator-mandated information and directly defying BSP’s statutory authority under RA 10870.
 → Violates Sec. 11(i)
 
-**J. CREDIT LIMIT DETERMINATION AND ADJUSTMENT PRACTICES**
+**I. CREDIT LIMIT DETERMINATION AND ADJUSTMENT PRACTICES**
 
 * [ ] **Section 9 – Determination of Credit Card Limit; Changes Thereof**
 
@@ -3939,7 +3939,7 @@ Note: By implication under the law and standard application, transactions after 
 
 *You immediately report your credit card as stolen, yet the issuer continues to bill you for transactions made after the report, refusing to reverse fraudulent charges.*
 
-**K. CUSTOMER ASSISTANCE**
+**J. CUSTOMER ASSISTANCE**
 
 * [ ] **Section 17 – Customer Assistance Unit**
 
@@ -3950,7 +3950,7 @@ Note: By implication under the law and standard application, transactions after 
 
 *The cardholder repeatedly raises complaints regarding billing issues and account concerns, but the issuer has no identifiable customer assistance unit, fails to act promptly, and allows complaints to remain unresolved for an unreasonable period.*
 
-**L. INTEREST, FEES & PAYMENT COMPUTATION TRANSPARENCY**
+**K. INTEREST, FEES & PAYMENT COMPUTATION TRANSPARENCY**
 
 * [ ] **Section 10 – Imposition of Finance Charges**
 
