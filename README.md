@@ -3751,7 +3751,7 @@ This Act shall take effect fifteen (15) days after its publication in the Offici
 
 **Impactful violation example:**
 
-*A credit card issuer systematically issues misleading statements, imposes hidden or excessive fees, delays dispute resolution, or applies inconsistent interest calculations. By engaging in these practices, the issuer violates the fundamental policy of RA 10870 to protect cardholder interests and ensure fairness, transparency, and efficiency. Such conduct undermines consumer trust, exposes cardholders to financial harm, and contravenes the legislative intent established in Section 2.*
+*A credit card issuer systematically offers and administers credit card products in a manner that relies on consumer misunderstanding by making credit appear readily available and affordable while structuring interest charges, fees, and repayment mechanics so that their true cost and risk are not reasonably understood by cardholders at the time of consent, thereby defeating transparency, impairing informed consumer choice, undermining fair and sound consumer credit practices, and failing to protect and educate credit cardholders.* 
 
 **C. COVERAGE / REGULATORY SCOPE**
 
@@ -4141,7 +4141,7 @@ Note: Section 28 grants a reasonable period, determined by the Monetary Board,
 
 **U. LEGAL COMMENCEMENT / BINDING COMPLIANCE / ENFORCEMENT START**
 
-**Section 31 — Effectivity**
+* [ ] **Section 31 — Effectivity**
 
 **Statutory text (verbatim):**
 *“This Act shall take effect fifteen (15) days after its complete publication in the Official Gazette or in at least two (2) newspapers of general circulation.”*
