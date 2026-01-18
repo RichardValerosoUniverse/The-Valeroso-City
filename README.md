@@ -3851,6 +3851,15 @@ This Act shall take effect fifteen (15) days after its publication in the Offici
 * [ ] 7: Failure to document internal controls, procedures, or operational policies, preventing audits, regulatory inspections, and corrective actions, exposing cardholders to harm.
 * [ ] 8: Ignoring operational risks identified through monitoring, such as repeated posting errors or system glitches, resulting in unlawful finance charges or duplicate billing.
 
+**G. CREDIT CARD ISSUANCE, LIMITS & ACCOUNT SAFEGUARDS**
+
+* [ ] **Section 7 – Minimum Requirements for the Issuance of Credit Cards**
+Statutory text (verbatim): "Before issuing credit cards, credit card issuers must conduct know‑your‑client (KYC) procedures and exercise proper diligence in ascertaining that applicants possess good credit standing and are financially capable of fulfilling their credit commitments.”
+
+**Impactful violation example:**
+
+*A credit card is approved and issued without income verification or proper credit assessment, resulting in excessive debt that the cardholder was clearly unable to repay from the start.*
+
 **G. MERCHANT DUE DILIGENCE & ACQUIRER OVERSIGHT (TRANSACTION VALIDITY CONTROL)**
 
 **Section 8 — Service Level Agreement**
@@ -3909,15 +3918,6 @@ Foreign currency transactions are billed without disclosing the conversion metho
 → Violates Sec. 11(i)
 
 **I. CREDIT CARD ISSUANCE, LIMITS & ACCOUNT SAFEGUARDS**
-
-* [ ] **Section 7 – Minimum Requirements for the Issuance of Credit Cards**
-
-**Statutory text (verbatim):**
-*"Before issuing credit cards, credit card issuers must conduct know‑your‑client (KYC) procedures and exercise proper diligence in ascertaining that applicants possess good credit standing and are financially capable of fulfilling their credit commitments.”*
-
-**Impactful violation example:**
-
-*A credit card is approved and issued without income verification or proper credit assessment, resulting in excessive debt that the cardholder was clearly unable to repay from the start.*
 
 * [ ] **Section 9 – Determination of Credit Card Limit; Changes Thereof**
 
