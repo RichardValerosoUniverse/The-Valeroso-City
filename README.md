@@ -3851,7 +3851,7 @@ This Act shall take effect fifteen (15) days after its publication in the Offici
 * [ ] 7: Failure to document internal controls, procedures, or operational policies, preventing audits, regulatory inspections, and corrective actions, exposing cardholders to harm.
 * [ ] 8: Ignoring operational risks identified through monitoring, such as repeated posting errors or system glitches, resulting in unlawful finance charges or duplicate billing.
 
-**G. CREDIT CARD ISSUANCE, LIMITS & ACCOUNT SAFEGUARDS**
+**G. RESPONSIBLE ISSUANCE AND CREDITWORTHINESS ASSESSMENT**
 
 * [ ] **Section 7 – Minimum Requirements for the Issuance of Credit Cards**
 Statutory text (verbatim): "Before issuing credit cards, credit card issuers must conduct know‑your‑client (KYC) procedures and exercise proper diligence in ascertaining that applicants possess good credit standing and are financially capable of fulfilling their credit commitments.”
