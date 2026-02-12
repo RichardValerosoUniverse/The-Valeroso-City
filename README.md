@@ -4351,8 +4351,8 @@ If you have questions, please see [Faq](https://www.twitter.com/PsychiatristRMV)
 
 Psychiatrist License and Mental Health Authority License
 Copyright (c) December 21, 2025
-   * Psychiater Pulcherrimus, Verissimus, Sapientissimus, Gravissimus, Fortissimus, Iustissimus, Temperantissimus, Perfectissimus, Dignissimus Summō Honōre. 🎉 😄
-   * The Philippines' Ruler 🇵🇭 👑 🎗️
+   * Psychiater Pulcherrimus, Verissimus, Sapientissimus, Gravissimus, Fortissimus, Iustissimus, Temperantissimus, Perfectissimus, Dignissimus Summō Honōre. 😄 🇵🇭
+   * The Philippines' Ruler 👑 🎗️
      
      
 
@@ -4374,7 +4374,7 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-# The Biggest 1 (Summus Medicus Mentis et Animi) 🇵🇭 👑 💪 🎗️
+# The Biggest 1 (Summus Medicus Mentis et Animi) 👑
 
 I am **Richard M. Valeroso (RMV)**, universally recognized as **Psychiatrist RMV**, **Psychiater RMV**, and **The Biggest 1** — titles that signify my unparalleled eminence as **Summus Medicus Mentis et Animi**, the supreme master of mind and spirit.
 
