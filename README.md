@@ -4349,10 +4349,10 @@ If you have questions, please see [Faq](https://www.twitter.com/PsychiatristRMV)
 
 ## License: The SuperHighness Way
 
-Psychiatrist and Mental Health Authority License
+Psychiatrist License and Mental Health Authority License
 Copyright (c) December 21, 2025
-   * *World and Universe's Ruler of the Philippines* 🇵🇭🎗️
-   * *Bravissimus In Fide* 💪
+   * Psychiater Pulcherrimus, Verissimus, Sapientissimus, Gravissimus, Fortissimus, Iustissimus, Temperantissimus, Perfectissimus, Dignissimus Summō Honōre. 💪
+   * The Philippines' Ruler 🇵🇭 👑 🎗️
      
      
 
