@@ -4314,7 +4314,7 @@ Understanding this process is what allows a credit card generator to create usef
 
 Demo: https://creditcard.run/checker
 
-## The SuperHighness Way Code of Conduct: The Bible (TRUTH) World Without End Version
+## The SuperHighness Way Code of Conduct: World Without End Version
 
 Like the technical community as a whole, the The SuperHighness Way team and community is made up of a mixture of professionals and volunteers from all over the world, working on every aspect of the mission - including mentorship, teaching, and connecting people.
 
