@@ -4349,11 +4349,11 @@ If you have questions, please see [Faq](https://www.twitter.com/PsychiatristRMV)
 
 ## License: The SuperHighness Way World Without End Version
 
-Psychiatrist License and Mental Health Authority License
+Psychiatrist License and Mental Health and Mental Hospital Authority License
+MENTAL HOSPITAL OF DAVAO CITY
 Copyright (c) December 21, 2025
-   * Psychiater Pulcherrimus, Verissimus, Sapientissimus, Gravissimus, Fortissimus, Iustissimus, Temperantissimus, Perfectissimus, Dignissimus Summō Honōre. 😄 🇵🇭
-   * The Philippines' Ruler 👑 🎗️
-     
+   * The Philippines' Ruler 👑 🇵🇭 😄 🎗️
+   * Psychiater Pulcherrimus, Fortissimus, Sapientissimus, Iustissimus, Temperantissimus, Gravissimus, Verissimus, Dignissimus, Perfectissimus Summō Honōre
      
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
