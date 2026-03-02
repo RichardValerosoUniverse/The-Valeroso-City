@@ -4349,8 +4349,7 @@ If you have questions, please see [Faq](https://www.twitter.com/PsychiatristRMV)
 
 ## License: The SuperHighness Way World Without End Version
 
-Psychiatrist License and Mental Health and Mental Hospital Authority License
-MENTAL HOSPITAL OF DAVAO CITY
+Psychiatrist License, Mental Health Authority and Mental Hospital Authority License [MENTAL HOSPITAL OF DAVAO CITY]
 Copyright (c) December 21, 2025
    * The Philippines' Ruler 👑 🇵🇭 😄 🎗️
    * Psychiater Pulcherrimus, Fortissimus, Sapientissimus, Iustissimus, Temperantissimus, Gravissimus, Verissimus, Dignissimus, Perfectissimus Summō Honōre
