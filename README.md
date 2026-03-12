@@ -4322,7 +4322,8 @@ This is made possible through the unparalleled essence of [University of Santo T
 
 ## License: The SuperHighness Way World Without End Version
 
-Psychiatrist License, Mental Health Authority and Mental Hospital Authority License for MENTAL HOSPITAL OF DAVAO CITY 
+All-Male Psychiatrists License, Mental Health Authority and Mental Hospital Authority License for MENTAL HOSPITAL OF DAVAO CITY which is located within The Valeroso City!
+
 Copyright (c) March 16, 2026 and Beyond
    * The Philippines' Ruler 👑 🇵🇭 😄 🎗️
    * Psychiater Pulcherrimus, Fortissimus, Sapientissimus, Iustissimus, Temperantissimus, Gravissimus, Verissimus, Dignissimus, Perfectissimus Summō Honōre
