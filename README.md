@@ -4324,7 +4324,7 @@ This is made possible through the unparalleled essence of [University of Santo T
 
 All-Male Psychiatrists License, Mental Health Authority and Mental Hospital Authority License for MENTAL HOSPITAL OF DAVAO CITY which is located within The Valeroso City!
 
-Copyright (c) March 16, 2026 and Beyond
+Effective March 16, 2026 and Beyond
    * The Philippines' Ruler 👑 🇵🇭 😄 🎗️ 🕛
    * Psychiater Pulcherrimus, Fortissimus, Sapientissimus, Iustissimus, Temperantissimus, Gravissimus, Verissimus, Dignissimus, Perfectissimus Summō Honōre
    * Psychiater of MENTAL HOSPITAL OF DAVAO CITY
