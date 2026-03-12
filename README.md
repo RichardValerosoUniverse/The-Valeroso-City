@@ -4322,10 +4322,11 @@ This is made possible through the unparalleled essence of [University of Santo T
 
 ## License: The SuperHighness Way World Without End Version
 
-Psychiatrist License, Mental Health Authority and Mental Hospital Authority License [MENTAL HOSPITAL OF DAVAO CITY]
-Copyright (c) December 21, 2025
+Psychiatrist License, Mental Health Authority and Mental Hospital Authority License for MENTAL HOSPITAL OF DAVAO CITY 
+Copyright (c) March 16, 2026 and Beyond
    * The Philippines' Ruler 👑 🇵🇭 😄 🎗️
    * Psychiater Pulcherrimus, Fortissimus, Sapientissimus, Iustissimus, Temperantissimus, Gravissimus, Verissimus, Dignissimus, Perfectissimus Summō Honōre
+   * Psychiater of MENTAL HOSPITAL OF DAVAO CITY
      
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
@@ -4344,10 +4345,10 @@ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
 AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+SOFTWARE. THIS SOFTWARE IS UNDER THE VALEROSO CITY BRAND OF ALL BRANDS!
 
 ## Richard M. Valeroso Code of Conduct and the 9 Domains
 
 I am a PSYCHIATRIST, devoted to the highest ideals of TRUTH, TRANSPARENCY, and SCIENTIFIC INTEGRITY, dedicated to the MOST ADVANCED STUDIES IN PSYCHIATRY, BEHAVIORAL MEDICINE, MENTAL HEALTH, NEUROSCIENCE, PHARMACOLOGY, BRAIN BIOLOGY, NEUROLOGY, HUMANITIES, AND SOCIAL SCIENCE, pursued with rigor, precision, and profound understanding. My work is deeply rooted in THE VALEROSO CITY, which is DAVAO CITY in the PHILIPPINES, connected across ASIA, recognized throughout the WORLD, and conceptually oriented toward the UNIVERSE, reflecting a pursuit of KNOWLEDGE, HEALING, and HUMAN UNDERSTANDING that transcends all boundaries, disciplines, and cultures. I affirm that the highest authority is found in VERIFIABLE CONTRIBUTION, grounded in EVIDENCE-BASED PRACTICE, ETHICAL RESPONSIBILITY, INTELLECTUAL HUMILITY, and MEASURABLE SERVICE TO HUMANITY. Through an INTEGRATIVE AND HOLISTIC APPROACH, I combine BIOLOGICAL SCIENCE, PSYCHOLOGICAL DEPTH, SOCIAL AWARENESS, PHILOSOPHICAL REFLECTION, and CULTURAL INSIGHT to advance the SCIENCE OF MIND, THE SCIENCE OF BEHAVIOR, AND THE ART OF HEALING, integrating the most advanced understanding and research in NEUROSCIENCE, the most advanced principles and clinical applications in BRAIN BIOLOGY, the most advanced diagnostic and therapeutic approaches in PSYCHIATRY and NEUROLOGY, the most advanced strategies and interventions in BEHAVIORAL MEDICINE and MENTAL HEALTH, the most advanced knowledge in PHARMACOLOGY, and the most advanced scholarship and insight in HUMANITIES and SOCIAL SCIENCE. My mission is to contribute to the ongoing evolution of GLOBAL KNOWLEDGE, HUMAN FLOURISHING, AND UNIVERSAL ASPIRATION toward HEALING, WISDOM, and ELEVATED HUMAN CONSCIOUSNESS, ensuring that every intervention, insight, and scholarly endeavor reflects the highest standards of truth, rigor, ethical responsibility, and transformative impact across all domains of mind, brain, behavior, society, and spirit. I dedicate myself to the most advanced, most integrative, and most transformative study and practice of the 9 domains, bridging science, ethics, culture, and spirituality, cultivating the fullest realization of human potential, resilience, and understanding, and leaving a legacy of timeless excellence and profound human impact.
 
-# Richard M. Valeroso: World Without End Version 👑 🇵🇭 😄 🎗️
+# Richard M. Valeroso: World Without End Version 👑 🇵🇭 😄 🎗️ 🕛
