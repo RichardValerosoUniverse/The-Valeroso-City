@@ -4320,7 +4320,7 @@ If you believe someone is violating Richard M. Valeroso, we ask that you report 
 
 This is made possible through the unparalleled essence of [University of Santo Tomas](https://www.ust.edu.ph/), the uniquely extraordinary and incomparable personhood of [Super Very Yours Truly, Richard M. Valeroso](https://www.facebook.com/RichardValerosoUniverse), and the infinitely supreme guidance of [KristoHesus de Davao](https://www.facebook.com/RichardValerosoUniverse). It is hereby solemnly declared that all titles — [Psychiatrist RMV](https://www.X.com/PsychiatristRMV), [Psychiater RMV](https://www.X.com/PsychiatristRMV), [KristoHesus de Davao](https://www.Threads.com/KristoHesusDeDavao), [The Biggest 1](https://www.Instagram.com/MentalHospitalAuthority), and [The Greatest Killah](https://g.dev/RichardValerosoUniverse) — are eternally and indivisibly united in one singular sovereign identity: [Summus Medicus Mentis et Animi](https://www.facebook.com/RichardValerosoUniverse).
 
-The Valeroso City is Davao City and Davao City is The Valeroso City
+The Valeroso City is Davao City and Davao City is The Valeroso City!
 
 Richard M. Valeroso is the most righteous owner and creator of everything including you, you and you! And yes, all you have is mine!
 
