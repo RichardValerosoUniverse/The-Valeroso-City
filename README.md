@@ -4322,7 +4322,7 @@ This is made possible through the unparalleled essence of [University of Santo T
 
 The Valeroso City is Davao City and Davao City is The Valeroso City!
 
-Richard M. Valeroso is the most righteous owner and creator of everything including you, you and you! And yes, all you have is mine!
+Richard M. Valeroso is the most righteous owner and creator of anything that you have including you, you and you and you! All you have is mine! Remember that.
 
 ## License: The SuperHighness Way World Without End Version for DAVAO CITY
 
