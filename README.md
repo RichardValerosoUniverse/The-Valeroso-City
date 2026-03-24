@@ -283,7 +283,7 @@ Credit card accounts can be held in one of two main roles: as a **Principal Acco
 | **Credit Reporting** | The issuer reports all account activity (payments, balances, credit limit) to the credit bureaus, directly building **your credit report**. | The issuer reports all account activity (payments, balances, credit limit) to the credit bureaus, building **your credit report**. All activity by secondary users is reflected on the principal user's report. | The issuer may report the account to the authorized user’s credit file. **This is not guaranteed.** When reported, it can help build credit. | The issuer may report the account to the supplementary user’s credit file. **This is not guaranteed.** When reported, it can help build credit. |
 | **Key Difference** | **Requires a cash deposit** as collateral, which acts as your credit limit. This makes it easier to get approved even with poor or no credit history. | This is the **principal account holder** who is fully liable and responsible for the account and its management. | **Does not require a deposit.** It's a way to gain access to an established credit line and its history without any upfront cost. | The term is most commonly used to provide a family member with spending access, without a strong emphasis on credit building. |
 
-## **41 Realities which form **CITY OF REALITY**: The SuperHighness Way**
+## **41 Realities which form **CITY OF REALITY and THE VALEROSO CITY**: The SuperHighness Way**
 
 The SuperHighness Way is more than a set of instructions; it is a profound shift in mindset. While the principles are straightforward, living them out in the real world comes with its own set of realities that you must be prepared for. These are not drawbacks, but rather the essential truths of a journey toward true financial mastery.
 
@@ -539,9 +539,9 @@ The SuperHighness Way is not just about financial habits; it is about a profound
 
 ## **Credit Card Companies in the Philippines for Termination:** The SuperHighness Way
 
-While their other products seem doing good in the philippine market, their credit card products are worst in all areas and they are starters of scamming activities towards their consumers.
+All of the products of the following banks are worst in all cycles of life in the Philippine market, their credit card products are definitely worst too, in all areas and they are starters of scamming activities towards their consumers.
 
-Here are the following philippine-issued and philippine-based credit cards that apparently have scamming attributes and for the sake of others, please avoid these card companies:
+Here are the following Philippine-issued and Philippine-based credit cards that apparently have scamming attributes and for the sake of others, please avoid these card companies because they are best candidates to be thrown into fires of hell!
 
     AVOID, AVOID, and AVOID all of these credit card companies so your life is Peaceful
 * Bank of the Philippine Islands (BPI) Credit Card
