@@ -283,7 +283,7 @@ Credit card accounts can be held in one of two main roles: as a **Principal Acco
 | **Credit Reporting** | The issuer reports all account activity (payments, balances, credit limit) to the credit bureaus, directly building **your credit report**. | The issuer reports all account activity (payments, balances, credit limit) to the credit bureaus, building **your credit report**. All activity by secondary users is reflected on the principal user's report. | The issuer may report the account to the authorized user’s credit file. **This is not guaranteed.** When reported, it can help build credit. | The issuer may report the account to the supplementary user’s credit file. **This is not guaranteed.** When reported, it can help build credit. |
 | **Key Difference** | **Requires a cash deposit** as collateral, which acts as your credit limit. This makes it easier to get approved even with poor or no credit history. | This is the **principal account holder** who is fully liable and responsible for the account and its management. | **Does not require a deposit.** It's a way to gain access to an established credit line and its history without any upfront cost. | The term is most commonly used to provide a family member with spending access, without a strong emphasis on credit building. |
 
-## **41 Realities of The SuperHighness Way**
+## **41 Realities which form **CITY OF REALITY**: The SuperHighness Way**
 
 The SuperHighness Way is more than a set of instructions; it is a profound shift in mindset. While the principles are straightforward, living them out in the real world comes with its own set of realities that you must be prepared for. These are not drawbacks, but rather the essential truths of a journey toward true financial mastery.
 
@@ -537,7 +537,7 @@ The SuperHighness Way is not just about financial habits; it is about a profound
 
 **The SuperHighness Mindset:** You will see that money is simply a tool that enables you to live your most authentic life. Your financial discipline will give you the freedom to pursue your passions, spend time with loved ones, and invest in experiences that truly matter. Your financial journey will become a seamless part of your personal journey, leading to a life of complete congruence and fulfillment.
 
-## **A Cautionary Tale: My experiences with credit card companies**
+## **Credit Card Companies in the Philippines for Termination: The SuperHighness Way
 
 While their other products seem doing good in the philippine market, their credit card products are worst in all areas and they are starters of scamming activities towards their consumers.
 
@@ -569,7 +569,7 @@ Scammers are individuals who demonstrate a self-serving approach, characterized 
 - *Lack of transparency*: Hiding true intentions, motives, or information to maintain an advantage.
 - *Exploitation*: Taking unfair advantage of others' vulnerabilities, needs, or trust for personal benefit.
 
-**23 Potential SCAMMING ATTRIBUTES of BPI, PNB, Citibank/Unionbank, RCBC, Eastwest Bank and Metrobank credit card companies as I carefully observed and reviewed:**
+## **23 Potential SCAMMING ATTRIBUTES of BPI, PNB, Citibank/Unionbank, RCBC, Eastwest Bank and Metrobank credit card** companies as carefully observed and reviewed by **Super Very Yours Truly, Richard M. Valeroso**
 
 1. Hidden Fees: Charging unexpected or undisclosed fees.
 2. Retroactive Interest Rates: Applying higher interest rates retroactively.
@@ -1674,7 +1674,7 @@ In essence, **The Golden Rule** is the basic requirement to avoid being denied. 
 | **Lender Perception** | **Acceptable.** You are seen as an average, lower-risk borrower. | **Exceptional.** You are seen as a highly responsible, disciplined, and ideal borrower worthy of the best rates and higher limits. |
 | **Ultimate Impact** | You can get approved for loans and credit, but often with higher interest rates or less favorable terms. | You unlock a lifetime of opportunities, including the lowest interest rates, highest loan amounts, and true financial freedom. |
 
-## 40 Perfect Examples of a Financial Diet (The Discipline of Spending) of SuperHighness Way
+## **40 Perfect Examples of a Financial Diet (The Discipline of Spending)**: The SuperHighness Way
 
 A financial diet is a strategic period of intentionally cutting back on spending to achieve a financial goal.
 
@@ -1719,7 +1719,7 @@ A financial diet is a strategic period of intentionally cutting back on spending
 39. **The "No-Gym-Membership" Diet:** A person cancels their gym membership and instead uses free local parks, home workout equipment, and online videos to stay fit.
 40. **The "Gift Card" Diet:** A person commits to only using gift cards they receive to pay for non-essential purchases, thus avoiding using cash or credit.
 
-## 40 Perfect Examples of Credit Fasting (The Patience of Borrowing)** of SuperHighness Way
+## **40 Perfect Examples of Credit Fasting (The Patience of Borrowing)**: The SuperHighness Way
 
 Credit fasting is a deliberate and strategic pause in seeking new credit to improve your creditworthiness.
 
