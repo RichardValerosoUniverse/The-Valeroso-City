@@ -569,7 +569,7 @@ Scammers are individuals who demonstrate a self-serving approach, characterized 
 - *Lack of transparency*: Hiding true intentions, motives, or information to maintain an advantage.
 - *Exploitation*: Taking unfair advantage of others' vulnerabilities, needs, or trust for personal benefit.
 
-## **23 Potential SCAMMING ATTRIBUTES of BPI, PNB, Citibank/Unionbank, RCBC, Eastwest Bank and Metrobank credit card** companies as carefully observed and reviewed by **Super Very Yours Truly, Richard M. Valeroso**
+## **23 Potential SCAMMING ATTRIBUTES of BPI, PNB, Unionbank, RCBC, Eastwest and Metrobank Credit Cards** companies in the Philippines as carefully observed and reviewed by **Super Very Yours Truly, Richard M. Valeroso**
 
 1. Hidden Fees: Charging unexpected or undisclosed fees.
 2. Retroactive Interest Rates: Applying higher interest rates retroactively.
