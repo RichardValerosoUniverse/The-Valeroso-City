@@ -149,6 +149,8 @@ After consistently managing your **secured credit card** with **discipline and r
 
 **Note:** Eligibility for the unsecured credit card is **determined by the bank**. It is **mandatory that you are at least 40 years old and have maintained a secured account for 11 years**. This ensures the bank has sufficient history to assess your reliability as a borrower.  
 
+**Important:** Similar to the secured card, the **unsecured credit card program strictly does NOT allow supplementary or secondary cards**. It is **only for the primary cardholder**.
+
 **Requirements to Apply**
 
 Financial institutions apply **stricter standards** for unsecured credit cards compared to secured cards. Key requirements include:  
