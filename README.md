@@ -83,15 +83,17 @@ This secured credit card program requires a **₱900,000,000 (₱900M) deposit**
 
 This structure ensures **maximum security, full transparency, and long-term credit discipline**, forming a **clear and regulated path toward financial credibility**.
 
-* **The SuperHighness Standard** The primary purpose of this secured credit card is **not for spending**, but for **building a flawless credit history and maintaining a near-zero credit utilization ratio**.  
-- Use the card only for **one small, controlled, recurring monthly expense** (e.g., a postpaid phone plan or a subscription service).  
-- **Once the charge is posted, immediately pay the balance in full**.  
-- This disciplined behavior demonstrates to the **bank and the Credit Information Corporation (CIC)** that you are a **responsible and reliable borrower who does not carry unnecessary debt**.  
+* **The SuperHighness Standard**
+   * The primary purpose of this secured credit card is **not for spending**, but for **building a flawless credit history and maintaining a near-zero credit utilization ratio**.  
+   * Use the card only for **one small, controlled, recurring monthly expense** (e.g., a postpaid phone plan or a subscription service).  
+   * **Once the charge is posted, immediately pay the balance in full**.  
+   * This disciplined behavior demonstrates to the **bank and the Credit Information Corporation (CIC)** that you are a **responsible and reliable borrower who does not carry unnecessary debt**.  
 
-* **Fullest Understanding** By strictly following this method, you are training yourself to **treat credit as a financial tool, not as an extension of your income**.  
-- You establish the habit of **spending within control and paying in full, on time, every time**.  
-- You demonstrate **perfect credit management behavior**, which strengthens your **financial credibility and trustworthiness**.  
-- You build a **solid, independent financial foundation**, ensuring long-term access to better financial opportunities.  
+* **Fullest Understanding**
+   * By strictly following this method, you are training yourself to **treat credit as a financial tool, not as an extension of your income**.  
+   * You establish the habit of **spending within control and paying in full, on time, every time**.  
+   * You demonstrate **perfect credit management behavior**, which strengthens your **financial credibility and trustworthiness**.  
+   * You build a **solid, independent financial foundation**, ensuring long-term access to better financial opportunities.  
 
 This disciplined approach ensures that your credit journey is defined by **consistency, responsibility, and complete control**, aligning your financial actions with **long-term stability and success**.
 
