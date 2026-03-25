@@ -595,7 +595,7 @@ Here are the following Philippine-issued and Philippine-based credit cards that 
 * Union Bank of the Philippines (UnionBank) Credit Card
 * Rizal Commercial Banking Corporation (RCBC) Credit Card
 * East West Banking Corporation (EastWest Bank) Credit Card
-* Metropolitan Bank & Trust Company (Metrobank) Credit Card
+* Metropolitan Bank and Trust Company (Metrobank) Credit Card
   
 These listed credit card companies and their employees are the **best** candidates for Cremation Death Penalty Alive Version in the Philippines. They deserve to die or get burned alive as their punishment. They will go to hell and feel the most painful punishment in the world and the universe without expiration!! Haha.
 
