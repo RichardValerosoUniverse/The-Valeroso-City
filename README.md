@@ -48,94 +48,52 @@ Your credit card activity is a permanent part of your financial history. It's a 
 
 **Phase 1: The Foundational Independent Account**
 
-The first and most critical step to building a credit history is to establish your **own credit account**. For individuals with little or no credit history, a **secured credit card** is the most effective tool. Many financial institutions in the Philippines offer this product.  
-
-A **secured credit card** requires a **cash deposit as collateral**, which is **held by the bank** and directly determines the cardholder’s **credit limit**. This ensures both the **bank’s security** and the **cardholder’s ability to establish credit responsibly**.
-
-**How It Works**
-
-- To open this secured account, a **minimum deposit of ₱900,000,000 (₱900M)** is required.  
-- This deposit is **held by the bank as collateral**.  
-- **For as long as you maintain the required deposit, your secured credit card limit equals the deposit amount.**  
-- The **credit limit** can be used for **purchases, paying bills, and other standard credit card transactions**.  
-- **The credit limit decreases as card transactions are made**, reflecting the **outstanding available balance**.  
-- The bank **cannot increase the credit limit on its own**.  
-- **The cardholder may voluntarily increase the credit limit** by depositing additional funds, which will serve as **additional collateral**. Any increase in deposit **directly increases the credit limit**.
-
-**Purpose and Function**
-
-- Secured credit cards function like regular credit cards, allowing the cardholder to **make purchases, pay bills, and build a credit history**.  
-- All payment activity, including **on-time or late payments**, is reported to the **Credit Information Corporation (CIC)**.  
-- **The CIC operates under the governance of the Bangko Sentral ng Pilipinas (BSP)**, ensuring that all credit reporting is **government-regulated and transparent**.  
-- This ensures the cardholder can **establish and maintain a positive, verifiable credit record**.  
-- The secured structure provides **full transparency**, as the **deposit guarantees the card limit** and **protects the bank**, while allowing the cardholder to safely build credit.
-
-**Requirements to Apply**
-
-Applicants must meet **all mandatory requirements**:
-
-1. **Age:**  
-   - Must be at least **29 years old** to qualify as a **primary cardholder**.
-
-2. **Identification:**  
-   - Must present a valid **government-issued photo ID**, such as:  
-     - Philippine Identification System (**PhilSys ID**)  
-     - Driver’s License  
-     - Passport  
-     - SSS / UMID  
-
-3. **Bank Account:**  
-   - Must **open or maintain a savings account** with the issuing bank.  
-   - Approval is **not possible without an active savings account**.  
-
-4. **Security Deposit:**  
-   - Must deposit **₱900,000,000 (₱900M)**.  
-   - This deposit is **held as collateral** and **defines the card’s fixed credit limit**.  
-   - **As long as the deposit is maintained, the secured card credit limit remains equal to the deposit**, but **it decreases depending on the cardholder’s purchases and transactions**.  
-   - The **available credit restores as payments are made** to the account.
-
-5. **Employment and Contact Information (MANDATORY):**  
-   - Must provide a **business or employment record**.  
-   - Must provide **both a residence landline number AND a business landline number**.  
-   - Must submit a **payslip**.  
-   - Must submit an **Income Tax Return (ITR)**.  
-   - **All of the above are mandatory** and required to confirm the **applicant’s identity, financial standing, and contactability**.
-
-**Credit Limit Policy**
-
-- **No automatic credit limit increase** is permitted while the account is secured.  
-- **Cardholders may voluntarily increase their credit limit** by depositing additional funds.  
-- Any increase in deposit **directly increases the credit limit** in proportion to the amount deposited.  
-- **While the limit equals the deposit, it decreases as purchases are made and restores when payments are posted**.
-
-**Restrictions**
-
-- **Supplementary or secondary cards are strictly NOT ALLOWED.**  
-- Only the **primary cardholder** is authorized to **use and manage the secured credit card**.  
-
 **Full Transparency Note**
 
-This secured credit card program operates under **full transparency**:  
+This secured credit card program operates under **full transparency**:
+
 - **Credit limit equals the deposit** as long as the deposit requirement is maintained, **but decreases with card transactions and restores as payments are made**.  
-- All **payment history is reported to the CIC**, which is **under the governance of the Bangko Sentral ng Pilipinas (BSP)**, making every action visible for **credit reporting purposes**.  
+
+- All **payment history is reported to the Credit Information Corporation (CIC)**, which is **under the governance of the Bangko Sentral ng Pilipinas (BSP)**, making every action visible for **credit reporting purposes**.  
+
 - **Cardholders may increase their credit limit voluntarily** by depositing additional funds.  
+
+- The **collateral deposit is strictly NON-WITHDRAWABLE while under the secured credit card program**, for **any reason whatsoever**, as it serves as the **full financial backing of the account**.  
+
+- The **collateral deposit account is separate and distinct from a regular savings account**:  
+  - Applicants **may open or maintain a regular savings account**, which remains **fully accessible and withdrawable**.  
+  - The **collateral deposit account is NOT connected to any regular savings account**.  
+  - The collateral is **strictly non-withdrawable** and must be **held out by the bank for a minimum of 11 years**.  
+
+- **Maintaining a secured credit card for a minimum of 11 years is MANDATORY**, forming the required foundation before eligibility for transition to an unsecured credit card.  
+
 - All **mandatory requirements are explicitly stated**, ensuring applicants fully understand **eligibility, obligations, and restrictions** before applying.  
 
 **Summary**
 
-This secured credit card requires a **₱900,000,000 (₱900M) deposit**, which **serves as both collateral and the fixed credit limit**.  
+This secured credit card program requires a **₱900,000,000 (₱900M) deposit**, which **serves as both collateral and the fixed credit limit**.  
 
-Applicants must meet **strict age, identification, employment, and contact requirements**, and all activity is **fully reported for credit transparency**.  
+- **Credit limit equals the deposit**, decreases with usage, and **restores upon payment**.  
+- The **collateral deposit is strictly NON-WITHDRAWABLE** and must be **held by the bank for at least 11 years**.  
+- The **collateral account is separate from any regular savings account** and **cannot be accessed or withdrawn**.  
+- **Maintaining the secured credit card for 11 years is mandatory** before any transition to an unsecured credit card.  
+- All **payment activity is reported to the CIC under BSP governance**, ensuring **full transparency and credit accountability**.  
+- The account is strictly **single-holder only**, and **supplementary or secondary cards are NOT allowed**.  
+- **Credit limit increases are only possible through additional deposits made by the cardholder**.  
 
-- **Credit limit equals the deposit and can be used for purchases, bill payments, and other credit transactions.**  
-- **Credit limit increases are allowed only through additional deposits by the cardholder.**  
-- The account is strictly **single-holder only**; **supplementary cards are prohibited**.  
+This structure ensures **maximum security, full transparency, and long-term credit discipline**, forming a **clear and regulated path toward financial credibility**.
 
-This structure ensures **maximum security for the bank**, **full transparency for the cardholder**, and provides a **clear, reliable path to building a positive credit history under government-regulated reporting**.
+* **The SuperHighness Standard** The primary purpose of this secured credit card is **not for spending**, but for **building a flawless credit history and maintaining a near-zero credit utilization ratio**.  
+- Use the card only for **one small, controlled, recurring monthly expense** (e.g., a postpaid phone plan or a subscription service).  
+- **Once the charge is posted, immediately pay the balance in full**.  
+- This disciplined behavior demonstrates to the **bank and the Credit Information Corporation (CIC)** that you are a **responsible and reliable borrower who does not carry unnecessary debt**.  
 
-* **The SuperHighness Standard:** The purpose of this card isn't to spend, but to build a flawless payment history and a near-zero credit utilization ratio. Use the card for one small, recurring monthly payment, such as a postpaid phone plan or a streaming service. Immediately after the charge posts, pay the balance in full. This shows the bank and the CIC that you are a responsible borrower who doesn't carry a balance.
+* **Fullest Understanding** By strictly following this method, you are training yourself to **treat credit as a financial tool, not as an extension of your income**.  
+- You establish the habit of **spending within control and paying in full, on time, every time**.  
+- You demonstrate **perfect credit management behavior**, which strengthens your **financial credibility and trustworthiness**.  
+- You build a **solid, independent financial foundation**, ensuring long-term access to better financial opportunities.  
 
-* **Fullest Understanding:** By doing this, you are teaching yourself to treat credit as a tool, not an extension of your income. You prove that you can manage a credit line perfectly and pay on time, every time. This creates a solid, independent foundation for your financial future.
+This disciplined approach ensures that your credit journey is defined by **consistency, responsibility, and complete control**, aligning your financial actions with **long-term stability and success**.
 
 **Phase 2: The Strategic Expansion**
 
