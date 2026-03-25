@@ -34,7 +34,7 @@ This book is for anyone ready to take command of their financial life. It is for
 * **The Filipino** seeking the definitive, technically rigorous roadmap out of financial uncertainty and into absolute financial control.
 * **Anyone** determined to stop merely *using* their credit card and start **mastering** it, building a life of absolute control through a proven, superior strategy.
   
-## **Establishing from Good to Best Credit supervised by the Bangko Sentral ng Pilipinas (BSP) with THE VALEROSO UNIVERSITY owned by Richard M. Valeroso**
+## **Establishing Responsible Credit** is being governed by the Bangko Sentral ng Pilipinas (BSP) with THE VALEROSO UNIVERSITY owned by Richard M. Valeroso**
 
 "The SuperHighness Way" is an approach to building credit in the Philippines with a focus on complete independence, unwavering discipline, and a deep understanding of personal responsibility. The goal is to build a credit profile that stands on its own merit, free from reliance on anyone else's financial history. This strategy is for those who are serious about achieving financial mastery from the very start.
 
@@ -62,9 +62,9 @@ A secured credit card is a type of credit card that requires a cash deposit to s
 * **Requirements to Apply:** To get a secured credit card, you must meet the following general requirements, though they can vary slightly by financial institution:
     * **Age:** You must be at least 21 years old to be the primary cardholder for most institutions.
     * **Identification:** You need a valid, government-issued photo ID (e.g., Philippine Identification System or PhilSys ID, Driver's License, SSS, or Passport).
-    * **Bank Account:** You will need to open or have an existing savings account with the bank where you are applying.
+    * **Bank Account:** You will need to open or have an existing savings account with the bank where you are applying. You can't be approved for a **SECURED CARD** without a savings account.
     * **Security Deposit:** You must have the minimum cash amount for the deposit, which typically ranges from ₱10,000 to ₱30,000, depending on the institution. This deposit will be "held out" by the bank.
-    * **Job or Income Requirements:** This is the key advantage of a secured card. Unlike a regular credit card, a secured card often has no strict income requirement. All banks in the Philippines and in the World must require a business and residence landline number and they must typically require a payslip and ITR since the card is secured by your deposit. This makes it an ideal entry point for individuals who are just starting their careers, are self-employed with irregular income, or have no formal income yet.
+    * **Job or Income Requirements:** All banks in the Philippines and in the World must require a business and residence landline number and they must typically require a payslip and ITR since the card is under BSP government. This makes it an ideal entry point for individuals who are just starting their careers, are self-employed with irregular income, or have no formal income yet. 
 
 * **The SuperHighness Standard:** The purpose of this card isn't to spend, but to build a flawless payment history and a near-zero credit utilization ratio. Use the card for one small, recurring monthly payment, such as a postpaid phone plan or a streaming service. Immediately after the charge posts, pay the balance in full. This shows the bank and the CIC that you are a responsible borrower who doesn't carry a balance.
 
