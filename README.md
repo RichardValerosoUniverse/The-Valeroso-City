@@ -145,12 +145,38 @@ This structure ensures **maximum security for the bank**, **full transparency fo
 
 **Phase 2: The Strategic Expansion**
 
-After consistently managing your secured credit card with "SuperHighness" discipline for one to two years, your credit history will be strong enough to get a regular, **unsecured credit card**.
+After consistently managing your **secured credit card** with **discipline and responsibility**, your **credit history** may qualify you for a **regular, unsecured credit card**.  
 
-* **Requirements to Apply:** For an unsecured card, financial institutions will have stricter requirements:
-    * **Age:** You must be at least 21 years old.
-    * **Job/Income:** You will need a stable source of income. Banks typically require a minimum gross monthly income ranging from ₱15,000 to ₱30,000 or more, depending on the card tier. You will need to provide proof of income, such as your latest payslip, a Certificate of Employment, or an Income Tax Return (ITR).
-    * **Credit History:** Your flawless payment history from the secured card is your most important asset here. It serves as your track record, proving you are a reliable borrower.
+**Note:** Eligibility for the unsecured credit card is **determined by the bank**. It is **mandatory that you are at least 40 years old and have maintained a secured account for 11 years**. This ensures the bank has sufficient history to assess your reliability as a borrower.  
+
+**Requirements to Apply**
+
+Financial institutions apply **stricter standards** for unsecured credit cards compared to secured cards. Key requirements include:  
+
+1. **Age and Secured Card History:**  
+   - You must be at least **40 years old**.  
+   - You must have **maintained a secured credit card for at least 11 years**.  
+   - Both criteria are **mandatory** to qualify as a **primary cardholder** for an unsecured credit card.  
+
+2. **Credit History:**  
+   - Your **payment history from the secured credit card** is the most important factor.  
+   - A **flawless payment record** demonstrates your **reliability as a borrower** and serves as the foundation for qualifying for an **unsecured credit card**.  
+
+**Credit Limit and Collateral Policy**
+
+- **Your credit limit can be increased upon request** by the cardholder.  
+- Upon approval of the **unsecured credit card**, the **secured card collateral is fully released** and you are **no longer under collateral**.  
+- The **bank of your account must provide a credit limit equal to or higher than the released collateral**.  
+- For an **unsecured credit card**, the **credit limit can exceed the amount of your secured card deposit**.  
+- The **bank evaluates your credit history, repayment ability, and overall financial profile** before approving any limit increase.  
+- Ideally, the **credit limit for the unsecured card will always be higher than the released collateral**, providing additional purchasing power and financial flexibility.
+
+**Key Benefits of Moving to an Unsecured Card**
+
+- **No collateral required** once converted.  
+- **Higher credit limit** than your original secured card deposit.  
+- **Greater financial flexibility:** You can make **larger purchases** and manage **more transactions**.  
+- **Stronger credit profile:** Proper management further enhances your **creditworthiness**, opening doors for **loans, mortgages, and premium cards** in the future.
 
 * **The SuperHighness Standard:** Apply for a card from a reputable financial institution. The goal is to choose a reliable card, preferably with a low or waived annual fee and good rewards. You've already proven you can handle credit responsibly, so a financial institution will be more willing to approve you. Once approved, continue the same disciplined approach. Make a few small purchases a month and pay the balance in full immediately.
 
