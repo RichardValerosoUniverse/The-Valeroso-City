@@ -42,12 +42,6 @@ This book is for anyone ready to take command of their financial life. It is for
 
 Before you begin this journey, you must internalize this truth: **Once you embark on a credit journey, you are in the credit world and reality already.** Your financial actions, both good and bad, have real and lasting consequences. Every payment, every balance, and every application will be recorded and shared with the **Credit Information Corporation (CIC)**. This information will influence your financial life for years to come, affecting your ability to get a loan for a home, a car, or even a small business. Therefore, this is not a game or a test; it is a commitment to lifelong financial responsibility that is in line with your whole being.
 
-**The SuperHighness Timeline: A Marathon of Maturity and Responsibility**
-
-"The SuperHighness Way" understands that the journey to financial mastery is deeply personal. It is not about being early or being too late. It couples with a lot of considerations: your financial standing, your personal goals, and your unique journey in life.
-
-When it comes to age, the main requirements are **maturity and responsibility**. You can be 21 or 30, 35 or 40. The age at which you start is less important than your dedication and readiness to stand by the commitment. It is far better to delay getting your first credit product and be fully prepared, than to rush into it and make a mistake that could take years to correct.
-
 **A Lifetime of Responsibility: Credit Activity Can't Be Erased**
 
 Your credit card activity is a permanent part of your financial history. It's a lifetime commitment. Mistakes, once recorded by the CIC, can be difficult to remove and may follow you for years. Therefore, it is always better to be late in getting a credit card than to rush into a commitment you aren't ready for. **"The SuperHighness Way"** is about building a foundation that lasts, because life is forever in the SuperHighness Way.
