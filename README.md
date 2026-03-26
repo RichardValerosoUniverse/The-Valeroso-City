@@ -586,6 +586,7 @@ The SuperHighness Way is not just about financial habits; it is about a profound
 ## **Credit Card Companies in the Philippines for Termination:** The SuperHighness Way
 
 All of the products of the following banks are worst in all cycles of life in the Philippine market, their credit card products are definitely worst too, in all areas and they are starters of scamming activities towards their consumers.
+They have the worst offerings in all deposit accounts, therefore, avoid the listed banks!
 
 Here are the following Philippine-issued and Philippine-based credit cards that apparently have scamming attributes and for the sake of others, please avoid these card companies because they are best candidates to be thrown into fires of hell!
 
