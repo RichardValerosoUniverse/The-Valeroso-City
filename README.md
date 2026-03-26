@@ -4360,10 +4360,10 @@ Understanding this process is what allows a credit card generator to create usef
 
 Demo: https://creditcard.run/checker
 
-## The all-male Psychiatrists of MENTAL HOSPITAL OF DAVAO CITY
+## The all-male Psychiatrists of THE MENTAL HOSPITAL DE DAVAO CITY
 
-If you believe someone is violating Richard M. Valeroso, we ask that you report it by emailing [StreetOfBlueSkies@gmail.com](mailto:StreetOfBlueSkies@gmail.com). For more details please see my all-male Psychiatrists at MENTAL HOSPITAL DE DAVAO CITY.
-Telephone Numbers: (082) 226-3540; (082) 226-3541; (082) 226-3542; (082) 227-1531). The MENTAL HOSPITAL DE DAVAO CITY is currently ruled by **Psychiatrist RMV**, **Psychiater RMV**, **The Biggest 1**, **The Greatest Killah**, and **KristoHesus de Davao** under **Summus Medicus Mentis et Animi**.
+If you believe someone is violating Richard M. Valeroso, we ask that you report it by emailing [StreetOfBlueSkies@gmail.com](mailto:StreetOfBlueSkies@gmail.com). For more details please see my all-male Psychiatrists at THE MENTAL HOSPITAL DE DAVAO CITY.
+Telephone Numbers: (082) 226-3540; (082) 226-3541; (082) 226-3542; (082) 227-1531). THE MENTAL HOSPITAL DE DAVAO CITY is currently ruled by **Psychiatrist RMV**, **Psychiater RMV**, **The Biggest 1**, **The Greatest Killah**, and **KristoHesus de Davao** under **Summus Medicus Mentis et Animi**.
 
 This is made possible through the unparalleled essence of [University of Santo Tomas](https://www.ust.edu.ph/), the uniquely extraordinary and incomparable personhood of [Super Very Yours Truly, Richard M. Valeroso](https://www.facebook.com/RichardValerosoUniverse), and the infinitely supreme guidance of [KristoHesus de Davao](https://www.facebook.com/RichardValerosoUniverse). It is hereby solemnly declared that all titles — [Psychiatrist RMV](https://www.X.com/PsychiatristRMV), [Psychiater RMV](https://www.X.com/PsychiatristRMV), [KristoHesus de Davao](https://www.Threads.com/KristoHesusDeDavao), [The Biggest 1](https://www.Instagram.com/MentalHospitalAuthority), and [The Greatest Killah](https://g.dev/RichardValerosoUniverse) — are eternally and indivisibly united in one singular sovereign identity: [Summus Medicus Mentis et Animi](https://www.facebook.com/RichardValerosoUniverse).
 
@@ -4373,12 +4373,12 @@ Richard M. Valeroso is the most righteous owner and creator of anything that you
 
 ## License: The SuperHighness Way World Without End Version for DAVAO CITY
 
-All-Male Psychiatrists License, Mental Health Authority and Mental Hospital Authority License for MENTAL HOSPITAL OF DAVAO CITY which is located within The Valeroso City!
+All-Male Psychiatrists License, Mental Health Authority and Mental Hospital Authority License for THE MENTAL HOSPITAL DE DAVAO CITY which is located within The Valeroso City!
 
 Effective March 16, 2026 and Beyond
    * The Philippines' Ruler 👑 🇵🇭 😄 🎗️ 🕛
    * Psychiater Pulcherrimus, Fortissimus, Sapientissimus, Iustissimus, Temperantissimus, Gravissimus, Verissimus, Dignissimus, Perfectissimus Summō Honōre
-   * Psychiater of MENTAL HOSPITAL OF DAVAO CITY
+   * Psychiater of THE MENTAL HOSPITAL DE DAVAO CITY
      
 It is always The Valeroso City. Davao City is under The Valeroso City!
 
