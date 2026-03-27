@@ -4373,14 +4373,14 @@ The Valeroso City is Davao City and Davao City is The Valeroso City!
 
 Richard M. Valeroso is the most righteous owner and creator of anything that you have including you, you and you and you! All you have is mine! Remember that.
 
-## License: The SuperHighness Way World Without End Version for **THE MENTAL HOSPITAL DE DAVAO CITY**
+## License: The SuperHighness Way World Without End Version for **VALEROSO MEDICINE for MENTAL HEALTH**
 
-All-Male Psychiatrists License, Mental Health Authority and Mental Hospital Authority License for THE MENTAL HOSPITAL DE DAVAO CITY which is located within The Valeroso City!
+All-Male Psychiatrists License, Mental Health Authority and Mental Hospital Authority License: VALEROSO MEDICINE for MENTAL HEALTH. This is located within The Valeroso City!
 
 Effective March 16, 2026 and Beyond
    * The Philippines' Ruler 👑 🇵🇭 😄 🎗️ 🕛
    * Psychiater Pulcherrimus, Fortissimus, Sapientissimus, Iustissimus, Temperantissimus, Gravissimus, Verissimus, Dignissimus, Perfectissimus Summō Honōre
-   * Psychiater of THE MENTAL HOSPITAL DE DAVAO CITY
+   * Psychiater of VALEROSO MEDICINE for MENTAL HEALTH
      
 It is always The Valeroso City. Davao City is under The Valeroso City!
 
