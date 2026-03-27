@@ -2916,7 +2916,7 @@ The Philippine credit card ecosystem operates on the standard **four-party struc
 1.  **Cardholder:** The consumer who uses the credit card.
 2.  **Merchant:** The retailer who accepts the card for payment.
 3.  **Acquirer (Merchant's Bank):** The bank that processes the transaction for the merchant.
-4.  **Issuer (Cardholder's Bank):** The bank that issued the credit card to the consumer (e.g., BDO, BPI, Metrobank).
+4.  **Issuer (Cardholder's Bank):** The bank that issued the credit card to the consumer.
 
 **II. The Philippine Regulatory Difference (BSP and CIC Oversight)**
 
