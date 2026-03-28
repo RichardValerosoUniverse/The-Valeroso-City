@@ -210,53 +210,6 @@ In conclusion, the statement "Credit Card is not for everyone" is a powerful war
 
 ## Primary Card Ownership is the Strategic Choice: The SuperHighness Way
 
-In the Philippines, a supplementary cardholder's credit activity is indeed reported to the **Credit Information Corporation (CIC)**, the country's central credit registry. However, this is the most critical detail: the information is not reported as a separate, independent credit history. Instead, all activity—both positive and negative—is tied to the primary cardholder's main account.
-
-This shared record is the fundamental reason why The SuperHighness Way completely rejects supplementary card ownership as a method for building credit. The philosophy is built on complete financial independence and having total control over your own financial identity.
-
-Here is a full and expounded explanation of why supplementary cards are incompatible with The SuperHighness Way:
-
-**1. Loss of Control Over Your Own Financial Identity**
-
-The SuperHighness Way is about building a credit profile that is a direct and uncompromised reflection of *your* discipline. With a supplementary card, your credit history is a shared liability. Your creditworthiness is inextricably linked to the financial habits of the primary cardholder, which you have no power to control.
-
-* **Example (Philippine Setting):** Imagine you are a supplementary cardholder for your father's credit card. You are a disciplined spender, using the card only for a small, recurring expense and always paying your share on time. However, your father, the primary cardholder, decides to use the card for a major home renovation, maxing out the credit limit of ₱100,000. This high credit utilization ratio is reported to the CIC and is tied to the account. When a bank checks your credit history for a small personal loan, they will see that the account has a high utilization ratio, even though it wasn't your spending. You will be penalized for someone else's actions, and your loan could be denied or come with a higher interest rate.
-
-**2. Vulnerability to Someone Else's Mistakes**
-
-The core of The SuperHighness Way is to build a **flawless credit history**. A single late payment can stain a credit report for years, making it difficult to get approved for future loans with favorable terms. As a supplementary cardholder, a primary cardholder's error becomes your problem, regardless of your personal behavior.
-
-* **Example (Philippine Setting):** Your older sister is the primary cardholder, and you are supplementary. One month, she forgets to pay the credit card bill on time because of a personal emergency. This single late payment is reported to the CIC and creates a negative mark on the account. Years later, when you're ready to apply for a housing loan from a local bank or Pag-IBIG, the bank sees that late payment on your credit history. The underwriter may question your reliability, and you may be forced to accept a higher interest rate on a loan that will last for decades—all because of a mistake you had no part in.
-
-**3. It Promotes Dependence, Not Independence**
-
-The SuperHighness Way is a journey toward financial mastery and self-reliance. Starting as a supplementary cardholder is, by its very nature, a form of financial dependence. It relies on someone else's good standing to function. The goal of this strategy is to prove you can stand on your own two feet from the very start.
-
-* **Example (Philippine Setting):** Instead of becoming a supplementary cardholder, you follow The SuperHighness Way. You open your own secured credit card with a deposit of ₱20,000. You have full control over the credit limit and usage. When you consistently pay your bills on time, you are building a positive, independent credit history that is completely yours. This self-made record is your proof of financial maturity. Every single positive action is solely and directly attributed to you. When you eventually graduate to an unsecured card and, later, a major loan, it will be based purely on your own merits, not a shared or inherited credit reputation.
-
-While a supplementary card may offer a quick and easy entry into the credit world, it is fundamentally incompatible with the long-term, disciplined, and independent philosophy of The SuperHighness Way. To build a truly powerful and unshakeable credit profile, you must take full ownership and control of your financial journey from the very beginning.
-
-**Summary: Controlling Your Financial Destiny**
-
-The Strategic Choice—Primary Card Ownership—is fundamentally about seizing **financial destiny** by achieving **independence** and **self-determination** in three critical ways:
-
-**1**. **Establishing an Independent Financial Identity**
-
-* **The Foundation:** Control over one's destiny begins with self-identity. Owning a principal card is the act of establishing yourself, the individual, as a reliable debtor in the eyes of the financial system. You move from being a **dependent shadow user** (supplementary) to a **primary financial entity**.
-* **The Asset:** This identity is formalized in the **Credit Information Corporation (CIC)** database. Your personal payment history becomes a quantifiable asset—a financial resume—that works for you, independent of any family member or principal account holder.
-
-**2**. **Achieving Unfettered Financial Power**
-
-* **The Key to Autonomy:** Controlling your destiny means holding the keys to your financial mobility. The principal card provides **unfettered power** over your credit line, allowing you to scale your credit limit as your income grows, without needing approval from another person.
-* **Strategic Freedom:** This power grants strategic freedom to access liquidity through **Cash Advances** or to optimize debt through **Balance Transfers**, treating the card not just as a spending tool, but as a flexible component of a broader financial plan.
-
-**3**. **Eliminating Inherited Risk**
-
-* **The Sovereign Stance:** To control one's destiny is to control one's liabilities. By choosing primary ownership, you **eliminate the asymmetrical risk** inherent in the supplementary model—the risk of being legally liable (solidarily) for debt and facing a negative credit report, all while having zero control over the principal's ultimate payment decisions.
-* **The Price of Dependency:** Settling for supplementary status is choosing **convenience at the high cost of dependency** and vulnerability. It is a tacit acceptance that another person's financial failure can directly and severely compromise your future borrowing power.
-
-**Therefore, Primary Card Ownership is not just about having a card; it is the definitive strategic choice for anyone committed to building an independent financial future, where success is purely a result of their own responsible actions.**
-
 ## Supplementary Card Ownership and Liability in the Philippines: The SuperHighness Way
 
 Supplementary card ownership in the Philippines is governed by **Bangko Sentral ng Pilipinas (BSP)** regulations and the specific **Terms and Conditions (T&Cs)** of the issuing bank.
