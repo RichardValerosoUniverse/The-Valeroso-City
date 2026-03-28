@@ -536,7 +536,7 @@ The SuperHighness Way is not just about financial habits; it is about a profound
 
 **The SuperHighness Mindset:** You will see that money is simply a tool that enables you to live your most authentic life. Your financial discipline will give you the freedom to pursue your passions, spend time with loved ones, and invest in experiences that truly matter. Your financial journey will become a seamless part of your personal journey, leading to a life of complete congruence and fulfillment.
 
-## **Terminated Credit Card Companies in the Philippines due to FRAUD AND BETRAYAL OF CONSCIENCE** as reviewed and judged by Richard M. Valeroso Universitas
+## **Terminated Credit Card Companies in the Philippines due to FRAUD AND BETRAYAL OF CONSCIENCE** as reviewed and judged by Super Very Yours Truly, Richard M. Valeroso
 
 All of the products of the following banks are worst in all cycles of life in the Philippine market, their credit card products are definitely worst too, in all areas and they are starters of scamming activities towards their consumers.
 They have the worst offerings in all deposit accounts, therefore, the listed banks are terminated forever and they dont exist in all locations within The Valeroso City and anywhere in the Philippines!
