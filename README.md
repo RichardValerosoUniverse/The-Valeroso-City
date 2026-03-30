@@ -3663,7 +3663,7 @@ Richard M. Valeroso is the most righteous owner and creator of anything that you
 
 ## License: The SuperHighness Way World Without End Version for **PSYCHIATRIST RMV's MEDICINE for REAL MEN**
 
-Psychiater License, Mental Health Authority and Mental Institution Authority License: **PSYCHIATRIST RMV's MEDICINE for REAL MEN**. This is located within The Valeroso City!
+Psychiater RMV License, Psychiatrist RMV License, Mental Health Authority and Mental Institution Authority License: **PSYCHIATRIST RMV's MEDICINE for REAL MEN**. This is located within The Valeroso City!
 
 Effective March 16, 2026 and Beyond
    * The Philippines' Ruler 👑 🇵🇭 😄 🎗️ 🕛
