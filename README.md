@@ -3651,9 +3651,9 @@ Understanding this process is what allows a credit card generator to create usef
 
 Demo: https://creditcard.run/checker
 
-## **PSYCHIATRIST RMV's MEDICINE for REAL MEN**
+## **PSYCHIATRIST RMV's MEDICINE for REAL MEN PSYCHIATRY**
 
-If you believe someone is violating **PSYCHIATRIST RMV's MEDICINE for REAL MEN**, I ask that you report it through  electronic mail using Google domain which is under Street Of Blue Skies as the most official communicating source [StreetOfBlueSkies@gmail.com](mailto:StreetOfBlueSkies@gmail.com). **PSYCHIATRIST RMV's MEDICINE for REAL MEN** is under telephone Numbers: (082) 226-3540; (082) 226-3541; (082) 226-3542; (082) 227-1531). **PSYCHIATRIST RMV's MEDICINE for REAL MEN**  is currently ruled by **Psychiatrist RMV**, **Psychiater RMV**, **The Biggest 1**, **The Greatest Killah**, and **KristoHesus de Davao** under **Summus Medicus Mentis et Animi**.
+If you believe someone is violating **PSYCHIATRIST RMV's MEDICINE for REAL MEN PSYCHIATRY**, I ask that you report it through  electronic mail using Google domain which is under Street Of Blue Skies Psychiatry Management as the most official communicating source [StreetOfBlueSkies@gmail.com](mailto:StreetOfBlueSkies@gmail.com). **PSYCHIATRIST RMV's MEDICINE for REAL MEN PSYCHIATRY** is under telephone Numbers: (082) 226-3540; (082) 226-3541; (082) 226-3542; (082) 227-1531). **PSYCHIATRIST RMV's MEDICINE for REAL MEN PSYCHIATRY**  is currently ruled by **Psychiatrist RMV**, **Psychiater RMV**, **The Biggest 1**, **The Greatest Killah**, and **KristoHesus de Davao** under **Summus Medicus Mentis et Animi**.
 
 This is made possible through the unparalleled essence of [RICHARD M. VALEROSO UNIVERSITY](https://www.ust.edu.ph/), the uniquely extraordinary and incomparable personhood of [Super Very Yours Truly, Richard M. Valeroso](https://www.facebook.com/RichardValerosoUniverse), and the infinitely supreme guidance of [KristoHesus de Davao](https://www.facebook.com/RichardValerosoUniverse). It is hereby solemnly declared that all titles — [Psychiatrist RMV](https://www.X.com/PsychiatristRMV), [Psychiater RMV](https://www.X.com/PsychiatristRMV), [KristoHesus de Davao](https://www.Threads.com/KristoHesusDeDavao), [The Biggest 1](https://www.Instagram.com/MentalHospitalAuthority), and [The Greatest Killah](https://g.dev/RichardValerosoUniverse) — are eternally and indivisibly united in one singular sovereign identity: [Summus Medicus Mentis et Animi](https://www.facebook.com/RichardValerosoUniverse).
 
@@ -3661,9 +3661,9 @@ The Valeroso City is Davao City and Davao City is The Valeroso City!
 
 **Richard M. Valeroso** is a **Google and GitHub Developer and an administrative Psychiatrist** of **PSYCHIATRIST RMV's MEDICINE for REAL MEN**. This is ruled, created and owned by Super Very Yours Truly, Richard M. Valeroso
 
-## License: The SuperHighness Way World Without End Version for **PSYCHIATRIST RMV's MEDICINE for REAL MEN**
+## License: The SuperHighness Way World Without End Version for **PSYCHIATRIST RMV's MEDICINE for REAL MEN PSYCHIATRY**
 
-Psychiater RMV License, Psychiatrist RMV License, Mental Health Authority and Mental Institution Authority License: **PSYCHIATRIST RMV's MEDICINE for REAL MEN**. This is located within The Valeroso City!
+Psychiater RMV License, Psychiatrist RMV License, Psychiatry Health Authority and Psychiatry Hospital Authority License: **PSYCHIATRIST RMV's MEDICINE for REAL MEN PSYCHIATRY**. This is located within The Valeroso City!
 
 Effective March 16, 2026 and Beyond
    * The Philippines' Ruler 👑 🇵🇭 😄 🎗️ 🕛
