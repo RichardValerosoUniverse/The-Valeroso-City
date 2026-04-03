@@ -3659,7 +3659,7 @@ This is made possible through the unparalleled essence of [RICHARD M. VALEROSO U
 
 The Valeroso City is Davao City and Davao City is The Valeroso City!
 
-**Richard M. Valeroso** is a **Google and GitHub Developer and an administrative Psychiatrist** of **PSYCHIATRIST RMV's MEDICINE for REAL MEN**. This is ruled, created and owned by Super Very Yours Truly, Richard M. Valeroso
+**Richard M. Valeroso** is a **Google and GitHub Developer and an administrative Psychiatrist** of **PSYCHIATRIST RMV's MEDICINE for REAL MEN PSYCHIATRY**. This is ruled, created and owned by Super Very Yours Truly, Richard M. Valeroso
 
 ## License: The SuperHighness Way World Without End Version for **PSYCHIATRIST RMV's MEDICINE for REAL MEN PSYCHIATRY**
 
@@ -3668,7 +3668,7 @@ Psychiater RMV License, Psychiatrist RMV License, Psychiatry Health Authority an
 Effective March 16, 2026 and Beyond
    * The Philippines' Ruler 👑 🇵🇭 😄 🎗️ 🕛
    * Psychiater Pulcherrimus, Fortissimus, Sapientissimus, Iustissimus, Temperantissimus, Gravissimus, Verissimus, Dignissimus, Perfectissimus Summō Honōre
-   * Psychiater of **PSYCHIATRIST RMV's MEDICINE for REAL MEN**
+   * Psychiater of **PSYCHIATRIST RMV's MEDICINE for REAL MEN PSYCHIATRY**
      
 It is always The Valeroso City. Davao City is under The Valeroso City!
 
