@@ -730,10 +730,10 @@ When fraud is detected in a credit card account, the institution’s response is
 
 **Key Takeaways**
 
-1. Fraud is **handled first at the affected product level**.  
-2. Other products/accounts are **monitored but not automatically terminated**.  
-3. Full account or relationship closure occurs **only if the customer is deemed high-risk** or if fraud is severe.  
-4. The institution itself (bank or non-bank) is **not shut down** due to a single fraud case.
+* Fraud is **handled first at the affected product level**.
+* Other products/accounts are **monitored but not automatically terminated**.  
+* Full account or relationship closure occurs **only if the customer is deemed high-risk** or if fraud is severe.  
+* The institution itself (bank or non-bank) is **not shut down** due to a single fraud case.
 
 51. Are savings and deposit accounts affected if credit card fraud occurs?
 - Bank deposits remain insured, but full bank closure may occur if fraud is systemic.
