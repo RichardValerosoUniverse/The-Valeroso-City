@@ -581,12 +581,12 @@ This guide addresses consumer concerns about credit card company termination, fr
 - Yes. Scammers may pose as collection agents; verify official channels.
 
 15. What steps should cardholders take immediately?
-1. Stop using the card
-2. Document transactions
-3. Pay legitimate balances
-4. File disputes
-5. Submit claims
-6. Avoid scams
+* Stop using the card
+* Document transactions
+* Pay legitimate balances
+* File disputes
+* Submit claims
+* Avoid scams
 
 16. Can I switch to another credit card or bank immediately?
 - Yes, provided you settle balances from the terminated company.
