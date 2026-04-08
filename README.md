@@ -607,8 +607,8 @@ This guide addresses consumer concerns about credit card company termination, fr
 21. How is termination communicated to the public?
 - Through BSP, PDIC, SEC, or court-appointed liquidator announcements.
 
-22. Are deposits of ₱100,000 insured?
-- Yes. Amounts up to **₱1,000,000 per depositor** are fully insured.
+22. If my bank closes and I only have ₱100,000, will I lose any money?
+- No. You will get all your ₱100,000 back because deposits up to ₱1,000,000 per person per bank are protected
 
 23. How are joint accounts insured?
 - Each co-depositor is insured individually up to **₱1,000,000**.
