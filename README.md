@@ -567,14 +567,15 @@ This guide addresses consumer concerns about credit card company termination, fr
 - Non-banks: Only card operations are affected.
 
 13. How is the liquidation process different for banks vs non-banks?
-| Feature | Banks | Non-Banks |
-|---------|-------|-----------|
-| License revoked | BSP | BSP |
-| Deposits affected | Yes | N/A |
-| PDIC involvement | Yes | No |
-| SEC/Court supervision | Sometimes | Yes |
-| Cardholder claims | PDIC/liquidator | SEC/liquidator |
-| Recovery guarantee | Only insured deposits | Not guaranteed |
+
+| Feature                  | Banks                      | Non-Banks                  |
+|--------------------------|---------------------------|---------------------------|
+| License revoked          | BSP                        | BSP                        |
+| Deposits affected        | Yes                        | No                         |
+| PDIC involvement         | Yes                        | No                         |
+| SEC / Court supervision  | Sometimes                  | Yes                        |
+| Cardholder claims        | PDIC / Liquidator          | SEC / Liquidator           |
+| Recovery guarantee       | Only insured deposits      | Not guaranteed             |
 
 14. Are there risks of secondary fraud after termination?
 - Yes. Scammers may pose as collection agents; verify official channels.
