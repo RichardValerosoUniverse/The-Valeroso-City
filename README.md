@@ -540,7 +540,7 @@ This guide addresses consumer concerns about credit card company termination, fr
 - Possibly. Recovery depends on liquidation or takeover arrangements.
 
 5. Are deposits in the bank insured?
-- Yes, up to **₱1,000,000 per depositor**, including small amounts like ₱100,000.
+- Yes. The Philippine Deposit Insurance Corporation (PDIC) protects deposits in banks up to **₱1,000,000 per depositor per bank**. This means that even small deposits, like ₱100,000, are fully covered. Any amount exceeding ₱1,000,000 may not be insured and will depend on the liquidation or recovery process.
 
 6. Are non-bank credit card issuers covered by PDIC?
 - No. Non-bank issuers’ claims are handled by SEC or court-appointed liquidators.
