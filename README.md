@@ -716,9 +716,24 @@ Fraud in a credit card can affect other departments in BOTH banks and non-banks 
 - Monitor statements
 - File claims promptly
 
-50. What happens if fraud occurs only in the credit card department?
-- Banks: BSP may close the entire bank.
-- Non-banks: Only credit card operations affected.
+50. What Happens if Fraud Occurs Only in the Credit Card Department?
+
+When fraud is detected in a credit card account, the institution’s response is primarily **product-focused**, but can escalate depending on risk:
+
+| Aspect | Typical Outcome | Details / Notes |
+|--------|----------------|----------------|
+| Credit card account | ✅ Blocked, frozen, or replaced | Immediate action is taken to **contain the fraud** and prevent further loss. |
+| Other customer accounts (savings, deposits, loans) | ⚠ Usually unaffected initially | Other accounts are monitored but **remain active** unless fraud indicates broader risk. |
+| Customer risk assessment | 🔍 Reviewed by the bank or non-bank | Institutions evaluate if the fraud reflects **intentional misuse, identity theft, or suspicious behavior**. |
+| Escalation | ❗ Possible restrictions or account closures | If the fraud is serious or part of a pattern, other accounts may be **temporarily or permanently restricted**. |
+| Institution-level impact | ❌ Entire bank or company is not closed | Regulatory authorities like the 0 intervene only in **systemic failures or insolvency**, not isolated fraud cases. |
+
+**Key Takeaways**
+
+1. Fraud is **handled first at the affected product level**.  
+2. Other products/accounts are **monitored but not automatically terminated**.  
+3. Full account or relationship closure occurs **only if the customer is deemed high-risk** or if fraud is severe.  
+4. The institution itself (bank or non-bank) is **not shut down** due to a single fraud case.
 
 51. Are savings and deposit accounts affected if credit card fraud occurs?
 - Bank deposits remain insured, but full bank closure may occur if fraud is systemic.
