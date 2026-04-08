@@ -746,12 +746,14 @@ When fraud is detected in a credit card account, the institution’s response is
 
 54. Will PDIC Handle Liquidation for Credit Card Fraud?
 
-1. Banks (covered by PDIC)
+**1. Banks (covered by PDIC)**
+
 - PDIC only handles **insured deposits**, up to the coverage limit (₱1,000,000 per depositor per bank).  
 - **Credit card fraud itself is not covered by PDIC**, because credit card balances are **liabilities of the bank**, not deposits.  
 - PDIC may step in **only if the bank closes** and the customer has deposits; PDIC does **not pay for stolen credit card transactions**.
 
-2. Non-Banks / Fintechs
+**2. Non-Banks / Fintechs**
+
 - PDIC **does not cover non-bank financial institutions**.  
 - If a non-bank collapses or has fraud issues:  
   - Claims are handled through **court-appointed liquidators** or **SEC-supervised receivership**.  
