@@ -710,7 +710,7 @@ Fraud in a credit card can affect other departments in BOTH banks and non-banks 
 48. What if the terminated company merged with another institution?
 - BSP may allow account transfer; fraud-related accounts may still require liquidation.
 
-49. How can I protect myself in the future?
+49. What steps can I take to protect my deposits and reduce financial risk in the future?
 - Verify BSP licensing
 - Keep deposits below **₱1,000,000**
 - Monitor statements
