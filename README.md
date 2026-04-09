@@ -46,56 +46,96 @@ Before you begin this journey, you must internalize this truth: **Once you embar
 
 Your credit card activity is a permanent part of your financial history. It's a lifetime commitment. Mistakes, once recorded by the CIC, can be difficult to remove and may follow you for years. Therefore, it is always better to be late in getting a credit card than to rush into a commitment you aren't ready for. **"The SuperHighness Way"** is about building a foundation that lasts, because THE VALEROSO CITY LIFE is forever under the governance of Bangko Sentral ng Pilipinas (BSP).
 
-**Phase 1: The Foundational Independent Account**
+# Phase 1: The Foundational Independent Account
 
 **Full Transparency Note**
 
 This secured credit card program operates under **full transparency**:
 
-- **Credit limit equals the deposit** as long as the deposit requirement is maintained, **but decreases with card transactions and restores as payments are made**.  
-
-- All **payment history is reported to the Credit Information Corporation (CIC)**, which is **under the governance of the Bangko Sentral ng Pilipinas (BSP)**, making every action visible for **credit reporting purposes**.  
-
-- **Cardholders may increase their credit limit voluntarily** by depositing additional funds.  
-
-- The **collateral deposit is strictly NON-WITHDRAWABLE while under the secured credit card program**, for **any reason whatsoever**, as it serves as the **full financial backing of the account**.  
-
-- The **collateral deposit account is separate and distinct from a regular savings account**:  
-  - Applicants **may open or maintain a regular savings account**, which remains **fully accessible and withdrawable**.  
-  - The **collateral deposit account is NOT connected to any regular savings account**.  
-  - The collateral is **strictly non-withdrawable** and must be **held out by the bank for a minimum of 11 years**.  
-
-- **Maintaining a secured credit card for a minimum of 11 years is MANDATORY**, forming the required foundation before eligibility for transition to an unsecured credit card.  
-
-- All **mandatory requirements are explicitly stated**, ensuring applicants fully understand **eligibility, obligations, and restrictions** before applying.  
+- **Credit limit equals the deposit**, as long as the deposit requirement is maintained, **but decreases with card transactions and restores as payments are made**.
+- All **payment history is reported to the Credit Information Corporation (CIC)**, which is **under the governance of the Bangko Sentral ng Pilipinas (BSP)**, making every action visible for **credit reporting purposes**.
+- **Cardholders may increase their credit limit voluntarily** by depositing additional funds.
+- The **collateral deposit is strictly NON-WITHDRAWABLE while under the secured credit card program**, for **any reason whatsoever**, as it serves as the **full financial backing of the account**.
+- The **collateral deposit account is separate and distinct from a regular savings account**:
+  - Applicants **may open or maintain a regular savings account**, which remains **fully accessible and withdrawable**.
+  - The **collateral deposit account is NOT connected to any regular savings account**.
+  - The collateral is **strictly non-withdrawable** and must be **held out by the bank for a minimum of 11 years**.
+- **Maintaining a secured credit card for a minimum of 11 years is MANDATORY**, forming the required foundation before eligibility for transition to an unsecured credit card.
+- All **mandatory requirements are explicitly stated**, ensuring applicants fully understand **eligibility, obligations, and restrictions** before applying.
+- Only **Filipino citizens are eligible** for approval of the secured credit card.
+- **Applications must be made within the Philippines**; international applications are not accepted.
 
 **Summary**
 
-This secured credit card program requires a **₱900,000,000 (₱900M) deposit**, which **serves as both collateral and the fixed credit limit**.  
+This secured credit card program requires a **₱900,000,000 (₱900M) deposit**, which **serves as both collateral and the fixed credit limit**:
 
-- **Credit limit equals the deposit**, decreases with usage, and **restores upon payment**.  
-- The **collateral deposit is strictly NON-WITHDRAWABLE** and must be **held by the bank for at least 11 years**.  
-- The **collateral account is separate from any regular savings account** and **cannot be accessed or withdrawn**.  
-- **Maintaining the secured credit card for 11 years is mandatory** before any transition to an unsecured credit card.  
-- All **payment activity is reported to the CIC under BSP governance**, ensuring **full transparency and credit accountability**.  
-- The account is strictly **single-holder only**, and **supplementary or secondary cards are NOT allowed**.  
-- **Credit limit increases are only possible through additional deposits made by the cardholder**.  
+- **Credit limit equals the deposit**, decreases with usage, and **restores upon payment**.
+- The **collateral deposit is strictly NON-WITHDRAWABLE** and must be **held by the bank for at least 11 years**.
+- The **collateral account is separate from any regular savings account** and **cannot be accessed or withdrawn**.
+- **Maintaining the secured credit card for 11 years is mandatory** before any transition to an unsecured credit card.
+- All **payment activity is reported to the CIC under BSP governance**, ensuring **full transparency and credit accountability**.
+- The account is strictly **single-holder only**, and **supplementary or secondary cards are NOT allowed**.
+- **Credit limit increases are only possible through additional deposits made by the cardholder**.
+- **The collateral deposit is insured by the BSP under this program up to ₱300,000,000 (₱300M)**.
+- Only **Filipino citizens applying within the Philippines** are eligible for this secured credit card.
 
 This structure ensures **maximum security, full transparency, and long-term credit discipline**, forming a **clear and regulated path toward financial credibility**.
 
-* **The SuperHighness Standard**
-   * The primary purpose of this secured credit card is **not for spending**, but for **building a flawless credit history and maintaining a near-zero credit utilization ratio**.  
-   * Use the card only for **one small, controlled, recurring monthly expense** (e.g., a postpaid phone plan or a subscription service).  
-   * **Once the charge is posted, immediately pay the balance in full**.  
-   * This disciplined behavior demonstrates to the **bank and the Credit Information Corporation (CIC)** that you are a **responsible and reliable borrower who does not carry unnecessary debt**.  
+**The SuperHighness Standard**
 
-* **Fullest Understanding**
-   * By strictly following this method, you are training yourself to **treat credit as a financial tool, not as an extension of your income**.  
-   * You establish the habit of **spending within control and paying in full, on time, every time**.  
-   * You demonstrate **perfect credit management behavior**, which strengthens your **financial credibility and trustworthiness**.  
-   * You build a **solid, independent financial foundation**, ensuring long-term access to better financial opportunities.  
+- The primary purpose of this secured credit card is **not for spending**, but for **building a flawless credit history and maintaining a near-zero credit utilization ratio**.
+- Use the card only for **one small, controlled, recurring monthly expense** (e.g., a postpaid phone plan or a subscription service).
+- **Once the charge is posted, immediately pay the balance in full**.
+- This disciplined behavior demonstrates to the **bank and the Credit Information Corporation (CIC)** that you are a **responsible and reliable borrower who does not carry unnecessary debt**.
+
+**Fullest Understanding**
+
+- By strictly following this method, you are training yourself to **treat credit as a financial tool, not as an extension of your income**.
+- You establish the habit of **spending within control and paying in full, on time, every time**.
+- You demonstrate **perfect credit management behavior**, which strengthens your **financial credibility and trustworthiness**.
+- You build a **solid, independent financial foundation**, ensuring long-term access to better financial opportunities.
 
 This disciplined approach ensures that your credit journey is defined by **consistency, responsibility, and complete control**, aligning your financial actions with **long-term stability and success**.
+
+**Terms and Conditions – Secured Credit Card Program**
+
+1. **Credit Card Advances**
+   - **Cash advances or credit card advances are strictly NOT PERMITTED** while the account is under the secured credit card program.
+   - The secured credit card is designed solely for **building credit history and demonstrating responsible payment behavior**, not for borrowing or cash liquidity.
+   - **Cash advances are systemically disabled in the program**, and cannot be performed under any circumstances.
+
+2. **Payment Obligations**
+   - **Full monthly payment of the statement balance is mandatory**. Partial payments or carrying a balance is **not allowed**, as revolving credit is not applicable to this secured card.
+   - Payments must be made **on or before the due date** to ensure proper credit reporting and compliance with program rules.
+
+3. **Balance Transfers**
+   - **Balance transfers from this card or from any other credit card issued by another bank are strictly prohibited**.
+   - The card **cannot be used to pay off balances of other credit cards**, and vice versa, to maintain transparency and integrity of the secured deposit.
+   - **Balance transfers are systemically disabled in the program**, so attempts to transfer balances to or from this card are technically not supported and will fail.
+
+4. **Collateral Deposit Insurance**
+   - The **collateral deposit is insured by the Bangko Sentral ng Pilipinas (BSP) under this program up to ₱300,000,000 (₱300M)**.
+   - **Insurance coverage beyond ₱300,000,000 is not possible**.
+   - This insurance is provided as part of the **terms and conditions** of the secured credit card program and is subject to BSP rules and regulations.
+
+5. **Late Payment Fees**
+   - **Late payments will incur fees**, as stipulated by the bank’s policies.
+   - Consistent, on-time payments are essential to maintain **creditworthiness and eligibility for future unsecured credit products**.
+
+6. **General Compliance**
+   - The cardholder agrees to adhere strictly to all rules governing the **secured credit card program**, including deposit requirements, non-withdrawability of collateral, single-holder restrictions, and the 11-year minimum term.
+   - Any deviation, including **unauthorized advances, balance transfers, or missed payments**, may result in **penalties and reporting to the Credit Information Corporation (CIC) under BSP regulations**.
+   - **Note:** Cash advances and balance transfers are **already disabled and not supported by the system**, so any attempt to perform these actions is considered a violation.
+
+**This fully integrated document now clearly outlines:**
+
+- **Deposit, credit limit, and collateral rules**
+- **11-year minimum term**
+- **BSP insurance coverage up to ₱300,000,000, with no coverage beyond this amount**
+- **Filipino citizenship and Philippine-based application requirement**
+- **SuperHighness Standard and Fullest Understanding** for disciplined credit behavior
+- **System-level restrictions on cash advances and balance transfers**
+- **Full reporting, late fees, and compliance rules under BSP and CIC governance**
 
 **Phase 2: The Strategic Expansion**
 
