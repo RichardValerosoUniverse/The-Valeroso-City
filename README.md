@@ -185,7 +185,7 @@ Financial institutions apply **stricter standards** for unsecured credit cards c
 
 1. **Cash Advances**
    - Cash advances are **allowed up to ₱1,000,000 per 30-day period**.
-   - **A fixed fee of ₱10,000 applies per cash advance transaction**.
+   - **A fixed fee of ₱50,000 applies per cash advance transaction**.
    - **Credit card fees and applicable charges must also be observed**.
 
 2. **Balance Transfers**
