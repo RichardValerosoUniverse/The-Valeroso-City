@@ -204,8 +204,8 @@ Financial institutions apply **stricter standards** for unsecured credit cards c
 **Notes:**  
 
 - **Secured credit card annual fee is free**.  
-- **Once converted to an unsecured credit card, the annual fee is always ₱3,000,000 and cannot be waived.**  
-- **Late fees for the secured card program are similar to other regular credit card accounts; however, for the **unsecured card program**, the late fee is always ₱100,000 per late transaction.**  
+- **Once converted to an unsecured credit card, the annual fee is always ₱5,000,000 and cannot be waived.**  
+- **Late fees for the secured card program are similar to other regular credit card accounts; however, for the **unsecured card program**, the late fee is always ₱200,000 per late transaction.**  
 - **All features, limits, and restrictions are pre-programmed in the system. Any functionality not explicitly stated in the Terms and Conditions is automatically disabled.**
 
 ## **Credit Card Is Not For Everyone**
