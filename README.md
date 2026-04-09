@@ -46,7 +46,7 @@ Before you begin this journey, you must internalize this truth: **Once you embar
 
 Your credit card activity is a permanent part of your financial history. It's a lifetime commitment. Mistakes, once recorded by the CIC, can be difficult to remove and may follow you for years. Therefore, it is always better to be late in getting a credit card than to rush into a commitment you aren't ready for. **"The SuperHighness Way"** is about building a foundation that lasts, because THE VALEROSO CITY LIFE is forever under the governance of Bangko Sentral ng Pilipinas (BSP).
 
-# Phase 1: The Foundational Independent Account
+**Phase 1: The Foundational Independent Account**
 
 **Full Transparency Note**
 
