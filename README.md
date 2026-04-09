@@ -937,7 +937,6 @@ Deposits are insured up to the PDIC limit regardless of any credit card linkage;
      - Licensing and registration for credit card issuance
      - Risk management and capital requirements
      - Customer protection and dispute handling
-   - Legal reference: **BSP Circular No. 1105 (2018) on Non-Bank Credit Card Issuers (NBCCI)**
 
 2. **SEC Role**
    - The **Securities and Exchange Commission (SEC)** oversees **corporate registration and governance** of the company.
