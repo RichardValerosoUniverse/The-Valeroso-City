@@ -759,9 +759,9 @@ When fraud is detected in a credit card account, the institution’s response is
   - Recovery depends on the **assets available** and legal process.
 
 **Key Takeaways**
-1. **PDIC = deposits only**, not credit card fraud or liabilities.  
-2. **Credit card fraud is handled by the bank or fintech** through internal investigations and liability rules.  
-3. **Liquidation of a failed institution** is separate from insurance:  
+* **PDIC = deposits only**, not credit card fraud or liabilities.  
+* **Credit card fraud is handled by the bank or fintech** through internal investigations and liability rules.  
+* **Liquidation of a failed institution** is separate from insurance:  
    - Banks → PDIC for deposits  
    - Non-banks → SEC/court liquidators  
 
