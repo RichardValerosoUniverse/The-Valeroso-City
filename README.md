@@ -954,6 +954,7 @@ Deposits are insured up to the PDIC limit regardless of any credit card linkage;
 **BSP regulates the credit card business; SEC only registers the company. Any claim that SEC supervises credit card operations is incorrect.**
 
 **Short Answer**
+
 **BSP supervises non-bank credit card issuers; SEC only handles corporate registration.**
 
 98. Can new management reopen terminated accounts?
