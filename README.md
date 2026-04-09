@@ -941,7 +941,6 @@ Deposits are insured up to the PDIC limit regardless of any credit card linkage;
 2. **SEC Role**
    - The **Securities and Exchange Commission (SEC)** oversees **corporate registration and governance** of the company.
    - SEC does **not regulate day-to-day operations** of credit card issuance or customer accounts.
-   - Legal reference: **Revised Corporation Code of the Philippines (RA 11232)**
 
 3. **Example: Zed Financial PH Inc.**
    - SEC-registered as a corporate entity 
