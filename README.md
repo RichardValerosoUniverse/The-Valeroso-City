@@ -869,8 +869,19 @@ When fraud is detected in a credit card account, the institution’s response is
 81. What happens to prepaid balances during takeover?
 - May be transferred or liquidated; verify with liquidator or new management.
 
-82. Are deposits linked to credit cards treated differently?
-- No; PDIC insurance applies up to ₱1,000,000.
+82. # Are Deposits Linked to Credit Cards Treated Differently?
+
+- No, deposits are not treated differently.  
+
+**Explanation**
+
+- PDIC insurance covers **deposit accounts** up to **₱1,000,000 per depositor per bank**.  
+- Whether a deposit is linked to a credit card (e.g., for automatic payments, overdraft, or rewards) **does not affect coverage**.  
+- Credit card balances themselves are **liabilities of the bank**, not deposits, and are **not covered by PDIC**.  
+
+**Key Point**
+
+Deposits are insured up to the PDIC limit regardless of any credit card linkage; only the actual deposit balance matters.  
 
 83. Can new management issue new credit cards during takeover?
 - No, issuance is suspended until regulatory clearance.
