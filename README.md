@@ -797,8 +797,28 @@ When fraud is detected in a credit card account, the institution’s response is
 64. Will rewards transfer?
 - Depends on takeover agreement; some may convert to creditor claims.
 
-65. Can I refuse takeover and settle independently?
-- Yes. Consumers can settle directly with the liquidator.
+65. Can I Refuse Takeover and Settle Independently?
+
+**Most Accurate Answer (BSP / PDIC / SEC Aligned)**
+
+| Aspect | Explanation |
+|--------|------------|
+| Right to refuse takeover | ✅ Consumers, including depositors and creditors, **can choose not to authorize a third party to handle their claims**. They may settle **directly with the liquidator**. |
+| Settlement process | 🔹 Must follow the **official legal process** for liquidation: <br>• For banks: PDIC handles insured deposits and supervises claims. <br>• For non-banks: SEC or court-appointed liquidators manage claims. |
+| Legal framework | ⚠ Settlement is valid **only if it complies with liquidation rules**, including deadlines, documentation, and verification. |
+| Control & flexibility | ✔ Direct settlement allows the consumer to **retain control over the claim** and negotiate directly with the liquidator. |
+| Limitations | ❌ Consumers **cannot bypass the legal process**; all recoveries are subject to **asset availability, priority of claims, and legal approval**. |
+
+**Key Points**
+
+1. **Refusing a takeover is allowed** under Philippine law.  
+2. All claims must go through the **official liquidation framework**.  
+3. For banks, PDIC ensures coverage of insured deposits; for non-banks, SEC or court liquidators handle claims.  
+4. Direct settlement does **not guarantee faster recovery**, but allows more control.  
+
+**Short Answer**
+
+**Yes, consumers can refuse takeover and settle directly with the liquidator, as long as they follow the legal liquidation process and provide all required documentation.**
 
 66. What if no takeover occurs?
 - Liquidator handles collections; recovery may be partial.
