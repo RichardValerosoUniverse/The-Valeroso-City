@@ -869,7 +869,7 @@ When fraud is detected in a credit card account, the institution’s response is
 81. What happens to prepaid balances during takeover?
 - May be transferred or liquidated; verify with liquidator or new management.
 
-82. # Are Deposits Linked to Credit Cards Treated Differently?
+82. Are Deposits Linked to Credit Cards Treated Differently?
 
 - No, deposits are not treated differently.  
 
@@ -925,8 +925,36 @@ Deposits are insured up to the PDIC limit regardless of any credit card linkage;
 96. Are merchants affected by takeover?
 - Merchant settlements may pause until resolved by liquidator or new management.
 
-97. What is the role of PDIC in takeover?
-- Handles insured deposits up to ₱1,000,000; card balances managed separately.
+97. Which government agency supervises non-bank credit card issuers in the Philippines: SEC or BSP?
+
+- **Non-bank credit card issuers are supervised by the BSP for their credit card operations. The SEC only handles corporate registration, not operational supervision.**
+
+**Explanation**
+
+1. **BSP Supervision**
+   - All credit card operations, whether by banks or non-banks, fall under **Bangko Sentral ng Pilipinas (BSP) supervision**.
+   - BSP ensures compliance with:
+     - Licensing and registration for credit card issuance
+     - Risk management and capital requirements
+     - Customer protection and dispute handling
+   - Legal reference: **BSP Circular No. 1105 (2018) on Non-Bank Credit Card Issuers (NBCCI)**
+
+2. **SEC Role**
+   - The **Securities and Exchange Commission (SEC)** oversees **corporate registration and governance** of the company.
+   - SEC does **not regulate day-to-day operations** of credit card issuance or customer accounts.
+   - Legal reference: **Revised Corporation Code of the Philippines (RA 11232)**
+
+3. **Example: Zed Financial PH Inc.**
+   - SEC-registered as a corporate entity 
+   - Licensed and regulated by BSP to issue credit cards 
+   - Confirms that **BSP is the operational regulator**, not SEC
+
+**Key Point**
+
+**BSP regulates the credit card business; SEC only registers the company. Any claim that SEC supervises credit card operations is incorrect.**
+
+**Short Answer**
+**BSP supervises non-bank credit card issuers; SEC only handles corporate registration.**
 
 98. Can new management reopen terminated accounts?
 - Only after BSP approval; old accounts usually deactivated.
