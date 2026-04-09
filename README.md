@@ -964,19 +964,22 @@ Deposits are insured up to the PDIC limit regardless of any credit card linkage;
 
 100. What Are The Key Takeaways for Consumers When a Financial Institution is Terminated or Faces Fraud?
 
-1. Termination May Trigger Regulatory Actions
+**A. Termination May Trigger Regulatory Actions**
+
 - A financial institution may undergo:  
   - **Liquidation** – selling assets to pay creditors and depositors.  
   - **Takeover** – another entity assumes operations.  
   - **Restructuring** – reorganizing debts or ownership to continue operations.  
 - **Learning:** Consumers should be aware that their accounts or services may be affected if the institution is terminated.
 
-2. Banks: PDIC Protection
+**B. Banks: PDIC Protection**
+
 - **Philippine Deposit Insurance Corporation (PDIC)** insures deposits up to **₱1,000,000 per depositor per bank**.  
 - Amounts **above ₱1,000,000 are not insured**; recovery depends on liquidation of bank assets.  
 - **Learning:** Track deposit amounts to stay within insured limits; diversification across banks can protect your funds.
 
-3. Non-Banks / Fintechs
+**C. Non-Banks / Fintechs**
+
 - **No PDIC insurance** for deposits or prepaid balances.  
 - **Regulatory Roles:**  
   - **BSP** – supervises operational compliance (licensing, risk management, consumer protection for non-bank credit card issuers).  
@@ -984,26 +987,29 @@ Deposits are insured up to the PDIC limit regardless of any credit card linkage;
 - **Claims Handling:** Consumers must **file claims with a court-appointed or SEC-supervised liquidator** to recover funds.  
 - **Learning:** Recovery is **not guaranteed**; timely action is essential.
 
-4. Fraud Can Affect Multiple Products or Operations
+**D. Fraud Can Affect Multiple Products or Operations**
+
 - **Banks:** Fraud in one department (e.g., credit cards) **may trigger account freezes or broader operational review**, especially if it affects solvency or triggers regulatory action.  
 - **Non-banks:** Fraud usually affects **only the specific product or operation**, unless the company becomes insolvent.  
 - **Learning:** Always monitor all accounts and services, even if fraud is reported only in one product.
 
-5. Consumer Action is Critical
+**E. Consumer Action is Critical**
+
 - **Monitor statements and transactions** frequently.  
 - **Dispute unauthorized charges** immediately.  
 - **File claims promptly** with liquidators in non-bank cases or follow PDIC procedures for banks.  
 - Keep **detailed records** of communications, receipts, and statements.  
 - **Learning:** Prompt action maximizes protection and potential recovery.
 
-6. Understand Regulatory Roles
+**F. Understand Regulatory Roles**
 
 | Institution Type | Regulatory Role | Consumer Implication |
 |-----------------|----------------|-------------------|
 | **Banks** | BSP supervises operations; PDIC insures deposits | Deposit insurance protects funds up to ₱1M; follow PDIC claim procedures for excess |
 | **Non-Banks** | BSP supervises operational compliance; SEC oversees corporate liquidation | Consumers must file claims with liquidator; no automatic insurance coverage |
 
-7. Systemic vs Non-Systemic Risk
+**G. Systemic vs Non-Systemic Risk**
+
 - **Systemic:** Affects the **entire financial system** (rare, usually large banks).  
 - **Non-systemic:** Affects **only the institution or product** (most common for non-banks and fraud cases).  
 - **Learning:** Most non-bank fraud cases are non-systemic, but vigilance is necessary.
