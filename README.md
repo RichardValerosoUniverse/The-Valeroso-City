@@ -139,44 +139,74 @@ This disciplined approach ensures that your credit journey is defined by **consi
 
 **Phase 2: The Strategic Expansion**
 
-After consistently managing your **secured credit card** with **discipline and responsibility**, your **credit history** may qualify you for a **regular, unsecured credit card**.  
+After consistently managing your **secured credit card** with **discipline and responsibility**, your **credit history** may qualify you for a **regular, unsecured credit card**.
 
-**Note:** Eligibility for the unsecured credit card is **determined by the bank**. It is **mandatory that you are at least 40 years old and have maintained a secured account for 11 years**. This ensures the bank has sufficient history to assess your reliability as a borrower.  
+**Note:** Eligibility for the unsecured credit card is **determined by the bank**. It is **mandatory that you are at least 40 years old and have maintained a secured account for 11 years**. This ensures the bank has sufficient history to assess your reliability as a borrower.
 
 **Important:** Similar to the secured card, the **unsecured credit card program strictly does NOT allow supplementary or secondary cards**. It is **only for the primary cardholder**.
 
 **Requirements to Apply**
 
-Financial institutions apply **stricter standards** for unsecured credit cards compared to secured cards. Key requirements include:  
+Financial institutions apply **stricter standards** for unsecured credit cards compared to secured cards. Key requirements include:
 
-1. **Age and Secured Card History:**  
-   - You must be at least **40 years old**.  
-   - You must have **maintained a secured credit card for at least 11 years**.  
-   - Both criteria are **mandatory** to qualify as a **primary cardholder** for an unsecured credit card.  
+1. **Age and Secured Card History:**
+   - You must be at least **40 years old**.
+   - You must have **maintained a secured credit card for at least 11 years**.
+   - Both criteria are **mandatory** to qualify as a **primary cardholder** for an unsecured credit card.
 
-2. **Credit History:**  
-   - Your **payment history from the secured credit card** is the most important factor.  
-   - A **flawless payment record** demonstrates your **reliability as a borrower** and serves as the foundation for qualifying for an **unsecured credit card**.  
+2. **Credit History:**
+   - Your **payment history from the secured credit card** is the most important factor.
+   - A **flawless payment record** demonstrates your **reliability as a borrower** and serves as the foundation for qualifying for an **unsecured credit card**.
 
 **Credit Limit and Collateral Policy**
 
-- **Your credit limit can be increased upon request** by the cardholder.  
-- Upon approval of the **unsecured credit card**, the **secured card collateral is fully released** and you are **no longer under collateral**.  
-- The **bank of your account must provide a credit limit equal to or higher than the released collateral**.  
-- For an **unsecured credit card**, the **credit limit can exceed the amount of your secured card deposit**.  
-- The **bank evaluates your credit history, repayment ability, and overall financial profile** before approving any limit increase.  
+- **Your credit limit is based solely on your secured card collateral and cannot decrease.**  
+- **Credit limit increases are allowed upon request, but only once every two years.**  
+- Upon approval of the **unsecured credit card**, the **secured card collateral is fully released** and you are **no longer under collateral**.
+- The **bank of your account must provide a credit limit equal to or higher than the released collateral**.
+- For an **unsecured credit card**, the **credit limit can exceed the amount of your secured card deposit**.
+- The **bank evaluates your credit history, repayment ability, and overall financial profile** before approving any limit increase.
 - Ideally, the **credit limit for the unsecured card will always be higher than the released collateral**, providing additional purchasing power and financial flexibility.
 
 **Key Benefits of Moving to an Unsecured Card**
 
-- **No collateral required** once converted.  
-- **Higher credit limit** than your original secured card deposit.  
-- **Greater financial flexibility:** You can make **larger purchases** and manage **more transactions**.  
+- **No collateral required** once converted.
+- **Higher credit limit** than your original secured card deposit.
+- **Greater financial flexibility:** You can make **larger purchases** and manage **more transactions**.
 - **Stronger credit profile:** Proper management further enhances your **creditworthiness**, opening doors for **loans, mortgages, and premium cards** in the future.
 
-* **The SuperHighness Standard:** Apply for a card from a reputable financial institution. The goal is to choose a reliable card, preferably with a low or waived annual fee and good rewards. You've already proven you can handle credit responsibly, so a financial institution will be more willing to approve you. Once approved, continue the same disciplined approach. Make a few small purchases a month and pay the balance in full immediately.
+**Fullest Understanding**
 
-* **Fullest Understanding:** This is where your self-built credit history pays off. A bank sees a track record of perfect payments and low utilization, making you a low-risk client. By keeping this card for decades, you will build a long credit history, which is a key factor in achieving a top-tier credit score.
+- This is where your self-built credit history pays off.
+- A bank sees a track record of perfect payments and low utilization, making you a low-risk client.
+- By keeping this card for decades, you will build a long credit history, which is a key factor in achieving a top-tier credit score.
+
+**Terms and Conditions – Unsecured Credit Card Program**
+
+1. **Cash Advances**
+   - Cash advances are **allowed up to ₱1,000,000 per 30-day period**.
+   - **A fixed fee of ₱10,000 applies per cash advance transaction**.
+   - **Credit card fees and applicable charges must also be observed**.
+
+2. **Balance Transfers**
+   - **Balance transfers to or from other banks are strictly prohibited**.
+   - The card cannot be used to transfer balances from other credit cards, and vice versa.
+
+3. **Collateral Insurance**
+   - **Insurance coverage of the previous secured card deposit is no longer applicable** once the unsecured card is issued.
+
+4. **General Compliance**
+   - Cardholders must maintain **responsible credit usage**.  
+   - **Monthly full payment is required; carrying a balance is not allowed**.  
+   - **Late fees must be observed**.  
+   - Any deviation, such as exceeding cash advance limits or attempting prohibited balance transfers, **may result in fees, penalties, or reporting to the bank’s internal monitoring system**.
+
+**Notes:**  
+
+- **Secured credit card annual fee is free**.  
+- **Once converted to an unsecured credit card, the annual fee is always ₱1,000,000 and cannot be waived.**  
+- **Late fees for the secured card program are similar to other regular credit card accounts; however, for the **unsecured card program**, the late fee is always ₱50,000 per late transaction.**  
+- **All features, limits, and restrictions are pre-programmed in the system. Any functionality not explicitly stated in the Terms and Conditions is automatically disabled.**
 
 ## **Credit Card Is Not For Everyone**
 
