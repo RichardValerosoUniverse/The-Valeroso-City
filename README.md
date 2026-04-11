@@ -196,9 +196,10 @@ Financial institutions apply **stricter standards** for unsecured credit cards c
 
 **Notes:**  
 
-- **With Unsecured credit card, the annual fee is always ₱10,000,000 and cannot be waived.**  
-- **With Unsecured card program**, the late fee is always ₱250,000 per late transaction.**  
-- **All features, limits, and restrictions are pre-programmed in the system. Any functionality not explicitly stated in the Terms and Conditions is automatically disabled.**
+- **With the Unsecured Credit Card**, the annual fee is fixed at **₱10,000,000** and is strictly non-waivable.  
+- **Under the Unsecured Card Program**, a late payment fee of **₱250,000** shall be imposed per late transaction.  
+- **All features, limits, and restrictions are system-defined and pre-programmed.** Any functionality not expressly provided in the Terms and Conditions shall be deemed unavailable and automatically disabled.  
+- **The Terms and Conditions governing the Unsecured Credit Card may be revised, amended, or updated from time to time**, particularly upon the transition or conversion of cardholders from the Secured Credit Card Program to the Unsecured Credit Card Program, and as the portfolio of unsecured cardholders expands.
 
 ## **Credit Card Is Not For Everyone**
 
