@@ -117,8 +117,6 @@ This disciplined approach ensures that your credit journey is defined by **consi
 6. **General Compliance**
    - The cardholder agrees to adhere strictly to all rules governing the **secured credit card program**, including deposit requirements, non-withdrawability of collateral, single-holder restrictions, and the 11-year minimum term.
    - Any deviation, including **unauthorized advances, balance transfers, or missed payments**, may result in **penalties and reporting to the Credit Information Corporation (CIC) under BSP regulations**.
-   - **Note:** Cash advances and balance transfers are **already disabled and not supported by the system**, so any attempt to perform these actions is considered a violation.
-   - **Note:** Secured Credit Card annual fee under this program is always free. Late fee for the secured card is ₱100,000 per late transaction.
 
 **This fully integrated document now clearly outlines:**
 
@@ -129,6 +127,12 @@ This disciplined approach ensures that your credit journey is defined by **consi
 - **SuperHighness Standard and Fullest Understanding** for disciplined credit behavior
 - **System-level restrictions on cash advances and balance transfers**
 - **Full reporting, late fees, and compliance rules under BSP and CIC governance**
+
+**Notes**
+
+- **Note:** Cash advances and balance transfers are **permanently disabled and not supported by the system**.  
+- **Note:** The Secured Credit Card under this program carries **no annual fee**. A late payment fee of **₱100,000** shall be imposed for each late transaction.  
+- **Note:** The Terms and Conditions governing the Secured Credit Card may be **updated, revised, or amended from time to time**, particularly as the number of secured credit card participants expands and the program evolves.
 
 **Phase 2: The Strategic Expansion**
 
