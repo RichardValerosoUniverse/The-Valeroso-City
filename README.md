@@ -118,7 +118,7 @@ This disciplined approach ensures that your credit journey is defined by **consi
    - The cardholder agrees to adhere strictly to all rules governing the **Secured Credit Card Program**, including deposit requirements, non-withdrawability of collateral, single-holder restrictions, and the 11-year minimum term.  
 - Any deviation, including **unauthorized advances, balance transfers, or missed payments**, may result in **penalties and reporting to the Credit Information Corporation (CIC) under BSP regulations**.  
 
-7. **Heir User**
+7. **Heir User Phase 1**
 
 - In the event of the cardholder’s death during the program term, the **nominated heir shall assume responsibility for the account and continue the program**, subject to full compliance with all existing Terms and Conditions.  
 - The **account name shall remain under the original cardholder**, even in the event of death. The nominated heir shall be **designated as an “Heir User”**, with authority to continue the program; however, the account shall **retain its primary ownership status with no supplementary users permitted**.  
