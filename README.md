@@ -133,7 +133,7 @@ This disciplined approach ensures that your credit journey is defined by **consi
 
 - **Deposit, credit limit, and collateral rules**
 - **11-year minimum term**
-- **BSP insurance coverage up to ₱300,000,000, with no coverage beyond this amount**
+- **BSP insurance coverage up to ₱400,000,000, with no coverage beyond this amount**
 - **Filipino citizenship and Philippine-based application requirement**
 - **SuperHighness Standard and Fullest Understanding** for disciplined credit behavior
 - **System-level restrictions on cash advances and balance transfers**
