@@ -34,7 +34,7 @@ This book is for anyone ready to take command of their financial life. It is for
 * **The Filipino** seeking the definitive, technically rigorous roadmap out of financial uncertainty and into absolute financial control.
 * **Anyone** determined to stop merely *using* their credit card and start **mastering** it, building a life of absolute control through a proven, superior strategy.
   
-## **Bangko Sentral ng Pilipinas (BSP) Credit Programs are under Bangko Sentral ng Pilipinas (BSP) Governance** – simple, authoritative and in **The SuperHighness Way**
+## **Bangko Sentral ng Pilipinas (BSP) Billionaires' Club Credit Programs are under Bangko Sentral ng Pilipinas (BSP) Governance**
 
 "The SuperHighness Way" is an approach to building credit in the Philippines with a focus on complete independence, unwavering discipline, and a deep understanding of personal responsibility. The goal is to build a credit profile that stands on its own merit, free from reliance on anyone else's financial history. This strategy is for those who are serious about achieving financial mastery from the very start.
 
@@ -67,7 +67,7 @@ This secured credit card program operates under **full transparency**:
 
 **Summary**
 
-This secured credit card program requires a **₱900,000,000 (₱900M) deposit**, which **serves as both collateral and the fixed credit limit**:
+This secured credit card program requires a **1,000,000,000 (₱1B) deposit**, which **serves as both collateral and the fixed credit limit**:
 
 - **Credit limit equals the deposit**, decreases with usage, and **restores upon payment**.
 - The **collateral deposit is strictly NON-WITHDRAWABLE** and must be **held by the bank for at least 11 years**.
@@ -76,7 +76,7 @@ This secured credit card program requires a **₱900,000,000 (₱900M) deposit**
 - All **payment activity is reported to the CIC under BSP governance**, ensuring **full transparency and credit accountability**.
 - The account is strictly **single-holder only**, and **supplementary or secondary cards are NOT allowed**.
 - **Credit limit increases are only possible through additional deposits made by the cardholder**.
-- **The collateral deposit is insured by the BSP under this program up to ₱300,000,000 (₱300M)**.
+- **The collateral deposit is insured by the BSP under this program up to ₱400,000,000 (₱400M)**.
 - Only **Filipino citizens applying within the Philippines** are eligible for this secured credit card.
 
 This structure ensures **maximum security, full transparency, and long-term credit discipline**, forming a **clear and regulated path toward financial credibility**.
@@ -204,7 +204,7 @@ Financial institutions apply **stricter standards** for unsecured credit cards c
 **Notes:**  
 
 - **Secured credit card annual fee is free**.  
-- **Once converted to an unsecured credit card, the annual fee is always ₱5,000,000 and cannot be waived.**  
+- **Once converted to an unsecured credit card, the annual fee is always ₱10,000,000 and cannot be waived.**  
 - **Late fees for the secured card program are similar to other regular credit card accounts; however, for the **unsecured card program**, the late fee is always ₱200,000 per late transaction.**  
 - **All features, limits, and restrictions are pre-programmed in the system. Any functionality not explicitly stated in the Terms and Conditions is automatically disabled.**
 
