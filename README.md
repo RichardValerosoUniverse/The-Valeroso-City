@@ -114,8 +114,8 @@ This disciplined approach ensures that your credit journey is defined by **consi
    - **Balance transfers are systemically disabled in the program**, so attempts to transfer balances to or from this card are technically not supported and will fail.
 
 4. **Collateral Deposit Insurance**
-   - The **collateral deposit is insured by the Bangko Sentral ng Pilipinas (BSP) under this program up to ₱300,000,000 (₱300M)**.
-   - **Insurance coverage beyond ₱300,000,000 is not possible**.
+   - The **collateral deposit is insured by the Bangko Sentral ng Pilipinas (BSP) under this program up to ₱400,000,000 (₱400M)**.
+   - **Insurance coverage beyond ₱400,000,000 is not possible**.
    - This insurance is provided as part of the **terms and conditions** of the secured credit card program and is subject to BSP rules and regulations.
 
 5. **Late Payment Fees**
@@ -126,6 +126,7 @@ This disciplined approach ensures that your credit journey is defined by **consi
    - The cardholder agrees to adhere strictly to all rules governing the **secured credit card program**, including deposit requirements, non-withdrawability of collateral, single-holder restrictions, and the 11-year minimum term.
    - Any deviation, including **unauthorized advances, balance transfers, or missed payments**, may result in **penalties and reporting to the Credit Information Corporation (CIC) under BSP regulations**.
    - **Note:** Cash advances and balance transfers are **already disabled and not supported by the system**, so any attempt to perform these actions is considered a violation.
+   - **Note:** Secured Credit Card annual fee under this program is always free. Late fee for the secured card is ₱100,000 per late transaction.
 
 **This fully integrated document now clearly outlines:**
 
@@ -184,8 +185,8 @@ Financial institutions apply **stricter standards** for unsecured credit cards c
 **Terms and Conditions – Unsecured Credit Card Program**
 
 1. **Cash Advances**
-   - Cash advances are **allowed up to ₱1,000,000 per 30-day period**.
-   - **A fixed fee of ₱50,000 applies per cash advance transaction**.
+   - Cash advances are **allowed up to ₱2,000,000 per 30-day period**.
+   - **A fixed fee of ₱75,000 applies per cash advance transaction**.
    - **Credit card fees and applicable charges must also be observed**.
 
 2. **Balance Transfers**
@@ -203,9 +204,8 @@ Financial institutions apply **stricter standards** for unsecured credit cards c
 
 **Notes:**  
 
-- **Secured credit card annual fee is free**.  
-- **Once converted to an unsecured credit card, the annual fee is always ₱10,000,000 and cannot be waived.**  
-- **Late fees for the secured card program are similar to other regular credit card accounts; however, for the **unsecured card program**, the late fee is always ₱200,000 per late transaction.**  
+- **With Unsecured credit card, the annual fee is always ₱10,000,000 and cannot be waived.**  
+- **With Unsecured card program**, the late fee is always ₱250,000 per late transaction.**  
 - **All features, limits, and restrictions are pre-programmed in the system. Any functionality not explicitly stated in the Terms and Conditions is automatically disabled.**
 
 ## **Credit Card Is Not For Everyone**
