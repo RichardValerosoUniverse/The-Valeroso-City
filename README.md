@@ -139,6 +139,10 @@ This disciplined approach ensures that your credit journey is defined by **consi
 - **System-level restrictions on cash advances and balance transfers**
 - **Full reporting, late fees, and compliance rules under BSP and CIC governance**
 
+**Cardholder Name Continuity**
+   - The **original cardholder remains the printed name on the credit card at all times**, during the **Secured Credit Card Program** and even in the event of the cardholder’s death.
+   - The **heir user does not replace or change the cardholder name printed on the card**, but only assumes responsibility for account management and obligations in accordance with program rules.
+
 **Notes**
 
 - **Note:** Cash advances and balance transfers are **permanently disabled and not supported by the system**.  
@@ -215,7 +219,7 @@ Financial institutions apply **stricter standards** for unsecured credit cards c
    - The conversion from secured to unsecured status does not replace or transfer primary ownership; instead, it **retains the original cardholder as the legal and principal account holder**, subject to bank approval, credit evaluation, and internal risk assessment policies.
 
 **Cardholder Name Continuity**
-   - The **original cardholder remains the printed name on the credit card at all times**, including during the Unsecured Credit Card Program and even in the event of the cardholder’s death.
+   - The **original cardholder remains the printed name on the credit card at all times**, during the **Unsecured Credit Card Program** and even in the event of the cardholder’s death.
    - The **heir user does not replace or change the cardholder name printed on the card**, but only assumes responsibility for account management and obligations in accordance with program rules.
 
 **Heir User Phase 2**
