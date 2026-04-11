@@ -115,8 +115,19 @@ This disciplined approach ensures that your credit journey is defined by **consi
    - Consistent, on-time payments are essential to maintain **creditworthiness and eligibility for future unsecured credit products**.
 
 6. **General Compliance**
-   - The cardholder agrees to adhere strictly to all rules governing the **secured credit card program**, including deposit requirements, non-withdrawability of collateral, single-holder restrictions, and the 11-year minimum term.
-   - Any deviation, including **unauthorized advances, balance transfers, or missed payments**, may result in **penalties and reporting to the Credit Information Corporation (CIC) under BSP regulations**.
+   - The cardholder agrees to adhere strictly to all rules governing the **Secured Credit Card Program**, including deposit requirements, non-withdrawability of collateral, single-holder restrictions, and the 11-year minimum term.  
+- Any deviation, including **unauthorized advances, balance transfers, or missed payments**, may result in **penalties and reporting to the Credit Information Corporation (CIC) under BSP regulations**.  
+
+7. **Heir User**
+
+- In the event of the cardholder’s death during the program term, the **nominated heir shall assume responsibility for the account and continue the program**, subject to full compliance with all existing Terms and Conditions.  
+- The **account name shall remain under the original cardholder**, even in the event of death. The nominated heir shall be **designated as an “Heir User”**, with authority to continue the program; however, the account shall **retain its primary ownership status with no supplementary users permitted**.  
+- In the event the **Heir User continues and successfully completes the 11-year program term**, the account shall be **subject to bank evaluation for possible conversion to an Unsecured Credit Card**, in accordance with prevailing credit policies and internal risk assessment standards.  
+- Upon assumption of responsibility by the **Heir User**, the individual shall execute and sign a formal agreement and contract with the bank, including the mandatory nomination of a successor heir user, subject to the bank’s approval, verification, and program requirements.  
+- The **Heir User must be at least 29 years old at the time of replacement**, and this minimum age requirement shall apply strictly and consistently to all successive heir users without exception.  
+- This condition is continuous, binding, and perpetual for every subsequent heir user who assumes responsibility under the program, regardless of the stage of succession or remaining program term.  
+- All incoming heir users must undergo full credit evaluation, identity verification, and program onboarding procedures in accordance with bank policies and applicable regulations before formal assumption of account responsibility.  
+- Compliance with all Terms and Conditions of the Secured Credit Card Program shall remain mandatory at all times, and any non-compliance may result in penalties, restrictions, or account review by the bank.
 
 **This fully integrated document now clearly outlines:**
 
