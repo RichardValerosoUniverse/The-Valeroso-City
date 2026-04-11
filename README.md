@@ -206,8 +206,30 @@ Financial institutions apply **stricter standards** for unsecured credit cards c
 4. **General Compliance**
    - Cardholders must maintain **responsible credit usage**.  
    - **Monthly full payment is required; carrying a balance is not allowed**.  
-   - **Late fees must be observed**.  
-   - Any deviation, such as exceeding cash advance limits or attempting prohibited balance transfers, **may result in fees, penalties, or reporting to the bank’s internal monitoring system**.
+   - **Late fees must be properly observed and complied with.**
+   - This program is **exclusively for primary ownership only**.
+   - **Supplementary users and secondary users are strictly prohibited** under this program.
+   - The account shall remain under a **single primary account holder structure at all times**, including during succession and heir user designation.
+   - The **Unsecured Credit Card ownership shall remain under the name of the original cardholder**, who was initially issued the card under the **Secured Credit Card Program**.
+   - This means the individual identified as the **original cardholder during the Secured Credit Card Program remains the principal and continuing account owner**, even upon transition to the Unsecured Credit Card Program.
+   - The conversion from secured to unsecured status does not replace or transfer primary ownership; instead, it **retains the original cardholder as the legal and principal account holder**, subject to bank approval, credit evaluation, and internal risk assessment policies.
+
+**Cardholder Name Continuity**
+   - The **original cardholder remains the printed name on the credit card at all times**, including during the Unsecured Credit Card Program and even in the event of the cardholder’s death.
+   - The **heir user does not replace or change the cardholder name printed on the card**, but only assumes responsibility for account management and obligations in accordance with program rules.
+
+**Heir User Phase 2**
+
+- During the conversion of the account to the **Unsecured Credit Card Program**, the **original cardholder must nominate an heir user**, subject to bank approval, verification, and compliance with all program requirements.
+- The nominated heir user must be at least **40 years old** to assume responsibility under the **Unsecured Credit Card Program**.
+- The nominated heir user shall assume full responsibility of the account, including all credit obligations, repayment requirements, and compliance with program Terms and Conditions.
+- In the event that the original cardholder has passed away during conversion, the **existing heir user shall nominate the succeeding heir user**, subject to bank approval, verification, and program requirements.
+- The succeeding heir user must be at least **40 years old** under the **Unsecured Credit Card Program**.
+- This **minimum age requirement of at least 40 years old applies consistently and without exception to all subsequent heir users** under the program, regardless of the stage of succession.
+- The account continues under the established program framework through the designated heir user mechanism; however, account designation and original ownership attribution remain with the original cardholder who established the account under the Secured Credit Card Program.
+- All heir users are subject to full credit evaluation, identity verification, and onboarding procedures before assumption of account responsibility.
+- Compliance with all Terms and Conditions of the **Unsecured Credit Card Program** is mandatory at all times.
+- Any non-compliance may result in penalties, restrictions, or account review by the bank.
 
 **Notes:**  
 
