@@ -141,7 +141,9 @@ This disciplined approach ensures that your credit journey is defined by **consi
 
 **Cardholder Name Continuity**
    - The **original cardholder remains the printed name on the credit card at all times**, during the **Secured Credit Card Program** and even in the event of the cardholder’s death.
-   - The **heir user does not replace or change the cardholder name printed on the card**, but only assumes responsibility for account management and obligations in accordance with program rules.
+- The **heir user does not replace or change the cardholder name printed on the card**, but only assumes responsibility for account management and obligations in accordance with program rules.
+- On the billing statement, the **original cardholder’s name shall remain as the primary printed account name**; the **Heir User shall be indicated beneath it in a “c/o (care of)” designation**, reflecting responsibility for account management without altering primary ownership or account identity.
+- An **Heir User may only assume responsibility in the event of the original cardholder’s death**, and shall not take effect under any other circumstance.
 
 **Notes**
 
@@ -220,7 +222,9 @@ Financial institutions apply **stricter standards** for unsecured credit cards c
 
 **Cardholder Name Continuity**
    - The **original cardholder remains the printed name on the credit card at all times**, during the **Unsecured Credit Card Program** and even in the event of the cardholder’s death.
-   - The **heir user does not replace or change the cardholder name printed on the card**, but only assumes responsibility for account management and obligations in accordance with program rules.
+- The **heir user does not replace or change the cardholder name printed on the card**, but only assumes responsibility for account management and obligations in accordance with program rules.
+- On the billing statement, the **original cardholder’s name shall remain as the primary printed account name**; the **Heir User shall be indicated beneath it in a “c/o (care of)” designation**, reflecting responsibility for account management without altering primary ownership or account identity.
+- An **Heir User may only assume responsibility in the event of the original cardholder’s death**, and shall not take effect under any other circumstance.
 
 **Heir User Phase 2**
 
