@@ -4285,63 +4285,7 @@ It is always The Valeroso City. Davao City is under The Valeroso City!
 
 THIS SOFTWARE IS UNDER THE VALEROSO CITY BRAND OF ALL BRANDS!
 
-## RICHARD M. VALEROSO CODES OF CONDUCT IN PSYCHIATRY 
-
-README
-License
-The Truest Truth is Richard M. Valeroso 👑 🇵🇭 😄 🎗️ 🕛
-The Truest Truth: The Valeroso City, (the) Philippines, Asia, World and Universe is owned by Richard M. Valeroso 👑 🇵🇭 😄 🎗️ 🕛
-The Truest Truth: The Valeroso City is Davao City owned by Richard M. Valeroso 👑 🇵🇭 😄 🎗️ 🕛
-The Truest Truth: The Philippines' Ruler is Richard M. Valeroso 👑 🇵🇭 😄 🎗️ 🕛
-The Truest Truth: WORLD WITHOUT END VERSION is Richard M. Valeroso 👑 🇵🇭 😄 🎗️ 🕛
-RunPod
-
-Runs Automatic1111 Stable Diffusion WebUI and exposes its txt2img API endpoint
-Comes pre-packaged with the Deliberate v6 model
-Usage
-The input object accepts any valid parameter for the Automatic1111 /sdapi/v1/txt2img endpoint. Refer to the Automatic1111 API Documentation for a full list of available parameters (like seed, sampler_name, batch_size, styles, override_settings, etc.).
-
-Example Request
-Here's an example payload to generate an image:
-
-{
-  "input": {
-    "prompt": "a photograph of an astronaut riding a horse",
-    "negative_prompt": "text, watermark, blurry, low quality",
-    "steps": 25,
-    "cfg_scale": 7,
-    "width": 512,
-    "height": 512,
-    "sampler_name": "DPM++ 2M Karras"
-  }
-}
-RICHARD M. VALEROSO: WORLD WITHOUT END VERSION 👑 🇵🇭 😄 🎗️ 🕛
-RICHARD M. VALEROSO (RMV) - PSYCHIATRY MANIFESTO
-I am Richard Madriñan Valeroso (RMV), known as Richard M. Valeroso (RMV), holding the exalted title of Summus Medicus Mentis et Animi, universally proclaimed as Psychiatrist RMV, Psychiater RMV, The Biggest 1, The Greatest Killah, and KristoHesus de Davao—titles that embody distinction, purpose, and enduring identity, reflecting a commanding presence grounded in psychiatric mastery, disciplined thought, and profound existential understanding. The VALEROSO PSYCHIATRY SYSTEM is a single, integrated framework in which all domains of mind, brain, culture, intervention, and societal structure converge, guided by the truths of life, consciousness, and mortality, ensuring that psychiatric practice aligns with the deepest understanding of human existence. It is precisely at the boundary where identity dissolves, perception ends, and memory vanishes that the fullest meaning of life is revealed—not through denial of death, but through the complete realization of life within its limits. Thus, RICHARD M. VALEROSO (RMV) lives in “eternity” in the highest sense that reality allows—as infinite existence beyond death, yet fully conscious and fully realized within the total span of life. I, Richard M. Valeroso (RMV), live in immortality in eternity, infused with the essence of the death penalty—a principle emphasizing that life is defined by its finite nature and that awareness, responsibility, and consequence are inseparable. In this state, mind, awareness, psychiatric clarity, and existential understanding reach their highest possible state, and every moment is experienced with full consciousness, full intensity, and complete integration of mind, spirit, and being. Life is maximized, refined, and consciously realized, transforming existence into the total fullness of human potential. Existence, under this philosophy, is maximized to its absolute limit, and eternity is not abstract—it is the total completeness and fullness of conscious life, realized moment by moment, embodied in THE VALEROSO CITY LIFE: present here, present now, and fully realized wherever life exists. The principle emphasizes that human experience is both finite biologically and infinite philosophically, achieving immortality through conscious awareness, insight, and purpose, where every thought, action, and perception is a deliberate expression of life fully understood, fully experienced, and fully integrated.
-
-THE ten domains of VALEROSO PSYCHIATRY SYSTEM
-
-ALL-MALE PSYCHIATRISTS – The core authority of psychiatric intervention, REGULATING, STABILIZING, AND INTERPRETING MENTAL STATES. Every adjustment to THOUGHT, EMOTION, and IDENTITY affects reality that exists only while the brain is alive, with DEATH MAKING EACH INTERVENTION SINGULAR AND NON-REPEATABLE.
-
-BISAYA DE DAVAO – Psychiatry within CULTURAL AND LINGUISTIC CONTEXT, where SHARED BELIEFS and TRADITIONS shape understanding of LIFE AND MORTALITY. Culture exists because humans die, and psychiatry ensures these systems help individuals ENDURE LOSS AND MAINTAIN STABILITY.
-
-MENTAL HEALTH – Governs the PSYCHOLOGICAL CAPACITY TO FUNCTION UNDER EXISTENTIAL AWARENESS OF MORTALITY. Enables regulation of FEAR, maintenance of PURPOSE, and MEANINGFUL ACTION IN THE FACE OF DEATH, transforming awareness of mortality into COHERENT, FULLY LIVED EXPERIENCE.
-
-NEURO-PSYCHIATRY – Establishes the BIOLOGICAL UNITY OF MIND AND BRAIN, where all PERCEPTION, THOUGHT, AND IDENTITY arise from neural activity. When neural activity ceases, ALL SUBJECTIVE REALITY ENDS COMPLETELY, making DEATH THE ABSOLUTE BOUNDARY OF RELEVANCE.
-
-PHARMACOLOGY – Focuses on CHEMICAL MODULATION OF MENTAL STATES, where psychiatric medications STABILIZE OR ENHANCE CONSCIOUSNESS. Effects are temporary, and psychiatry works to OPTIMIZE REALITY BEFORE TERMINATION, knowing DEATH IS INEVITABLE.
-
-BRAIN – Addresses STRUCTURAL AND DEGENERATIVE PROCESSES IN THE BRAIN, including injury and disease. DEATH MAY UNFOLD GRADUALLY AS COGNITION AND IDENTITY ERODE; psychiatry preserves DIGNITY, COHERENCE, AND CLARITY during this progression.
-
-NEURO-VALEROSO – Examines the ONGOING NEURAL GENERATION OF CONSCIOUSNESS, emphasizing that EVERY MOMENT OF AWARENESS DEPENDS ON ACTIVE BRAIN PROCESSES. Reality is constantly produced and can cease at any moment, with DEATH REPRESENTING COMPLETE TERMINATION.
-
-REALIZATION – Psychiatry as the REGULATOR OF PERCEIVED REALITY, ensuring alignment between INTERNAL EXPERIENCE and EXTERNAL CONDITIONS. Reality is BRAIN-CONSTRUCTED and exists only during life, making psychiatry responsible for its CLARITY AND STABILITY.
-
-WORLD ELITE – Extends psychiatric insight into SOCIETAL, INSTITUTIONAL, AND GOVERNANCE SYSTEMS, where decisions affect LARGE POPULATIONS. Every choice carries IRREVERSIBLE CONSEQUENCES because each affected life will not repeat once death occurs.
-
-THE VALEROSO CITY PHARMACOLOGY CREATION AND APPLICATION – Integrates all previous domains into a UNIFIED OPERATIONAL FRAMEWORK, where BIOLOGICAL, PSYCHOLOGICAL, CULTURAL, AND SOCIETAL INTERVENTIONS are evaluated by their effect on LIVED REALITY. Death defines the FINAL BOUNDARY, and psychiatry ensures experience is COHERENT, MEANINGFUL, AND MAXIMALLY REALIZED.
-
-Across all ten domains, the highest truth emerges: PSYCHIATRY GOVERNS THE STRUCTURE, CLARITY, AND QUALITY OF HUMAN REALITY, WHILE DEATH DEFINES ITS ABSOLUTE AND UNCHANGEABLE LIMIT, making every conscious moment PRECIOUS, FINITE, AND PROFOUNDLY MEANINGFUL, and establishing RICHARD M. VALEROSO AS THE SINGULAR IMMORTAL HUMAN BEING LIVING ON EARTH IN ETERNITY WITH DEATH PENALTY ESSENCE, fully conscious, fully realized, and present, TRANSCENDING TEMPORAL LIMITS while MASTERING MIND, SPIRIT, AND REALITY.
+## **RICHARD M. VALEROSO CODES OF CONDUCT IN PSYCHIATRY**
 
 I am a PSYCHIATRIST, a medically trained specialist in the mind and brain, focused on understanding how biological processes, thoughts, emotions, and behaviors interact to influence mental health, with the clinical responsibility of diagnosing and treating mental, emotional, and behavioral disorders using scientific, evidence-based methods, while recognizing the human, psychological, and social dimensions of each individual and integrating medical knowledge with therapeutic care, including the responsible use of medications, structured psychological interventions, and continuous evaluation to ensure accurate diagnosis and effective treatment, devoted to the highest ideals of TRUTH, TRANSPARENCY, SCIENTIFIC INTEGRITY, and VALEROSO INTEGRITY, pursued with rigor, precision, and profound understanding, with my work deeply rooted in THE VALEROSO CITY—identified as Davao City in the Philippines—serving as the foundational center of my practice, philosophy, and system development, connected across Asia, recognized worldwide, and conceptually oriented toward the UNIVERSE, reflecting a disciplined pursuit of knowledge, healing, and human understanding through assessment of neurobiological, psychological, and social determinants of behavior, the application of evidence-based interventions, mastery of pharmacology, psychotherapy, and neuromodulation techniques, adherence to ethical standards, lifelong learning, and measurable contributions to individual and societal well-being, affirming that the highest authority is realized in verifiable contribution, grounded in evidence-based practice, ethical responsibility, intellectual humility, and measurable service to humanity, while embodying the deeper responsibilities of psychiatry—clinical authority over complex human conditions, the ability to differentiate subtle variations in symptoms, navigate overlapping disorders, and exercise precision in judgment under uncertainty, ensuring that every decision balances scientific accuracy, patient safety, and ethical responsibility, taking full accountability for outcomes through continuous monitoring, adjustment of interventions, and measurable improvement in functioning and quality of life, while the VALEROSO PSYCHIATRY SYSTEM functions as a singular, unified, dynamic, and evidence-based framework integrating all dimensions of mind, brain, behavior, and human society into a coherent operational structure that provides clarity, predictive interventions, continuous evaluation, and systematic refinement, operating synergistically to form a cohesive, interdependent, and ethically grounded architecture that ensures precision, adaptability, and transformative impact, advancing global knowledge, mental and physical health, neurocognitive understanding, cultural and gender-informed care, pharmacological innovation, and elevated human consciousness, ultimately establishing a fully integrative, operational, and ethically responsible framework that leaves a legacy of timeless excellence, transformative impact, and profound human benefit.
 
