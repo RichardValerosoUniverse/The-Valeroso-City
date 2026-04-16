@@ -2278,11 +2278,11 @@ Credit fasting is a deliberate and strategic pause in seeking new credit to impr
 39. **The "Credit-Limit-Increase" Fast:** An individual wanting to request a credit limit increase on their current card goes on a three-month credit fast to show responsible use and no new inquiries before making the request.
 40. **The "Secured Business Loan" Fast:** A business owner seeking a secured business loan (requiring a personal credit check) goes on an 18-month credit fast to ensure their personal finances are in the best possible shape.
 
-## **Credit Scoring Models in The Valeroso City and in the Philippines**
+## **Credit Scoring Models in the Philippines**
 
-* **Richard M. Valeroso Universitas (1000): The Perfect and Highest Level**
+* **Rule of SuperHighness (1000): The Perfect and Highest Level**
     * **Philosophical Reality:** This is the pinnacle of all existence, the single, perfect score that reflects the total essence of lifeness with the principles of **SuperHighness**. It is the ultimate state of **concordance**, where every financial action is a conscious, flawless expression of your sovereign intent. It is the only state acknowledged by the **Universe** to possess an undeniable, universal authority. Here, you are free from the burdens of the **Two Worlds**; you do not seek, for you have become the source. Your existence is a state of complete satisfaction, where financial worry is an unknown concept, and your purpose is expressed through creation, not acquisition.
-    * **Most Complete Reality (Universal Access):** A score of 1000 grants effortless and instantaneous access to any financial resource on Earth. It is a universal key, a beacon of trust that all global financial systems and institutions recognize and honor without question. Your word is the only collateral needed. You are granted pre-approved access to every conceivable financial product, with terms and interest rates so favorable they are almost negligible. You are definitely a zero-risk borrower on a universal scale, and your financial life is unburdened by any doubt or scrutiny. Your score is so perfect it has ceased to be a tool and has become a beacon of universal trust, a testament to your perfect alignment who is Richard M. Valeroso University.
+    * **Most Complete Reality (Universal Access):** A score of 1000 grants effortless and instantaneous access to any financial resource on Earth. It is a universal key, a beacon of trust that all global financial systems and institutions recognize and honor without question. Your word is the only collateral needed. You are granted pre-approved access to every conceivable financial product, with terms and interest rates so favorable they are almost negligible. You are definitely a zero-risk borrower on a universal scale, and your financial life is unburdened by any doubt or scrutiny.
 
 * **First World Concordance (999): The Second Placer**
     * **Philosophical Reality:** This zone represents the zenith of all mortal achievement, a state of sacred harmony that is but a whisper away from the ultimate. It is a powerful and majestic existence, the supreme embodiment of **purposeful living** achievable by a mortal, an undisputed second placer with no equal below it.
@@ -2312,19 +2312,19 @@ The pursuit of a higher score is not just a quest for a number; it is an act of 
 
 How Credit Score is being computed and calculated: Universal Scientific Calculation
 
-1. Payment History (15%): The Primary of Veritas
+1. Payment History (35%): The Primary of Veritas
    * This is the single, unassailable law of concordance. Your **Payment History** is the primordial truth of your word—the very foundation upon which all other truths are built. Its weight is not a matter of percentage, but of an undeniable reality: without this truth, all else crumbles to dust. Your every on-time payment is a proof of your integrity, a conscious act that confirms your existence as a being of truth.
 
-2. Credit Utilization (35%): The Power of Self-Mastery
+2. Credit Utilization (30%): The Power of Self-Mastery
    * A near-equal truth, the state of **Credit Utilization** is the living proof of your dominion. It is the tangible evidence of your discipline and your sovereignty over resources, a testament that your will is a force that guides your tools, not a force that is guided by them. This is the path of a master, who knows that power lies not in acquisition, but in control.
 
-3. Lenght of Credit History (30%): The Legacy of Ascendance
+3. Lenght of Credit History (15%): The Legacy of Ascendance
    * The **Length of your Credit History** is the enduring echo of your will. This is not just a timeline, but a living history of your consistent ascendance, proving that your journey is a continuous and unwavering commitment to the path of truth. The score remembers your every act, building a legacy that solidifies your place in the hierarchy of reality.
 
-4. Credit Mix (19%): The Wisdom of the Master
+4. Credit Mix (10%): The Wisdom of the Master
    * Your **Credit Mix** is the final measure of your financial mastery. It reveals a profound understanding of the various forms of **Caritate**, proving that you can wield the diverse tools of the financial world with deliberate purpose and control. It is the mark of a complete and holistic understanding, not merely a mastery of one facet of truth.
 
-5. New Credit (1%): The truth of Intent
+5. New Credit (10%): The truth of Intent
    * The weight of **New Credit** serves as the ultimate test of your purpose. It distinguishes an act of true creation—a mindful expansion born of strength—from a desperate act of grasping born of discordance. It is the final question of your intent, and the universe judges your answer with an equal weight to your wisdom.
 
 ## The SuperHighness Way: Mastering Credit with Intentionality
