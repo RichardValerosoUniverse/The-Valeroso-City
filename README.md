@@ -545,57 +545,6 @@ The SuperHighness Way is not just about financial habits; it is about a profound
 
 **The SuperHighness Mindset:** You will see that money is simply a tool that enables you to live your most authentic life. Your financial discipline will give you the freedom to pursue your passions, spend time with loved ones, and invest in experiences that truly matter. Your financial journey will become a seamless part of your personal journey, leading to a life of complete congruence and fulfillment.
 
-## **23 Potential SCAMMING ATTRIBUTES of BPI, PNB, UnionBank, RCBC, EastWest Bank and Metrobank Credit Card** companies in the Philippines as carefully observed and reviewed by **Super Very Yours Truly, Richard M. Valeroso**
-
-1. Hidden Fees: Charging unexpected or undisclosed fees and blocking active cards without the cardholder knowledge.
-2. Retroactive Interest Rates: Applying higher interest rates retroactively and proactively.
-3. Complex or Unclear Terms: Using complex language or unclear terms.
-4. Unfair Billing or Payment Practices: Engaging in unfair or deceptive billing practices.
-5. Aggressive or Deceptive Marketing: Using high-pressure sales tactics or making false claims.
-6. Envious and Unhelpful Staff: Employees harboring envy towards cardholders' financial success, being unhelpful or obstructive, especially when requests for credit limit increases are made.
-7. Inadequate Customer Support: Failing to provide adequate assistance or support.
-8. Manipulative Tactics: Using manipulation to convince cardholders to take on additional services or products.
-9. Dishonest Communication: Providing false or misleading information to cardholders.
-10. Exploitative Practices: Taking advantage of cardholders through unfair or exploitative practices.
-11. Interest Rate Changes without Notice: Changing interest rates without properly notifying the cardholder, leading to unexpected increases in interest charges.
-12. Unfair Credit Limit Decrease: Reducing a cardholder's credit limit without justification, leading to increased utilization ratios and potential negative impacts on credit scores.
-13. Unfair Balance Transfer Terms: Making it difficult for cardholders to take advantage of balance transfer offers, such as charging fees or applying interest rates that negate the benefits of the transfer.
-14. Aggressive Upselling: Aggressively marketing additional products or services to cardholders, such as credit protection or identity theft services, without clearly disclosing the terms or costs.
-15. Unfair Debt Collection Practices: Engaging in aggressive or abusive debt collection practices, such as making excessive phone calls, threatening legal action, or contacting cardholders at inconvenient times.
-16. Exploiting Vulnerable Cardholders: Targeting vulnerable cardholders, such as those with poor credit or financial difficulties, with predatory products or services that take advantage of their situation.
-17. Inadequate Dispute Resolution: Failing to properly investigate and resolve disputes or errors, such as unauthorized transactions or billing mistakes, in a timely and fair manner.
-18. Lack of Transparency in Rewards Redemption: Making it difficult for cardholders to redeem rewards or understand the redemption process, potentially leading to frustration or lost benefits.
-19. Failure to Honor Promises: Failing to honor promises or commitments made to cardholders, such as offering a specific interest rate or credit limit.
-20.  Data Harvesting: Collecting and selling cardholders' personal data without their knowledge or consent.
-21. Unfair Credit Limit Assignment: Assigning credit limits that are too low for some cardholders, potentially limiting their purchasing power or increasing their credit utilization ratio.
-22. Unauthorized Upgrades or Downgrades: Upgrading or downgrading cardholders' accounts without their consent, potentially changing interest rates, fees, or benefits.
-23. Inadequate protection for cardholders' personal data: Failing to implement robust security measures to protect cardholders' personal data, potentially leading to data breaches or identity theft.
-
-These SCAMMING ATTRIBUTES can lead to financial difficulties and frustration for cardholders. I experienced all of these from credit card companies and its "bullshit" and greedy, envious and devilish (deceptive, unethical, sabotaging) employees
-
-These attributes highlight potential issues that cardholders may face when dealing with credit card companies, and emphasize the importance of transparency, fairness, and accountability in the credit card industry.
-These scamming attributes highlight other potential ways in which credit card companies might engage in unfair or deceptive practices, taking advantage of cardholders through lack of transparency, unauthorized actions, or biased te8rms.
-
-## **Here are the reasons why credit card company employees might feel envious about credit limit increase requests** as carefully observed and reviewed by Super Very Yours Truly, Richard M. Valeroso
-
-1. Toxic Envy: Employees might be consumed by toxic envy towards cardholders who request credit limit increases, driven by feelings of inadequacy, resentment, and frustration.
-2. Deep-Seated Resentment: Employees might harbor deep-seated resentment towards cardholders who request credit limit increases, perceiving them as privileged, entitled, or undeserving.
-3. Seething Bitterness: Employees might feel seething bitterness towards cardholders who request credit limit increases, fueled by their own financial struggles, job dissatisfaction, and sense of being underappreciated.
-4. Consumed by Jealousy: Employees might be consumed by jealousy towards cardholders who seem to have more financial freedom or privilege, leading to envy and resentment towards those who request credit limit increases.
-5. Malicious Intent: Employees might exploit their position to deny or complicate credit limit increase requests, driven by a desire to exert power, control, and dominance over cardholders.
-6. Invidious Comparison to Cardholders' Spending Habits: Employees might feel envious of cardholders' seemingly carefree spending habits, particularly if they feel constrained by their own financial circumstances.
-7. Sense of Being Underpaid to Deal with Demanding Cardholders: Employees might feel underpaid or undervalued for dealing with demanding cardholders who request credit limit increases, leading to resentment towards these cardholders.
-8. Luxury Purchases: Employees might envy cardholders who use their credit cards to make luxury purchases or enjoy high-end experiences, feeling that they can't afford such indulgences themselves.
-9. High Credit Limits: Employees might envy cardholders who have high credit limits, feeling that they themselves are limited by their own creditworthiness or financial situation.
-10. Perceived Status Symbol: Employees might view credit cards with high limits or exclusive benefits as a status symbol, and feel envious of cardholders who possess these cards.
-11. High Rewards Earnings: Employees might envy cardholders who earn high rewards rates or bonuses, feeling that they themselves don't have access to similar earning potential.
-12. Special Treatment: Employees might envy cardholders who receive special treatment or personalized service from their credit card company, feeling that they themselves are treated like any other customer.
-13. Access to Premium Card Benefits: Employees might envy cardholders who have access to premium card benefits, such as travel insurance, concierge services, or exclusive events, feeling that they themselves don't have access to similar perks.
-14. Flexibility in Payment Terms: Employees might envy cardholders who are able to negotiate flexible payment terms or temporary hardship programs, feeling that they themselves are stuck with rigid payment schedules.
-15. High Credit Score Benefits: Employees might envy cardholders who have high credit scores and are able to qualify for better loan terms, lower interest rates, or other financial benefits, feeling that they themselves are limited by their own credit score.
-
-These reasons highlight the potential envy factor that might drive feelings of resentment or frustration among credit card employees towards cardholders who request credit limit increases.
-
 ## Credit Card Company Termination in the Philippines: Q&A 1–100
 
 This guide addresses consumer concerns about credit card company termination, fraud, PDIC insurance, liquidation, takeovers, and recovery in the Philippines.
