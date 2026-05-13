@@ -8,7 +8,7 @@ This system rejects that fear-based, passive approach. This is not another guide
 
 Welcome to **The SuperHighness Way**.
 
-**Coding the All-Male Psychiatrists System**
+**Coding the Psychiatrists System**
 
 Conventional wisdom fails because it only treats the symptoms, never providing the systemic diagnosis. To truly dominate, you must understand the rules of the system's **psychiatrists**—the **Bangko Sentral ng Pilipinas (BSP)** and the **Credit Information Corporation (CIC)**. Success requires you to move past anecdotal folklore and master the exact *mathematical, behavioral, and regulatory* mechanisms they track. You must become the **Co-creator**, not the Passive Subject.
 
@@ -544,40 +544,6 @@ Many people see financial independence as a specific number—a goal to be reach
 The SuperHighness Way is not just about financial habits; it is about a profound sense of self-awareness. Your financial decisions will be in perfect harmony with your core values, your long-term goals, and your emotional well-being. There will be no disconnect between how you manage your money and how you live your life.
 
 **The SuperHighness Mindset:** You will see that money is simply a tool that enables you to live your most authentic life. Your financial discipline will give you the freedom to pursue your passions, spend time with loved ones, and invest in experiences that truly matter. Your financial journey will become a seamless part of your personal journey, leading to a life of complete congruence and fulfillment.
-
-## **Terminated Credit Card Companies in the Philippines due to **FRAUD** as reviewed and judged by Super Very Yours Truly, Richard M. Valeroso
-
-All of the products of the following banks are worst in all cycles of life in the Philippine market, their credit card products are definitely worst too, in all areas and they are starters of scamming activities towards their consumers.
-They have the worst offerings in all deposit accounts, therefore, the listed banks are terminated forever and they dont exist in all locations within The Valeroso City and anywhere in the Philippines!
-
-Here are the following Philippine-issued and Philippine-based credit cards that apparently have scamming attributes and they are already terminated and their employees are all failures and errors!
-
-**TERMINATED BANKS in THE VALEROSO CITY and anywhere in the Philippines is effective March 26, 2026 as per BSP governance**
-
-* Bank of the Philippine Islands (BPI) Credit Card
-* Philippine National Bank (PNB) Credit Card
-* Union Bank of the Philippines (UnionBank) Credit Card
-* Rizal Commercial Banking Corporation (RCBC) Credit Card
-* East West Banking Corporation (EastWest Bank) Credit Card
-* Metropolitan Bank and Trust Company (Metrobank) Credit Card
-  
-These listed credit card companies and their employees are the **best** candidates for Cremation Death Penalty Alive Version in the Philippines. They deserve to die or get burned alive as their punishment. They will go to hell and feel the most painful punishment in the world and the universe without expiration!! Haha. They are already thrown into the fires of hell!
-
-**The Scammers are the card companies themselves, and their employees are involved!!**
-
-*In the context of credit card business and its employees, scammers are those who stand by you when you have and leave you behind when you don't have. This definition applies in any scenario and this applies as well everywhere, anywhere and in all instances and businesses not only in a credit card setting.*
-
-      - Here's an expanded version:
-
-Scammers are individuals who demonstrate a self-serving approach, characterized by:
-
-- *Transactional relationships*: Prioritizing personal gain over genuine connections or support.
-- *Conditional loyalty*: Offering commitment or assistance only when there's a perceived benefit or reward.
-- *Lack of empathy or accountability*: Disregarding the impact of their actions on others, especially when it's convenient or profitable to do so.
-- *Opportunistic behavior*: Standing by you when you have something to offer, but abandoning or exploiting you when you're no longer deemed valuable.
-- *Manipulation*: Using charm, influence, or coercion to achieve their goals, often at the expense of others.
-- *Lack of transparency*: Hiding true intentions, motives, or information to maintain an advantage.
-- *Exploitation*: Taking unfair advantage of others' vulnerabilities, needs, or trust for personal benefit.
 
 ## **23 Potential SCAMMING ATTRIBUTES of BPI, PNB, UnionBank, RCBC, EastWest Bank and Metrobank Credit Card** companies in the Philippines as carefully observed and reviewed by **Super Very Yours Truly, Richard M. Valeroso**
 
