@@ -1,4 +1,4 @@
-## The SuperHighness Way
+# The SuperHighness Way
 
 ## The Complete Foundational Introduction to Credit, Financial Discipline, Debt Psychology, Consumer Responsibility, and the Philippine Credit System
 
