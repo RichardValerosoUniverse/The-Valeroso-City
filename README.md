@@ -484,8 +484,8 @@ Fraud in a credit card can affect other departments in BOTH banks and non-banks 
 47. Can I transfer balances to another bank?
 - Only after settling existing balances; new credit lines require separate application.
 
-48. What if the terminated company merged with another institution?
-- BSP may allow account transfer; fraud-related accounts may still require liquidation.
+48. How are customer accounts handled when a financial institution ceases operations?
+- When a financial institution ceases operations, customer accounts are handled through a regulated process. Insured deposits are typically paid back up to the maximum coverage limit, while some accounts may be transferred to another institution if arrangements are made. Any remaining funds, liabilities, or disputed claims are settled through liquidation and legal proceedings under the supervision of the Bangko Sentral ng Pilipinas.
 
 49. What steps can I take to protect my deposits and reduce financial risk in the future?
 - Verify BSP licensing
