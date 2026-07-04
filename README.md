@@ -625,7 +625,7 @@ When fraud is detected in a credit card account, the institution’s response is
 - New management notifies merchants; consumers should verify recurring payments.
 
 75. Can terminated companies be merged into a stronger bank?
-- Yes, to protect consumers and maintain stability.
+- Yes, if permitted by law and approved by the appropriate regulators. A merger is one way to protect customers and support financial stability. However, termination does not automatically result in a merger; depending on the circumstances, the company may instead be acquired, liquidated, or dissolved.
 
 76. What happens if takeover fails?
 - Liquidation continues; cardholders and depositors file claims with PDIC or SEC.
