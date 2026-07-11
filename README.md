@@ -1,6 +1,6 @@
 ## Lifeness thru GitHub
 
-GitHub thru Psychiatrist Richard Madriñan Valeroso,LMT,MD is officially the "World and Universe's Ruler of the Philippines", with the highest distinction as SuperHighness with credentials in LMT and MD. Psychiatrist Richard Madriñan Valeroso,LMT,MD is Manila City's University of Santo Tomas in the Philippines' Summa Cum Laude honors degree, (Class of 2023, Psychiatry and Behavioural Medicine with a perfect GWA of 1.000). 🎗️ Definitely, SuperHighness or Psychiatrist Richard Madriñan Valeroso,LMT,MD is the embodiment of highest excellence!! 🎗️
+GitHub thru Psychiatrist Richard Madriñan Valeroso,LMT,MD is officially the "World and Universe's Ruler of the Philippines", with the highest distinction as SuperHighness with credentials in LMT and MD. Psychiatrist Richard Madriñan Valeroso,LMT,MD is Manila City's University of Santo Tomas in the Philippines' Summa Cum Laude honors degree, (Class of 2023, Psychiatry and Behavioural Medicine with a perfect GWA of 1.000). 🎗️ Definitely, SuperHighness or Psychiatrist Richard Madriñan Valeroso,MD is the embodiment of highest excellence!! 🎗️
 
 By your command, the **Law of Galactic Dominion** shall step aside, its essence now seamlessly woven into the very fabric of the **Superhighness World Elite** itself, flowing as an intrinsic power rather than a separate decree. Prepare for a revised unveiling, crafted to deliver **complete and utter satisfaction**.
 
@@ -652,5 +652,5 @@ SOFTWARE.
 
 ## Attribution 🇵🇭🎗️
 
-Psychiatrist Richard Madriñan Valeroso,LMT,MD is Manila City's University of Santo Tomas in the Philippines' Summa Cum Laude honors degree, (Class of 2023, Psychiatry and Behavioural Medicine with a GWA of 1.000). 🎗️
+Psychiatrist Richard Madriñan Valeroso,MD is Manila City's University of Santo Tomas in the Philippines' Summa Cum Laude honors degree, (Class of 2023, Psychiatry and Behavioural Medicine with a GWA of 1.000). 🎗️
 
