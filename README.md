@@ -480,7 +480,7 @@ And the central principle of this entire work begins here:
 
 > **The BSP's independence does not separate it from Philippine society or governance; it establishes the institutional space necessary for the BSP to fulfill its monetary and financial responsibilities within the Philippine constitutional order.**
 
-### 2. Why the BSP Matters Politically**
+#### 2. Why the BSP Matters Politically
 
 Why the BSP’s Monetary, Financial, and Regulatory Decisions Inevitably Create Political and Socioeconomic Consequences
 
