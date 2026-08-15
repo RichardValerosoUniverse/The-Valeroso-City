@@ -1,9 +1,8 @@
-# BSP AND POLITICS IN THE PHILIPPINES:
-## A Comprehensive Guide to the BSP's Role in Governance, Central-Bank Independence, Monetary Policy, Political Power, Finance, Credit, Accountability, and Public Trust
+# BSP AND POLITICS IN THE PHILIPPINES: A Comprehensive Guide to the BSP's Role in Governance, Central-Bank Independence, Monetary Policy, Political Power, Finance, Credit, Accountability, and Public Trust
 
 **PART I — THE BSP AS AN INDEPENDENT INSTITUTION WITHIN PHILIPPINE POLITICS**
 
-### 1. The BSP's Role in Philippine Governance
+## 1. The BSP's Role in Philippine Governance
 
 How the BSP functions as an independent public institution within the Philippine system of government and why its monetary, financial, and regulatory responsibilities place it at an important intersection of economics, governance, and politics.
 
@@ -480,7 +479,7 @@ And the central principle of this entire work begins here:
 
 > **The BSP's independence does not separate it from Philippine society or governance; it establishes the institutional space necessary for the BSP to fulfill its monetary and financial responsibilities within the Philippine constitutional order.**
 
-#### 2. Why the BSP Matters Politically
+## 2. Why the BSP Matters Politically
 
 Why the BSP’s Monetary, Financial, and Regulatory Decisions Inevitably Create Political and Socioeconomic Consequences
 
@@ -1066,7 +1065,7 @@ That is the more accurate analytical framework.
 
 **20. A Simple Real-World Chain**
 
-- Consider an economy experiencing persistent inflation.
+Consider an economy experiencing persistent inflation.
 
 **Stage 1 — Inflation increases**
 
