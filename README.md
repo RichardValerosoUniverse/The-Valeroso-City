@@ -3,7 +3,7 @@
 
 **PART I — THE BSP AS AN INDEPENDENT INSTITUTION WITHIN PHILIPPINE POLITICS**
 
-## 1. The BSP's Role in Philippine Governance**
+### 1. The BSP's Role in Philippine Governance
 
 How the BSP functions as an independent public institution within the Philippine system of government and why its monetary, financial, and regulatory responsibilities place it at an important intersection of economics, governance, and politics.
 
