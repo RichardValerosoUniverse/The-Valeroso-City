@@ -2263,7 +2263,7 @@ This hierarchy matters because it prevents a common misunderstanding:
 > **The BSP's authority is not self-created. It originates from the Philippine legal order.**
 
 
-3. The Core Mandate of the BSP
+**3. The Core Mandate of the BSP**
 
 The BSP's central monetary responsibility is to maintain price stability conducive to balanced and sustainable growth of the economy and employment.
 
@@ -2283,7 +2283,7 @@ This is a crucial boundary.
 
 ---
 
-4. Price Stability as the Central Monetary Objective
+**4. Price Stability as the Central Monetary Objective**
 
 Price stability is important because persistent and unpredictable inflation can damage the economy.
 
@@ -2304,11 +2304,11 @@ The inflation target is set by the Development Budget Coordination Committee (DB
 
 This illustrates an important institutional distinction:
 
-«Setting the national inflation target through the legally established process is different from independently implementing monetary policy to achieve that target.»
+> **Setting the national inflation target through the legally established process is different from independently implementing monetary policy to achieve that target.**
 
 ---
 
-5. Monetary Policy: What the BSP Can Do
+**5. Monetary Policy: What the BSP Can Do**
 
 The BSP has several monetary-policy instruments through which it influences financial conditions.
 
@@ -2328,16 +2328,22 @@ These instruments affect the availability and cost of liquidity in the financial
 In simplified form:
 
 BSP monetary decision
+        
         ↓
 Financial conditions
+        
         ↓
 Interest rates and liquidity
+        
         ↓
 Borrowing, saving, spending, and investment
+        
         ↓
 Aggregate demand and economic activity
+        
         ↓
 Inflation and broader economic conditions
+
 
 Because this transmission mechanism affects ordinary economic life, monetary policy inevitably has political and socioeconomic consequences.
 
@@ -2345,7 +2351,7 @@ But the authority to make monetary policy comes from the BSP's legal mandate—n
 
 ---
 
-6. The BSP Does Not Control the Entire Economy
+**6. The BSP Does Not Control the Entire Economy**
 
 A common misconception is to treat the BSP as if it controls Philippine economic policy as a whole.
 
@@ -2363,13 +2369,13 @@ For example:
 
 Therefore:
 
-«The BSP is a central institution in economic governance, but it is not the Philippine government's entire economic-policy apparatus.»
+> **The BSP is a central institution in economic governance, but it is not the Philippine government's entire economic-policy apparatus.**
 
 This distinction is fundamental.
 
 ---
 
-7. Monetary Policy Is Not Fiscal Policy
+**7. Monetary Policy Is Not Fiscal Policy**
 
 One of the clearest political boundaries is the distinction between monetary policy and fiscal policy.
 
@@ -2393,7 +2399,7 @@ The existence of coordination between fiscal authorities and the BSP does not me
 
 ---
 
-8. Coordination Is Not Political Control
+**8. Coordination Is Not Political Control**
 
 The BSP does not operate in complete isolation from the government.
 
@@ -2403,7 +2409,7 @@ This is necessary because financial stability is a system-wide concern.
 
 However:
 
-«Coordination does not mean command.»
+> **Coordination does not mean command.**
 
 A central bank may coordinate with government agencies while retaining its legally protected independence in the exercise of its mandate.
 
@@ -2415,7 +2421,7 @@ The legally relevant question is whether the BSP's decisions are being dictated 
 
 ---
 
-9. Financial Stability as a BSP Mandate
+**9. Financial Stability as a BSP Mandate**
 
 The BSP's responsibilities extend beyond conventional monetary policy.
 
@@ -2438,7 +2444,7 @@ This gives the BSP another important area of legally authorized authority.
 
 ---
 
-10. Banking Supervision and Financial Regulation
+**10. Banking Supervision and Financial Regulation**
 
 The BSP also exercises supervisory and regulatory powers over the financial institutions placed under its jurisdiction.
 
@@ -2460,7 +2466,7 @@ The legal basis and purpose of the decision remain decisive.
 
 ---
 
-11. The BSP and the Banking System
+**11. The BSP and the Banking System**
 
 The BSP's supervisory role gives it significant authority over banks.
 
@@ -2484,7 +2490,7 @@ It is a matter of public financial stability.
 
 ---
 
-12. Payment and Settlement Systems
+**12. Payment and Settlement Systems**
 
 The BSP also has responsibility for overseeing payment and settlement systems.
 
@@ -2505,7 +2511,7 @@ Thus, the BSP's authority extends beyond traditional ideas of interest rates and
 
 ---
 
-13. Currency Issuance
+**13. Currency Issuance**
 
 The BSP has the sole authority to issue the national currency.
 
@@ -2517,11 +2523,11 @@ The BSP's authority to issue Philippine currency exists within its statutory mon
 
 Therefore:
 
-«The government's fiscal authority and the BSP's monetary authority are not interchangeable.»
+> **The government's fiscal authority and the BSP's monetary authority are not interchangeable.**
 
 ---
 
-14. International Reserves and Foreign Exchange Functions
+**14. International Reserves and Foreign Exchange Functions**
 
 The BSP also performs functions involving the country's international reserves and foreign-exchange operations.
 
@@ -2543,7 +2549,7 @@ The BSP therefore needs authority to respond within the scope of its legal manda
 
 ---
 
-15. Inclusive Finance and Consumer Interests
+**15. Inclusive Finance and Consumer Interests**
 
 The BSP's responsibilities also include promoting broad and convenient access to financial services.
 
