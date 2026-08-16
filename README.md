@@ -1979,18 +1979,18 @@ And its authority remains bounded by that same legal order.
 
 **29. The Complete Legal Architecture**
 
----
-
 **The legal foundation can be represented as follows:**
 
 1987 PHILIPPINE CONSTITUTION
 Article XII, Section 20
         │
         ▼
+
 Requires Congress to establish
 an INDEPENDENT CENTRAL MONETARY AUTHORITY
         │
         ▼
+
 REPUBLIC ACT NO. 7653
 New Central Bank Act
         │
@@ -1999,6 +1999,7 @@ New Central Bank Act
         └── Administrative autonomy
         │
         ▼
+
 REPUBLIC ACT NO. 11211
 Amended BSP Charter
         │
@@ -2008,6 +2009,7 @@ Amended BSP Charter
         └── Strengthens financial-stability framework
         │
         ▼
+
 BSP EXERCISES LEGALLY DEFINED POWERS
         │
         ├── Monetary policy
@@ -2017,6 +2019,7 @@ BSP EXERCISES LEGALLY DEFINED POWERS
         └── Payment and settlement systems
         │
         ▼
+
 ACCOUNTABILITY UNDER THE CONSTITUTION AND LAW
 
 The constitutional and statutory foundations that establish and protect the BSP's institutional independence.
