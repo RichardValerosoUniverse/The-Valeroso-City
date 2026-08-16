@@ -1981,20 +1981,24 @@ And its authority remains bounded by that same legal order.
 
 **The legal foundation can be represented as follows:**
 
+
 1987 PHILIPPINE CONSTITUTION
 Article XII, Section 20
        
+     
         │
         ▼
 
 Requires Congress to establish
 an INDEPENDENT CENTRAL MONETARY AUTHORITY
        
+        
         │
         ▼
 
 REPUBLIC ACT NO. 7653
 New Central Bank Act
+      
       
         │
         ├── Independent and accountable body corporate
@@ -2006,6 +2010,7 @@ New Central Bank Act
 REPUBLIC ACT NO. 11211
 Amended BSP Charter
        
+      
         │
         ├── Strengthens institutional framework
         ├── Defines/expands statutory responsibilities
@@ -2016,6 +2021,7 @@ Amended BSP Charter
 
 BSP EXERCISES LEGALLY DEFINED POWERS
        
+     
         │
         ├── Monetary policy
         ├── Banking supervision
