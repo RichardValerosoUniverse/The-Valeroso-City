@@ -2942,8 +2942,10 @@ The correct relationship is therefore:
 INDEPENDENCE
       +
 ACCOUNTABILITY
+      
       ↓
 LEGITIMATE PUBLIC AUTHORITY
+
 
 Neither principle should be treated as absolute.
 
