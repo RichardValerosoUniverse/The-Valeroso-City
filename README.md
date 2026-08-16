@@ -2375,4 +2375,37 @@ The appropriate relationship between an independent central bank and the politic
 How the Philippines can strengthen BSP institutional independence while preserving accountability, transparency, credibility, lawful oversight, and public trust in the country's monetary and financial system.
 
 
+                PHILIPPINE CONSTITUTION
+                         │
+                         ▼
+              INDEPENDENT CENTRAL
+              MONETARY AUTHORITY
+                         │
+                         ▼
+                 BSP CHARTER
+              RA 7653 + RA 11211
+                         │
+          ┌──────────────┼──────────────┐
+          ▼              ▼              ▼
+    MONETARY         FINANCIAL      PAYMENTS &
+      POLICY          STABILITY      CURRENCY
+          │              │              │
+          └──────────────┼──────────────┘
+                         ▼
+              LEGALLY DEFINED AUTHORITY
+                         │
+                         ▼
+                  BSP DECISION-MAKING
+                         │
+            ┌────────────┴────────────┐
+            ▼                         ▼
+      ECONOMIC EFFECTS          POLITICAL EFFECTS
+            │                         │
+            └────────────┬────────────┘
+                         ▼
+               PUBLIC ACCOUNTABILITY
+                         │
+                         ▼
+                CONSTITUTION + LAW
+
 
