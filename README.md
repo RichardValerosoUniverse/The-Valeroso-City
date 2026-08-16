@@ -2941,12 +2941,8 @@ The correct relationship is therefore:
 
 INDEPENDENCE
       +
-ACCOUNTABILITY
-      
-      ↓
-LEGITIMATE PUBLIC AUTHORITY
-
-
+ACCOUNTABILITY = LEGITIMATE PUBLIC AUTHORITY
+       
 Neither principle should be treated as absolute.
 
 Independence without accountability could become unchecked authority.
@@ -2984,7 +2980,7 @@ Therefore:
 
 ---
 
-32. The Difference Between Policy and Politics
+**32. The Difference Between Policy and Politics**
 
 The word "policy" can create confusion.
 
@@ -3006,11 +3002,11 @@ It should not transform monetary policy into a vehicle for partisan political ob
 
 Thus:
 
-«Monetary policy is policy, but it is not necessarily partisan politics.»
+> **Monetary policy is policy, but it is not necessarily partisan politics.**
 
 ---
 
-33. Why the Boundary Matters
+**33. Why the Boundary Matters**
 
 The boundary between mandate and politics matters because central-bank credibility depends partly on the public's confidence that monetary decisions are made according to institutional objectives and evidence rather than partisan demands.
 
@@ -3030,7 +3026,7 @@ It has practical economic importance.
 
 ---
 
-34. The BSP's Political Power Is Indirect
+**34. The BSP's Political Power Is Indirect**
 
 The BSP does not ordinarily exercise political power in the same manner as an elected official.
 
@@ -3058,7 +3054,7 @@ That distinction is central to understanding central banking.
 
 ---
 
-35. The BSP and the Public Interest
+**35. The BSP and the Public Interest**
 
 The BSP's mandate ultimately concerns public economic and financial interests.
 
@@ -3078,7 +3074,7 @@ Its legally assigned functions are intended to serve broader public objectives.
 
 ---
 
-36. A Practical Test for Evaluating BSP Action
+**36. A Practical Test for Evaluating BSP Action**
 
 When evaluating whether a BSP decision is within its mandate, five questions provide a useful framework:
 
@@ -3108,7 +3104,7 @@ This framework helps distinguish legitimate criticism of policy from unsupported
 
 ---
 
-37. The Three Boundaries of BSP Authority
+**37. The Three Boundaries of BSP Authority**
 
 The BSP's authority can be understood through three fundamental boundaries:
 
@@ -3130,13 +3126,11 @@ LEGAL AUTHORITY
       +
 INSTITUTIONAL MANDATE
       +
-POLITICAL INDEPENDENCE
-      ↓
-LAWFUL BSP ACTION
+POLITICAL INDEPENDENCE = LAWFUL BSP ACTION
 
 ---
 
-38. The Most Important Principle
+**38. The Most Important Principle**
 
 The essence of the BSP's mandate can be expressed in one sentence:
 
@@ -3158,7 +3152,7 @@ These distinctions are essential.
 
 ---
 
-39. The Complete Conceptual Framework
+**39. The Complete Conceptual Framework**
 
 The relationship among mandate, authority, independence, and politics can be summarized as:
 
@@ -3199,7 +3193,7 @@ This framework demonstrates why the BSP matters politically while remaining inst
 
 ---
 
-40. The Essential Truth
+**40. The Essential Truth**
 
 The deepest truth about the BSP's mandate is that power and limitation exist together.
 
@@ -3209,13 +3203,13 @@ But the BSP is limited because that power is legally conferred for specific publ
 
 Therefore:
 
-«The BSP's independence protects how it exercises its mandate; its mandate determines what it is authorized to do; and the Constitution and laws determine the boundaries of that authority.»
+> **The BSP's independence protects how it exercises its mandate; its mandate determines what it is authorized to do; and the Constitution and laws determine the boundaries of that authority.**
 
 This is the correct starting point for analyzing any claim concerning BSP power, influence, independence, or political involvement.
 
 ---
 
-Conclusion
+**Conclusion**
 
 The Bangko Sentral ng Pilipinas is one of the most consequential public institutions in Philippine economic governance, but its importance must not be confused with unlimited power.
 
@@ -3239,7 +3233,7 @@ Its independence does not mean freedom from the Constitution or the law. Rather,
 
 The most important distinction is therefore:
 
-«The BSP may produce political consequences without pursuing political objectives.»
+> **The BSP may produce political consequences without pursuing political objectives.**
 
 A monetary decision can affect borrowers, savers, businesses, employment, investment, inflation, government finances, and ultimately public opinion. Those consequences are an unavoidable part of exercising monetary and financial authority in a modern economy.
 
@@ -3255,7 +3249,7 @@ A proper assessment must examine:
 
 This produces the clearest understanding of the BSP's political boundaries:
 
-«The BSP is independent, but not sovereign.
+> **The BSP is independent, but not sovereign.**
 
 It is powerful, but not unlimited.
 
@@ -3271,7 +3265,7 @@ Ultimately, the BSP's legitimacy rests on maintaining the proper balance between
 
 That is the essence of the BSP's mandate:
 
-«The BSP has the legal authority necessary to protect monetary and financial stability, but that authority exists for defined public purposes and must always remain within the constitutional, statutory, institutional, and political boundaries established by Philippine law.»
+> **The BSP has the legal authority necessary to protect monetary and financial stability, but that authority exists for defined public purposes and must always remain within the constitutional, statutory, institutional, and political boundaries established by Philippine law.**
 
 **5. Central-Bank Independence as a Democratic Safeguard**
 
