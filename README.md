@@ -2178,9 +2178,80 @@ And its constitutional foundation explains why the BSP occupies a distinctive pl
 
 That is the proper legal foundation for understanding **BSP independence**.
 
-**4. The BSP's Mandate, Authority, and Political Boundaries**
+## 4. The BSP's Mandate, Authority, and Political Boundaries
 
 What the BSP is legally empowered to do, the limits of its authority, and the boundaries separating its institutional mandate from political objectives.
+
+The **Bangko Sentral ng Pilipinas (BSP)** occupies a distinctive position in Philippine governance. It is an independent public institution with substantial authority over **money, banking, credit, monetary policy, banking supervision, financial regulation, financial stability, currency, and payment systems**. Yet that authority is neither unlimited nor political in the partisan sense.
+
+The central legal principle is simple:
+
+> **The BSP has significant public authority, but it may exercise that authority only within the mandate granted to it by the Constitution and by law.**
+
+This distinction is essential to understanding the relationship between the BSP and Philippine politics.
+
+The BSP can make decisions that affect interest rates, inflation, credit conditions, banks, financial institutions, businesses, households, investment, employment, and economic activity. Consequently, its decisions can have major political consequences.
+
+But **political consequence is not the same thing as political purpose**.
+
+An increase in interest rates may affect borrowers and businesses and therefore become politically controversial. A regulatory decision may impose costs on a financial institution and generate political criticism. A policy designed to protect financial stability may affect economic activity.
+
+None of these facts, by themselves, establish that the BSP is pursuing a partisan political objective.
+
+The proper question is always:
+
+> **Was the BSP acting within its lawful mandate, using legally authorized powers, and pursuing the objectives assigned to it by law?**
+
+That question provides the foundation for understanding the BSP's political boundaries.
+
+---
+
+**1. The Constitutional Foundation of the BSP's Mandate**
+
+The starting point is **Article XII, Section 20 of the 1987 Philippine Constitution**.
+
+The Constitution directs Congress to establish an **independent central monetary authority** and provides that this authority shall:
+
+- provide policy direction in the areas of **money, banking, and credit**;
+- supervise the operations of banks; and
+- exercise regulatory powers provided by law over finance companies and similar institutions.
+
+This constitutional provision establishes the fundamental institutional role of the country's central monetary authority.
+
+The BSP therefore does not possess monetary and financial powers merely because Congress happened to create an ordinary government agency.
+
+Its existence and independence rest upon a **constitutional framework**.
+
+Congress subsequently implemented that framework through the New Central Bank Act, as amended.
+
+---
+
+**2. The BSP's Statutory Foundation**
+
+The principal statutory foundation is **Republic Act No. 7653**, the **New Central Bank Act**, as amended by **Republic Act No. 11211**.
+
+RA 11211 expressly provides for:
+
+> **"an independent central monetary authority"**
+
+in the form of the **Bangko Sentral ng Pilipinas**, established as a body corporate.
+
+The modern BSP therefore rests upon a layered legal structure:
+
+1987 Constitution
+        ↓
+Independent central monetary authority
+        ↓
+RA 7653
+New Central Bank Act
+        ↓
+RA 11211
+Amended BSP Charter
+        ↓
+BSP's legally defined mandates and powers
+        ↓
+Exercise of authority subject to law and accountability
+
 
 **5. Central-Bank Independence as a Democratic Safeguard**
 
