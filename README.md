@@ -2832,7 +2832,7 @@ This is one of the defining characteristics of central-bank governance.
 
 ---
 
-26. The BSP's Relationship With Congress
+**26. The BSP's Relationship With Congress**
 
 Congress establishes the statutory framework under which the BSP operates.
 
@@ -2854,7 +2854,7 @@ That distinction protects both democratic accountability and monetary independen
 
 ---
 
-27. The BSP and the Judiciary
+**27. The BSP and the Judiciary**
 
 The BSP is also subject to the rule of law and judicial interpretation.
 
@@ -2872,11 +2872,11 @@ the courts may determine the applicable law within their constitutional jurisdic
 
 Thus:
 
-«BSP independence is institutional independence under law—not immunity from law.»
+> **BSP independence is institutional independence under law—not immunity from law.**
 
 ---
 
-28. The Monetary Board and Institutional Authority
+**28. The Monetary Board and Institutional Authority**
 
 The BSP's monetary and supervisory powers are exercised through its legally established governance structure, particularly the Monetary Board.
 
@@ -2897,7 +2897,7 @@ These are not legally equivalent.
 
 ---
 
-29. Political Boundaries of BSP Decision-Making
+**29. Political Boundaries of BSP Decision-Making**
 
 The BSP's political boundary can be summarized in one principle:
 
@@ -2913,11 +2913,11 @@ For example:
 
 Proper Institutional Consideration
 
-«"This monetary decision may affect households, businesses, employment, and government financing."»
+> **"This monetary decision may affect households, businesses, employment, and government financing."**
 
 Improper Political Objective
 
-«"This monetary decision should be made to help a particular candidate win an election."»
+> **"This monetary decision should be made to help a particular candidate win an election."**
 
 The first is legitimate economic analysis.
 
@@ -2955,7 +2955,7 @@ The Philippine framework seeks to avoid both extremes.
 
 ---
 
-31. The BSP's Authority Is Functional, Not General
+**31. The BSP's Authority Is Functional, Not General**
 
 A useful way to understand BSP power is to call it functional authority.
 
@@ -2978,7 +2978,7 @@ do not automatically extend to every other field of government.
 
 Therefore:
 
-«The breadth of the BSP's expertise does not equal unlimited legal jurisdiction.»
+> **The breadth of the BSP's expertise does not equal unlimited legal jurisdiction.**
 
 ---
 
