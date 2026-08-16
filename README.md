@@ -2262,6 +2262,7 @@ This hierarchy matters because it prevents a common misunderstanding:
 
 > **The BSP's authority is not self-created. It originates from the Philippine legal order.**
 
+---
 
 **3. The Core Mandate of the BSP**
 
@@ -2567,13 +2568,13 @@ It must connect its actions to powers and responsibilities granted by law.
 
 ---
 
-16. The BSP's Authority Has Legal Boundaries
+**16. The BSP's Authority Has Legal Boundaries**
 
 The BSP has substantial powers, but those powers are not unlimited.
 
 The basic principle is:
 
-«A government institution may exercise public authority only within the authority granted by the Constitution and applicable law.»
+> **A government institution may exercise public authority only within the authority granted by the Constitution and applicable law.**
 
 This means the BSP cannot create powers merely because it believes those powers would be economically desirable.
 
@@ -2590,7 +2591,7 @@ The BSP therefore operates under:
 
 ---
 
-17. The BSP Is Not a Lawmaker
+**17. The BSP Is Not a Lawmaker**
 
 This distinction is extremely important.
 
@@ -2604,7 +2605,7 @@ The BSP implements and administers statutory powers within the authority delegat
 
 Therefore:
 
-«BSP regulation must remain connected to a lawful statutory mandate.»
+> **BSP regulation must remain connected to a lawful statutory mandate.**
 
 The BSP cannot simply legislate on any subject it chooses.
 
@@ -2612,7 +2613,7 @@ Its regulatory power exists because Philippine law grants it.
 
 ---
 
-18. The BSP Is Not a General Political Authority
+**18. The BSP Is Not a General Political Authority**
 
 The BSP is not authorized to determine every question of national policy.
 
@@ -2632,11 +2633,11 @@ Other constitutional institutions and government agencies have those responsibil
 
 This creates a crucial boundary:
 
-«The BSP's importance in the economy does not make it the government of the economy.»
+> **The BSP's importance in the economy does not make it the government of the economy.**
 
 ---
 
-19. The BSP Is Not an Electoral Institution
+**19. The BSP Is Not an Electoral Institution**
 
 The BSP is not responsible for winning elections, maintaining political coalitions, or advancing partisan platforms.
 
@@ -2652,7 +2653,7 @@ Its responsibility is to make the decision that best serves its legally assigned
 
 ---
 
-20. Political Consequences Versus Political Objectives
+**20. Political Consequences Versus Political Objectives**
 
 This is perhaps the most important conceptual distinction in the entire subject.
 
@@ -2669,22 +2670,29 @@ The two are not equivalent.
 For example:
 
 BSP raises interest rates
+        
         ↓
 Borrowing becomes more expensive
+       
         ↓
 Some households and businesses are affected
+        
         ↓
 Public criticism increases
+       
         ↓
 Government faces political pressure
+
 
 That sequence demonstrates political consequences.
 
 It does not by itself demonstrate:
 
 BSP raises interest rates
+        
         ↓
 because it wants to help or hurt a political party
+
 
 The second claim requires evidence of political motivation or improper influence.
 
@@ -2692,7 +2700,7 @@ This distinction is indispensable for truthful analysis.
 
 ---
 
-21. Independence Does Not Eliminate Politics From the Economy
+**21. Independence Does Not Eliminate Politics From the Economy**
 
 BSP independence does not mean the BSP operates in a world without politics.
 
@@ -2712,11 +2720,11 @@ Therefore, monetary policy inevitably interacts with political realities.
 
 The correct principle is:
 
-«The BSP is politically consequential without being a political institution in the partisan sense.»
+> **The BSP is politically consequential without being a political institution in the partisan sense.**
 
 ---
 
-22. The Distributional Effects of Monetary Policy
+**22. The Distributional Effects of Monetary Policy**
 
 Monetary policy does not affect everyone equally.
 
@@ -2744,7 +2752,7 @@ The key question remains whether the decision is legally and institutionally con
 
 ---
 
-23. The BSP Cannot Directly Solve Every Inflation Problem
+**23. The BSP Cannot Directly Solve Every Inflation Problem**
 
 An especially important boundary concerns the limits of monetary policy.
 
@@ -2765,13 +2773,13 @@ The BSP itself recognizes that some inflation deviations can result from factors
 
 Therefore:
 
-«The BSP has substantial influence over monetary conditions, but it does not control every determinant of prices.»
+> **The BSP has substantial influence over monetary conditions, but it does not control every determinant of prices.**
 
 This is a major limit on its authority.
 
 ---
 
-24. The BSP Cannot Guarantee Economic Outcomes
+**24. The BSP Cannot Guarantee Economic Outcomes**
 
 Another essential boundary is the difference between authority and capacity.
 
@@ -2792,13 +2800,13 @@ Monetary policy works through transmission mechanisms that involve uncertainty a
 
 Therefore:
 
-«A lawful monetary decision can produce an uncertain economic result.»
+> **A lawful monetary decision can produce an uncertain economic result.**
 
 Failure to achieve a desired outcome is not automatically evidence that the BSP acted unlawfully or politically.
 
 ---
 
-25. The BSP's Relationship With the President
+**25. The BSP's Relationship With the President**
 
 The President is a constitutionally significant actor in Philippine economic governance, and the President has important statutory relationships with the BSP, including appointment powers established by law.
 
@@ -3448,39 +3456,3 @@ The appropriate relationship between an independent central bank and the politic
 **50. Strengthening BSP Independence, Accountability, and Public Trust**
 
 How the Philippines can strengthen BSP institutional independence while preserving accountability, transparency, credibility, lawful oversight, and public trust in the country's monetary and financial system.
-
-
-                PHILIPPINE CONSTITUTION
-                         │
-                         ▼
-              INDEPENDENT CENTRAL
-              MONETARY AUTHORITY
-                         │
-                         ▼
-                 BSP CHARTER
-              RA 7653 + RA 11211
-                         │
-          ┌──────────────┼──────────────┐
-          ▼              ▼              ▼
-    MONETARY         FINANCIAL      PAYMENTS &
-      POLICY          STABILITY      CURRENCY
-          │              │              │
-          └──────────────┼──────────────┘
-                         ▼
-              LEGALLY DEFINED AUTHORITY
-                         │
-                         ▼
-                  BSP DECISION-MAKING
-                         │
-            ┌────────────┴────────────┐
-            ▼                         ▼
-      ECONOMIC EFFECTS          POLITICAL EFFECTS
-            │                         │
-            └────────────┬────────────┘
-                         ▼
-               PUBLIC ACCOUNTABILITY
-                         │
-                         ▼
-                CONSTITUTION + LAW
-
-
