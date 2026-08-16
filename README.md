@@ -2239,16 +2239,21 @@ in the form of the **Bangko Sentral ng Pilipinas**, established as a body corpor
 The modern BSP therefore rests upon a layered legal structure:
 
 1987 Constitution
+        
         ↓
 Independent central monetary authority
+        
         ↓
 RA 7653
 New Central Bank Act
+        
         ↓
 RA 11211
 Amended BSP Charter
+        
         ↓
 BSP's legally defined mandates and powers
+        
         ↓
 Exercise of authority subject to law and accountability
 
