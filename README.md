@@ -483,6 +483,8 @@ And the central principle of this entire work begins here:
 
 Why the BSP’s Monetary, Financial, and Regulatory Decisions Inevitably Create Political and Socioeconomic Consequences
 
+---
+
 The **Bangko Sentral ng Pilipinas (BSP)** is not a partisan political institution. It does not exist to serve a political party, an elected official, or an electoral campaign. Under Republic Act No. 11211, which amended the New Central Bank Act, the BSP is an **independent central monetary authority** whose primary objective is to maintain price stability conducive to balanced and sustainable economic growth and employment. The law also gives it responsibilities for monetary stability, financial stability, payment and settlement systems, and access to quality financial services.
 
 Yet the BSP is **politically consequential**.
@@ -1318,6 +1320,8 @@ That distinction—**independence without isolation, authority without unlimited
 ## 3. The Legal Foundation of BSP Independence
 
 The Constitutional and Statutory Foundations That Establish and Protect the BSP's Institutional Independence
+
+---
 
 The **Bangko Sentral ng Pilipinas (BSP)** is independent for a reason: its independence is not merely an administrative preference, a policy tradition, or a matter of institutional courtesy. **It is expressly grounded in the 1987 Philippine Constitution and implemented through legislation.**
 
@@ -2181,6 +2185,8 @@ That is the proper legal foundation for understanding **BSP independence**.
 ## 4. The BSP's Mandate, Authority, and Political Boundaries
 
 What the BSP is legally empowered to do, the limits of its authority, and the boundaries separating its institutional mandate from political objectives.
+
+---
 
 The **Bangko Sentral ng Pilipinas (BSP)** occupies a distinctive position in Philippine governance. It is an independent public institution with substantial authority over **money, banking, credit, monetary policy, banking supervision, financial regulation, financial stability, currency, and payment systems**. Yet that authority is neither unlimited nor political in the partisan sense.
 
