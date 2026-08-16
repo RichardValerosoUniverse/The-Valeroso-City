@@ -2258,6 +2258,11 @@ BSP's legally defined mandates and powers
 Exercise of authority subject to law and accountability
 
 
+This hierarchy matters because it prevents a common misunderstanding:
+
+> **The BSP's authority is not self-created. It originates from the Philippine legal order.**
+
+
 **5. Central-Bank Independence as a Democratic Safeguard**
 
 Why institutional independence protects monetary decision-making from inappropriate short-term political interests.
