@@ -1091,7 +1091,7 @@ Consider an economy experiencing persistent inflation.
 
 - Demand and financial conditions can influence economic activity.
 
-**Stage 7 — Social effects emerge*
+**Stage 7 — Social effects emerge**
 
 - Different groups experience different benefits and costs.
 
