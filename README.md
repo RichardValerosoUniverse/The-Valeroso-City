@@ -2033,6 +2033,7 @@ BSP EXERCISES LEGALLY DEFINED POWERS
 
 ACCOUNTABILITY UNDER THE CONSTITUTION AND LAW
 
+
 The constitutional and statutory foundations that establish and protect the BSP's institutional independence.
 
 **4. The BSP's Mandate, Authority, and Political Boundaries**
