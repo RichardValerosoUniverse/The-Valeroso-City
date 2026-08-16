@@ -1315,8 +1315,6 @@ That is why the BSP matters politically.
 
 That distinction—**independence without isolation, authority without unlimited power, and political consequences without necessarily political control**—is the foundation for understanding the BSP’s place in Philippine governance.
 
-Why the BSP's monetary, financial, and regulatory decisions inevitably create political and socioeconomic consequences.
-
 ## 3. The Legal Foundation of BSP Independence
 
 The Constitutional and Statutory Foundations That Establish and Protect the BSP's Institutional Independence
