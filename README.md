@@ -2,7 +2,7 @@
 
 **PART I — THE BSP AS AN INDEPENDENT INSTITUTION WITHIN PHILIPPINE POLITICS**
 
-## 1. The BSP's Role in Philippine Governance
+## **1. The BSP's Role in Philippine Governance**
 
 How the BSP functions as an independent public institution within the Philippine system of government and why its monetary, financial, and regulatory responsibilities place it at an important intersection of economics, governance, and politics.
 
@@ -479,7 +479,7 @@ And the central principle of this entire work begins here:
 
 > **The BSP's independence does not separate it from Philippine society or governance; it establishes the institutional space necessary for the BSP to fulfill its monetary and financial responsibilities within the Philippine constitutional order.**
 
-## 2. Why the BSP Matters Politically
+## **2. Why the BSP Matters Politically**
 
 Why the BSP’s Monetary, Financial, and Regulatory Decisions Inevitably Create Political and Socioeconomic Consequences
 
@@ -1317,7 +1317,7 @@ That is why the BSP matters politically.
 
 That distinction—**independence without isolation, authority without unlimited power, and political consequences without necessarily political control**—is the foundation for understanding the BSP’s place in Philippine governance.
 
-## 3. The Legal Foundation of BSP Independence
+## **3. The Legal Foundation of BSP Independence**
 
 The Constitutional and Statutory Foundations That Establish and Protect the BSP's Institutional Independence
 
@@ -2182,7 +2182,7 @@ And its constitutional foundation explains why the BSP occupies a distinctive pl
 
 That is the proper legal foundation for understanding **BSP independence**.
 
-## 4. The BSP's Mandate, Authority, and Political Boundaries
+## **4. The BSP's Mandate, Authority, and Political Boundaries**
 
 What the BSP is legally empowered to do, the limits of its authority, and the boundaries separating its institutional mandate from political objectives.
 
