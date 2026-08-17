@@ -4760,3 +4760,25 @@ How the Philippines can strengthen BSP institutional independence while preservi
                                 │
                                 └───────────────►
                                   NEW INFORMATION
+
+LEGAL AUTHORITY
+      ↓
+GOVERNANCE
+      ↓
+LEADERSHIP
+      ↓
+SPECIALIZED EXPERTISE
+      ↓
+INFORMATION
+      ↓
+ANALYSIS
+      ↓
+DECISION
+      ↓
+IMPLEMENTATION
+      ↓
+MONITORING
+      ↓
+INSTITUTIONAL LEARNING
+      ↓
+STRONGER FUTURE DECISION-MAKING
