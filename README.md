@@ -5816,7 +5816,7 @@ It does not tell the BSP to ease whenever economic growth slows.
 
 Instead, the mandate establishes the **objective** within which the Monetary Board must exercise judgment.
 
-### The fundamental distinction
+**The fundamental distinction**
 
 **The mandate tells the BSP what it is responsible for.**
 
@@ -5872,13 +5872,13 @@ If expectations become unanchored, inflation can become more persistent.
 
 The inflation target therefore has two important dimensions:
 
-### Point target
+**Point target**
 
-The **3.0 percent point target** represents the central objective.
+- The **3.0 percent point target** represents the central objective.
 
-### Tolerance band
+**Tolerance band**
 
-The **±1 percentage-point tolerance band** recognizes that inflation cannot be controlled with mechanical precision and that temporary shocks can move inflation away from the point target.
+- The **±1 percentage-point tolerance band** recognizes that inflation cannot be controlled with mechanical precision and that temporary shocks can move inflation away from the point target.
 
 The BSP emphasizes that the point target—not every point within the tolerance band—is the true medium-term anchor. 3
 
