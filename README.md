@@ -5802,7 +5802,7 @@ The process therefore involves both **economic analysis and institutional judgme
 
 Every monetary-policy decision begins with a legal and institutional foundation.
 
-The BSP's primary monetary-policy objective is to promote price stability conducive to balanced and sustainable economic growth and employment. The BSP conducts monetary policy through an inflation-targeting framework designed to achieve this objective. 1
+The BSP's primary monetary-policy objective is to promote price stability conducive to balanced and sustainable economic growth and employment. The BSP conducts monetary policy through an inflation-targeting framework designed to achieve this objective. 
 
 This establishes the fundamental question for monetary policy:
 
@@ -5858,7 +5858,7 @@ Therefore:
 
 The Philippines operates under an **inflation-targeting framework**.
 
-Under the current framework, the inflation target for **2025–2028 is 3.0 percent, with a tolerance band of ±1 percentage point**. The target is set by the Development Budget Coordination Committee (DBCC) in consultation with the BSP. 2
+Under the current framework, the inflation target for **2025–2028 is 3.0 percent, with a tolerance band of ±1 percentage point**. The target is set by the Development Budget Coordination Committee (DBCC) in consultation with the BSP. 
 
 The target serves as a **nominal anchor**.
 
@@ -6290,7 +6290,7 @@ The BSP therefore develops assessments of the likely path of:
 - financial conditions; and
 - other relevant variables.
 
-The BSP's **Monetary Policy Report (MPR)** presents its inflation forecast and discusses the economic outlook, risks, and policy considerations. The MPR is a central component of the BSP's transparency framework. 4
+The BSP's **Monetary Policy Report (MPR)** presents its inflation forecast and discusses the economic outlook, risks, and policy considerations. The MPR is a central component of the BSP's transparency framework. 
 
 A forecast, however, is not a prediction with certainty.
 
@@ -6335,7 +6335,7 @@ It is also:
 
 > **"What could make the outlook materially different?"**
 
-The BSP's inflation-targeting framework explicitly recognizes that certain shocks can cause inflation to deviate from target because monetary policy cannot directly control every source of price pressure. 5
+The BSP's inflation-targeting framework explicitly recognizes that certain shocks can cause inflation to deviate from target because monetary policy cannot directly control every source of price pressure. 
 
 ---
 
@@ -6374,7 +6374,7 @@ Therefore:
 
 The **target reverse repurchase (RRP) rate** is the BSP's principal monetary-policy signal.
 
-The target RRP rate communicates the desired policy stance and serves as the key reference point for short-term monetary conditions. The BSP's operational framework uses monetary instruments and liquidity operations to transmit that stance into financial markets. 6
+The target RRP rate communicates the desired policy stance and serves as the key reference point for short-term monetary conditions. The BSP's operational framework uses monetary instruments and liquidity operations to transmit that stance into financial markets. 
 
 The policy rate is therefore a **means**, not the ultimate objective.
 
@@ -6428,7 +6428,7 @@ A simplified transmission mechanism is:
 
 This transmission is neither instantaneous nor perfectly predictable.
 
-The BSP itself notes that the effectiveness of monetary policy depends substantially on how changes in the target RRP rate pass through to broader interest rates. 7
+The BSP itself notes that the effectiveness of monetary policy depends substantially on how changes in the target RRP rate pass through to broader interest rates. 
 
 Therefore:
 
@@ -6495,7 +6495,7 @@ When financial conditions tighten:
 
 The reverse can occur under more accommodative conditions.
 
-This channel is particularly important in the Philippines because banks play a major role in financial intermediation. The BSP's research notes the importance of bank lending-rate pass-through in monetary-policy effectiveness. 8
+This channel is particularly important in the Philippines because banks play a major role in financial intermediation. The BSP's research notes the importance of bank lending-rate pass-through in monetary-policy effectiveness. 
 
 ---
 
@@ -6614,7 +6614,7 @@ These include:
 - standing liquidity facilities; and
 - other authorized monetary operations.
 
-The BSP explains that monetary operations are intended to influence the underlying demand and supply conditions for central-bank money and transmit monetary-policy decisions to financial markets and the economy. 9
+The BSP explains that monetary operations are intended to influence the underlying demand and supply conditions for central-bank money and transmit monetary-policy decisions to financial markets and the economy. 
 
 The conceptual distinction is:
 
@@ -6650,7 +6650,7 @@ Conceptually:
 
 **Overnight Deposit Facility**
 
-The upper and lower facilities help establish boundaries around short-term market rates, while the target RRP rate serves as the central policy signal. 10
+The upper and lower facilities help establish boundaries around short-term market rates, while the target RRP rate serves as the central policy signal. 
 
 The IRC is therefore an **operational framework**, not the monetary-policy objective itself.
 
@@ -6696,7 +6696,7 @@ Therefore:
 
 BSP Securities are part of the BSP's liquidity-management toolkit.
 
-The BSP describes them as negotiable monetary instruments used for structural liquidity management, including absorbing excess liquidity from the financial system. 11
+The BSP describes them as negotiable monetary instruments used for structural liquidity management, including absorbing excess liquidity from the financial system. 
 
 Their significance is operational.
 
@@ -6828,7 +6828,7 @@ The BSP communicates:
 - its policy reasoning; and
 - relevant forward-looking assessments.
 
-The Monetary Policy Report is a major vehicle for this transparency. The BSP states that the MPR is designed to help the public understand and monitor its inflation forecast, policy decisions, stance, and guidance. 12
+The Monetary Policy Report is a major vehicle for this transparency. The BSP states that the MPR is designed to help the public understand and monitor its inflation forecast, policy decisions, stance, and guidance. 
 
 Communication matters because monetary policy operates partly through expectations.
 
@@ -7023,7 +7023,7 @@ Monetary policy cannot directly create:
 
 Inflation can be affected by forces that are largely outside the direct control of the central bank.
 
-The BSP's framework recognizes this limitation through its treatment of shocks and explanation clauses. These recognize circumstances in which inflation can deviate from target because of factors beyond the direct control of monetary policy. 13
+The BSP's framework recognizes this limitation through its treatment of shocks and explanation clauses. These recognize circumstances in which inflation can deviate from target because of factors beyond the direct control of monetary policy. 
 
 The correct response to such shocks is therefore not to assume that monetary policy is irrelevant.
 
