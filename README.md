@@ -4499,25 +4499,25 @@ Or, in its most concise form:
 
 And that is the essential meaning of **Central-Bank Independence as a Democratic Safeguard**.
 
-**6. Independence Does Not Mean Immunity**
+**6. The Institutional Machinery of the BSP**
 
-Why BSP independence does not place the institution above the Constitution, laws, courts, accountability, or legitimate oversight.
+How the BSP's organizational structure transforms its legal mandate into actual institutional decision-making
 
-**7. Political Neutrality of the BSP**
+**7. The BSP's Monetary-Policy Framework**
 
-Why the BSP must maintain institutional neutrality toward political parties, candidates, partisan interests, and political agendas.
+How the BSP transforms its mandate for price stability into an operational monetary-policy strategy
 
-**8. The BSP Within the Philippine Constitutional Order**
+**8. The BSP and the Monetary Transmission Mechanism**
 
-How BSP independence operates within the Constitution and the broader framework of Philippine democratic governance.
+How BSP decisions move through the financial system and ultimately affect the Philippine economy
 
-**9. The BSP and Separation of Powers**
+**9. The BSP as Guardian of Financial-System Stability**
 
-How the BSP's institutional position relates to the Executive, Congress, and Judiciary.
+How the BSP identifies, monitors, and addresses risks that could threaten the stability of the Philippine financial system
 
-**10. Independent but Accountable: The Foundational Principle**
+**10. The BSP in Times of Economic and Financial Crisis**
 
-Why effective BSP independence must coexist with transparency, accountability, lawful oversight, and institutional responsibility.
+How the BSP responds when extraordinary economic or financial conditions place the monetary and financial system under severe stress
 
 **PART II — THE BSP AND THE CENTERS OF POLITICAL POWER**
 
