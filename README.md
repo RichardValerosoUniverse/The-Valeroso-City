@@ -4592,7 +4592,7 @@ This creates an important distinction between **governance** and **administratio
 | **Sectors and Departments** | Perform specialized institutional functions | How should specific responsibilities be analyzed and implemented? |
 | **Operational Units** | Execute assigned functions | How should institutional decisions operate in practice? |
 
-### Why This Distinction Matters
+**Why This Distinction Matters**
 
 It prevents the misconception that:
 
@@ -4632,7 +4632,7 @@ The Monetary Board's responsibilities include matters relating to:
 - institutional governance; and
 - other powers assigned to it under the BSP Charter and applicable law.
 
-### Institutional Decision-Making Versus Personal Decision-Making
+**Institutional Decision-Making Versus Personal Decision-Making**
 
 | Personal Decision | Institutional Decision |
 |---|---|
@@ -5943,99 +5943,3 @@ The appropriate relationship between an independent central bank and the politic
 **50. Strengthening BSP Independence, Accountability, and Public Trust**
 
 How the Philippines can strengthen BSP institutional independence while preserving accountability, transparency, credibility, lawful oversight, and public trust in the country's monetary and financial system.
-
-                         LAW
-                          +
-                     GOVERNANCE
-                          +
-                     LEADERSHIP
-                          +
-                      EXPERTISE
-                          +
-                     INFORMATION
-                          +
-                    DELIBERATION
-                          +
-                   IMPLEMENTATION
-                          +
-                     MONITORING
-                          +
-                  INTERNAL CONTROLS
-                          ↓
-             INSTITUTIONAL CAPACITY
-                          ↓
-                 BSP PUBLIC ACTION
-
-
-                 BSP INSTITUTIONAL DECISION
-           
-            ↓
-      ECONOMIC EFFECT
-            ↓
-   SOCIAL CONSEQUENCES
-            ↓
-     PUBLIC REACTION
-            ↓
-    POLITICAL DEBATE
-
-
-                             BSP LEGAL MANDATE
-                                │
-                                ▼
-                    INSTITUTIONAL GOVERNANCE
-                                │
-                         MONETARY BOARD
-                                │
-                              GOVERNOR
-                                │
-              ┌─────────────────┼─────────────────┐
-              │                 │                 │
-              ▼                 ▼                 ▼
-       ECONOMIC /          FINANCIAL          PAYMENTS /
-       MONETARY            SUPERVISION        CURRENCY
-       EXPERTISE           EXPERTISE          EXPERTISE
-              │                 │                 │
-              └─────────────────┼─────────────────┘
-                                ▼
-                       INFORMATION & ANALYSIS
-                                │
-                                ▼
-                         DELIBERATION
-                                │
-                                ▼
-                         INSTITUTIONAL
-                           DECISION
-                                │
-                                ▼
-                         IMPLEMENTATION
-                                │
-                                ▼
-                           MONITORING
-                                │
-                                ▼
-                       FEEDBACK & REVIEW
-                                │
-                                └───────────────►
-                                  NEW INFORMATION
-
-LEGAL AUTHORITY
-      ↓
-GOVERNANCE
-      ↓
-LEADERSHIP
-      ↓
-SPECIALIZED EXPERTISE
-      ↓
-INFORMATION
-      ↓
-ANALYSIS
-      ↓
-DECISION
-      ↓
-IMPLEMENTATION
-      ↓
-MONITORING
-      ↓
-INSTITUTIONAL LEARNING
-      ↓
-STRONGER FUTURE DECISION-MAKING
