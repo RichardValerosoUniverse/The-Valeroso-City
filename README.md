@@ -4698,7 +4698,7 @@ The BSP's legal mandate does not automatically become policy or regulation. It m
 
 **INSTITUTIONAL LEARNING**
 
-### Core Principle
+**Core Principle**
 
 > **The BSP does not exercise its authority simply because an individual official makes a statement or expresses an opinion. Its authority operates through legally established institutional structures, specialized expertise, formal decision-making processes, and implementation mechanisms.**
 
