@@ -9571,7 +9571,7 @@ Concentration risk occurs when too much exposure is concentrated in:
 
 A diversified financial system can absorb a shock more effectively than one in which many institutions are exposed to the same vulnerability.
 
-### Example
+**Example**
 
 Imagine many banks have significant exposure to the same property market.
 
