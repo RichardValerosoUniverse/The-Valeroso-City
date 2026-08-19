@@ -9136,8 +9136,6 @@ How the BSP identifies, monitors, and addresses risks that could threaten the st
 
 ---
 
-**Introduction**
-
 Financial-system stability is different from keeping inflation low.
 
 A stable financial system is one in which banks, other financial institutions, financial markets, payment systems, and other important parts of finance can continue performing their essential functions even when the economy is under stress.
