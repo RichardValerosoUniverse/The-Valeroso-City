@@ -9843,7 +9843,7 @@ It means that **consumer credit becomes a financial-stability consideration when
 
 ---
 
-# 27. Consumer Protection and Financial Stability
+**27. Consumer Protection and Financial Stability**
 
 Consumer protection and financial stability are related but not identical.
 
