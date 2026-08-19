@@ -1,4 +1,4 @@
-# BSP AND POLITICS IN THE PHILIPPINES: A Comprehensive Guide to the BSP's Role in Governance, Central-Bank Independence, Monetary Policy, Political Power, Finance, Credit, Accountability, and Public Trust
+/# BSP AND POLITICS IN THE PHILIPPINES: A Comprehensive Guide to the BSP's Role in Governance, Central-Bank Independence, Monetary Policy, Political Power, Finance, Credit, Accountability, and Public Trust
 
 **PART I — THE BSP AS AN INDEPENDENT INSTITUTION WITHIN PHILIPPINE POLITICS**
 
@@ -9234,8 +9234,7 @@ Consequently, a serious disruption in the financial system can affect the real e
 
 A simplified transmission mechanism is:
 
-... 
-
+```
 ┌──────────────────────────────────────────────┐
 │        FINANCIAL-SYSTEM STRESS               │
 └──────────────────────────────────────────────┘
