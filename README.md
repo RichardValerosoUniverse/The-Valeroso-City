@@ -9234,6 +9234,7 @@ Consequently, a serious disruption in the financial system can affect the real e
 
 A simplified transmission mechanism is:
 
+... 
 
 ┌──────────────────────────────────────────────┐
 │        FINANCIAL-SYSTEM STRESS               │
