@@ -10591,3 +10591,51 @@ The appropriate relationship between an independent central bank and the politic
 **50. Strengthening BSP Independence, Accountability, and Public Trust**
 
 How the Philippines can strengthen BSP institutional independence while preserving accountability, transparency, credibility, lawful oversight, and public trust in the country's monetary and financial system.
+
+
+┌──────────────────────────────────────┐
+│ CRISIS OR SEVERE FINANCIAL STRESS    │
+└──────────────────────────────────────┘
+                  │
+                  ▼
+┌──────────────────────────────────────┐
+│ IDENTIFY THE NATURE AND MAGNITUDE     │
+│ OF THE SHOCK                          │
+└──────────────────────────────────────┘
+                  │
+                  ▼
+┌──────────────────────────────────────┐
+│ ASSESS RISKS TO PRICE AND FINANCIAL  │
+│ STABILITY                             │
+└──────────────────────────────────────┘
+                  │
+                  ▼
+┌──────────────────────────────────────┐
+│ ACTIVATE APPROPRIATE POLICY,         │
+│ LIQUIDITY, SUPERVISORY, AND           │
+│ MACROPRUDENTIAL TOOLS                 │
+└──────────────────────────────────────┘
+                  │
+                  ▼
+┌──────────────────────────────────────┐
+│ PRESERVE CRITICAL FINANCIAL          │
+│ FUNCTIONS AND CONFIDENCE             │
+└──────────────────────────────────────┘
+                  │
+                  ▼
+┌──────────────────────────────────────┐
+│ CONTAIN CONTAGION AND SYSTEMIC       │
+│ DISRUPTION                            │
+└──────────────────────────────────────┘
+                  │
+                  ▼
+┌──────────────────────────────────────┐
+│ SUPPORT ORDERLY ECONOMIC AND         │
+│ FINANCIAL ADJUSTMENT                 │
+└──────────────────────────────────────┘
+                  │
+                  ▼
+┌──────────────────────────────────────┐
+│ GRADUALLY RETURN TO NORMAL POLICY    │
+│ CONDITIONS WHEN APPROPRIATE           │
+└──────────────────────────────────────┘
