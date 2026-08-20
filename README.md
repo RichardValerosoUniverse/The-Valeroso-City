@@ -10596,18 +10596,21 @@ How the Philippines can strengthen BSP institutional independence while preservi
 ┌──────────────────────────────────────┐
 │ CRISIS OR SEVERE FINANCIAL STRESS    │
 └──────────────────────────────────────┘
+                
                   │
                   ▼
 ┌──────────────────────────────────────┐
 │ IDENTIFY THE NATURE AND MAGNITUDE     │
 │ OF THE SHOCK                          │
 └──────────────────────────────────────┘
+                
                   │
                   ▼
 ┌──────────────────────────────────────┐
 │ ASSESS RISKS TO PRICE AND FINANCIAL  │
 │ STABILITY                             │
 └──────────────────────────────────────┘
+                
                   │
                   ▼
 ┌──────────────────────────────────────┐
@@ -10615,24 +10618,28 @@ How the Philippines can strengthen BSP institutional independence while preservi
 │ LIQUIDITY, SUPERVISORY, AND           │
 │ MACROPRUDENTIAL TOOLS                 │
 └──────────────────────────────────────┘
+               
                   │
                   ▼
 ┌──────────────────────────────────────┐
 │ PRESERVE CRITICAL FINANCIAL          │
 │ FUNCTIONS AND CONFIDENCE             │
 └──────────────────────────────────────┘
+             
                   │
                   ▼
 ┌──────────────────────────────────────┐
 │ CONTAIN CONTAGION AND SYSTEMIC       │
 │ DISRUPTION                            │
 └──────────────────────────────────────┘
+                
                   │
                   ▼
 ┌──────────────────────────────────────┐
 │ SUPPORT ORDERLY ECONOMIC AND         │
 │ FINANCIAL ADJUSTMENT                 │
 └──────────────────────────────────────┘
+               
                   │
                   ▼
 ┌──────────────────────────────────────┐
