@@ -11129,7 +11129,7 @@ Crisis tools should not necessarily remain in place indefinitely.
 
 ---
 
-# 23. Extraordinary Measures Must Eventually Be Reassessed
+**23. Extraordinary Measures Must Eventually Be Reassessed**
 
 A measure that is appropriate during a crisis can become inappropriate after the crisis.
 
