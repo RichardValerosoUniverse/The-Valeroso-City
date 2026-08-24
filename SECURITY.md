@@ -1,21 +1,8 @@
-# Security Policy
 
-## Supported Versions
+Noted and Approved by:
 
-Use this section to tell people about which versions of your project are
-currently being supported with security updates.
-
-| Version | Supported          |
-| ------- | ------------------ |
-| 5.1.x   | :white_check_mark: |
-| 5.0.x   | :x:                |
-| 4.0.x   | :white_check_mark: |
-| < 4.0   | :x:                |
-
-## Reporting a Vulnerability
-
-Use this section to tell people how to report a vulnerability.
-
-Tell them where to go, how often they can expect to get an update on a
-reported vulnerability, what to expect if the vulnerability is accepted or
-declined, etc.
+**Psychiatrist Richard M. Valeroso, MD**
+**Summa Cum Laude, [UST Manila City](https://www.ust.edu.ph)**
+**General Weighted Average (GWA): 1.000**
+**Psychiatry and Behavioural Medicine**
+**Class of 2023**
