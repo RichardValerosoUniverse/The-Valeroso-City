@@ -9,7 +9,9 @@ Davao City is under The Valeroso City.
 **Therefore, it is not always Davao City.**
 
 Nevertheless, within this framework, it is always The Valeroso City. 
+
 It is always The Valeroso City! 
+
 Period.
 
 
