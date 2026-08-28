@@ -32,7 +32,7 @@ It is a public institution entrusted with specialized responsibilities involving
 
 The BSP is therefore neither a private financial institution nor an ordinary government office.
 
-It is a specialized public authority whose institutional existence, powers, responsibilities, independence, and limitations are established by law. The BSP was established on July 3, 1993, pursuant to the 1987 Constitution and the New Central Bank Act of 1993. 1
+It is a specialized public authority whose institutional existence, powers, responsibilities, independence, and limitations are established by law. The BSP was established on July 3, 1993, pursuant to the 1987 Constitution and the New Central Bank Act of 1993.
 
 > **The BSP is an independent public institution of the Philippine State, established by law to perform specialized monetary and financial responsibilities in the public interest.**
 
@@ -135,7 +135,7 @@ Suppose a government department is implementing a political program.
 
 That department generally operates within the ordinary executive structure.
 
-The BSP is different because monetary authority was constitutionally designed to be exercised by an **independent central monetary authority**. The Supreme Court has recognized that the Constitution and BSP Charter protect this institutional independence. 2
+The BSP is different because monetary authority was constitutionally designed to be exercised by an **independent central monetary authority**. The Supreme Court has recognized that the Constitution and BSP Charter protect this institutional independence. 
 
 **Think of it like this:**
 
@@ -159,7 +159,7 @@ Therefore:
 
 > **Corporate legal personality does not make the BSP a private institution.**
 
-The Supreme Court has specifically recognized that the BSP does not qualify as an ordinary government-owned and controlled corporation under the general statutory definition of a GOCC. 3
+The Supreme Court has specifically recognized that the BSP does not qualify as an ordinary government-owned and controlled corporation under the general statutory definition of a GOCC. 
 
 **Scenario:**
 
@@ -353,7 +353,7 @@ The principal statutory foundation of the BSP is Republic Act No. 7653, the **Ne
 
 RA 7653 established the BSP in 1993.
 
-RA 11211, enacted in 2019, amended and strengthened the BSP Charter. 7
+RA 11211, enacted in 2019, amended and strengthened the BSP Charter.
 
 | Legal Foundation | Function |
 |---|---|
@@ -671,7 +671,7 @@ Independence and accountability therefore address different concerns.
 
 BSP autonomy refers to the legally established capacity of the institution to manage and perform its responsibilities with fiscal and administrative independence.
 
-The BSP itself states that it enjoys fiscal and administrative autonomy from the National Government in pursuing its mandated responsibilities. 9
+The BSP itself states that it enjoys fiscal and administrative autonomy from the National Government in pursuing its mandated responsibilities.
 
 Autonomy provides institutional space for the BSP to perform its mandate effectively.
 
@@ -786,7 +786,7 @@ That continuity is one of the reasons specialized institutions matter.
 
 The BSP is responsible for monetary functions assigned to it by law, including the pursuit of price stability as its primary monetary objective.
 
-The BSP states that its main goal is to keep inflation low and stable to support balanced and sustainable economic growth. 10
+The BSP states that its main goal is to keep inflation low and stable to support balanced and sustainable economic growth. 
 
 This makes monetary authority one of the principal reasons the BSP occupies a distinctive place in Philippine governance.
 
@@ -806,7 +806,7 @@ Rather, the BSP works toward monetary conditions consistent with its statutory o
 
 The BSP also has responsibilities concerning the soundness and stability of the financial system within its legal mandate.
 
-Financial stability is a core BSP mandate under RA 11211. 11
+Financial stability is a core BSP mandate under RA 11211. 
 
 This means its role extends beyond monetary policy.
 
@@ -822,7 +822,7 @@ Financial stability responsibilities therefore require attention not only to ind
 
 **33. What Is the BSP's Supervisory and Regulatory Role?**
 
-Within its statutory authority, the BSP supervises banks and regulates financial institutions and activities entrusted to its jurisdiction. 12
+Within its statutory authority, the BSP supervises banks and regulates financial institutions and activities entrusted to its jurisdiction. 
 
 This gives the BSP an important role in financial governance.
 
@@ -854,7 +854,7 @@ Payment systems are fundamental to modern economic activity.
 
 Money must move safely and efficiently between individuals, businesses, financial institutions, and other participants.
 
-The BSP oversees payment and settlement systems, including critical financial market infrastructures, within its statutory mandate. 13
+The BSP oversees payment and settlement systems, including critical financial market infrastructures, within its statutory mandate. 
 
 **Scenario:**
 
@@ -868,7 +868,7 @@ The BSP's role in this area demonstrates that central banking is connected to th
 
 **35. What Is the BSP's Role Regarding Philippine Currency?**
 
-The BSP has the sole authority to issue the national currency within the legal framework governing the monetary system. 14
+The BSP has the sole authority to issue the national currency within the legal framework governing the monetary system. 
 
 Currency is a fundamental component of the monetary system.
 
@@ -994,7 +994,7 @@ It interacts with other government institutions when their responsibilities inte
 
 Financial stability, for example, can require coordination among several government and regulatory institutions.
 
-RA 11211 expressly recognizes cooperation between the BSP and institutions including the Department of Finance, SEC, Insurance Commission, and PDIC in promoting financial stability. 15
+RA 11211 expressly recognizes cooperation between the BSP and institutions including the Department of Finance, SEC, Insurance Commission, and PDIC in promoting financial stability. 
 
 Therefore:
 
