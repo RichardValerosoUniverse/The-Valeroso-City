@@ -14153,9 +14153,1378 @@ And, ultimately, both operate for the public interest through **different instit
 
 That is the clearest way to understand **the BSP and the President of the Philippines**.
 
-**12. The BSP and Congress**
+## **12. The BSP and Congress**
 
 How the BSP relates to the legislative branch through lawmaking, legislative oversight, hearings, and the statutory framework governing the central bank.
+
+---
+
+**Understanding the Relationship**
+
+The relationship between the **Bangko Sentral ng Pilipinas (BSP)** and **Congress** is one of the clearest examples of how different public institutions can possess different powers while contributing to the same national system of governance.
+
+Congress and the BSP do not perform the same function.
+
+**Congress makes laws.**
+
+**The BSP performs specialized monetary and financial functions under the Constitution and those laws.**
+
+That distinction is the foundation of the entire relationship.
+
+The 1987 Constitution, Article XII, Section 20, directs Congress to establish an independent central monetary authority. Congress did so through Republic Act No. 7653, the New Central Bank Act, which established the BSP in 1993. The BSP Charter was subsequently amended by Republic Act No. 11211 in 2019.
+
+So the relationship is not simply:
+
+> **Congress controls the BSP.**
+
+Nor is it:
+
+> **The BSP is completely separate from Congress.**
+
+The more accurate understanding is:
+
+> **Congress establishes and changes the statutory framework within which the BSP operates, while the BSP independently exercises the specialized powers and responsibilities assigned to it by the Constitution and laws.**
+
+That distinction allows **legislation, independence, expertise, oversight, and accountability** to exist at the same time.
+
+---
+
+**1. What Is Congress's Role in Relation to the BSP?**
+
+Congress is the **legislative branch** of the Philippine government.
+
+Its principal constitutional function is to exercise legislative power.
+
+The BSP, on the other hand, is the country's central bank and independent central monetary authority. It performs specialized responsibilities involving monetary policy, banking, financial stability, financial supervision, payment systems, currency, and other functions assigned by law.
+
+The two institutions therefore occupy different positions.
+
+| Congress | BSP |
+|---|---|
+| Makes statutes | Exercises powers granted by statutes |
+| Establishes legal frameworks | Implements and administers those frameworks |
+| Amends the BSP Charter through legislation | Operates under the BSP Charter |
+| Conducts legislative inquiries and oversight | Provides information and testimony |
+| Determines statutory policy frameworks | Makes specialized decisions within its mandate |
+| Represents the legislative branch | Serves as the independent central monetary authority |
+
+**Think of it like this:**
+
+Congress establishes the **legal architecture**.
+
+The BSP operates the **central-banking institution within that architecture**.
+
+Congress does not become the BSP merely because it makes laws concerning the BSP.
+
+And the BSP does not become Congress merely because it may recommend legislative reforms.
+
+---
+
+**2. Why Does Congress Have a Relationship With the BSP?**
+
+Because the BSP is a **public institution created and governed through law**.
+
+The BSP's existence is not based on private agreement.
+
+It is rooted in the Philippine constitutional and statutory order.
+
+Article XII, Section 20 of the Constitution specifically contemplates an independent central monetary authority and assigns Congress the responsibility of establishing it. Congress then enacted RA 7653.
+
+This creates a fundamental institutional sequence:
+
+**Constitution**
+
+↓
+
+**Congressional legislation**
+
+↓
+
+**BSP Charter**
+
+↓
+
+**BSP authority**
+
+The relationship therefore begins before the BSP makes any monetary decision.
+
+Congress participates in creating the **legal conditions under which the BSP can exercise public authority**.
+
+---
+
+**3. What Is the BSP Charter?**
+
+The BSP Charter is the principal statutory framework governing the institution.
+
+The current Charter consists of **RA 7653, as amended by RA 11211**.
+
+The Charter establishes important aspects of the BSP's:
+
+- organization;
+- powers and functions;
+- Monetary Board;
+- Governor and Deputy Governors;
+- operations;
+- reporting;
+- financial structure;
+- auditing; and
+- institutional responsibilities.
+
+This matters because the BSP cannot simply decide for itself what its legal powers should be.
+
+Its authority must have a legal foundation.
+
+For example, the BSP's authority over monetary policy, financial supervision, and other areas comes from the constitutional and statutory framework.
+
+Therefore:
+
+> **The BSP exercises public authority because the law gives it that authority.**
+
+---
+
+**4. Why Is Congress Important to the BSP's Institutional Design?**
+
+Congress does not merely create the BSP and then disappear from the picture.
+
+Through legislation, Congress establishes the legal framework that determines important aspects of the institution's:
+
+- powers;
+- functions;
+- organization;
+- governance;
+- regulatory authority;
+- reporting requirements;
+- financial framework; and
+- accountability mechanisms.
+
+The 2019 amendment to the BSP Charter illustrates this clearly.
+
+RA 11211 strengthened the BSP's institutional framework and enhanced its ability to address changing conditions in financial markets and the broader economy. It also expanded regulatory and supervisory coverage and strengthened the BSP's financial-stability role.
+
+Thus, Congress can shape the **legal capacity** of the BSP.
+
+But shaping that capacity is different from personally exercising the BSP's specialized functions.
+
+---
+
+**5. Does Congress Control the BSP?**
+
+This is one of the most important questions in the entire chapter.
+
+The answer is:
+
+> **Congress has legislative authority over the legal framework governing the BSP, but this does not mean that Congress directly conducts the BSP's monetary policy or manages its day-to-day operations.**
+
+The BSP's Monetary Board exercises the powers and functions of the BSP under its Charter. The Governor serves as its chief executive officer and manages the Bank's operations and administration.
+
+Therefore, there is a crucial distinction between:
+
+**legislative authority**
+
+and
+
+**central-bank authority**.
+
+Congress exercises the first.
+
+The BSP exercises the second within the legal framework established by the Constitution and laws.
+
+---
+
+**6. Why Can't Congress Simply Become the Monetary Board?**
+
+Because the constitutional and statutory system assigns central-banking responsibilities to the independent central monetary authority.
+
+Suppose Congress believes that interest rates should be lowered.
+
+Congress may:
+
+- discuss the issue;
+- hold hearings;
+- question BSP officials;
+- express disagreement;
+- examine economic consequences;
+- consider legislation affecting the broader legal framework.
+
+But those actions do not automatically transfer monetary-policy authority to Congress.
+
+The Monetary Board remains the institution responsible for the BSP's monetary-policy functions under its legal mandate.
+
+**Scenario:**
+
+Imagine inflation is declining, but economic growth is weak.
+
+Some legislators believe the BSP should lower its policy rate.
+
+They publicly argue:
+
+> "Interest rates should be reduced."
+
+The BSP may respond:
+
+> "We must evaluate inflation, inflation expectations, economic activity, financial conditions, and other relevant factors."
+
+Congress can disagree.
+
+But disagreement does not itself transfer monetary-policy authority from the BSP to Congress.
+
+**The lesson**
+
+> **Congress can debate monetary policy without becoming the institution that conducts monetary policy.**
+
+This is the practical meaning of institutional independence.
+
+---
+
+**7. What Is the Difference Between Lawmaking and Monetary Policy?**
+
+This distinction should never be blurred.
+
+| Lawmaking | Monetary Policy |
+|---|---|
+| Creates legal rules | Uses authorized monetary-policy instruments |
+| Conducted by Congress | Conducted through the BSP's monetary-policy framework |
+| Produces statutes | Produces monetary-policy decisions and operations |
+| Establishes institutional powers | Exercises powers assigned by law |
+| Political-legislative process | Specialized monetary process |
+
+**Simple example**
+
+If Congress passes a law changing the BSP Charter, that is **lawmaking**.
+
+If the BSP changes its monetary-policy stance under its existing legal authority, that is **monetary policy**.
+
+The two can influence each other, but they are not the same function.
+
+---
+
+**8. Can Congress Change the BSP Charter?**
+
+**Yes.**
+
+Congress has legislative authority to amend statutes, subject to constitutional requirements.
+
+That is precisely what occurred through **RA 11211**, which amended RA 7653 in 2019.
+
+This is important because it proves something often misunderstood:
+
+> **Central-bank independence does not mean that the BSP's legal framework is permanently frozen.**
+
+The BSP remains an institution created and governed within the constitutional system.
+
+Congress can legislate.
+
+But Congress itself must remain within the Constitution.
+
+---
+
+**9. Can the BSP Change Its Own Charter?**
+
+**No.**
+
+The BSP can issue regulations and take institutional actions when authorized by law.
+
+But it cannot simply rewrite an Act of Congress.
+
+For example, if the BSP believes that a statutory provision is outdated, it cannot transform that provision merely through an internal memorandum into something entirely different.
+
+It may instead:
+
+1. Identify the problem.
+2. Study the issue.
+3. Recommend legislative reform.
+4. Provide technical assistance or testimony.
+5. Operate within existing authority until the law changes.
+
+This demonstrates an essential rule:
+
+> **Technical expertise does not create legislative power.**
+
+The BSP may understand a problem better than almost anyone.
+
+That does not make the BSP the legislature.
+
+---
+
+**10. Can Congress Expand BSP Authority?**
+
+Yes, through legislation, subject to constitutional limits.
+
+RA 11211 provides an excellent example.
+
+The amended Charter strengthened the BSP's institutional capacity and expanded or clarified important areas of authority, including financial stability and supervision of additional categories of financial and payment-related entities.
+
+This demonstrates how Congress can respond to changing economic conditions.
+
+**Think of it like this:**
+
+If the financial system changes faster than the old law anticipated, Congress can update the legal framework.
+
+The BSP then exercises the new authority that the amended law provides.
+
+---
+
+**11. Can Congress Limit BSP Authority?**
+
+Yes, because statutory authority is defined by law.
+
+The BSP does not possess unlimited governmental power.
+
+If a particular power is not legally available to the BSP, institutional preference cannot automatically create that power.
+
+This is a fundamental principle of public law:
+
+> **A public institution cannot lawfully expand its authority merely because it believes expansion would be useful.**
+
+Congress therefore performs both an **empowering** and **boundary-setting** function.
+
+| Law does this | Meaning |
+|---|---|
+| Gives authority | The BSP can legally act |
+| Defines authority | The BSP knows what it can do |
+| Limits authority | The BSP knows what it cannot do |
+| Creates procedures | The BSP knows how authority must be exercised |
+| Creates accountability | The BSP must answer for its public authority |
+
+---
+
+**12. Does This Make the BSP Subordinate to Congress?**
+
+Not in the ordinary sense of an executive department being subject to direct administrative control.
+
+This distinction is extremely important.
+
+The BSP is part of the Philippine State.
+
+But it is constitutionally designed as an **independent central monetary authority**, and its Charter provides fiscal and administrative autonomy.
+
+Therefore, the relationship is better described as:
+
+> **constitutional and legislative framework + institutional independence**
+
+rather than:
+
+> **ordinary administrative subordination**
+
+Congress makes laws.
+
+The BSP performs its specialized mandate within those laws.
+
+---
+
+**13. What Does Legislative Oversight Mean?**
+
+Legislative oversight means that Congress may examine how laws are being implemented and how public institutions are performing responsibilities connected to legislation.
+
+For the BSP, oversight may involve questions such as:
+
+- Is the BSP implementing the law properly?
+- Is a financial regulation working?
+- Are there emerging risks?
+- Does legislation need updating?
+- Are consumers adequately protected within the applicable legal framework?
+- Are financial institutions complying with statutory requirements?
+- Are existing laws still appropriate for new technologies?
+
+Oversight is therefore not merely about criticism.
+
+It can be a mechanism for **information, accountability, evaluation, and legislative improvement**.
+
+---
+
+**14. What Is a Congressional Hearing?**
+
+A congressional hearing provides a formal setting where legislators can examine an issue and obtain information from relevant public officials, experts, institutions, and stakeholders.
+
+The BSP may be asked to explain:
+
+- monetary conditions;
+- inflation developments;
+- financial stability;
+- banking conditions;
+- regulatory implementation;
+- payment-system developments;
+- institutional policies; or
+- other matters within its responsibilities.
+
+A hearing therefore creates a communication channel between the legislative institution and the central bank.
+
+**The key point:**
+
+> **Being questioned by Congress does not mean being controlled by Congress.**
+
+---
+
+**15. Why Is It Legitimate for Congress to Question the BSP?**
+
+Because the BSP exercises **public authority**.
+
+Independence does not mean silence.
+
+It does not mean immunity from questions.
+
+It does not mean that public officials never have to explain institutional decisions.
+
+A public institution can be independent while still being accountable.
+
+The BSP's Charter contains provisions concerning reports and publications, reflecting the importance of institutional reporting and transparency.
+
+Therefore:
+
+> **Accountability is part of legitimate independence, not its opposite.**
+
+---
+
+**16. What Can Congress Ask the BSP During a Hearing?**
+
+Congress can ask substantive questions about matters within its legitimate legislative and oversight responsibilities.
+
+For example:
+
+> "Why is inflation still elevated?"
+
+The BSP can explain its analysis.
+
+> "What risks do banks currently face?"
+
+The BSP can discuss systemic or sector-wide risks, subject to applicable confidentiality restrictions.
+
+> "Does existing legislation adequately address this problem?"
+
+The BSP can provide technical assessment.
+
+> "Would legislative amendments improve the regulatory framework?"
+
+The BSP can explain the likely implications.
+
+These questions allow Congress to make better-informed legislative judgments.
+
+---
+
+**17. Can Congress Disagree With the BSP?**
+
+**Absolutely.**
+
+Congressional disagreement is not itself unlawful interference.
+
+Legislators may argue that a BSP policy is:
+
+- too restrictive;
+- too accommodative;
+- insufficient;
+- overly burdensome;
+- inadequately protective; or
+- in need of legislative reform.
+
+The BSP may defend its position.
+
+This is normal democratic disagreement.
+
+The important distinction is:
+
+> **Political disagreement does not automatically create legal authority to command a particular BSP decision.**
+
+---
+
+**18. Scenario: Congress Disagrees With an Interest-Rate Decision**
+
+Imagine the BSP maintains a relatively restrictive monetary stance because it believes inflation risks remain significant.
+
+Some legislators disagree.
+
+A congressional hearing is held.
+
+Members ask:
+
+> "Why are rates still high?"
+
+The BSP explains its assessment.
+
+Some legislators remain unconvinced.
+
+They criticize the decision publicly.
+
+That is part of political debate.
+
+But unless Congress acts through a constitutionally valid legal mechanism affecting the statutory framework, criticism itself does not make Congress the institution responsible for setting the BSP's monetary-policy stance.
+
+**The lesson**
+
+> **Questioning is not commanding.**
+
+> **Criticism is not control.**
+
+> **Oversight is not monetary-policy administration.**
+
+---
+
+**19. Why Does Congress Need BSP Expertise?**
+
+Congress deals with legislation affecting an economy that is technically complex.
+
+Consider subjects such as:
+
+- inflation;
+- banking;
+- credit;
+- monetary transmission;
+- payment systems;
+- financial stability;
+- digital finance;
+- foreign-exchange markets;
+- systemic risk.
+
+Legislators cannot reasonably be expected to possess every technical specialization themselves.
+
+The BSP therefore provides an important source of institutional expertise.
+
+But this expertise should be understood correctly.
+
+> **The BSP provides technical knowledge; Congress retains legislative judgment.**
+
+---
+
+**20. Does BSP Expertise Give It Legislative Power?**
+
+**No.**
+
+This is one of the most important boundaries in the relationship.
+
+Suppose the BSP concludes that a particular law is outdated.
+
+It may explain:
+
+> "This provision is creating a regulatory gap."
+
+It may recommend:
+
+> "Congress should consider amending this law."
+
+It may provide technical drafting assistance or testify before Congress.
+
+But Congress ultimately decides whether legislation is enacted.
+
+Therefore:
+
+> **Expertise ≠ legislative authority**
+
+---
+
+**21. Can the BSP Recommend New Laws?**
+
+Yes.
+
+This is a normal form of institutional participation.
+
+The BSP may:
+
+- identify regulatory gaps;
+- explain technical problems;
+- propose solutions;
+- support legislation;
+- testify before Congress;
+- provide data; and
+- explain consequences.
+
+But:
+
+> **The BSP may participate in the legislative process without becoming the legislature.**
+
+---
+
+**22. Scenario: A New Financial Technology Creates a Legal Gap**
+
+Imagine a new type of financial business becomes widely used in the Philippines.
+
+The BSP discovers that the existing legal framework does not adequately address certain risks.
+
+The BSP cannot simply declare:
+
+> "Because we think this is necessary, we now have unlimited authority over this industry."
+
+Instead, it can explain the problem to Congress.
+
+Congress can then consider whether the law should be amended.
+
+If Congress enacts an amendment, the BSP can exercise the authority granted by that new law.
+
+This is a perfect example of **institutional cooperation without institutional substitution**.
+
+---
+
+**23. What Happens When Congress Enacts a Financial Law?**
+
+Suppose Congress passes legislation concerning payment systems.
+
+The process can be understood as:
+
+**Congress enacts law**
+
+↓
+
+**Law establishes legal requirements**
+
+↓
+
+**BSP exercises authorized regulatory powers**
+
+↓
+
+**Financial institutions and payment operators comply**
+
+↓
+
+**BSP supervises implementation**
+
+↓
+
+**Congress may later review the law**
+
+This is how law moves from the legislative sphere into practical financial governance.
+
+---
+
+**24. Scenario: Congress Strengthens Payment-System Regulation**
+
+Suppose Congress determines that the country's payment infrastructure needs stronger legal safeguards.
+
+It enacts legislation.
+
+The BSP then applies its statutory powers to supervise and oversee payment systems within the legal framework.
+
+The BSP does not invent the underlying legislative authority.
+
+Congress provides the legal foundation.
+
+The BSP provides the specialized implementation.
+
+That is the institutional division of labor.
+
+---
+
+**25. Why Is Legislative Oversight Necessary?**
+
+Without oversight, public institutions could become difficult for the public to evaluate.
+
+But without institutional independence, specialized institutions could become vulnerable to short-term political pressure.
+
+The solution is not to choose one and eliminate the other.
+
+The solution is to maintain both.
+
+| Independence | Oversight |
+|---|---|
+| Protects specialized judgment | Promotes accountability |
+| Reduces inappropriate interference | Allows legitimate scrutiny |
+| Supports long-term decision-making | Supports democratic transparency |
+| Protects institutional mandate | Examines institutional performance |
+
+The ideal relationship is therefore:
+
+> **Independent but accountable.**
+
+---
+
+**26. What Is the Difference Between Oversight and Micromanagement?**
+
+This distinction is extremely important.
+
+**Oversight asks:**
+
+> "Are you performing your legal responsibilities properly?"
+
+**Micromanagement attempts to say:**
+
+> "Perform this particular specialized decision because we want this result."
+
+The first is fundamentally about accountability.
+
+The second can raise serious questions about institutional independence.
+
+**Example**
+
+Congress may ask:
+
+> "Explain the factors behind your monetary-policy decision."
+
+That is legitimate scrutiny.
+
+But the mere fact that Congress dislikes the answer does not automatically mean Congress can substitute its own monetary-policy judgment for that of the institution legally entrusted with monetary policy.
+
+---
+
+**27. Can Congress Investigate Problems Involving the BSP?**
+
+Congress may conduct inquiries within its constitutional and legal authority, including inquiries in aid of legislation.
+
+Such inquiries can help Congress determine whether:
+
+- existing laws are adequate;
+- new legislation is necessary;
+- regulatory gaps exist;
+- implementation problems need correction; or
+- institutional reforms should be considered.
+
+The purpose and legal basis of the inquiry matter.
+
+A congressional investigation should not automatically be interpreted as an attempt to take over the BSP.
+
+---
+
+**28. Why Can Congressional Hearings Become Politically Sensitive?**
+
+Because BSP decisions affect real economic outcomes.
+
+Monetary policy can affect:
+
+- borrowing costs;
+- savings;
+- investment;
+- inflation;
+- business conditions;
+- household purchasing power.
+
+Financial regulation can affect:
+
+- banks;
+- financial institutions;
+- fintech companies;
+- consumers;
+- credit markets.
+
+Therefore, BSP decisions naturally attract political attention.
+
+But:
+
+> **Political consequence is not the same thing as political control.**
+
+A policy can be politically significant without being a partisan political decision.
+
+---
+
+**29. Why Is This Distinction Important?**
+
+Suppose inflation increases.
+
+People become unhappy.
+
+Businesses complain about costs.
+
+Borrowers complain about interest rates.
+
+Politicians respond.
+
+Congress holds hearings.
+
+All of this is politically significant.
+
+But the existence of political consequences does not mean that the BSP becomes a political party or that its decisions automatically become partisan decisions.
+
+The proper question remains:
+
+> **Was the BSP exercising its legally assigned authority through its proper institutional processes?**
+
+---
+
+**30. Can Congress Influence the BSP Indirectly?**
+
+Congress can certainly affect the environment in which the BSP operates through legislation.
+
+For example, Congress can enact laws affecting:
+
+- banking;
+- taxation;
+- financial regulation;
+- consumer protection;
+- payment systems;
+- financial inclusion;
+- economic institutions.
+
+These laws can influence economic conditions.
+
+But **influence through legislation is different from direct operational control over the BSP**.
+
+This distinction is critical.
+
+Congress has enormous economic-policy significance.
+
+That does not mean Congress personally performs every function of every economic institution.
+
+---
+
+**31. Congress and the BSP: Different Forms of Economic Authority**
+
+Economic governance involves multiple kinds of authority.
+
+| Area | Primary institutional role |
+|---|---|
+| Legislation | Congress |
+| Monetary policy | BSP |
+| Fiscal policy | National Government and Congress within their respective constitutional roles |
+| Banking supervision | BSP within its statutory jurisdiction |
+| Securities regulation | SEC |
+| Insurance regulation | Insurance Commission |
+| Deposit insurance | PDIC |
+| Judicial interpretation | Courts |
+
+The Philippine financial system therefore does not operate through one institution.
+
+It operates through an **institutional network**.
+
+The BSP is one major institution within that network.
+
+---
+
+**32. Why Does Congress Need to Understand the Limits of BSP Authority?**
+
+Because public expectations can easily become unrealistic.
+
+People may ask:
+
+> "Why doesn't the BSP simply make food prices lower?"
+
+But the BSP does not control every determinant of food prices.
+
+Others may ask:
+
+> "Why doesn't the BSP simply force banks to lend more cheaply?"
+
+Again, the BSP operates within a particular legal and monetary framework.
+
+Congress also has its own responsibilities.
+
+The government has fiscal responsibilities.
+
+Market conditions matter.
+
+Global conditions matter.
+
+Supply conditions matter.
+
+Therefore:
+
+> **Understanding institutional boundaries prevents one public institution from being blamed for responsibilities that belong elsewhere.**
+
+---
+
+**33. Scenario: Rising Food Prices**
+
+Suppose food prices rise because of supply disruptions.
+
+Congress may debate:
+
+- agricultural policy;
+- import policy;
+- infrastructure;
+- subsidies;
+- taxation;
+- supply chains.
+
+The BSP may assess whether the inflation problem is becoming broader or more persistent and respond through monetary policy when appropriate.
+
+These institutions may therefore respond to the **same economic problem from different institutional directions**.
+
+Neither replaces the other.
+
+---
+
+**34. Why Does Congress Matter to BSP Accountability?**
+
+The BSP possesses significant public authority.
+
+That authority affects millions of people.
+
+Therefore, there must be mechanisms through which the institution can be understood and held accountable.
+
+Congress contributes to this accountability through:
+
+- legislation;
+- hearings;
+- oversight;
+- reporting requirements;
+- legislative review; and
+- statutory reform.
+
+But accountability must remain consistent with the BSP's legally protected independence.
+
+---
+
+**35. Does Accountability Mean Congress Can Reverse Every BSP Decision?**
+
+**No.**
+
+Accountability does not mean that every decision must be approved by Congress.
+
+If that were the case, the BSP would not possess meaningful operational independence.
+
+Accountability means that the institution must remain subject to lawful mechanisms of explanation, reporting, review, and responsibility.
+
+Therefore:
+
+> **Being accountable does not mean being operationally controlled.**
+
+---
+
+**36. Why Is Transparency Important?**
+
+Transparency allows Congress and the public to understand:
+
+- what the BSP is doing;
+- why it is doing it;
+- what evidence supports its position;
+- what risks it sees;
+- what its legal authority is; and
+- what its limitations are.
+
+The BSP maintains public information and reporting mechanisms consistent with its statutory framework.
+
+Transparency therefore strengthens the credibility of institutional independence.
+
+---
+
+**37. What If Congress Believes the BSP Is Wrong?**
+
+Congress can disagree.
+
+But disagreement has to be translated into an appropriate institutional response.
+
+If the problem is a **law**, Congress can consider changing the law.
+
+If the problem is **implementation**, Congress can examine implementation.
+
+If the problem is **institutional conduct**, appropriate accountability mechanisms may be considered.
+
+If the disagreement is simply about a specialized monetary-policy judgment within the BSP's mandate, criticism does not automatically transfer that judgment to Congress.
+
+This is the principle of **institutional competence**.
+
+---
+
+**38. What Is Institutional Competence?**
+
+Institutional competence means recognizing that different institutions are designed and equipped to perform different functions.
+
+Congress possesses legislative competence.
+
+The BSP possesses specialized central-banking competence.
+
+Courts possess judicial competence.
+
+This does not mean institutions can never discuss each other's areas.
+
+It means each institution must respect the legal boundaries of the others.
+
+**Think of it like this:**
+
+A legislature may understand medicine.
+
+That does not make it a hospital.
+
+A central bank may understand legislation.
+
+That does not make it Congress.
+
+Expertise can cross institutional boundaries.
+
+**Authority cannot be assumed merely from expertise.**
+
+---
+
+**39. Can the BSP Advise Congress?**
+
+**Yes.**
+
+The BSP can provide technical information and institutional assessments that help legislators understand complex financial issues.
+
+This can improve legislation.
+
+For example, before changing a banking law, Congress may want to understand:
+
+- how banks would be affected;
+- whether systemic risks would increase;
+- how consumers might be affected;
+- whether the BSP has adequate supervisory authority.
+
+The BSP can provide technical analysis.
+
+Congress then exercises its legislative judgment.
+
+This is a healthy relationship between **expertise and democratic lawmaking**.
+
+---
+
+**40. Can Congress Reject BSP Advice?**
+
+**Yes.**
+
+The BSP's expertise is important, but it does not give the institution a veto over legislation.
+
+Congress may conclude that a different policy is preferable.
+
+This is part of democratic policymaking.
+
+The BSP may explain the economic consequences of the decision.
+
+Congress may weigh those consequences against other public considerations.
+
+Ultimately, the legislative decision belongs to the legislative process, subject to the Constitution.
+
+---
+
+**41. Why Is the 2019 BSP Charter Amendment Important?**
+
+RA 11211 provides an excellent real-world demonstration of how Congress and the BSP interact.
+
+The law amended the BSP's Charter after more than two decades from the BSP's establishment.
+
+The reforms strengthened the BSP's institutional and policy capacity and improved its ability to respond to developments in financial markets and the broader economy.
+
+The significance is broader than the amendment itself.
+
+It demonstrates that:
+
+> **The BSP's institutional framework can evolve through the constitutional legislative process while the BSP continues to operate as an independent central monetary authority.**
+
+---
+
+**42. What Does This Tell Us About Independence?**
+
+It tells us that independence is **not legislative isolation**.
+
+The BSP does not exist outside the constitutional system.
+
+Instead, independence means that the institution has legally protected space to perform its assigned functions.
+
+Congress can establish and amend the statutory framework.
+
+The BSP can independently operate within that framework.
+
+That is the more accurate meaning of central-bank independence.
+
+---
+
+**43. What Is the Proper Relationship During a Crisis?**
+
+The distinction becomes particularly important during economic or financial crises.
+
+Suppose a serious financial problem develops.
+
+Congress may:
+
+- hold emergency hearings;
+- consider emergency legislation;
+- examine regulatory gaps;
+- provide statutory reforms.
+
+The BSP may:
+
+- assess financial-system risks;
+- use its legally authorized tools;
+- supervise relevant institutions;
+- coordinate with other authorities;
+- provide technical information.
+
+Both institutions may act urgently.
+
+But urgency does not erase institutional boundaries.
+
+> **A crisis may require closer coordination, but it does not automatically eliminate legal distinctions between institutions.**
+
+---
+
+**44. Scenario: A Major Banking Problem**
+
+Imagine serious stress develops in part of the financial system.
+
+Congress asks:
+
+> "What is happening?"
+
+The BSP provides an institutional assessment.
+
+Congress asks:
+
+> "Does existing law give regulators sufficient authority?"
+
+The BSP explains the legal gap.
+
+Congress considers legislation.
+
+Meanwhile, the BSP continues performing its lawful supervisory and financial-stability functions.
+
+This is exactly why institutional differentiation matters.
+
+**Congress addresses the legislative dimension.**
+
+**The BSP addresses the central-banking dimension.**
+
+---
+
+**45. What Should Never Be Confused?**
+
+Several concepts must remain separate.
+
+| Concept | What it means |
+|---|---|
+| Legislation | Creation or amendment of law |
+| Regulation | Detailed rules issued under legal authority |
+| Oversight | Examination of implementation and performance |
+| Monetary policy | Central-bank decisions affecting monetary conditions |
+| Political criticism | Expression of disagreement |
+| Institutional control | Directing another institution's decisions |
+| Accountability | Responsibility for exercising public authority |
+| Independence | Protection of specialized institutional decision-making |
+
+Many misunderstandings about the BSP arise because these concepts are treated as if they were identical.
+
+They are not.
+
+---
+
+**46. The Most Important Boundary**
+
+The single most important boundary can be stated simply:
+
+> **Congress may legislate about the BSP without becoming the BSP.**
+
+And the reverse is equally important:
+
+> **The BSP may advise Congress about financial and monetary matters without becoming Congress.**
+
+These two statements capture much of the institutional relationship.
+
+---
+
+**47. The Complete Relationship in Practice**
+
+The relationship can be understood through a recurring cycle:
+
+**Congress identifies a public-policy problem**
+
+↓
+
+**Congress considers legislation**
+
+↓
+
+**BSP provides technical expertise where appropriate**
+
+↓
+
+**Congress enacts or amends the legal framework**
+
+↓
+
+**BSP exercises the authority provided by law**
+
+↓
+
+**BSP reports and explains its actions**
+
+↓
+
+**Congress conducts legitimate oversight**
+
+↓
+
+**Congress may consider further legislative reform**
+
+This is not a one-time relationship.
+
+It is an ongoing process.
+
+---
+
+**48. What Is the Ideal Balance?**
+
+The ideal relationship is neither:
+
+**Congress controls the BSP**
+
+nor:
+
+**BSP operates without accountability**
+
+The better model is:
+
+| Principle | What it accomplishes |
+|---|---|
+| Constitutional framework | Establishes the fundamental institutional order |
+| Legislation | Defines statutory authority |
+| BSP independence | Protects specialized decision-making |
+| Expertise | Improves policy quality |
+| Oversight | Promotes accountability |
+| Transparency | Promotes public understanding |
+| Coordination | Addresses issues crossing institutional boundaries |
+| Legal limits | Prevents arbitrary authority |
+
+The ideal relationship is:
+
+> **Independent, but accountable.**
+
+---
+
+**49. The Relationship in One Comprehensive Example**
+
+Consider a hypothetical situation in which financial technology develops rapidly and creates risks not fully addressed by existing law.
+
+**Congress**
+
+- Congress identifies the broader public-policy problem.
+
+**BSP**
+
+- The BSP provides technical information about financial and systemic risks.
+
+**Legislative process**
+
+- Congress considers whether legislation is necessary.
+
+**New law**
+
+- If Congress enacts legislation, the BSP receives whatever additional authority the law lawfully provides.
+
+**Regulation**
+
+- The BSP develops implementing rules within that authority.
+
+**Supervision**
+
+- The BSP supervises covered institutions.
+
+**Accountability**
+
+- The BSP reports and explains its actions.
+
+**Oversight**
+
+- Congress may later evaluate whether the law is effective.
+
+**Possible reform**
+
+- If weaknesses remain, Congress may consider another legislative amendment.
+
+This example demonstrates the entire relationship without confusing the roles of either institution.
+
+---
+
+**50. Final Answer: What Is the BSP's Relationship With Congress?**
+
+The most accurate answer is:
+
+> **The BSP and Congress are separate institutions with different but interconnected constitutional and statutory responsibilities. Congress exercises legislative power and establishes the statutory framework governing the BSP. The BSP, as the Philippines' independent central monetary authority, exercises the monetary and financial powers assigned to it by the Constitution and laws. Congress may conduct legitimate legislative oversight, hearings, inquiries, and legislative review, while the BSP remains responsible for performing its specialized functions through its own legally established institutional processes.**
+
+The relationship can therefore be understood as:
+
+**CONSTITUTION**
+
+↓
+
+**CONGRESS**
+
+↓
+
+**LAW**
+
+↓
+
+**BSP CHARTER**
+
+↓
+
+**BSP AUTHORITY**
+
+↓
+
+**BSP ACTION**
+
+↓
+
+**REPORTING AND ACCOUNTABILITY**
+
+↓
+
+**CONGRESSIONAL OVERSIGHT**
+
+↓
+
+**POSSIBLE LEGISLATIVE REFORM**
+
+The important point is that **the relationship is neither complete separation nor complete control**.
+
+It is **institutional differentiation within one constitutional system**.
+
+Congress makes the law.
+
+The BSP exercises the authority that the law gives it.
+
+Congress can examine.
+
+The BSP can explain.
+
+Congress can legislate.
+
+The BSP can provide expertise.
+
+Congress can amend the legal framework.
+
+The BSP must adapt to the law.
+
+The BSP can remain independent.
+
+Congress can remain the legislature.
+
+And both remain subject to the Constitution.
+
+**Conclusion**
+
+Understanding **the BSP and Congress** ultimately requires understanding the difference between **creating legal authority and exercising specialized public authority**.
+
+Congress is essential because the BSP's statutory framework comes through legislation. The Constitution directs Congress to establish an independent central monetary authority, and Congress established the BSP through RA 7653. Congress later amended that framework through RA 11211, demonstrating that the legal structure of central banking can evolve through the legislative process.
+
+But once the legal framework exists, the BSP does not simply become an ordinary department waiting for Congress to direct every operational decision.
+
+The BSP has its own legally established institutional structure. Its Monetary Board exercises the Bank's powers and functions, while the Governor serves as chief executive officer. The BSP also enjoys fiscal and administrative autonomy in performing its mandated responsibilities.
+
+That is why the relationship must be understood in layers:
+
+**Congress creates the statutory framework.**
+
+**The BSP exercises specialized authority within that framework.**
+
+**Congress provides legislative oversight.**
+
+**The BSP provides information and accountability.**
+
+**Congress may change the law.**
+
+**The BSP implements the law.**
+
+**Congress may disagree with BSP decisions.**
+
+**Disagreement does not automatically become operational control.**
+
+**The BSP may advise Congress.**
+
+**Advice does not become legislation automatically.**
+
+This is the balance that makes the relationship meaningful.
+
+The BSP is **not above Congress**.
+
+Congress is **not the BSP**.
+
+The BSP is **not outside the Philippine constitutional system**.
+
+Congress is **not the institution that conducts the BSP's specialized monetary functions**.
+
+Instead, both operate within a broader constitutional order in which **different institutions possess different powers for different purposes**.
+
+The deepest principle is therefore:
+
+> **Congress gives the BSP its statutory legal framework; the BSP exercises its specialized central-banking authority within that framework; and legislative oversight provides accountability without transforming Congress into the central bank.**
+
+That is the proper constitutional and institutional relationship between **the BSP and Congress**.
 
 **13. The BSP and the Judiciary**
 
