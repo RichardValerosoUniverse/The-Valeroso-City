@@ -1,6 +1,6 @@
-## BSP AND POLITICS IN THE PHILIPPINES: A Comprehensive Guide to the BSP's Role in Governance, Central-Bank Independence, Monetary Policy, Political Power, Finance, Credit, Accountability, and Public Trust
+# BSP AND POLITICS IN THE PHILIPPINES: A Comprehensive Guide to the BSP's Role in Governance, Central-Bank Independence, Monetary Policy, Political Power, Finance, Credit, Accountability, and Public Trust
 
-**PART I — THE BSP AS AN INDEPENDENT INSTITUTION WITHIN PHILIPPINE POLITICS**
+# **PART I — THE BSP AS AN INDEPENDENT INSTITUTION WITHIN PHILIPPINE POLITICS**
 
 ## **1. The BSP's Role in Philippine Governance**
 
