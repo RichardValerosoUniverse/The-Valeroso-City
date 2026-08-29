@@ -13022,7 +13022,7 @@ It places the BSP in a **distinct institutional position within the State**.
 
 ---
 
-## 6. Does That Mean the President Has No Authority Concerning the BSP?
+**6. Does That Mean the President Has No Authority Concerning the BSP?**
 
 **No.**
 
