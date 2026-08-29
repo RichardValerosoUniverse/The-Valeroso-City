@@ -12819,47 +12819,49 @@ But the fundamental requirement remains the same:
 
 > **Respond to the actual problem, use the appropriate instrument, respect institutional boundaries, communicate honestly, and continuously reassess whether the response remains justified.**
 
+---
+
 **PART II — THE BSP AND THE CENTERS OF POLITICAL POWER**
 
 **11. The BSP and the President of the Philippines**
 
-The institutional relationship between the BSP and the President and the constitutional and legal limits on presidential influence over independent monetary decisions.
+How the BSP interacts with the President as the country's chief executive while maintaining its legally protected institutional independence.
 
-**12. The BSP and the Executive Branch**
+**12. The BSP and Congress**
 
-How the BSP coordinates with national government agencies while preserving its legally established institutional independence.
+How the BSP relates to the legislative branch through lawmaking, legislative oversight, hearings, and the statutory framework governing the central bank.
 
-**13. The BSP and Congress**
+**13. The BSP and the Judiciary**
 
-Congressional legislation, oversight, accountability, and the political dimensions of BSP governance.
+How the BSP relates to the courts when its regulations, decisions, powers, or institutional actions become subject to judicial review.
 
-**14. The BSP and the Judiciary**
+**14. The BSP and the Executive Branch**
 
-The role of judicial review and legal interpretation in defining the boundaries of BSP authority.
+How the BSP coordinates with executive departments and agencies while maintaining a distinction between independent monetary authority and executive administration.
 
-**15. The Monetary Board and Institutional Independence**
+**15. The BSP and Fiscal Authorities**
 
-The role of the Monetary Board in exercising monetary authority and protecting independent decision-making.
+How the BSP interacts with the institutions responsible for fiscal policy while maintaining the distinction between monetary policy and fiscal policy.
 
-**16. Political Appointments, Leadership, and Institutional Independence**
+**16. The BSP and Other Financial Regulators**
 
-How appointments to key BSP positions relate to institutional credibility, public confidence, and safeguards for independence.
+How the BSP interacts with other institutions responsible for regulating and safeguarding the Philippine financial system.
 
-**17. Government Coordination vs. Political Control**
+**17. The BSP and Local Political Power**
 
-Why cooperation between the BSP and government is necessary while political control over independent monetary decisions is not.
+How the BSP's national monetary and financial responsibilities relate to provinces, cities, municipalities, and local political institutions.
 
-**18. Political Pressure on the BSP**
+**18. The BSP and Political Parties and Politicians**
 
-The direct and indirect forms of political pressure that may arise around BSP policies, decisions, and institutional actions.
+How the BSP maintains institutional neutrality when dealing with partisan interests, political demands, political criticism, and individual politicians.
 
-**19. Legitimate Political Influence vs. Improper Interference**
+**19. The BSP and Public and Market Expectations**
 
-Distinguishing legitimate democratic policy debate and governmental coordination from improper attempts to influence independent BSP decision-making.
+How households, businesses, financial markets, investors, and broader economic expectations interact with the BSP and influence the environment in which it performs its responsibilities.
 
-**20. Institutional Boundaries and Political Power**
+**20. The BSP and the Philippine Economic Policy-Making Process**
 
-Defining where legitimate governmental authority ends and improper political interference with the BSP begins.
+How the BSP participates in the broader national economic policy environment while retaining its independent monetary and financial mandate.
 
 **PART III — MONETARY POLICY AS A POLITICAL AND ECONOMIC ISSUE**
 
