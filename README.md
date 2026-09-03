@@ -1,9 +1,9 @@
 
-## 14. The BSP and Executive Departments and Agencies
+## 14. **The BSP and Executive Departments and Agencies**
 
 How the BSP coordinates with executive departments and government agencies while maintaining a clear distinction between central-banking functions and executive administration
 
-**Why This Relationship Matters**
+---
 
 The Bangko Sentral ng Pilipinas (BSP) operates within a government system containing many specialized institutions.
 
@@ -1170,7 +1170,7 @@ Therefore, the proper relationship between the BSP and executive departments and
 
 > **Separate institutions, distinct mandates, lawful coordination, and shared responsibility for effective public governance.**
 
-## **Chapter 15 — The BSP and Fiscal Authorities**
+## **15. **The BSP and Fiscal Authorities**
 
 How the Bangko Sentral ng Pilipinas and Fiscal Authorities Interact, Influence One Another, and Preserve Institutional Boundaries in Philippine Economic Governance
 
