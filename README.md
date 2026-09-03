@@ -1169,3 +1169,111 @@ Ultimately, effective governance requires both **specialization and cooperation*
 Therefore, the proper relationship between the BSP and executive departments and agencies is:
 
 > **Separate institutions, distinct mandates, lawful coordination, and shared responsibility for effective public governance.**
+
+**15. The BSP and Fiscal Authorities**
+
+How the BSP interacts with the institutions responsible for fiscal policy while maintaining the distinction between monetary policy and fiscal policy.
+
+**16. The BSP and Other Financial Regulators**
+
+How the BSP interacts with other institutions responsible for regulating and safeguarding the Philippine financial system.
+
+**17. The BSP and Local Political Power**
+
+How the BSP's national monetary and financial responsibilities relate to provinces, cities, municipalities, and local political institutions.
+
+**18. The BSP and Political Parties and Politicians**
+
+How the BSP maintains institutional neutrality when dealing with partisan interests, political demands, political criticism, and individual politicians.
+
+**19. The BSP and Public and Market Expectations**
+
+How households, businesses, financial markets, investors, and broader economic expectations interact with the BSP and influence the environment in which it performs its responsibilities.
+
+**20. The BSP and the Philippine Economic Policy-Making Process**
+
+How the BSP participates in the broader national economic policy environment while retaining its independent monetary and financial mandate.
+
+**PART III — MONETARY POLICY AS A POLITICAL AND ECONOMIC ISSUE**
+
+**21. Monetary Policy and Political Consequences**
+
+Why monetary decisions can produce significant political consequences without being politically motivated.
+
+**22. Inflation and Philippine Politics**
+
+Why inflation is simultaneously an economic, social, and political issue.
+
+**23. The Political Impact of Interest Rates**
+
+How BSP interest-rate decisions affect households, businesses, borrowers, savers, investors, government finances, and political expectations.
+
+**24. Monetary Tightening and Political Pressure**
+
+Why measures designed to control inflation can generate political pressure when they impose short-term economic costs.
+
+**25. Monetary Easing and Political Expectations**
+
+Why lower interest rates and easier financial conditions can create political expectations concerning economic growth, investment, employment, and credit.
+
+**26. Elections and Monetary Policy**
+
+How election periods can intensify political attention toward inflation, interest rates, economic conditions, and BSP decisions.
+
+**27. Political Promises and Monetary Constraints**
+
+Why political promises cannot override economic realities, the BSP's legal mandate, or independent monetary decision-making.
+
+**28. Economic Pain and Political Accountability**
+
+How difficult economic conditions can increase political scrutiny, criticism, and public expectations concerning the BSP.
+
+**29. Economic Growth, Employment, and the Limits of Monetary Policy**
+
+The political importance of growth and employment and the limits of what monetary policy can achieve.
+
+**30. The Politicization of Monetary Policy**
+
+The risks of using monetary policy primarily to achieve short-term political objectives rather than the BSP's legal and institutional mandate.
+
+**PART IV — BSP, GOVERNMENT FINANCE, CREDIT, AND POLITICAL ECONOMY**
+
+**31. Fiscal Policy and Monetary Policy**
+
+The distinction between government fiscal decisions and BSP monetary decisions and the importance of maintaining their institutional boundaries.
+
+**32. Government Spending and Monetary Conditions**
+
+How government spending can interact with inflation, aggregate demand, liquidity, and monetary policy.
+
+**33. Government Borrowing and Interest Rates**
+
+The relationship between public borrowing, financial markets, interest rates, and BSP monetary conditions.
+
+**34. Public Debt and Monetary Independence**
+
+Why government financing requirements must not compromise independent monetary decision-making.
+
+**35. The BSP and the Philippine Financial System**
+
+Why the BSP's role in financial regulation and supervision gives it significant economic influence with important political consequences.
+
+**36. Banking Regulation and Political Interests**
+
+How banking regulation and financial-sector policies can affect economic interests, businesses, consumers, and public policy.
+
+**37. Credit, Credit Cards, and Political Economy in the Philippines**
+
+How consumer credit, credit-card markets, lending conditions, household borrowing, credit risk, financial literacy, and consumer protection intersect with BSP regulation and the Philippine political economy.
+
+**38. Credit Card Management, Consumer Protection, and BSP Regulation**
+
+How responsible credit-card management, payment obligations, credit limits, interest and fees, disclosure, consumer rights, credit reporting, complaints, and financial literacy relate to BSP-regulated consumer finance.
+
+**39. Financial Inclusion and Political Responsibility**
+
+How access to appropriate financial services affects economic participation, opportunity, consumer welfare, and public expectations.
+
+**40. Financial Crises and Political Pressure**
+
+Why financial crises can create extraordinary political pressure on the BSP and test the resilience of its institutional independence.
