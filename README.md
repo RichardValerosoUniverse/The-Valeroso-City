@@ -1170,7 +1170,7 @@ Therefore, the proper relationship between the BSP and executive departments and
 
 > **Separate institutions, distinct mandates, lawful coordination, and shared responsibility for effective public governance.**
 
-## **15. **The BSP and Fiscal Authorities**
+## **15. The BSP and Fiscal Authorities**
 
 How the Bangko Sentral ng Pilipinas and Fiscal Authorities Interact, Influence One Another, and Preserve Institutional Boundaries in Philippine Economic Governance
 
