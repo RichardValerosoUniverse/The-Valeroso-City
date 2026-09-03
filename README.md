@@ -1170,9 +1170,1184 @@ Therefore, the proper relationship between the BSP and executive departments and
 
 > **Separate institutions, distinct mandates, lawful coordination, and shared responsibility for effective public governance.**
 
-**15. The BSP and Fiscal Authorities**
+## **Chapter 15 — The BSP and Fiscal Authorities**
 
-How the BSP interacts with the institutions responsible for fiscal policy while maintaining the distinction between monetary policy and fiscal policy.
+How the Bangko Sentral ng Pilipinas and Fiscal Authorities Interact, Influence One Another, and Preserve Institutional Boundaries in Philippine Economic Governance
+
+---
+
+The **Bangko Sentral ng Pilipinas (BSP)** and the **fiscal authorities** are among the most important institutions affecting the Philippine economy.
+
+They are connected, but they are **not interchangeable**.
+
+Fiscal authorities are primarily concerned with:
+
+- Government revenue
+- Taxation
+- Public expenditure
+- Budgeting
+- Fiscal deficits
+- Government borrowing
+- Public debt
+- Fiscal sustainability
+
+The BSP is primarily concerned with:
+
+- Price stability
+- Monetary stability
+- Monetary policy
+- Central banking
+- Financial stability responsibilities
+- Banking and financial regulation
+- Payment and settlement systems
+- Other functions assigned by law
+
+The fundamental distinction is:
+
+> **Fiscal authorities manage the government's finances. The BSP manages monetary and central-banking conditions within its legal mandate.**
+
+But the economy does not recognize institutional boundaries in the same way institutions do.
+
+A government spending program can affect aggregate demand.
+
+A tax change can affect household spending.
+
+Government borrowing can affect financial markets.
+
+Monetary-policy decisions can affect interest rates and therefore government debt-service costs.
+
+Consequently, the BSP must understand fiscal developments, while fiscal authorities must understand monetary conditions.
+
+This does **not** mean that the BSP controls fiscal policy or that fiscal authorities control monetary policy.
+
+It means that **separate institutions can produce interconnected economic consequences**.
+
+That is the central theme of this chapter.
+
+---
+
+**1. The Fundamental BSP–Fiscal Relationship**
+
+The relationship begins with institutional separation and economic interaction.
+
+Fiscal authorities make fiscal decisions.
+
+The BSP makes monetary and central-banking decisions.
+
+Their decisions, however, operate within the same economy.
+
+**Think of it like this:**
+
+Think of the Philippine economy as one shared environment.
+
+Fiscal policy changes the government's financial activity within that environment.
+
+Monetary policy changes monetary and financial conditions within that same environment.
+
+Because both operate in the same economy, a decision by one institution can alter the conditions faced by the other.
+
+| Fiscal Authorities | BSP |
+|---|---|
+| Manage government finances | Conduct monetary and central-banking functions |
+| Raise government revenue | Pursue price stability as the primary objective |
+| Determine public expenditure | Conduct monetary policy |
+| Manage fiscal deficits | Support monetary stability |
+| Manage government borrowing and debt | Perform financial-stability responsibilities |
+| Operate within fiscal and budgetary authority | Operate within central-bank authority |
+
+> **Institutional separation does not eliminate economic interaction.**
+
+---
+
+**2. Fiscal Policy as an Economic Condition for the BSP**
+
+Fiscal policy forms part of the economic environment that the BSP evaluates.
+
+Government expenditure, taxation, deficits, borrowing, and debt can influence:
+
+- Aggregate demand
+- Economic activity
+- Inflationary conditions
+- Financial markets
+- Expectations
+
+| Fiscal Development | Possible Economic Effect | Why It Matters to the BSP |
+|---|---|---|
+| Higher government spending | Stronger demand | May affect inflation and economic activity |
+| Lower taxation | Higher disposable income | May affect consumption and demand |
+| Larger fiscal deficit | Greater financing requirement | May affect markets and macroeconomic conditions |
+| Higher public borrowing | Greater government financing activity | May affect financial conditions |
+| Higher public debt | Potentially greater fiscal risk | May affect confidence and financial conditions |
+
+The BSP is not managing these fiscal decisions.
+
+It is **assessing their economic consequences** as part of the environment in which monetary policy operates.
+
+---
+
+**3. Monetary Policy as an Economic Condition for Fiscal Authorities**
+
+Fiscal authorities must also operate within monetary conditions.
+
+Changes in monetary policy can affect:
+
+- Borrowing costs
+- Credit availability
+- Investment
+- Consumption
+- Financial markets
+- Government financing conditions
+
+| BSP Development | Possible Fiscal Effect |
+|---|---|
+| Higher policy rates | Potentially higher government borrowing costs |
+| Lower policy rates | Potentially lower financing costs, all else equal |
+| Tighter monetary conditions | May slow economic activity and affect revenues |
+| Easier monetary conditions | May support economic activity and financing conditions |
+| Changes in financial conditions | May affect debt management and fiscal planning |
+
+**Think of it like this:**
+
+Fiscal authorities determine **what the government spends and how it finances itself**.
+
+Monetary conditions influence **the economic and financial environment in which those decisions occur**.
+
+---
+
+**4. The Distinction Between Fiscal and Monetary Authority**
+
+Fiscal authority and monetary authority are different forms of public authority.
+
+| Fiscal Authorities | BSP |
+|---|---|
+| Revenue | Monetary policy |
+| Taxation | Price stability |
+| Government expenditure | Monetary stability |
+| Budgeting | Financial stability responsibilities |
+| Fiscal deficits | Central banking |
+| Government borrowing | Banking and financial regulation |
+| Public debt | Payment-system responsibilities |
+| Fiscal sustainability | Other legally assigned central-bank functions |
+
+The existence of interaction does **not** erase this distinction.
+
+> **Different responsibilities create different institutional authorities.**
+
+---
+
+**5. Fiscal Decisions That Can Affect Monetary Conditions**
+
+Fiscal decisions can influence monetary conditions indirectly.
+
+| Fiscal Action | Economic Channel | Possible BSP Relevance |
+|---|---|---|
+| Higher government expenditure | Higher aggregate demand | Inflation and growth assessment |
+| Lower taxation | Higher private-sector spending capacity | Demand assessment |
+| Increased transfers | Higher household resources | Consumption and demand |
+| Public investment | Economic activity and productive capacity | Growth and inflation assessment |
+| Reduced expenditure | Lower demand | Disinflation and growth assessment |
+
+The effect is not automatic.
+
+It depends on:
+
+- Economic conditions
+- Productive capacity
+- Supply constraints
+- Financing conditions
+- Inflation expectations
+- Domestic and external conditions
+
+> **Fiscal expansion can influence monetary conditions, but it does not mechanically determine monetary policy.**
+
+---
+
+**6. Monetary Decisions That Can Affect Fiscal Conditions**
+
+Monetary-policy decisions can affect fiscal conditions through financial markets.
+
+| Monetary Development | Transmission | Possible Fiscal Effect |
+|---|---|---|
+| Higher policy rates | Higher market rates | Higher borrowing costs |
+| Lower policy rates | Lower market rates, all else equal | Potentially lower financing costs |
+| Tighter credit conditions | Reduced borrowing | Possible effect on economic activity and revenues |
+| Easier financial conditions | Increased financing capacity | Possible effect on economic activity |
+
+**Think of it like this:**
+
+The BSP does **not** change monetary policy for the purpose of managing the government's budget.
+
+Government financing consequences are economic effects that fiscal authorities must consider separately.
+
+---
+
+**7. Fiscal Expansion and BSP Policy**
+
+Fiscal expansion occurs when government policy increases aggregate demand through mechanisms such as:
+
+- Higher government expenditure
+- Lower taxation
+- Increased transfers
+- Public investment
+
+| Economic Situation | Possible Fiscal Effect | BSP Consideration |
+|---|---|---|
+| Weak demand | Fiscal expansion may support activity | Growth and inflation balance |
+| Strong demand | Expansion may add demand pressure | Inflation implications |
+| Supply-constrained economy | Expansion may increase pressure on limited capacity | Inflation assessment |
+| Significant slack | Expansion may have less immediate inflationary effect | Economic capacity |
+
+The BSP evaluates the circumstances rather than reacting mechanically to the existence of fiscal expansion.
+
+---
+
+**8. Fiscal Consolidation and BSP Policy**
+
+Fiscal consolidation generally involves reducing fiscal deficits or slowing the growth of government borrowing requirements.
+
+| Fiscal Consolidation | Possible Economic Effect | BSP Relevance |
+|---|---|---|
+| Lower government spending | Reduced demand | Inflation and growth |
+| Higher government revenue | Reduced private-sector demand, depending on design | Inflation and activity |
+| Lower borrowing requirements | Reduced financing needs | Financial-market conditions |
+| Improved fiscal credibility | Greater confidence | Macroeconomic stability |
+
+**Think of it like this:**
+
+Fiscal consolidation can change the economic **pressure surrounding monetary policy**.
+
+But the BSP still determines its own policy response according to its mandate and assessment.
+
+---
+
+**9. Government Revenue and Monetary Conditions**
+
+Government revenue affects the amount of resources transferred between the private sector and government.
+
+| Revenue Measure | Private-Sector Effect | Potential Monetary Relevance |
+|---|---|---|
+| Higher taxes | May reduce disposable income | May reduce demand |
+| Lower taxes | May increase disposable income | May increase demand |
+| Higher collections | May strengthen fiscal position | May affect borrowing needs |
+| Lower collections | May weaken fiscal position | May increase financing requirements |
+
+The BSP does not set national tax policy simply because taxation affects monetary conditions.
+
+That responsibility remains with the fiscal authorities.
+
+---
+
+**10. Government Expenditure and Monetary Conditions**
+
+Government expenditure can enter the economy through:
+
+- Government purchases
+- Transfers
+- Public investment
+- Government services
+- Other public programs
+
+| Expenditure Characteristic | Possible Economic Effect |
+|---|---|
+| Large increase in spending | Higher aggregate demand |
+| Productive infrastructure | Potentially higher productive capacity |
+| Emergency expenditure | Immediate demand and income effects |
+| Reduced spending | Potentially lower aggregate demand |
+| Poorly targeted spending | Potentially weaker economic impact |
+
+The economic effect depends on the **size, timing, composition, financing, and productive effect** of expenditure.
+
+---
+
+**11. Fiscal Deficits and the BSP**
+
+A fiscal deficit means government expenditures exceed government revenues over a specified period, requiring financing.
+
+A deficit is **not automatically a monetary problem**.
+
+| Deficit Characteristic | Why It Matters |
+|---|---|
+| Size | Determines potential scale of financing and demand effects |
+| Duration | Persistent deficits may create larger debt requirements |
+| Financing method | Different methods have different market implications |
+| Economic conditions | Effects differ during recession and strong expansion |
+| Debt sustainability | Determines longer-term fiscal credibility |
+| Demand impact | May affect inflationary conditions |
+
+The BSP evaluates fiscal deficits as part of the broader macroeconomic environment.
+
+---
+
+**12. Fiscal Surpluses and the BSP**
+
+A fiscal surplus occurs when government revenues exceed expenditures.
+
+| Fiscal Surplus Effect | Potential BSP Relevance |
+|---|---|
+| Lower borrowing requirement | Financial-market conditions |
+| Reduced aggregate demand | Inflation and growth |
+| Lower debt accumulation | Fiscal credibility |
+| Stronger fiscal position | Macroeconomic confidence |
+
+The BSP does not treat the existence of a surplus as automatically requiring a particular monetary response.
+
+The economic consequences matter more than the label alone.
+
+---
+
+**13. Government Borrowing as the Major BSP–Fiscal Intersection**
+
+Government borrowing is one of the clearest points of interaction between fiscal authorities and the BSP.
+
+| Fiscal Question | BSP-Related Question |
+|---|---|
+| How much should the government borrow? | What monetary implications could borrowing create? |
+| How should fiscal requirements be financed? | What financial conditions surround the borrowing? |
+| How should public debt be managed? | What monetary and financial risks may be relevant? |
+| What are the government's financing requirements? | What are the implications for monetary and financial conditions? |
+
+Borrowing is fundamentally a fiscal financing decision.
+
+But it can also have:
+
+- Monetary implications
+- Financial-market implications
+- External implications
+- Exchange-rate implications
+
+Philippine law therefore provides circumstances in which the BSP and its Monetary Board have defined roles concerning government borrowing and foreign credit operations.
+
+---
+
+**14. Domestic Government Borrowing and the BSP**
+
+Domestic borrowing involves raising funds within the Philippine financial system.
+
+| Domestic Borrowing Channel | Possible BSP Relevance |
+|---|---|
+| Government securities | Financial-market conditions |
+| Domestic interest rates | Financing environment |
+| Bank holdings of government securities | Financial-system exposure |
+| Investor demand | Market stability |
+| Liquidity conditions | Monetary and financial conditions |
+
+The BSP therefore has legally defined mechanisms for providing Monetary Board opinions concerning government borrowing.
+
+This does not make the BSP the government's borrowing authority.
+
+---
+
+**15. Foreign Government Borrowing and the BSP**
+
+Foreign borrowing introduces additional considerations.
+
+| External Borrowing Factor | Possible Implication |
+|---|---|
+| Foreign-currency obligations | Exchange-rate exposure |
+| External debt service | External payments |
+| Foreign financing | External balance |
+| Exchange-rate movements | Peso value of foreign obligations |
+| International investor confidence | Financing conditions |
+| External shocks | Financial and monetary conditions |
+
+The legal framework gives the BSP a defined role regarding certain foreign credit operations.
+
+The purpose is to ensure that monetary and external implications are institutionally considered.
+
+---
+
+**16. Monetary Board Opinions on Government Borrowing**
+
+The Monetary Board's role in government borrowing demonstrates how institutional mandates can intersect without becoming identical.
+
+| Fiscal Authority | Monetary Board |
+|---|---|
+| Determines fiscal financing requirements | Assesses monetary implications where legally required |
+| Manages government borrowing | Provides legally defined monetary opinions |
+| Manages public debt | Considers monetary and external consequences |
+| Remains responsible for fiscal policy | Remains responsible for BSP functions |
+
+> **An opinion concerning monetary implications is not the same thing as assuming responsibility for the fiscal decision itself.**
+
+---
+
+**17. Fiscal Financing and Monetary Conditions**
+
+How government expenditure is financed matters.
+
+| Financing Concept | Fiscal Dimension | BSP Dimension |
+|---|---|---|
+| Market borrowing | Raises government funds | May affect financial markets |
+| Domestic borrowing | Uses domestic financial markets | May affect liquidity and rates |
+| Foreign borrowing | Raises external funds | May affect external conditions |
+| Monetary financing | Raises fundamental central-bank independence questions | Relevant to monetary-policy integrity |
+
+> **Fiscal financing is a government responsibility. Monetary operations are a central-bank responsibility.**
+
+---
+
+**18. Public Debt and the BSP**
+
+Public debt represents accumulated government borrowing obligations.
+
+| Public-Debt Development | Possible Economic Effect | BSP Relevance |
+|---|---|---|
+| Rising debt | Higher future obligations | Fiscal and financial assessment |
+| High debt-service burden | Greater budgetary pressure | Financing conditions |
+| Improved debt sustainability | Greater confidence | Macroeconomic stability |
+| Debt-market stress | Higher borrowing costs | Financial stability |
+
+The BSP does not manage public debt as the government's debt manager.
+
+Public-debt developments can nevertheless be relevant to the BSP's macroeconomic and financial assessment.
+
+---
+
+**19. Debt-Service Costs and Monetary Conditions**
+
+Government debt-service costs depend partly on interest rates and financing conditions.
+
+| Development | Fiscal Effect | Monetary Interaction |
+|---|---|---|
+| Higher interest rates | Higher debt-service costs | May reflect monetary and market conditions |
+| Lower interest rates | Potentially lower financing costs | May ease fiscal financing conditions |
+| Higher risk premium | Higher borrowing costs | May reflect market confidence |
+| Longer-term refinancing | Changes exposure to future rates | Affects fiscal planning |
+
+This demonstrates the **two-way nature** of fiscal–monetary interaction.
+
+---
+
+**20. Fiscal Sustainability and Monetary Stability**
+
+Fiscal sustainability and monetary stability are different concepts.
+
+| Fiscal Sustainability | Monetary Stability |
+|---|---|
+| Concerns government finances over time | Concerns monetary conditions |
+| Focuses on debt and fiscal capacity | Focuses strongly on price stability |
+| Concerns revenue, spending, deficits and debt | Concerns monetary policy and central banking |
+| Primarily a fiscal responsibility | Primarily a BSP responsibility |
+
+They are distinct but interconnected.
+
+> **A stable fiscal position can support a stable macroeconomic environment, while fiscal weakness can complicate monetary conditions.**
+
+---
+
+**21. Fiscal Credibility and Monetary Credibility**
+
+Credibility matters to both institutions.
+
+| Fiscal Credibility | Monetary Credibility |
+|---|---|
+| Confidence in sustainable public finances | Confidence in the BSP's monetary mandate |
+| Confidence in debt management | Confidence in price-stability commitment |
+| Confidence in fiscal institutions | Confidence in monetary institutions |
+| Lower uncertainty | More stable expectations |
+
+**Think of it like this:**
+
+Credibility is **economic trust**.
+
+When households, businesses, and investors believe institutions will act consistently and responsibly, expectations can become more stable.
+
+---
+
+**22. Fiscal Policy and Inflation**
+
+Fiscal policy can influence inflation through:
+
+- Aggregate demand
+- Expectations
+- Government expenditure
+- Taxation
+- Financing conditions
+
+| Fiscal Condition | Possible Inflation Effect |
+|---|---|
+| Strong fiscal expansion during excess demand | May increase inflationary pressure |
+| Fiscal restraint during high demand | May reduce demand pressure |
+| Expansion during economic slack | May have less immediate inflation effect |
+| Supply-enhancing public investment | May increase productive capacity |
+
+> **Fiscal expansion does not automatically equal inflation.**
+
+---
+
+**23. Fiscal Policy and Disinflation**
+
+Disinflation means reducing the rate at which prices are increasing.
+
+| Fiscal Position | Possible Effect on Disinflation |
+|---|---|
+| Strong demand-supporting fiscal policy | May complicate disinflation |
+| Fiscal restraint | May reduce demand pressure |
+| Targeted support | May limit unnecessary aggregate demand |
+| Supply-enhancing expenditure | May improve productive capacity |
+
+Fiscal policy can therefore either support or complicate the broader disinflation environment.
+
+---
+
+**24. Fiscal Policy and Economic Growth**
+
+Fiscal policy can influence growth through:
+
+- Public investment
+- Infrastructure
+- Taxation
+- Government services
+- Public programs
+
+| Fiscal Instrument | Possible Growth Channel |
+|---|---|
+| Infrastructure spending | Productive capacity |
+| Education and health spending | Human capital |
+| Tax policy | Incentives and disposable income |
+| Public services | Economic capacity |
+| Fiscal consolidation | May reduce demand in the short run but strengthen sustainability |
+
+The BSP also considers economic activity because monetary policy operates within the broader macroeconomic environment.
+
+---
+
+**25. Fiscal Policy and Aggregate Demand**
+
+Aggregate demand represents total demand for goods and services in the economy.
+
+| Fiscal Instrument | Aggregate-Demand Channel |
+|---|---|
+| Government spending | Direct increase in demand |
+| Tax reduction | Potential increase in private consumption |
+| Tax increase | Potential reduction in private demand |
+| Transfers | Potential increase in household spending |
+| Spending reduction | Potential reduction in demand |
+
+This creates an important transmission channel from fiscal decisions toward inflation and economic activity.
+
+---
+
+**26. Fiscal Policy and Interest Rates**
+
+Fiscal conditions can influence interest rates through:
+
+- Government borrowing requirements
+- Market expectations
+- Risk perceptions
+- Investor demand
+
+| Source of Interest-Rate Movement | Possible Role |
+|---|---|
+| BSP monetary policy | Central-bank policy conditions |
+| Government borrowing | Market financing demand |
+| Inflation expectations | Compensation for expected inflation |
+| Fiscal risk | Risk premium |
+| Global interest rates | External financial conditions |
+
+Therefore, an observed movement in interest rates should not automatically be attributed to one institution alone.
+
+---
+
+**27. Fiscal Policy and Financial Markets**
+
+Financial markets continuously process information about:
+
+- Government finances
+- Borrowing
+- Inflation
+- Monetary policy
+- Economic prospects
+
+| Fiscal Development | Possible Market Reaction |
+|---|---|
+| Higher borrowing requirement | Potentially greater demand for financing |
+| Improved fiscal credibility | Potentially stronger investor confidence |
+| Fiscal stress | Potentially higher risk premiums |
+| Major fiscal announcements | Possible changes in expectations |
+
+BSP decisions can also affect market conditions.
+
+Financial markets are therefore an important channel through which fiscal and monetary policies interact.
+
+---
+
+**28. Fiscal Policy and Exchange Rates**
+
+Fiscal conditions can influence exchange-rate expectations through:
+
+- Growth
+- Inflation
+- Borrowing
+- Investor confidence
+- External financing
+
+| Fiscal Development | Possible Exchange-Rate Channel |
+|---|---|
+| Higher inflation expectations | Potential pressure on currency expectations |
+| Stronger fiscal credibility | Potentially greater confidence |
+| Increased foreign borrowing | Increased foreign-currency exposure |
+| Fiscal stress | Potentially higher risk premium |
+
+The BSP also considers exchange-rate and external conditions within its legal responsibilities.
+
+---
+
+**29. Fiscal Policy and the External Balance**
+
+Government fiscal conditions can influence:
+
+- Imports
+- Domestic demand
+- External financing requirements
+- The broader external position
+
+| Fiscal Effect | External-Balance Channel |
+|---|---|
+| Higher domestic demand | Potentially higher imports |
+| Lower demand | Potentially lower import pressure |
+| Foreign borrowing | External financing inflow and future obligations |
+| Fiscal stress | Potential confidence and financing effects |
+
+The BSP does not become the fiscal authority simply because fiscal policy affects the external balance.
+
+---
+
+**30. Fiscal Policy and Financial Stability**
+
+Fiscal developments can affect financial stability through:
+
+- Government securities
+- Bank balance sheets
+- Market liquidity
+- Interest rates
+- Investor confidence
+
+| Fiscal Development | Financial-Stability Channel |
+|---|---|
+| Sovereign stress | Financial-market volatility |
+| Rapid borrowing | Greater market financing activity |
+| Large government securities holdings | Potential financial-system exposure |
+| Fiscal uncertainty | Investor confidence effects |
+
+Because financial stability concerns the functioning of the financial system as a whole, fiscal developments can become relevant to BSP responsibilities.
+
+---
+
+**31. Sovereign Debt and the Financial System**
+
+Government securities can play an important role in financial markets.
+
+Banks and other financial institutions may hold sovereign instruments.
+
+| Sovereign-Debt Development | Potential Financial-System Effect |
+|---|---|
+| Stable sovereign markets | Supports orderly financial conditions |
+| Higher sovereign yields | Can affect asset valuations |
+| Sovereign-market volatility | Can transmit to financial institutions |
+| Significant institutional holdings | Creates exposure to sovereign conditions |
+
+This creates another channel through which fiscal conditions can become relevant to the BSP.
+
+---
+
+**32. Fiscal Stress and Monetary Conditions**
+
+Fiscal stress occurs when government finances face significant pressure.
+
+| Fiscal-Stress Indicator | Possible Consequence |
+|---|---|
+| Rising borrowing costs | Higher financing burden |
+| Weak investor confidence | Higher risk premium |
+| Refinancing pressure | Greater financial vulnerability |
+| Rapid debt accumulation | Sustainability concerns |
+| Market volatility | Broader financial effects |
+
+The BSP's response must nevertheless remain grounded in its own legal mandate.
+
+---
+
+**33. Fiscal Shocks and BSP Response**
+
+A fiscal shock is a sudden and significant change in fiscal conditions.
+
+Examples include:
+
+- Unexpected spending surges
+- Revenue collapses
+- Major emergency expenditures
+- Abrupt changes in government financing conditions
+
+| Fiscal Shock | BSP Question |
+|---|---|
+| Spending surge | Does it materially affect demand or inflation? |
+| Revenue collapse | Does it alter economic activity or fiscal financing? |
+| Emergency expenditure | What are the macroeconomic consequences? |
+| Financing disruption | What are the financial-market implications? |
+
+The BSP does not automatically respond to every fiscal shock.
+
+It assesses whether the shock changes variables relevant to its mandate.
+
+---
+
+**34. Fiscal Policy During Economic Downturns**
+
+During economic downturns, fiscal authorities may use fiscal measures to support economic activity.
+
+The BSP may simultaneously adjust monetary conditions when appropriate.
+
+| Fiscal Response | Possible BSP Interaction |
+|---|---|
+| Increased public spending | May support aggregate demand |
+| Tax relief | May support private demand |
+| Targeted assistance | May protect household income |
+| Public investment | May support recovery |
+
+The policies may become complementary.
+
+But complementary policy does **not** mean identical policy.
+
+---
+
+**35. Fiscal Policy During High Inflation**
+
+During high inflation, fiscal policy can either reinforce or reduce demand pressures depending on its design.
+
+| Fiscal Approach | Possible Inflation Interaction |
+|---|---|
+| Broad demand expansion | May increase demand pressure |
+| Fiscal restraint | May reduce demand pressure |
+| Targeted support | Can provide assistance while limiting broad demand effects |
+| Supply-side measures | May address productive constraints |
+
+The BSP nevertheless determines monetary policy independently according to its assessment.
+
+---
+
+**36. Fiscal Policy During Financial Stress**
+
+During financial stress, fiscal authorities may have responsibilities involving:
+
+- Public resources
+- Guarantees
+- Emergency programs
+- Broader government responses
+
+The BSP may simultaneously exercise its legally assigned:
+
+- Financial-stability functions
+- Banking functions
+- Liquidity functions
+- Monetary functions
+
+| Fiscal Authority Role | BSP Role |
+|---|---|
+| Public fiscal resources | Central-bank liquidity functions |
+| Government programs | Financial supervision |
+| Fiscal guarantees | Financial-stability assessment |
+| Budgetary response | Monetary and financial response within mandate |
+
+This is an area where coordination can be particularly important.
+
+---
+
+**37. Fiscal Dominance**
+
+Fiscal dominance occurs when fiscal financing requirements effectively constrain or subordinate monetary policy.
+
+This is fundamentally different from ordinary fiscal–monetary interaction.
+
+| Normal Interaction | Fiscal Dominance |
+|---|---|
+| BSP considers fiscal conditions | Fiscal needs constrain monetary decisions |
+| Fiscal authorities consider monetary conditions | Monetary policy serves fiscal financing |
+| Institutions coordinate information | Institutional independence is weakened |
+| Separate mandates remain intact | Fiscal objectives improperly dominate monetary objectives |
+
+**Think of it like this:**
+
+It is normal for the BSP to understand that monetary decisions affect government borrowing costs.
+
+It is **not** normal for monetary policy to be determined primarily by the government's need for cheaper financing.
+
+That distinction protects central-bank independence.
+
+---
+
+**38. Fiscal Coordination vs. Fiscal Dominance**
+
+| Coordination | Fiscal Dominance |
+|---|---|
+| Information sharing | Pressure on monetary decisions |
+| Mutual understanding | Subordination of monetary policy |
+| Respect for mandates | Erosion of institutional independence |
+| Economic cooperation | Fiscal financing determines monetary policy |
+| Lawful interaction | Institutional boundary failure |
+
+> **Coordination strengthens governance.**
+
+> **Dominance weakens it.**
+
+---
+
+**39. Government Borrowing Costs and BSP Independence**
+
+Government borrowing costs can be affected by monetary and financial conditions.
+
+However:
+
+> **The BSP's primary monetary objective is not to minimize the government's borrowing costs.**
+
+| BSP Independence Requires | What It Prevents |
+|---|---|
+| Mandate-based decisions | Politically motivated monetary decisions |
+| Independent assessment | Financing-driven policy |
+| Institutional credibility | Loss of monetary confidence |
+| Legal boundaries | Fiscal control of monetary policy |
+
+The BSP must distinguish between **economic consequences it observes** and **objectives it is legally authorized to pursue**.
+
+---
+
+**40. Government Financing and Monetary Financing**
+
+Ordinary government borrowing and monetary financing are not the same thing.
+
+| Ordinary Market Borrowing | Monetary Financing |
+|---|---|
+| Government raises funds through financial markets | Raises fundamental questions about central-bank money creation and government financing |
+| Investors provide financing | Central-bank balance-sheet implications may arise |
+| Governed by fiscal financing arrangements | Directly implicates monetary-policy independence |
+| Government debt is issued to investors | Central-bank role becomes especially sensitive |
+
+The distinction is essential because central-bank independence requires monetary policy to remain governed by its own mandate rather than becoming a routine mechanism for financing government fiscal needs.
+
+---
+
+**41. Public Debt and Inflation Expectations**
+
+Public-debt developments can affect expectations when households and investors begin questioning future fiscal sustainability.
+
+| Fiscal Development | Expectations Channel |
+|---|---|
+| Rising debt concerns | May increase uncertainty |
+| Fiscal credibility | May stabilize expectations |
+| Debt-service pressure | May raise concerns about future policy |
+| Fiscal stress | May affect inflation and financial expectations |
+
+If fiscal concerns influence inflation expectations, the monetary environment can become more difficult.
+
+---
+
+**42. Fiscal Policy and Monetary Transmission**
+
+Monetary transmission describes how monetary-policy changes move through financial conditions and ultimately affect economic activity and inflation.
+
+| Fiscal Condition | Possible Effect on Monetary Transmission |
+|---|---|
+| Expansionary fiscal policy | May offset some monetary restraint |
+| Restrictive fiscal policy | May reinforce some monetary restraint |
+| Fiscal uncertainty | May alter expectations |
+| Stable fiscal conditions | May support clearer policy transmission |
+
+The two policies can interact without becoming institutionally merged.
+
+---
+
+**43. Fiscal Policy and the Cost of Disinflation**
+
+Reducing inflation can involve economic adjustment.
+
+| Policy Interaction | Possible Effect |
+|---|---|
+| Tight monetary + expansionary fiscal | May make disinflation more difficult |
+| Tight monetary + restrained fiscal | May make demand adjustment more coherent |
+| Monetary restraint + targeted fiscal support | Can potentially protect vulnerable sectors while addressing inflation |
+| Poorly coordinated policies | May increase adjustment costs |
+
+The point is not that fiscal policy must follow the BSP.
+
+The point is:
+
+> **Policy interaction can affect the economic cost and speed of disinflation.**
+
+---
+
+**44. Fiscal Policy and the Monetary–Fiscal Policy Mix**
+
+The policy mix refers to the combined economic environment created by fiscal and monetary policy.
+
+| Fiscal Policy | Monetary Policy | Possible General Effect |
+|---|---|---|
+| Expansionary | Expansionary | Stronger aggregate-demand support |
+| Expansionary | Restrictive | Fiscal support may offset some monetary restraint |
+| Restrictive | Expansionary | Monetary support may offset some fiscal restraint |
+| Restrictive | Restrictive | Stronger reduction in aggregate demand |
+
+These are analytical categories—not automatic predictions.
+
+---
+
+**45. Policy-Mix Consistency**
+
+Consistency does not mean fiscal and monetary policy must always move in the same direction.
+
+Different economic conditions can require different responses.
+
+| Situation | Fiscal Policy | Monetary Policy |
+|---|---|---|
+| Weak economy, low inflation | May support demand | May support monetary conditions |
+| High inflation, strong demand | May restrain demand | May restrain monetary conditions |
+| Supply shock | May target supply constraints | May address inflation expectations |
+| Financial stress | May provide fiscal support | May address financial-system risks within mandate |
+
+**Think of it like this:**
+
+Two people can walk in different directions while still understanding where the group is going.
+
+Different policy directions do not automatically mean institutional conflict.
+
+---
+
+**46. Fiscal Information and BSP Assessment**
+
+Fiscal information is important to economic assessment.
+
+| Fiscal Information | Why It Matters to the BSP |
+|---|---|
+| Government revenue | Helps assess fiscal conditions |
+| Government expenditure | Helps assess aggregate demand |
+| Borrowing | Helps assess financing conditions |
+| Public debt | Helps assess fiscal sustainability |
+| Fiscal projections | Helps assess future economic conditions |
+
+Information does **not** equal control.
+
+The BSP can consider fiscal information without assuming fiscal authority.
+
+---
+
+**47. Fiscal Authorities' Understanding of BSP Policy**
+
+Fiscal authorities also need to understand monetary policy.
+
+| BSP Development | Why Fiscal Authorities Should Understand It |
+|---|---|
+| Policy-rate changes | Government financing costs |
+| Credit conditions | Economic activity |
+| Inflation policy | Fiscal planning |
+| Financial-market conditions | Debt management |
+| Monetary transmission | Economic forecasting |
+
+Understanding monetary policy allows fiscal planning to occur within a realistic macroeconomic environment.
+
+---
+
+**48. Institutional Coordination Without Subordination**
+
+The BSP and fiscal authorities may coordinate because they share responsibility for sound economic governance.
+
+But coordination must respect institutional boundaries.
+
+| Proper Coordination | Improper Subordination |
+|---|---|
+| Exchange of information | Political control |
+| Economic consultation | Policy commands |
+| Joint assessment of risks | Forced monetary decisions |
+| Inter-agency cooperation | Loss of institutional independence |
+| Respect for legal mandates | Mandate interference |
+| Shared understanding | Institutional domination |
+
+The objective is not institutional unity.
+
+It is **institutional compatibility**.
+
+---
+
+**49. The Complete BSP–Fiscal Authority Framework**
+
+The entire relationship can be summarized through the following table:
+
+| Fiscal Authorities | Economic Interaction | BSP |
+|---|---|---|
+| Revenue | → Aggregate demand | Assesses economic conditions |
+| Taxation | → Consumption and investment | Assesses inflationary effects |
+| Government spending | → Economic activity | Assesses monetary implications |
+| Fiscal deficits | → Financing requirements | Assesses broader macroeconomic conditions |
+| Government borrowing | → Financial markets | Considers monetary and financial implications |
+| Public debt | → Fiscal credibility and risk | Considers financial and macroeconomic effects |
+| Fiscal consolidation | → Aggregate demand | Assesses growth and inflation conditions |
+| Fiscal expansion | → Aggregate demand | Assesses inflation and economic activity |
+| Fiscal credibility | → Expectations and confidence | Supports a more stable macroeconomic environment |
+| Fiscal stress | → Market and financing pressure | Assesses implications within its mandate |
+
+**The Two-Way Relationship**
+
+| Direction | Transmission |
+|---|---|
+| **Fiscal → Economy → BSP** | Revenue, spending, deficits, borrowing and debt can influence demand, inflation, markets and expectations |
+| **BSP → Economy → Fiscal** | Monetary policy can influence rates, credit, economic activity, markets and government financing conditions |
+| **Fiscal ↔ BSP** | Each institution affects the economic environment in which the other operates |
+
+The framework establishes a fundamental principle:
+
+> **Separate mandates do not produce separate economies.**
+
+Fiscal and monetary authorities must therefore understand their interaction while preserving the boundaries that make institutional independence meaningful.
+
+---
+
+**50. Separate Authority, Interconnected Consequences**
+
+The highest principle of the BSP–fiscal authority relationship is:
+
+> **The BSP and fiscal authorities are separate in authority, interconnected in economic consequences, coordinated in understanding, independent in decision-making, and accountable under law.**
+
+This principle resolves the apparent tension between **independence and coordination**.
+
+The BSP must be independent.
+
+But independence does not mean isolation.
+
+Fiscal authorities must exercise fiscal authority.
+
+But fiscal authority does not mean control over monetary policy.
+
+The two institutions must communicate.
+
+But communication does not mean command.
+
+They must understand each other's policies.
+
+But understanding does not mean surrendering institutional authority.
+
+They must recognize economic interdependence.
+
+But interdependence does not mean institutional dependence.
+
+---
+
+**Conclusion**
+
+The relationship between the **Bangko Sentral ng Pilipinas and fiscal authorities** is ultimately a relationship between two distinct centers of economic responsibility operating within one national economy.
+
+Fiscal authorities determine how the government:
+
+- Raises resources
+- Allocates public funds
+- Manages deficits
+- Finances expenditures
+- Manages public debt
+
+The BSP performs its legally assigned central-banking functions, with price stability at the center of its mandate and with responsibilities extending to monetary and financial stability.
+
+Their responsibilities are different **by design**.
+
+Their consequences, however, are interconnected **by reality**.
+
+A government spending decision can influence aggregate demand.
+
+A taxation decision can influence private-sector spending.
+
+A deficit can influence government borrowing requirements.
+
+Government borrowing can influence financial markets.
+
+Public debt can influence investor expectations.
+
+Monetary policy can influence interest rates.
+
+Interest rates can influence government debt-service costs.
+
+Financial conditions can influence economic activity.
+
+Economic activity can influence tax revenues and government expenditures.
+
+And all of these effects can feed back into the environment in which both institutions must operate.
+
+This is why the BSP cannot responsibly ignore fiscal developments.
+
+It is also why fiscal authorities cannot responsibly ignore monetary conditions.
+
+But this interaction must never be misunderstood.
+
+> **The BSP is not the fiscal authority.**
+
+> **The fiscal authorities are not the BSP.**
+
+> **The BSP does not exist to finance government deficits.**
+
+> **Fiscal authorities do not exist to determine monetary policy.**
+
+And neither institution should be transformed into an instrument of the other.
+
+The healthiest relationship is therefore not one of institutional control.
+
+It is one of **institutional discipline**.
+
+Fiscal authorities remain responsible for fiscal policy.
+
+The BSP remains responsible for its monetary and central-banking mandate.
+
+Each institution understands the other's decisions.
+
+Each recognizes the economic consequences of those decisions.
+
+Each communicates where coordination is legally and practically appropriate.
+
+Each preserves its own lawful authority.
+
+Each remains accountable for its own actions.
+
+And together, through their separate responsibilities, they contribute to the stability of the Philippine economy.
+
+**The Deepest Lesson**
+
+> **Economic coordination is strongest when institutional boundaries are clearest.**
+
+The BSP does not need to control fiscal policy to understand it.
+
+Fiscal authorities do not need to control monetary policy to understand it.
+
+Neither needs to surrender its independence to recognize that the other's decisions matter.
+
+That is the essence of sound macroeconomic governance.
+
+> **Different mandates.**  
+> **Shared economy.**  
+> **Interconnected consequences.**  
+> **Independent authority.**  
+> **Responsible fiscal policy.**  
+> **Credible monetary policy.**  
+> **Lawful coordination.**  
+> **Institutional accountability.**  
+> **No subordination.**  
+> **No fiscal dominance.**
+
+Ultimately, the objective is not to make fiscal and monetary policy identical.
+
+The objective is to ensure that **two different institutions can perform two different responsibilities within the same economy without undermining one another's lawful authority.**
+
+That is institutional maturity.
+
+That is economic discipline.
+
+That is central-bank independence properly understood.
+
+That is fiscal responsibility properly understood.
+
+And that is the foundation of credible, stable, and sustainable economic governance in the Philippines.
+
+> **Separate authority.**  
+> **Interconnected consequences.**  
+> **Coordinated understanding.**  
+> **Independent decisions.**  
+> **Accountability under law.**
+
+**One economy. One institutional framework. One overriding responsibility: to preserve the conditions for a stable, credible, and sustainable Philippine economy while respecting the constitutional and legal boundaries that make responsible governance possible.**
+
+> **This is the highest principle of the BSP–fiscal authority relationship.**
 
 **16. The BSP and Other Financial Regulators**
 
