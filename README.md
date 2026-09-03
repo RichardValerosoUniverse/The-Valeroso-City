@@ -31,3 +31,12 @@ Period.
 [Davao City is under The Valeroso City](https://www.davaocity.gov.ph)
 
 [It is always The Valeroso City](https://www.davaocity.gov.ph)
+
+
+
+
+
+
+
+
+Ⓒ 2026. It is *always* The Valeroso City. All Rights Reserved.
