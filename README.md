@@ -1277,3 +1277,45 @@ How access to appropriate financial services affects economic participation, opp
 **40. Financial Crises and Political Pressure**
 
 Why financial crises can create extraordinary political pressure on the BSP and test the resilience of its institutional independence.
+
+**PART V — ACCOUNTABILITY, MYTHS, CREDIBILITY, AND THE FUTURE OF BSP INDEPENDENCE**
+
+**41. BSP Transparency and Political Trust**
+
+Why transparent communication is essential to public confidence in an independent central bank.
+
+**42. BSP Accountability and Democratic Oversight**
+
+How the BSP can remain accountable to the public and legitimate institutions without becoming subject to political control.
+
+**43. Myths and Realities About the BSP**
+
+An examination of common misconceptions about the BSP, its independence, political role, monetary policy, regulation, accountability, and institutional authority.
+
+**44. Public Criticism, Political Debate, and BSP Independence**
+
+The distinction between legitimate criticism, democratic debate, policy disagreement, political pressure, misinformation, and improper interference with institutional independence.
+
+**45. BSP Credibility and Political Stability**
+
+Why institutional credibility affects financial markets, public expectations, economic confidence, and trust in public institutions.
+
+**46. Evidence-Based Decision-Making vs. Political Expediency**
+
+Why BSP decisions should be grounded in economic evidence, data, institutional analysis, and the legal mandate rather than short-term political convenience.
+
+**47. BSP Independence and Protection Against Political Capture**
+
+The institutional safeguards necessary to prevent monetary and financial authority from becoming an instrument of partisan political power.
+
+**48. The Future of BSP Independence in the Philippines**
+
+The continuing challenges of preserving BSP independence amid changing governments, political pressures, economic shocks, technological developments, and evolving financial markets.
+
+**49. The Proper Relationship Between the BSP and Philippine Politics**
+
+The appropriate relationship between an independent central bank and the political system: cooperation without control, accountability without political capture, transparency without partisan alignment, and independence without institutional isolation.
+
+**50. Strengthening BSP Independence, Accountability, and Public Trust**
+
+How the Philippines can strengthen BSP institutional independence while preserving accountability, transparency, credibility, lawful oversight, and public trust in the country's monetary and financial system.
