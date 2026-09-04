@@ -2349,9 +2349,11 @@ And that is the foundation of credible, stable, and sustainable economic governa
 
 > **This is the highest principle of the BSP–fiscal authority relationship.**
 
-**16. The BSP and Other Financial Regulators**
+## **16. The BSP and Financial Regulators and Authorities in the Philippine Financial Regulatory Architecture**
 
-How the BSP interacts with other institutions responsible for regulating and safeguarding the Philippine financial system.
+How the BSP interacts with financial regulators, the financial safety net, specialized oversight institutions, and fiscal and public-finance authorities
+
+---
 
 **17. The BSP and Local Political Power**
 
