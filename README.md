@@ -3564,7 +3564,7 @@ A municipal official cannot order a bank to ignore BSP regulations.
 
 A province cannot declare national banking law inapplicable within provincial territory.
 
-### Therefore
+**Therefore**
 
 **Local jurisdiction is also legally bounded.**
 
@@ -3804,7 +3804,7 @@ A political preference is not a statutory power.
 
 A public statement is not a monetary-policy directive.
 
-### Therefore
+**Therefore**
 
 **Political influence must never be confused with legal jurisdiction.**
 
@@ -4178,7 +4178,7 @@ These interactions are real.
 
 But interaction does not erase institutional boundaries.
 
-### The correct concept is:
+**The correct concept is:**
 
 **Interdependence of economic effects + independence of legal functions.**
 
