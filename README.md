@@ -2834,7 +2834,7 @@ can influence economic conditions and financial markets.
 
 Therefore, the DOF can be highly relevant to financial stability without becoming a bank or securities regulator.
 
-### Think of it like this:
+**Think of it like this:**
 
 The DOF does not regulate the entire financial system.
 
@@ -3207,7 +3207,7 @@ However, filling a legal gap cannot simply be accomplished by one agency declari
 
 Where new authority is legally required, the appropriate legal or regulatory mechanism must be followed.
 
-### Core principle
+**Core principle**
 
 > **Coordination can identify regulatory gaps; it does not automatically create new legal powers.**
 
@@ -3245,7 +3245,7 @@ The BSP can remain independent while coordinating with:
 
 Likewise, the existence of coordination does not mean that another agency controls the BSP's independent statutory decision-making.
 
-### Think of it like this:
+**Think of it like this:**
 
 Two independent physicians can discuss the same patient.
 
@@ -3404,7 +3404,7 @@ Instead, the Philippines requires:
 
 > **Different regulators. Different safety-net institutions. Different specialized authorities. Different fiscal and public-finance institutions. Shared financial risks. Coordinated action. Distinct legal mandates. One interconnected Philippine financial system.**
 
-That is the correct institutional relationship between the **BSP and the other authorities that help regulate, supervise, protect, coordinate, and sustain the Philippine financial system.**
+That is the correct institutional relationship between the BSP and the financial regulators and authorities that collectively form and support the Philippine financial regulatory architecture—regulating and supervising financial activities, protecting depositors and the financial system, addressing specialized financial risks, coordinating systemic-risk responses, and managing the fiscal and public-finance conditions that interact with the financial system.
 
 **17. The BSP and Local Political Power**
 
