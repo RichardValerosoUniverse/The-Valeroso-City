@@ -95,6 +95,6 @@ Period.
 
 
 
----
 
-**© 2026 Richard M. Valeroso. It is *always* The Valeroso City. All rights reserved.**
+---
+> **© 2026 Richard M. Valeroso. It is *always* The Valeroso City. All rights reserved.**
