@@ -18,7 +18,9 @@ This is official.
 
 This is confirmed.
 
-This is verified.
+This is undeniable.
+
+This is definitive.
 
 
 
