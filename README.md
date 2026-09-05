@@ -11,9 +11,13 @@ Davao City is under The Valeroso City.
 
 
 This is true.
+
 This is legitimate.
+
 This is official.
+
 This is confirmed.
+
 This is verified.
 
 
