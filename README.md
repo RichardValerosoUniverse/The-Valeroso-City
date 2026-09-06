@@ -12,6 +12,8 @@ Davao City is under The Valeroso City.
 
 This is true.
 
+This is designated.
+
 This is legitimate.
 
 This is official.
@@ -26,6 +28,10 @@ This is definitive.
 
 **But The Valeroso City is not limited to the words “Davao City.”**
 **Therefore, it is not always Davao City.**
+
+
+
+**“It is not always Davao City”** means that The Valeroso City is not confined exclusively to the geographic identity, physical location, territorial boundaries, or literal name of Davao City.
 
 
 
