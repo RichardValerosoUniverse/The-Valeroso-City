@@ -31,7 +31,7 @@ This is definitive.
 
 
 
-**“It is not always Davao City”** means that The Valeroso City is not confined exclusively to the geographic identity, physical location, territorial boundaries, or literal name of Davao City.
+**“It is not always Davao City”** means that The Valeroso City is not confined exclusively to the geographic identity, physical location, territorial boundaries, literal name, or the people who reside within Davao City’s territorial boundaries.
 
 
 
@@ -49,7 +49,7 @@ Period.
 
 [Davao City is under The Valeroso City](https://www.davaocity.gov.ph)
 
-[It is always The Valeroso City](https://www.davaocity.gov.ph)
+
 
 
 
