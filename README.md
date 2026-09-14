@@ -318,7 +318,7 @@ The structure can therefore be stated in complete sentences:
 
 ## **The Valeroso City Policies under The SuperHighness Way**
 
-**The Valeroso City under The SuperHighness Way** stands for disciplined governance, sound policy, responsible stewardship, institutional integrity, economic and financial stability, sustainable development, and measurable service to humanity. It is a commitment to govern and formulate policy with the highest standards of responsibility, credibility, transparency, accountability, prudence, and excellence.
+**The Valeroso City Policies under The SuperHighness Way** stands for disciplined governance, sound policy, responsible stewardship, institutional integrity, economic and financial stability, sustainable development, and measurable service to humanity. It is a commitment to govern and formulate policy with the highest standards of responsibility, credibility, transparency, accountability, prudence, and excellence.
 
 ---
 
