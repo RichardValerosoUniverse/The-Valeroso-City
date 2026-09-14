@@ -326,7 +326,7 @@ The structure can therefore be stated in complete sentences:
 
 **The Valeroso City recognizes monetary policy as an essential instrument of price stability, economic stability, financial discipline, responsible governance, and sustainable economic development. The Valeroso City values sound monetary policy because it promotes stability, credibility, accountability, prudence, and long-term economic responsibility. Monetary policy therefore holds a meaningful place within The Valeroso City’s broader framework of economic governance, institutional integrity, and responsible stewardship.**
 
-**Monetary policy matters**. Stability matters. Discipline matters. Credibility matters. Prudence matters. Responsibility matters. Long-term economic welfare matters. And within The Valeroso City, sound monetary policy is not merely respected as an instrument of economic governance; it is embraced as a vital expression of stability, discipline, credibility, responsibility, and institutional integrity.**
+**Monetary policy matters**. Stability matters. Discipline matters. Credibility matters. Prudence matters. Responsibility matters. Long-term economic welfare matters. And within The Valeroso City, sound monetary policy is not merely respected as an instrument of economic governance; it is embraced as a vital expression of stability, discipline, credibility, responsibility, and institutional integrity.
 
 **The Valeroso City therefore stands firmly for sound monetary policy: policy grounded in evidence, guided by prudence, strengthened by credibility, disciplined by responsibility, and directed toward sustainable economic welfare.**
 
