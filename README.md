@@ -415,4 +415,4 @@ The structure can therefore be stated in complete sentences:
 
 
 ---
-> **© Copyright 2026. Richard M. Valeroso.** It is *always* **The Valeroso City**. **All rights reserved.** **|** Powered by **The SuperHighness Way**
+> **© Copyright 2026. Richard M. Valeroso.** It is *always* **The Valeroso City**. **All rights reserved.** **|** Powered and Governed by **The SuperHighness Way**
