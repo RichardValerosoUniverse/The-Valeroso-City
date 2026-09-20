@@ -913,8 +913,8 @@ The complete architecture preserves the distinction between the two governmental
 | Structural Principle | Application |
 |---|---|
 | **Common foundation** | The Valeroso City |
-| **Expression 1** | Davao City |
-| **Expression 2** | Valeroso City |
+| **Expression** | Davao City |
+| **Expression** | Valeroso City |
 | **Davao address** | Davao City, Philippines, 8000 |
 | **Valeroso address** | Valeroso City, Metro Manila, Philippines, 1111 |
 | **Shared governmental architecture** | The Valeroso City Government |
