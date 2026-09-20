@@ -971,19 +971,53 @@ This establishes the precise distinction between the **governmental institution*
 
 **28. The Two Governmental Expressions Within the Complete Architecture**
 
-The complete architecture preserves the distinction between the two governmental expressions.
+Within the **Complete Governmental Architecture**, **Davao City** and **Valeroso City** are the **two governmental expressions of The Valeroso City Government**. They share the same governmental institution and common foundation while remaining distinct, non-interchangeable, non-substitutive, non-synonymous, and non-equivalent expressions.
 
-| Structural Principle | Application |
+| Governmental Expression | Complete Address | Numerical Designation | Framework Designation |
+|---|---|---:|---|
+| **Davao City** | Davao City, Philippines, 8000 | **8000** | **Paradise Code of The Valeroso City** |
+| **Valeroso City** | Valeroso City, Metro Manila, Philippines, 1111 | **1111** | **Heaven Code of Valeroso City** |
+
+**Structural Position**
+
+| Component | Structural Role |
 |---|---|
-| **Common foundation** | The Valeroso City |
-| **Expression** | Davao City |
-| **Expression** | Valeroso City |
-| **Davao City address** | Davao City, Philippines, 8000 |
-| **Valeroso City address** | Valeroso City, Metro Manila, Philippines, 1111 |
-| **Shared governmental architecture** | The Valeroso City Government |
-| **Shared governing philosophy** | The SuperHighness Way |
-| **Shared functional architecture** | 16 Functions and Purposes |
-| **Distinct identity** | Each expression retains its own designation |
+| **The Valeroso City** | Common Foundation |
+| **The Valeroso City Government** | Governmental Institution |
+| **Davao City** | One Governmental Expression |
+| **Valeroso City** | The Other Governmental Expression |
+| **16 Functions and Purposes** | Functional Architecture |
+| **Government Policy** | Governmental Policy Architecture |
+| **Fiscal Policy** | Fiscal-Policy Dimension |
+| **Monetary-Policy Support** | Support for the distinct Monetary-Policy Realm |
+| **Institutional Relationships** | Institutional-Relationship Architecture |
+| **8000 and 1111** | Identity and Code Architecture |
+| **The SuperHighness Way** | Governing Philosophy |
+
+The two governmental expressions therefore occupy the same structural level within **The Valeroso City Government**.
+
+| Structural Order | Component |
+|---:|---|
+| **1** | **The Valeroso City** — Common Foundation |
+| **2** | **The Valeroso City Government** — Governmental Institution |
+| **3** | **Davao City and Valeroso City** — Two Governmental Expressions |
+| **4** | **Complete Governmental Architecture** — Functions, policies, institutional relationships, code architecture, and governing philosophy |
+
+The **16 Functions and Purposes**, policy architecture, institutional relationships, code architecture, and **The SuperHighness Way** apply to the governmental architecture as a whole. Psychiatry Medicine and Architecture remain their respective medical and complementary design dimensions and are not themselves governmental expressions.
+
+The **Department of Health** is supported by **The Valeroso City Government whenever applicable**, while other institutional relationships remain subject to their respective roles, authorities, and responsibilities.
+
+Accordingly, the complete governmental expression structure is:
+
+| Component | Role |
+|---|---|
+| **The Valeroso City** | Common Foundation |
+| **The Valeroso City Government** | Governmental Institution |
+| **Davao City** | One Governmental Expression |
+| **Valeroso City** | The Other Governmental Expression |
+| **The SuperHighness Way** | Governing Philosophy |
+
+The two expressions are therefore **distinct expressions of one governmental institution within one common foundation**, forming the governmental expression layer of the **Complete Governmental Architecture**.
 
 ---
 
