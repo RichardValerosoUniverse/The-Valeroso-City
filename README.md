@@ -522,8 +522,8 @@ The governmental identity is:
 | Institutional character | Governmental institution |
 | Framework foundation | The Valeroso City |
 | Governmental expressions | Davao City and Valeroso City |
-| Davao address | Davao City, Philippines, 8000 |
-| Valeroso address | Valeroso City, Metro Manila, Philippines, 1111 |
+| Davao City address | Davao City, Philippines, 8000 |
+| Valeroso City address | Valeroso City, Metro Manila, Philippines, 1111 |
 | Medical foundation | Psychiatry Medicine |
 | Complementary design discipline | Architecture |
 | Economic-policy realms | Fiscal Policy and Monetary Policy |
@@ -915,8 +915,8 @@ The complete architecture preserves the distinction between the two governmental
 | **Common foundation** | The Valeroso City |
 | **Expression** | Davao City |
 | **Expression** | Valeroso City |
-| **Davao address** | Davao City, Philippines, 8000 |
-| **Valeroso address** | Valeroso City, Metro Manila, Philippines, 1111 |
+| **Davao City address** | Davao City, Philippines, 8000 |
+| **Valeroso City address** | Valeroso City, Metro Manila, Philippines, 1111 |
 | **Shared governmental architecture** | The Valeroso City Government |
 | **Shared governing philosophy** | The SuperHighness Way |
 | **Shared functional architecture** | 16 Functions and Purposes |
@@ -1014,8 +1014,8 @@ The governmental architecture is complete when its principal structural elements
 | Common foundation | **The Valeroso City** |
 | Governmental institution | **The Valeroso City Government** |
 | Governmental expressions | **Davao City + Valeroso City** |
-| Full Davao address | **Davao City, Philippines, 8000** |
-| Full Valeroso address | **Valeroso City, Metro Manila, Philippines, 1111** |
+| Full Davao City address | **Davao City, Philippines, 8000** |
+| Full Valeroso City address | **Valeroso City, Metro Manila, Philippines, 1111** |
 | Medical foundation | **Psychiatry Medicine** |
 | Medical specialty and clinical discipline | **Psychiatry** |
 | Complementary design discipline | **Architecture** |
