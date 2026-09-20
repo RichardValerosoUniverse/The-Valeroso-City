@@ -888,23 +888,84 @@ The complete architecture can be stated in one table:
 
 **27. Complete Governmental Architecture**
 
-The governmental architecture is therefore composed of interconnected but distinct components.
+The **Complete Governmental Architecture** is the organized structure of **The Valeroso City Government** within **The Valeroso City Framework**.
 
-| Architectural Component | Role |
+It consists of the **governmental institution itself**, its **two governmental expressions**, its **institutional functions**, its **policy dimensions**, its **relevant institutional relationships**, and its **governing philosophy**.
+
+The following table presents the architecture according to the precise role of each component:
+
+| Architectural Component | Precise Meaning | Relationship to The Valeroso City Government |
+|---|---|---|
+| **The Valeroso City** | The common foundation of the entire framework | Provides the common foundation |
+| **The Valeroso City Government** | The governmental institution within the framework | Constitutes the governmental institution |
+| **Davao City** | One of the two governmental expressions within the framework | Constitutes one governmental expression |
+| **Valeroso City** | The other governmental expression within the framework | Constitutes the other governmental expression |
+| **Psychiatry Medicine** | The medical foundation of The Valeroso City Medicine | Provides the medical foundation relevant to the governmental architecture |
+| **Psychiatry** | A Medical Specialty and Clinical Discipline | Provides the source medical discipline |
+| **Architecture** | A Complementary Design Discipline | Provides the complementary design discipline |
+| **Psychiatry + Architecture** | Complementary Disciplinary Architecture | Provides a complementary disciplinary relationship |
+| **Government Policy** | The policy dimension through which governmental responsibilities are organized and pursued | Provides the governmental policy dimension |
+| **Fiscal Policy** | The public-finance policy realm concerning taxation, revenue, expenditure, budgeting, financing, borrowing, debt, and fiscal sustainability | Provides the fiscal-policy dimension |
+| **Monetary Policy** | The monetary-policy realm concerning money, credit, monetary conditions, and price stability | Provides the monetary-policy dimension with its distinct institutional authority |
+| **16 Functions and Purposes** | The defined functional responsibilities and purposes of the governmental architecture | Defines what the government is organized to perform |
+| **Institutional Relationships** | Defined relationships with relevant governmental, health, professional, and other institutions | Establishes appropriate cooperation, participation, partnership, and support |
+| **Code Designations** | 8000 and 1111 as framework-defined numerical designations associated with the two governmental expressions | Provide identity and relational functions within the framework |
+| **The SuperHighness Way** | The governing philosophy and standard of institutional conduct | Provides the principles guiding the governmental architecture |
+
+**Structural Relationship**
+
+The architecture can therefore be stated precisely as:
+
+> **The Valeroso City**  
+> ↓  
+> **The Valeroso City Government**  
+> ↓  
+> **Two Governmental Expressions: Davao City and Valeroso City**  
+> ↓  
+> **Governmental Functions, Policies, Institutional Relationships, and Code Architecture**  
+> ↓  
+> **The SuperHighness Way as the Governing Philosophy**
+
+This structure means that the components do **not** all have the same structural status.
+
+| Structural Status | Components |
 |---|---|
-| **Foundation** | The Valeroso City |
+| **Common Foundation** | The Valeroso City |
 | **Governmental Institution** | The Valeroso City Government |
-| **Governmental Expressions** | Davao City and Valeroso City |
-| **Medical Dimension** | The Valeroso City Medicine / Psychiatry Medicine |
-| **Medical Discipline** | Psychiatry |
-| **Design Discipline** | Architecture |
-| **Disciplinary Relationship** | Complementary Disciplinary Architecture |
-| **Economic Policy** | Fiscal Policy + Monetary Policy |
-| **Health Relationship** | Applicable health-sector cooperation and support |
-| **Professional Psychiatric Relationship** | PPA participation within the framework |
+| **Governmental Expressions** | Davao City; Valeroso City |
+| **Medical Foundation** | Psychiatry Medicine |
+| **Medical Specialty and Clinical Discipline** | Psychiatry |
+| **Complementary Design Discipline** | Architecture |
+| **Complementary Disciplinary Relationship** | Psychiatry + Architecture |
+| **Governmental Policy Dimensions** | Government Policy, Fiscal Policy, Monetary Policy |
+| **Functional Architecture** | 16 Functions and Purposes |
+| **Institutional Relationships** | Applicable relationships with governmental, health, professional, and other institutions |
+| **Identity Architecture** | Paradise Code 8000 and Heaven Code 1111 |
 | **Governing Philosophy** | The SuperHighness Way |
-| **Functional Structure** | 16 Functions and Purposes |
-| **Identity Architecture** | Paradise Code 8000 + Heaven Code 1111 |
+
+Accordingly, **Psychiatry, Architecture, Fiscal Policy, Monetary Policy, the code designations, and the institutional relationships are not separate governmental institutions**. They are distinct components, disciplines, policy realms, designations, or relationships that have defined positions within the broader governmental architecture.
+
+The governmental institution remains:
+
+> **The Valeroso City Government**
+
+Its two governmental expressions remain:
+
+> **Davao City, Philippines, 8000**
+
+and
+
+> **Valeroso City, Metro Manila, Philippines, 1111**
+
+Its common foundation remains:
+
+> **The Valeroso City**
+
+Its governing philosophy remains:
+
+> **The SuperHighness Way**
+
+This establishes the precise distinction between the **governmental institution**, the **expressions of that institution**, and the **disciplines, policies, functions, relationships, and philosophical standards that form its complete architecture**.
 
 ---
 
