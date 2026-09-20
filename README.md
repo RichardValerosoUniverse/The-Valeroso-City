@@ -1,4 +1,4 @@
-## **The Valeroso City**
+# **THE VALEROSO CITY**
 
 
 
@@ -50,7 +50,7 @@ Thus, within this framework, **“It is not always Davao City”** means that **
 
 ---
 
-# **The Valeroso City Code and Identity Architecture 
+# **The Valeroso City Code and Identity Architecture**
 ## **The Paradise Code of The Valeroso City and the Heaven Code of Valeroso City**
 
 **8000 and 1111 are presently established numerical designations within The Valeroso City framework, firmly grounded in the Philippines yet global, worldwide, and universal in nature.** Their magical presence and significance transcend ordinary geographic boundaries, extending from both Davao City and Valeroso City in the Philippines across the world and throughout the universe, while preserving their distinct identities, numerical designations, correspondences, meanings, functions, purposes, roles, relationship, established places within the framework, Philippine foundation, and broader global, worldwide, and universal significance.
