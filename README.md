@@ -315,6 +315,7 @@ The structure can therefore be stated in complete sentences:
 
 > **This is the structure presently established within The Valeroso City framework.**
 
+**It is *always* The Valeroso City.**
 
 ---
 
