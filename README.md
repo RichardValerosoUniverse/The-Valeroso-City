@@ -1707,21 +1707,21 @@ This is **unity through connection and integration, not unity through identity**
 
 **21. Definitive Final Definition**
 
-> **The Valeroso City Psychiatry System is one unified, interconnected psychiatric system within The Valeroso City, with Psychiatry as its central domain. It contains two distinct and complementary dimensions: Paradise and Heaven.**
->
-> **Paradise is the distinct foundational dimension connected to Davao City. Heaven is the distinct elevating dimension connected to Valeroso City. They are two different dimensions with two different identities. They are connected within the same Psychiatry System, but they are not identical, interchangeable, synonymous, equivalent, or merged.**
->
-> **The Valeroso City Psychiatry System is covered by 11 Fundamental System Functions: Recognition, Identity, Belonging, Connection, Integration, Participation, Inclusion, Unity, Continuity, Protection and Healing, and Advancement and Flourishing.**
->
-> **These 11 Fundamental System Functions provide the functional coverage of the Psychiatry System as a whole. They define how the system recognizes psychiatric reality, establishes identity, creates belonging, establishes connections, integrates its components, enables participation, promotes inclusion, maintains unity, preserves continuity, protects and heals, and continuously advances toward psychiatric wellbeing, human dignity, patient safety, recovery, functioning, development, and human flourishing.**
->
-> **The system encompasses people, psychiatric knowledge, science, clinical practice, mental-health services, neuroscience, brain biology, pharmacology, institutions, education, research, governance, ethics, patient safety, measurement, accountability, innovation, and continuous improvement.**
->
-> **Its Philippine foundation is connected to Davao City and Valeroso City, while its psychiatric principles, functions, knowledge, practices, and system organization are applicable in the Philippines and worldwide, subject to the applicable laws, professional standards, ethical requirements, scientific evidence, patient rights, institutional requirements, and legitimate jurisdictional authority of each setting.**
->
-> **Its definitive character is expressed through its complete organization: one unified Psychiatry System, one central psychiatric domain, two distinct dimensions with two distinct identities, 11 Fundamental System Functions covering the system's operation, one governing approach, a defined Philippine foundation, worldwide applicability, and continuous mechanisms for responsible psychiatric advancement.**
->
-> **One system. One unified Psychiatry System. One central domain. Two distinct dimensions. Two distinct identities. One established connection within the system. 11 Fundamental System Functions. One governing approach. Philippine foundation. Worldwide applicability. Continuous advancement.**
+**The Valeroso City Psychiatry System is one unified, interconnected psychiatric system within The Valeroso City, with Psychiatry as its central domain. It contains two distinct and complementary dimensions: Paradise and Heaven.**
+
+**Paradise is the distinct foundational dimension connected to Davao City. Heaven is the distinct elevating dimension connected to Valeroso City. They are two different dimensions with two different identities. They are connected within the same Psychiatry System, but they are not identical, interchangeable, synonymous, equivalent, or merged.**
+
+**The Valeroso City Psychiatry System is covered by 11 Fundamental System Functions: Recognition, Identity, Belonging, Connection, Integration, Participation, Inclusion, Unity, Continuity, Protection and Healing, and Advancement and Flourishing.**
+
+**These 11 Fundamental System Functions provide the functional coverage of the Psychiatry System as a whole. They define how the system recognizes psychiatric reality, establishes identity, creates belonging, establishes connections, integrates its components, enables participation, promotes inclusion, maintains unity, preserves continuity, protects and heals, and continuously advances toward psychiatric wellbeing, human dignity, patient safety, recovery, functioning, development, and human flourishing.**
+
+**The system encompasses people, psychiatric knowledge, science, clinical practice, mental-health services, neuroscience, brain biology, pharmacology, institutions, education, research, governance, ethics, patient safety, measurement, accountability, innovation, and continuous improvement.**
+
+**Its Philippine foundation is connected to Davao City and Valeroso City, while its psychiatric principles, functions, knowledge, practices, and system organization are applicable in the Philippines and worldwide, subject to the applicable laws, professional standards, ethical requirements, scientific evidence, patient rights, institutional requirements, and legitimate jurisdictional authority of each setting.**
+
+**Its definitive character is expressed through its complete organization: one unified Psychiatry System, one central psychiatric domain, two distinct dimensions with two distinct identities, 11 Fundamental System Functions covering the system's operation, one governing approach, a defined Philippine foundation, worldwide applicability, and continuous mechanisms for responsible psychiatric advancement.**
+
+**One system. One unified Psychiatry System. One central domain. Two distinct dimensions. Two distinct identities. One established connection within the system. 11 Fundamental System Functions. One governing approach. Philippine foundation. Worldwide applicability. Continuous advancement.**
 
 **It is *always* The Valeroso City.**
 
