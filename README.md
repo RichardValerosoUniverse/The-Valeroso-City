@@ -897,7 +897,7 @@ The governmental architecture is therefore composed of interconnected but distin
 | **Governmental Expressions** | Davao City and Valeroso City |
 | **Medical Dimension** | The Valeroso City Medicine / Psychiatry Medicine |
 | **Medical Discipline** | Psychiatry |
-| **Design Dimension** | Architecture |
+| **Design Discipline** | Architecture |
 | **Disciplinary Relationship** | Complementary Disciplinary Architecture |
 | **Economic Policy** | Fiscal Policy + Monetary Policy |
 | **Health Relationship** | Applicable health-sector cooperation and support |
