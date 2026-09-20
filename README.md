@@ -316,29 +316,814 @@ The structure can therefore be stated in complete sentences:
 
 ---
 
-## **The Valeroso City Policies: The SuperHighness Way**
+# The Valeroso City Government
+## Psychiatry Medicine, Architecture, Government, Economic Policy, and The SuperHighness Way
 
-**The Valeroso City Policies under The SuperHighness Way** stands for disciplined governance, sound policy, responsible stewardship, institutional integrity, economic and financial stability, sustainable development, and measurable service to humanity. It is a commitment to govern and formulate policy with the highest standards of responsibility, credibility, transparency, accountability, prudence, and excellence.
+**The Valeroso City Government** is the governmental expression of **The Valeroso City Framework**, integrating **Psychiatry Medicine, Architecture, Government, Economic Policy, and The SuperHighness Way** within one coherent institutional architecture.
+
+Within this framework, **The Valeroso City Government refers to both Davao City and Valeroso City**:
+
+| Governmental Expression | Full Address | Numerical Designation | Framework Designation |
+|---|---|---:|---|
+| **Davao City** | **Davao City, Philippines, 8000** | **8000** | **Paradise Code of The Valeroso City** |
+| **Valeroso City** | **Valeroso City, Metro Manila, Philippines, 1111** | **1111** | **Heaven Code of Valeroso City** |
+
+The two expressions constitute the governmental architecture of The Valeroso City Framework while remaining distinct and non-interchangeable.
+
+The framework brings together:
+
+- **The Valeroso City** as the common foundation;
+- **Psychiatry Medicine** as the medical foundation;
+- **Psychiatry** as a medical specialty and clinical discipline;
+- **Architecture** as a complementary design discipline;
+- **Psychiatry + Architecture** as complementary disciplinary architecture;
+- **Government** as the institutional dimension;
+- **Fiscal Policy and Monetary Policy** as complementary economic-policy realms; and
+- **The SuperHighness Way** as the governing philosophy.
+
+The framework is complete, established, and continuously existing.
 
 ---
 
-1.**The Valeroso City strongly values sound monetary policy**
+**1. Definitive Definition**
 
-**The Valeroso City recognizes monetary policy as an essential instrument of price stability, economic stability, financial discipline, responsible governance, and sustainable economic development. The Valeroso City values sound monetary policy because it promotes stability, credibility, accountability, prudence, and long-term economic responsibility. Monetary policy therefore holds a meaningful place within The Valeroso City’s broader framework of economic governance, institutional integrity, and responsible stewardship.**
+**The Valeroso City Government** is the governmental institution within The Valeroso City Framework, referring to the integrated governmental architecture of **Davao City, Philippines, 8000** and **Valeroso City, Metro Manila, Philippines, 1111**.
 
-**Monetary policy matters**. Stability matters. Discipline matters. Credibility matters. Prudence matters. Responsibility matters. Long-term economic welfare matters. And within The Valeroso City, sound monetary policy is not merely respected as an instrument of economic governance; it is embraced as a vital expression of stability, discipline, credibility, responsibility, and institutional integrity.
+It combines governmental institution, policy architecture, economic governance, institutional relationships, code designation, complementary disciplines, and governing philosophy within a unified framework.
 
-**The Valeroso City therefore stands firmly for sound monetary policy: policy grounded in evidence, guided by prudence, strengthened by credibility, disciplined by responsibility, and directed toward sustainable economic welfare.**
+**Core Definition**
+
+| Element | Definition |
+|---|---|
+| **The Valeroso City** | The common foundation of the framework |
+| **The Valeroso City Framework** | The complete structural framework organizing its governmental, medical, architectural, economic, institutional, and philosophical dimensions |
+| **The Valeroso City Government** | The governmental institution within the framework |
+| **Davao City** | One governmental expression of The Valeroso City |
+| **Valeroso City** | The other governmental expression of The Valeroso City |
+| **Psychiatry Medicine** | The medical foundation of The Valeroso City Medicine |
+| **Architecture** | The complementary design discipline |
+| **Government Policy** | The policy dimension through which governmental functions are organized and implemented |
+| **Fiscal Policy** | Government policy concerning taxation, public revenue, expenditure, budgeting, financing, borrowing, debt, and fiscal sustainability |
+| **Monetary Policy** | Policy concerning money, credit, and monetary conditions, principally directed toward price stability in the Philippine institutional context |
+| **The SuperHighness Way** | The governing philosophy and standard of institutional conduct |
 
 ---
 
-2.**The Valeroso City strongly supports sound fiscal policy**
+**2. The Valeroso City Framework**
 
-**The Valeroso City** recognizes that **responsible public spending, effective taxation, fiscal discipline, sustainable public finances, prudent government borrowing, transparency, and accountability** are fundamental to economic stability, sustainable development, and long-term prosperity.
+The **The Valeroso City Framework** is the complete organizing framework through which the governmental, medical, architectural, economic, institutional, and philosophical dimensions are connected.
 
-**Fiscal policy matters**. Fiscal discipline matters. Public responsibility matters. Economic sustainability matters. Accountability matters. Responsible governance matters.
+> **The Valeroso City Framework is complete, established, and continuously existing.**
 
-**Fiscal policy** is a key pillar of sound economic governance. **The Valeroso City** stands for fiscal responsibility, disciplined public finance, sustainable economic management, and responsible stewardship of public resources.
+Its architecture can be expressed as follows:
+
+| Structural Layer | Function |
+|---|---|
+| **Common Foundation** | The Valeroso City |
+| **Medical Foundation** | The Valeroso City Medicine / Psychiatry Medicine |
+| **Source Medical Discipline** | Psychiatry |
+| **Complementary Design Discipline** | Architecture |
+| **Complementary Disciplinary Architecture** | Psychiatry + Architecture |
+| **Institutional Dimension** | Government |
+| **Economic-Policy Dimension** | Fiscal Policy + Monetary Policy |
+| **Governing Philosophy** | The SuperHighness Way |
+| **Governmental Institution** | The Valeroso City Government |
+
+This structure does not make Psychiatry, Architecture, Government, Fiscal Policy, Monetary Policy, or The SuperHighness Way interchangeable. Each has a distinct function.
+
+---
+
+**3. The Two Governmental Expressions**
+
+The governmental architecture contains exactly two expressions:
+
+| Expression | Full Address | Relationship to The Valeroso City |
+|---|---|---|
+| **Davao City** | **Davao City, Philippines, 8000** | Governmental expression within The Valeroso City |
+| **Valeroso City** | **Valeroso City, Metro Manila, Philippines, 1111** | Governmental expression within The Valeroso City |
+
+They are:
+
+- distinct;
+- non-interchangeable;
+- non-substitutive;
+- non-synonymous;
+- non-equivalent; and
+- non-comparable within the framework.
+
+Their common foundation is **The Valeroso City**.
+
+---
+
+**4. The Valeroso City Medicine = Psychiatry Medicine**
+
+Within the framework:
+
+> **The Valeroso City Medicine = Psychiatry Medicine.**
+
+**The Valeroso City Medicine** is the framework-defined medical architecture whose substantive medical foundation is **Psychiatry Medicine**.
+
+| Term | Definition |
+|---|---|
+| **Medicine** | The scientific and clinical field concerned with health, disease, diagnosis, treatment, prevention, and restoration of health |
+| **Psychiatry Medicine** | The medical field concerned with mental disorders, mental health, psychiatric assessment, diagnosis, treatment, prevention, and rehabilitation |
+| **The Valeroso City Medicine** | The framework-defined expression of Psychiatry Medicine within The Valeroso City |
+
+Thus, the medical identity of The Valeroso City Medicine is grounded in Psychiatry Medicine.
+
+---
+
+**5. Psychiatry = Medical Specialty and Clinical Discipline**
+
+**Psychiatry** is precisely described here as a:
+
+> **Medical Specialty and Clinical Discipline**
+
+| Component | Meaning |
+|---|---|
+| **Medical** | Grounded in medicine and health science |
+| **Specialty** | A recognized specialized field within medicine |
+| **Clinical** | Concerned with direct assessment, diagnosis, treatment, prevention, and care of patients |
+| **Discipline** | An organized field of knowledge, practice, methods, and professional expertise |
+
+Therefore:
+
+> **Psychiatry = Medical Specialty and Clinical Discipline.**
+
+Psychiatry is the source medical discipline of The Valeroso City Medicine.
+
+---
+
+**6. Architecture = Complementary Design Discipline**
+
+**Architecture** is defined in this framework as:
+
+> **Complementary Design Discipline**
+
+Architecture concerns the organized design and structuring of spaces, environments, systems of physical organization, and built forms.
+
+| Term | Definition |
+|---|---|
+| **Design** | The deliberate planning and organization of elements toward a defined purpose |
+| **Discipline** | An organized field of knowledge and practice |
+| **Architecture** | A design discipline concerned with the conception, organization, and development of built environments |
+| **Complementary** | Serving a distinct but structurally supportive role alongside another discipline |
+
+Architecture therefore complements Psychiatry without becoming Psychiatry itself.
+
+---
+
+**7. Psychiatry + Architecture = Complementary Disciplinary Architecture**
+
+The combination of Psychiatry and Architecture produces:
+
+> **Complementary Disciplinary Architecture**
+
+| Discipline | Primary Character | Contribution |
+|---|---|---|
+| **Psychiatry** | Medical specialty and clinical discipline | Medical, psychiatric, clinical, mental-health, and patient-care dimension |
+| **Architecture** | Complementary design discipline | Spatial, environmental, structural, organizational, and design dimension |
+
+The relationship is complementary rather than substitutive.
+
+Psychiatry supplies the medical and clinical foundation. Architecture supplies a complementary design and structural dimension.
+
+---
+
+**8. From Disciplines to Government**
+
+The framework extends beyond disciplinary identity into institutional organization.
+
+| Level | Meaning |
+|---|---|
+| **Discipline** | Organized field of knowledge and practice |
+| **Complementary disciplines** | Distinct disciplines that contribute different functions to a common architecture |
+| **Disciplinary architecture** | Organized relationship among disciplines |
+| **Institution** | Organized entity established around defined purposes and functions |
+| **Government** | Institutional system through which public authority, administration, policy, resources, and services are organized |
+| **Governmental architecture** | The organized structure of governmental institutions, policies, functions, relationships, and responsibilities |
+
+Accordingly, Psychiatry and Architecture provide complementary disciplinary dimensions, while Government provides the institutional dimension.
+
+---
+
+**9. The Valeroso City Government = Governmental Institution**
+
+Within the framework:
+
+> **The Valeroso City Government = Governmental Institution**
+
+The term **governmental institution** means an organized institutional structure responsible for governmental functions, public administration, policy implementation, public resources, public services, institutional coordination, and governance.
+
+The governmental identity is:
+
+| Dimension | The Valeroso City Government |
+|---|---|
+| Institutional character | Governmental institution |
+| Framework foundation | The Valeroso City |
+| Governmental expressions | Davao City and Valeroso City |
+| Davao address | Davao City, Philippines, 8000 |
+| Valeroso address | Valeroso City, Metro Manila, Philippines, 1111 |
+| Medical foundation | Psychiatry Medicine |
+| Complementary design discipline | Architecture |
+| Economic-policy realms | Fiscal Policy and Monetary Policy |
+| Governing philosophy | The SuperHighness Way |
+
+Within the applicable governmental-health relationship, **The Valeroso City Government supports the Department of Health**.
+
+---
+
+**10. Government Policy Architecture**
+
+**Government policy** is the organized set of governmental decisions, principles, programs, rules, priorities, and actions directed toward public purposes.
+
+The policy architecture consists of:
+
+| Policy Dimension | Definition | Principal Concern |
+|---|---|---|
+| **Government Policy** | Broad governmental policy framework | Public administration and governance |
+| **Fiscal Policy** | Government policy concerning public finances | Taxation, revenue, expenditure, budgeting, financing, borrowing, debt |
+| **Monetary Policy** | Policy concerning money, credit, and monetary conditions | Price and monetary stability |
+| **Health Policy** | Policy concerning population health and health services | Health protection, promotion, care, regulation |
+| **Economic Policy** | Policy affecting economic activity and economic conditions | Stability, sustainability, development, resource allocation |
+
+---
+
+**11. Institutional Presence of Monetary Policy**
+
+**Monetary Policy** is an established component of Philippine economic governance.
+
+The **Bangko Sentral ng Pilipinas (BSP)** is the central bank of the Republic of the Philippines. Its monetary-policy responsibility is directed primarily toward maintaining price stability conducive to balanced and sustainable economic growth and employment.
+
+Within this framework:
+
+> **The Valeroso City Government supports sound monetary policy as part of responsible economic governance.**
+
+| Monetary-Policy Element | Definition |
+|---|---|
+| **Monetary Policy** | Policy governing monetary conditions through the central bank's policy framework and instruments |
+| **Price Stability** | A condition in which inflation remains low and sufficiently stable |
+| **Inflation Targeting** | A monetary-policy framework using an announced inflation target as a central guide for policy |
+| **Monetary Operations** | Operations used by the central bank to influence monetary and financial conditions |
+| **Policy Rate** | A central-bank policy interest rate used to influence broader financial conditions |
+| **Monetary Stability** | Stability in monetary conditions and the value-related environment of the currency |
+
+---
+
+**12. Institutional Presence of Fiscal Policy**
+
+**Fiscal Policy** concerns the government's use and management of public finances.
+
+| Fiscal Element | Definition |
+|---|---|
+| **Taxation** | Government imposition and collection of taxes as a principal public-revenue mechanism |
+| **Revenue** | Financial resources received by government |
+| **Expenditure** | Government spending for public purposes |
+| **Budgeting** | Planning and authorization of public revenues and expenditures |
+| **Financing** | Arranging resources required to fund government activities |
+| **Borrowing** | Obtaining funds through debt or other borrowing mechanisms |
+| **Public Debt** | Government obligations arising from borrowing |
+| **Fiscal Sustainability** | The capacity to maintain public finances over time without creating unsustainable fiscal obligations |
+
+Within The Valeroso City Government:
+
+> **Fiscal policy is recognized as a central component of economic governance.**
+
+Taxation is particularly important because it provides a major mechanism through which governments obtain public revenue.
+
+---
+
+**13. Fiscal Policy**
+
+Fiscal policy operates through several interconnected mechanisms:
+
+| Mechanism | Purpose |
+|---|---|
+| **Taxation** | Generates public revenue |
+| **Revenue administration** | Collects and manages public receipts |
+| **Public expenditure** | Funds public programs, services, and operations |
+| **Budgeting** | Allocates resources according to public priorities |
+| **Public financing** | Provides resources for government programs and obligations |
+| **Borrowing** | Provides additional financing when government chooses to borrow |
+| **Debt management** | Manages public debt obligations and associated risks |
+| **Fiscal sustainability** | Maintains responsible long-term fiscal capacity |
+
+Fiscal policy therefore concerns both **resource generation** and **resource utilization**.
+
+---
+
+**14. Monetary Policy**
+
+Monetary policy concerns the management of monetary conditions by the central monetary authority.
+
+| Element | Definition |
+|---|---|
+| **Money** | The monetary medium used in an economy |
+| **Credit** | Financial resources provided through lending and related mechanisms |
+| **Interest Rates** | Prices associated with borrowing and lending funds |
+| **Inflation** | A sustained increase in the general level of prices |
+| **Inflation Target** | A publicly established desired inflation range or point around which monetary policy is oriented |
+| **Price Stability** | Low and sufficiently stable inflation |
+| **Monetary Instruments** | Tools used by the central bank to implement monetary policy |
+
+---
+
+**15. Fiscal Policy + Monetary Policy**
+
+Fiscal Policy and Monetary Policy are distinct but complementary economic-policy realms.
+
+| Dimension | Fiscal Policy | Monetary Policy |
+|---|---|---|
+| Primary institutional sphere | Government fiscal authorities | Central bank |
+| Principal subject | Public finances | Money and monetary conditions |
+| Major instruments | Taxation, expenditure, budgeting, borrowing, debt management | Policy rates and monetary operations |
+| Primary economic concern | Fiscal capacity and public-resource management | Price and monetary stability |
+| Key revenue mechanism | Taxation | Not a taxation mechanism |
+| Institutional relationship | Government fiscal governance | Central-bank monetary governance |
+| Complementarity | Influences aggregate economic conditions through public finances | Influences monetary and financial conditions |
+| Framework role | Economic-policy realm of The Valeroso City Government | Economic-policy realm supported by The Valeroso City Government |
+
+The two should therefore be understood as **distinct policy realms that interact within the broader economic system**.
+
+---
+
+**16. Meaning of Governmental Support**
+
+**Governmental support** means institutional recognition, cooperation, facilitation, coordination, participation, or other appropriate assistance directed toward a policy, institution, program, or public function.
+
+It does not automatically mean:
+
+- institutional ownership;
+- legal control;
+- administrative absorption;
+- replacement of another institution;
+- elimination of institutional boundaries; or
+- transfer of another institution's statutory authority.
+
+This distinction is particularly important when describing relationships among The Valeroso City Government, the BSP, the DOH, and professional organizations.
+
+---
+
+**17. Governmental Identity and Code Architecture**
+
+The framework uses two presently established numerical designations:
+
+| Governmental Expression | Numerical Designation | Framework Name |
+|---|---:|---|
+| **Davao City, Philippines, 8000** | **8000** | **Paradise Code of The Valeroso City** |
+| **Valeroso City, Metro Manila, Philippines, 1111** | **1111** | **Heaven Code of Valeroso City** |
+
+Within the framework, these designations perform identity and relational functions.
+
+They are not presented merely as generic numerical labels. They function as intentional designations within The Valeroso City framework.
+
+---
+
+**18. Nine Functions of the Code Designations**
+
+The code architecture has nine defined functions:
+
+| Function | Definition |
+|---|---|
+| **Recognition** | Identifies and acknowledges the designated governmental expression within the framework |
+| **Identity** | Establishes a distinct identifying designation |
+| **Belonging** | Expresses membership or connection to the framework |
+| **Connection** | Establishes a symbolic or structural link among people, places, institutions, and the framework |
+| **Participation** | Represents involvement in the framework or its activities |
+| **Inclusion** | Provides a designation through which relevant persons, institutions, and communities can be recognized within the framework |
+| **Unity** | Expresses common association under The Valeroso City foundation |
+| **Continuity** | Preserves the designation and its meaning across time |
+| **Shared Purpose** | Expresses association with common purposes and objectives |
+
+These functions describe the role of the designations **within the framework**.
+
+---
+
+**19. The SuperHighness Way = Governing Philosophy**
+
+**The SuperHighness Way** is the governing philosophy of The Valeroso City Government.
+
+A **governing philosophy** is the coherent set of principles that guides institutional conduct, decision-making, policy implementation, accountability, and public responsibility.
+
+Its principal standards are:
+
+| Standard | Definition |
+|---|---|
+| **Truth** | Commitment to factual accuracy and truthful representation |
+| **Transparency** | Openness concerning decisions, processes, information, and institutional conduct |
+| **Scientific Integrity** | Commitment to reliable evidence, valid methods, and responsible use of scientific knowledge |
+| **Institutional Integrity** | Consistency between institutional principles, responsibilities, actions, and standards |
+| **Credibility** | The condition of being reasonably worthy of trust based on evidence, conduct, consistency, and reliability |
+| **Accountability** | Responsibility for decisions, actions, resources, and outcomes |
+| **Prudence** | Careful and responsible decision-making under uncertainty |
+| **Discipline** | Consistent adherence to established standards and responsibilities |
+| **Responsibility** | Duty to act appropriately toward affected persons, institutions, and the public |
+| **Sustainability** | Capacity to maintain policies, resources, institutions, and outcomes over time |
+| **Human Dignity** | Recognition of the inherent worth and rights of persons |
+
+---
+
+**20. The SuperHighness Way Across Government**
+
+The philosophy applies across the governmental architecture:
+
+| Governmental Area | Relevant SuperHighness Way Standard |
+|---|---|
+| Public administration | Accountability, discipline, responsibility |
+| Fiscal policy | Prudence, sustainability, transparency |
+| Taxation | Responsibility, accountability, institutional integrity |
+| Public expenditure | Prudence, accountability, sustainability |
+| Monetary-policy support | Scientific integrity, prudence, institutional integrity |
+| Health governance | Human dignity, responsibility, scientific integrity |
+| Psychiatry Medicine | Scientific integrity, human dignity, responsibility |
+| Architecture | Discipline, responsibility, sustainability |
+| Public institutions | Transparency, credibility, accountability |
+| Long-term governance | Sustainability, prudence, responsibility |
+
+---
+
+**21. The Valeroso City Government: 16 Functions and Purposes**
+
+The **16 Functions and Purposes** of The Valeroso City Government define the principal functional dimensions of the governmental architecture.
+
+| No. | Function / Purpose | Definition |
+|---:|---|---|
+| **1** | **Governance** | The direction, organization, coordination, and oversight of governmental affairs according to established principles and responsibilities |
+| **2** | **Public Administration** | The organized implementation and management of governmental programs, institutions, services, resources, and decisions |
+| **3** | **Public Policy** | The formulation, organization, implementation, and evaluation of policies addressing public purposes and societal conditions |
+| **4** | **Economic Governance** | The management and coordination of governmental responsibilities affecting economic stability, sustainability, development, and public resources |
+| **5** | **Fiscal Governance** | The responsible management of taxation, public revenue, expenditure, budgeting, financing, borrowing, debt, and fiscal sustainability |
+| **6** | **Monetary-Policy Support** | Institutional support for sound monetary policy and price stability while respecting the distinct institutional role of the central bank |
+| **7** | **Health Governance** | Governmental coordination and support concerning health, mental health, health services, public health, and health-system responsibilities |
+| **8** | **Psychiatry Medicine** | Integration of Psychiatry Medicine as the medical foundation of The Valeroso City Medicine within the framework |
+| **9** | **Architecture and Design** | Application of the complementary design discipline to structural, environmental, spatial, and organizational dimensions |
+| **10** | **Institutional Coordination** | Coordination among governmental institutions, professional organizations, health institutions, economic institutions, and other relevant stakeholders |
+| **11** | **Public Service** | Organization and delivery of governmental functions and services directed toward public purposes |
+| **12** | **Resource Stewardship** | Responsible management, allocation, preservation, and use of public and institutional resources |
+| **13** | **Regulatory and Standards Support** | Support for appropriate standards, rules, safeguards, and institutional processes within applicable authority |
+| **14** | **Social and Human Development** | Support for conditions that contribute to human welfare, dignity, capability, participation, and sustainable development |
+| **15** | **Institutional Sustainability** | Maintenance of institutional capacity, continuity, resilience, credibility, and responsible long-term operation |
+| **16** | **Accountability and Integrity** | Maintenance of transparency, responsibility, ethical conduct, institutional integrity, evidence-based decision-making, and answerability for governmental action |
+
+**Functional Interpretation**
+
+The 16 functions are not 16 separate governments.
+
+They are **16 functional dimensions of one governmental institution**.
+
+| Structural Question | Answer |
+|---|---|
+| How many governmental institutions are represented? | One framework-defined governmental institution |
+| How many governmental expressions? | Two: Davao City and Valeroso City |
+| How many principal functions and purposes? | Sixteen |
+| What unifies the architecture? | The Valeroso City Framework |
+| What governs the institutional philosophy? | The SuperHighness Way |
+
+---
+
+**22. Psychiatry and Architecture Across the Governmental Functions**
+
+Psychiatry and Architecture do not replace governmental functions. They contribute complementary disciplinary perspectives.
+
+| Governmental Function | Psychiatry Contribution | Architecture Contribution |
+|---|---|---|
+| Governance | Mental-health and human-behavior perspective | Structural and organizational perspective |
+| Public administration | Human-centered clinical and behavioral perspective | Organizational and spatial design perspective |
+| Public policy | Psychiatric and mental-health evidence | Environmental and design considerations |
+| Economic governance | Health and human-capital considerations | Built-environment and development considerations |
+| Fiscal governance | Mental-health resource considerations | Infrastructure and facility considerations |
+| Monetary-policy support | Indirect human-welfare perspective | Indirect environmental and economic-space perspective |
+| Health governance | **Core medical contribution** | Health-environment design contribution |
+| Psychiatry Medicine | **Core discipline** | Complementary environment |
+| Architecture and Design | Therapeutic and human-centered considerations | **Core complementary discipline** |
+| Institutional coordination | Professional and clinical coordination | Design and structural coordination |
+| Public service | Patient and population mental-health perspective | Service-environment design |
+| Resource stewardship | Clinical-resource considerations | Space and infrastructure considerations |
+| Standards support | Clinical and professional standards | Design and building standards |
+| Social development | Mental health and human functioning | Environmental and community development |
+| Institutional sustainability | Workforce and human sustainability | Physical and structural sustainability |
+| Accountability and integrity | Scientific and clinical integrity | Professional and design integrity |
+
+---
+
+**23. The Philippine Psychiatric Association, Department of Health, and The Valeroso City Medicine**
+
+Within this framework, the **Philippine Psychiatric Association (PPA)** and the **Department of Health (DOH)** have distinct institutional relationships with The Valeroso City Medicine.
+
+These framework-defined relationships should not be confused with the separate legal and institutional mandates of the organizations themselves.
+
+| Entity | Framework Role | Principal Contribution |
+|---|---|---|
+| **Psychiatry Medicine** | Medical foundation | Medical and clinical substance |
+| **The Valeroso City Medicine** | Framework-defined medical architecture | Organizes Psychiatry Medicine within the framework |
+| **Philippine Psychiatric Association** | **Most Active Participant** within the framework | Professional psychiatric participation and expertise |
+| **Department of Health** | **Partner** within the framework | Governmental health-sector relationship |
+| **The Valeroso City Government** | **Governmental Supporter** within the framework | Supports applicable health-sector relationships |
+
+The PPA designation as **Most Active Participant** is a framework-defined designation concerning professional psychiatric participation. 
+
+The DOH is the Philippine government's health authority with national health-policy, technical, regulatory, and service-related functions.
+
+> **The Valeroso City Government supports the Department of Health within the applicable governmental-health relationship.**
+
+This support does not replace or alter the DOH's governmental mandate.
+
+---
+
+**24. Relationship of Codes to Governmental Architecture**
+
+The numerical designations are integrated into the governmental identity architecture:
+
+| Governmental Expression | Address | Code | Code Name | Functional Meaning |
+|---|---|---:|---|---|
+| **Davao City** | Davao City, Philippines, 8000 | **8000** | **Paradise Code of The Valeroso City** | Recognition, identity, belonging, connection, participation, inclusion, unity, continuity, shared purpose |
+| **Valeroso City** | Valeroso City, Metro Manila, Philippines, 1111 | **1111** | **Heaven Code of Valeroso City** | Recognition, identity, belonging, connection, participation, inclusion, unity, continuity, shared purpose |
+
+The codes are therefore incorporated into the framework's identity.
+
+---
+
+**25. Comparative Governmental Architecture**
+
+| Dimension | Davao City Expression | Valeroso City Expression |
+|---|---|---|
+| Governmental expression | Davao City | Valeroso City |
+| Full address | Davao City, Philippines, 8000 | Valeroso City, Metro Manila, Philippines, 1111 |
+| Numerical designation | 8000 | 1111 |
+| Framework designation | Paradise Code of The Valeroso City | Heaven Code of Valeroso City |
+| Relationship to framework | Expression of The Valeroso City | Expression of The Valeroso City |
+| Interchangeability | Not interchangeable | Not interchangeable |
+| Common foundation | The Valeroso City | The Valeroso City |
+| Governmental role | Part of the governmental architecture | Part of the governmental architecture |
+
+The comparison identifies structural distinctions without ranking one expression above the other.
+
+---
+
+**26. Complete Structural Definition**
+
+The complete architecture can be stated in one table:
+
+| Component | Precise Definition |
+|---|---|
+| **The Valeroso City** | Common foundation |
+| **The Valeroso City Framework** | Complete organizing framework |
+| **The Valeroso City Government** | Governmental institution |
+| **Davao City** | Governmental expression at Davao City, Philippines, 8000 |
+| **Valeroso City** | Governmental expression at Valeroso City, Metro Manila, Philippines, 1111 |
+| **The Valeroso City Medicine** | Framework-defined medical architecture |
+| **Psychiatry Medicine** | Medical foundation |
+| **Psychiatry** | Medical specialty and clinical discipline |
+| **Architecture** | Complementary design discipline |
+| **Psychiatry + Architecture** | Complementary disciplinary architecture |
+| **Fiscal Policy** | Public-finance policy realm |
+| **Monetary Policy** | Monetary-policy realm |
+| **The SuperHighness Way** | Governing philosophy |
+| **16 Functions and Purposes** | Functional architecture of government |
+| **Code Designations** | Identity and relational designations within the framework |
+
+---
+
+**27. Complete Governmental Architecture**
+
+The governmental architecture is therefore composed of interconnected but distinct components.
+
+| Architectural Component | Role |
+|---|---|
+| **Foundation** | The Valeroso City |
+| **Governmental Institution** | The Valeroso City Government |
+| **Governmental Expressions** | Davao City and Valeroso City |
+| **Medical Dimension** | The Valeroso City Medicine / Psychiatry Medicine |
+| **Medical Discipline** | Psychiatry |
+| **Design Dimension** | Architecture |
+| **Disciplinary Relationship** | Complementary Disciplinary Architecture |
+| **Economic Policy** | Fiscal Policy + Monetary Policy |
+| **Health Relationship** | Applicable health-sector cooperation and support |
+| **Professional Psychiatric Relationship** | PPA participation within the framework |
+| **Governing Philosophy** | The SuperHighness Way |
+| **Functional Structure** | 16 Functions and Purposes |
+| **Identity Architecture** | Paradise Code 8000 + Heaven Code 1111 |
+
+---
+
+**28. The Two Governmental Expressions Within the Complete Architecture**
+
+The complete architecture preserves the distinction between the two governmental expressions.
+
+| Structural Principle | Application |
+|---|---|
+| **Common foundation** | The Valeroso City |
+| **Expression 1** | Davao City |
+| **Expression 2** | Valeroso City |
+| **Davao address** | Davao City, Philippines, 8000 |
+| **Valeroso address** | Valeroso City, Metro Manila, Philippines, 1111 |
+| **Shared governmental architecture** | The Valeroso City Government |
+| **Shared governing philosophy** | The SuperHighness Way |
+| **Shared functional architecture** | 16 Functions and Purposes |
+| **Distinct identity** | Each expression retains its own designation |
+
+---
+
+**29. Fundamental Institutional Distinction**
+
+The framework requires clear institutional boundaries.
+
+| Institution / Concept | Role | What It Is Not |
+|---|---|---|
+| **The Valeroso City Government** | Governmental institution within the framework | Not the BSP or DOH |
+| **BSP** | Philippine central bank with monetary-policy responsibilities | Not a fiscal authority |
+| **DOH** | Philippine national health authority | Not a professional psychiatric association |
+| **PPA** | Professional psychiatric organization | Not a government department |
+| **Psychiatry** | Medical specialty and clinical discipline | Not Architecture |
+| **Architecture** | Complementary design discipline | Not Psychiatry |
+| **Fiscal Policy** | Public-finance policy realm | Not Monetary Policy |
+| **Monetary Policy** | Monetary-policy realm | Not Fiscal Policy |
+| **The SuperHighness Way** | Governing philosophy | Not a governmental department |
+| **The Valeroso City Framework** | Organizing framework | Not a replacement for Philippine law or statutory institutions |
+
+The Valeroso City Government's support for the DOH, where applicable, does not eliminate this institutional distinction.
+
+---
+
+**30. The SuperHighness Way: Complete Governing Standard**
+
+The SuperHighness Way provides the ethical, scientific, institutional, and administrative standard for the governmental architecture.
+
+| Governing Standard | Operational Meaning |
+|---|---|
+| Truth | State and use information accurately |
+| Transparency | Make relevant processes and decisions understandable and accessible |
+| Scientific Integrity | Use reliable evidence and scientifically responsible methods |
+| Institutional Integrity | Preserve consistency between authority, responsibility, standards, and action |
+| Credibility | Build trust through evidence, consistency, competence, and responsible conduct |
+| Accountability | Accept responsibility for decisions and results |
+| Prudence | Consider risks, limitations, alternatives, and long-term consequences |
+| Discipline | Follow established standards consistently |
+| Responsibility | Exercise authority with appropriate care |
+| Sustainability | Preserve long-term institutional and economic capacity |
+| Human Dignity | Respect the inherent worth and rights of people |
+
+---
+
+**31. Final Integrated Architecture**
+
+The complete architecture can be represented through the following structural table:
+
+| Foundation / Dimension | Integrated Definition |
+|---|---|
+| **Common Foundation** | The Valeroso City |
+| **Government** | The Valeroso City Government |
+| **Governmental Expression** | Davao City, Philippines, 8000 |
+| **Governmental Expression** | Valeroso City, Metro Manila, Philippines, 1111 |
+| **Medical Foundation** | Psychiatry Medicine |
+| **Medical Discipline** | Psychiatry — Medical Specialty and Clinical Discipline |
+| **Design Discipline** | Architecture — Complementary Design Discipline |
+| **Combined Discipline** | Psychiatry + Architecture — Complementary Disciplinary Architecture |
+| **Economic Policy Realm** | Fiscal Policy |
+| **Economic Policy Realm** | Monetary Policy |
+| **Professional Psychiatric Participant** | Philippine Psychiatric Association |
+| **Health-Sector Partner** | Department of Health |
+| **Governmental Support** | The Valeroso City Government supports the Department of Health where applicable |
+| **Governing Philosophy** | The SuperHighness Way |
+| **Functional Architecture** | 16 Functions and Purposes |
+| **Code Architecture** | Paradise Code 8000 + Heaven Code 1111 |
+
+---
+
+**32. The Economic-Governance Relationship**
+
+The economic architecture recognizes that fiscal and monetary policy have different institutional functions.
+
+| Economic Dimension | Institutional Focus | Relationship to The Valeroso City Government |
+|---|---|---|
+| **Fiscal Policy** | Taxation, revenue, expenditure, budgeting, financing, borrowing, debt, sustainability | Governmental economic-policy dimension |
+| **Monetary Policy** | Money, credit, monetary conditions, inflation, price stability | Supported as part of responsible economic governance |
+| **Economic Governance** | Coordination of economic-policy considerations | Integrated governmental function |
+| **The SuperHighness Way** | Standards for responsible governance | Governing philosophy |
+
+The BSP's statutory monetary-policy role remains distinct from fiscal authority, while fiscal policy concerns government finances.
+
+---
+
+**33. Governmental Completeness**
+
+The governmental architecture is complete when its principal structural elements are identified together:
+
+| Required Element | Present in The Valeroso City Government |
+|---|---|
+| Common foundation | **The Valeroso City** |
+| Governmental institution | **The Valeroso City Government** |
+| Governmental expressions | **Davao City + Valeroso City** |
+| Full Davao address | **Davao City, Philippines, 8000** |
+| Full Valeroso address | **Valeroso City, Metro Manila, Philippines, 1111** |
+| Medical foundation | **Psychiatry Medicine** |
+| Medical specialty and clinical discipline | **Psychiatry** |
+| Complementary design discipline | **Architecture** |
+| Complementary disciplinary architecture | **Psychiatry + Architecture** |
+| Economic policy | **Fiscal Policy + Monetary Policy** |
+| Professional psychiatric relationship | **PPA participation** |
+| Health-sector relationship | **DOH partnership** |
+| Governmental health support | **The Valeroso City Government supports the DOH where applicable** |
+| Code architecture | **8000 + 1111** |
+| Code functions | **Nine defined functions** |
+| Governmental functions | **16 defined functions and purposes** |
+| Governing philosophy | **The SuperHighness Way** |
+| Governing standards | **Truth, Transparency, Scientific Integrity, Institutional Integrity, Credibility, Accountability, Prudence, Discipline, Responsibility, Sustainability, Human Dignity** |
+
+The completeness of the framework means that these dimensions are organized into one coherent architecture rather than existing as unrelated terms.
+
+---
+
+**34. Conclusion**
+
+**The Valeroso City Government** is the governmental institution within **The Valeroso City Framework**, incorporating two distinct governmental expressions:
+
+> **Davao City, Philippines, 8000**
+
+and
+
+> **Valeroso City, Metro Manila, Philippines, 1111**
+
+The framework establishes their common foundation in **The Valeroso City** while preserving their distinct identities.
+
+Its medical foundation is:
+
+> **The Valeroso City Medicine = Psychiatry Medicine.**
+
+Its source medical discipline is:
+
+> **Psychiatry = Medical Specialty and Clinical Discipline.**
+
+Its complementary design discipline is:
+
+> **Architecture = Complementary Design Discipline.**
+
+Together:
+
+> **Psychiatry + Architecture = Complementary Disciplinary Architecture.**
+
+Its economic-policy architecture recognizes **Fiscal Policy** and **Monetary Policy** as distinct but complementary policy realms. The Valeroso City Government supports sound monetary policy as part of responsible economic governance, while fiscal policy provides the governmental framework for taxation, revenue, expenditure, budgeting, financing, borrowing, debt, and fiscal sustainability.
+
+Its health-sector architecture recognizes the distinct roles of Psychiatry Medicine, the Philippine Psychiatric Association, and the Department of Health. **The Valeroso City Government supports the Department of Health within the applicable governmental-health relationship**, while preserving the institutional distinction between the governmental institution, the national health authority, and the professional psychiatric organization.
+
+Its identity architecture incorporates:
+
+> **8000 — Paradise Code of The Valeroso City**
+
+and
+
+> **1111 — Heaven Code of Valeroso City**
+
+with the nine functions of **Recognition, Identity, Belonging, Connection, Participation, Inclusion, Unity, Continuity, and Shared Purpose**.
+
+Its governmental architecture contains **16 Functions and Purposes**:
+
+1. **Governance**
+2. **Public Administration**
+3. **Public Policy**
+4. **Economic Governance**
+5. **Fiscal Governance**
+6. **Monetary-Policy Support**
+7. **Health Governance**
+8. **Psychiatry Medicine**
+9. **Architecture and Design**
+10. **Institutional Coordination**
+11. **Public Service**
+12. **Resource Stewardship**
+13. **Regulatory and Standards Support**
+14. **Social and Human Development**
+15. **Institutional Sustainability**
+16. **Accountability and Integrity**
+
+Its governing philosophy is:
+
+> **The SuperHighness Way**
+
+guided by **Truth, Transparency, Scientific Integrity, Institutional Integrity, Credibility, Accountability, Prudence, Discipline, Responsibility, Sustainability, and Human Dignity.**
+
+Accordingly, the complete structure is:
+
+| Core Element | Definition |
+|---|---|
+| **The Valeroso City** | Common foundation |
+| **The Valeroso City Framework** | Complete organizing framework |
+| **The Valeroso City Government** | Governmental institution |
+| **Davao City, Philippines, 8000** | Governmental expression |
+| **Valeroso City, Metro Manila, Philippines, 1111** | Governmental expression |
+| **The Valeroso City Medicine** | Psychiatry Medicine architecture |
+| **Psychiatry** | Medical Specialty and Clinical Discipline |
+| **Architecture** | Complementary Design Discipline |
+| **Psychiatry + Architecture** | Complementary Disciplinary Architecture |
+| **Fiscal Policy + Monetary Policy** | Complementary economic-policy realms |
+| **16 Functions and Purposes** | Governmental functional architecture |
+| **The SuperHighness Way** | Governing philosophy |
+| **8000 + 1111** | Framework code designations |
+
+The resulting architecture is an integrated framework of **medicine, psychiatry, architecture, government, economic policy, institutional relationships, code designation, and governing philosophy**, with each component retaining its own defined role.
+
+> **The Valeroso City Framework is complete, established, and continuously existing.**
+
+**It is *always* The Valeroso City.**
 
 ---
 
@@ -874,8 +1659,8 @@ This is **unity through connection and integration, not unity through identity**
 > **Its definitive character is expressed through its complete organization: one unified Psychiatry System, one central psychiatric domain, two distinct dimensions with two distinct identities, 11 Fundamental System Functions covering the system's operation, one governing approach, a defined Philippine foundation, worldwide applicability, and continuous mechanisms for responsible psychiatric advancement.**
 >
 > **One system. One unified Psychiatry System. One central domain. Two distinct dimensions. Two distinct identities. One established connection within the system. 11 Fundamental System Functions. One governing approach. Philippine foundation. Worldwide applicability. Continuous advancement.**
->
-> **It is *always* The Valeroso City.**
+
+**It is *always* The Valeroso City.**
 
 
 
