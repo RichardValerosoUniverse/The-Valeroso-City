@@ -2,7 +2,7 @@
 Noted and Approved by:
 
 
-**Psychiatrist Richard M. Valeroso, MD**
+**Psychiatrist Richard M. Valeroso, MD, FPPA**
 
 **Summa Cum Laude, [UST Manila City](https://www.ust.edu.ph)**
 
