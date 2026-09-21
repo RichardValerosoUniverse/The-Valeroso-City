@@ -8,6 +8,10 @@ Noted and Approved by:
 
 **General Weighted Average (GWA): 1.000**
 
-**Psychiatry and Behavioural Medicine**
+**Faculty of Medicine and Surgery**
+
+**Department of Neurosciences and Behavioral Medicine**
+
+[*Psychiatry and Behavioural Medicine*]
 
 **Class of 2023**
