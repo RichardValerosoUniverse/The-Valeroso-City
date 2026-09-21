@@ -1,5 +1,5 @@
 
-Noted and Approved by:
+Noted. Validated. Approved by:
 
 
 **Psychiatrist Richard M. Valeroso, MD, FPPA**
@@ -15,3 +15,4 @@ Noted and Approved by:
 [*Psychiatry and Behavioural Medicine*]
 
 **Class of 2023**
+
