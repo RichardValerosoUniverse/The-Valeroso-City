@@ -747,40 +747,86 @@ The philosophy applies across the governmental architecture:
 
 **21. The Valeroso City Government: 16 Functions and Purposes**
 
-The **16 Functions and Purposes** of The Valeroso City Government define the principal functional dimensions of the governmental architecture.
+The **16 Functions and Purposes** constitute the **Functional Architecture** of **The Valeroso City Government** within **The Valeroso City Framework**.
 
-| No. | Function / Purpose | Definition |
+**Each function has a distinct purpose and structural role.**
+
+| No. | Function | Dedicated Purpose |
 |---:|---|---|
-| **1** | **Governance** | The direction, organization, coordination, and oversight of governmental affairs according to established principles and responsibilities |
-| **2** | **Public Administration** | The organized implementation and management of governmental programs, institutions, services, resources, and decisions |
-| **3** | **Public Policy** | The formulation, organization, implementation, and evaluation of policies addressing public purposes and societal conditions |
-| **4** | **Economic Governance** | The management and coordination of governmental responsibilities affecting economic stability, sustainability, development, and public resources |
-| **5** | **Fiscal Governance** | The responsible management of taxation, public revenue, expenditure, budgeting, financing, borrowing, debt, and fiscal sustainability |
-| **6** | **Monetary-Policy Support** | Institutional support for sound monetary policy and price stability while respecting the distinct institutional role of the central bank |
-| **7** | **Health Governance** | Governmental coordination and support concerning health, mental health, health services, public health, and health-system responsibilities |
-| **8** | **Psychiatry Medicine** | Integration of Psychiatry Medicine as the medical foundation of The Valeroso City Medicine within the framework |
-| **9** | **Architecture and Design** | Application of the complementary design discipline to structural, environmental, spatial, and organizational dimensions |
-| **10** | **Institutional Coordination** | Coordination among governmental institutions, professional organizations, health institutions, economic institutions, and other relevant stakeholders |
-| **11** | **Public Service** | Organization and delivery of governmental functions and services directed toward public purposes |
-| **12** | **Resource Stewardship** | Responsible management, allocation, preservation, and use of public and institutional resources |
-| **13** | **Regulatory and Standards Support** | Support for appropriate standards, rules, safeguards, and institutional processes within applicable authority |
-| **14** | **Social and Human Development** | Support for conditions that contribute to human welfare, dignity, capability, participation, and sustainable development |
-| **15** | **Institutional Sustainability** | Maintenance of institutional capacity, continuity, resilience, credibility, and responsible long-term operation |
-| **16** | **Accountability and Integrity** | Maintenance of transparency, responsibility, ethical conduct, institutional integrity, evidence-based decision-making, and answerability for governmental action |
+| **1** | **Governance** | Establish the overall direction, organization, stewardship, and responsible exercise of governance. |
+| **2** | **Public Administration** | Organize governmental administration, institutional processes, operations, implementation, and delivery of governmental responsibilities and services. |
+| **3** | **Public Policy** | Establish, coordinate, and support governmental policy in accordance with the framework. |
+| **4** | **Economic Governance** | Provide integrated economic governance concerning economic stability, responsible stewardship, sustainable development, and long-term economic responsibility. |
+| **5** | **Fiscal Governance** | Support sound fiscal governance concerning **taxation, revenue, expenditure, budgeting, financing, borrowing, debt, fiscal discipline, and fiscal sustainability**. |
+| **6** | **Monetary Governance** | Support sound monetary governance concerning **money, credit, monetary conditions, monetary stability, and price stability**, while preserving the distinct mandate, authority, independence, and responsibility of the monetary-policy institution. |
+| **7** | **Health Governance** | Support health governance through coordination, cooperation, health-system support, and governmental participation, including support for the **Department of Health** within applicable authority. |
+| **8** | **Psychiatry Medicine** | Establish **Psychiatry Medicine** as the **Medical Foundation** and integrate medically grounded psychiatric and mental-health perspectives into the governmental architecture. |
+| **9** | **Architecture and Design** | Integrate **Architecture** as the **Complementary Design Discipline**, providing structural, spatial, environmental, functional, organizational, and design dimensions. |
+| **10** | **Institutional Coordination** | Coordinate relationships among governmental, health, monetary, medical, psychiatric, architectural, professional, and other relevant institutions while preserving their distinct identities, responsibilities, and authorities. |
+| **11** | **Public Service** | Direct governmental activity toward responsible, organized, accountable, and purpose-driven public service. |
+| **12** | **Resource Stewardship** | Ensure responsible stewardship of public, financial, economic, institutional, human, material, technological, and other resources through prudence, discipline, accountability, efficiency, and sustainability. |
+| **13** | **Regulatory and Standards Support** | Support regulatory coordination, standards, institutional requirements, professional standards, and responsible implementation within applicable authority. |
+| **14** | **Social and Human Development** | Support human and social development through human dignity, inclusion, participation, community development, opportunity, and long-term welfare. |
+| **15** | **Institutional Sustainability** | Maintain continuity, resilience, credibility, integrity, adaptability, institutional capacity, and long-term sustainability. |
+| **16** | **Accountability and Integrity** | Maintain responsibility, transparency, truthfulness, scientific integrity, institutional integrity, credibility, ethical responsibility, discipline, and answerability. |
 
-**Functional Interpretation**
+**Structural Integration**
 
-The 16 functions are not 16 separate governments.
+The 16 functions are organized into distinct but interconnected dimensions:
 
-They are **16 functional dimensions of one governmental institution**.
+- **Governance and Administration:** Governance; Public Administration; Public Policy.
+- **Economic Governance:** Economic Governance; Fiscal Governance; Monetary Governance.
+- **Health and Medicine:** Health Governance; Psychiatry Medicine.
+- **Design:** Architecture and Design.
+- **Institutional Relationships:** Institutional Coordination.
+- **Service and Stewardship:** Public Service; Resource Stewardship.
+- **Standards and Development:** Regulatory and Standards Support; Social and Human Development.
+- **Continuity and Accountability:** Institutional Sustainability; Accountability and Integrity.
 
-| Structural Question | Answer |
-|---|---|
-| How many governmental institutions are represented? | One framework-defined governmental institution |
-| How many governmental expressions? | Two: Davao City and Valeroso City |
-| How many principal functions and purposes? | Sixteen |
-| What unifies the architecture? | The Valeroso City Framework |
-| What governs the institutional philosophy? | The SuperHighness Way |
+**Disciplinary Relationship**
+
+- **Psychiatry Medicine** = Medical Foundation.
+- **Psychiatry** = Medical Specialty and Clinical Discipline.
+- **Architecture** = Complementary Design Discipline.
+- **Psychiatry + Architecture** = Complementary Disciplinary Architecture.
+
+**Institutional Relationship**
+
+The **Valeroso City Government supports the Department of Health** through health-governance, coordination, cooperation, and institutional-support relationships within applicable authority.
+
+Institutional coordination preserves the distinct mandates and responsibilities of institutions, including the **Department of Health**, **Bangko Sentral ng Pilipinas**, **Fiscal Authorities** and **Philippine Psychiatric Association**.
+
+**Economic Relationship**
+
+**Fiscal Governance** and **Monetary Governance** are complementary economic-policy dimensions with distinct functions and institutional responsibilities.
+
+Fiscal Governance addresses public finance, including **taxation, revenue, expenditure, budgeting, financing, borrowing, debt, fiscal discipline, and fiscal sustainability**.
+
+Monetary Governance supports sound monetary governance concerning **money, credit, monetary conditions, monetary stability, and price stability**, while preserving the distinct authority of the monetary-policy institution.
+
+**The SuperHighness Way**
+
+The **SuperHighness Way** is the **Governing Philosophy** of the Functional Architecture.
+
+Its 11 Governing Standards are:
+
+1. **Truth**
+2. **Transparency**
+3. **Scientific Integrity**
+4. **Institutional Integrity**
+5. **Credibility**
+6. **Accountability**
+7. **Prudence**
+8. **Discipline**
+9. **Responsibility**
+10. **Sustainability**
+11. **Human Dignity**
+
+> **These standards govern how the 16 functions are organized, related, and exercised.**
+
+The **16 Functions and Purposes** constitute the complete **Functional Architecture of The Valeroso City Government** within **The Valeroso City Framework**.
+
+They provide a **distinct, integrated, and non-overlapping functional structure** for governance, administration, policy, economic governance, health, Psychiatry Medicine, Architecture and Design, institutional coordination, public service, resource stewardship, standards support, human development, institutional sustainability, and accountability and integrity, governed by **The SuperHighness Way**.
 
 ---
 
