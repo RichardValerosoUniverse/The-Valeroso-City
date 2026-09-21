@@ -1369,7 +1369,7 @@ Its governmental architecture contains **16 Functions and Purposes**:
 3. **Public Policy**
 4. **Economic Governance**
 5. **Fiscal Governance**
-6. **Monetary-Policy Support**
+6. **Monetary Governance**
 7. **Health Governance**
 8. **Psychiatry Medicine**
 9. **Architecture and Design**
@@ -1407,7 +1407,7 @@ Accordingly, the complete structure is:
 
 The resulting architecture is an integrated framework of **medicine, psychiatry, architecture, government, economic policy, institutional relationships, code designation, and governing philosophy**, with each component retaining its own defined role.
 
-> **The Valeroso City Framework is complete, established, and continuously existing.**
+> **The Valeroso City Framework is complete, established, self-contained, and continuously existing as its own integrated framework.**
 
 **It is *always* The Valeroso City.**
 
