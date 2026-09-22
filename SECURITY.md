@@ -1,13 +1,11 @@
 
 Noted. Validated. Approved by:
 
-
 **Psychiatrist Richard M. Valeroso, MD, FPPA**
 
-**Summa Cum Laude, 
-[University of Santo Tomas (UST) Manila City](https://www.ust.edu.ph)**
+**Summa Cum Laude (GWA: 1.000)**
 
-**General Weighted Average (GWA): 1.000**
+**[University of Santo Tomas (UST) Manila City](https://www.ust.edu.ph)**
 
 **Faculty of Medicine and Surgery**
 
