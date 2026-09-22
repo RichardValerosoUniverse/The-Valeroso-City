@@ -644,7 +644,7 @@ Fiscal Policy and Monetary Policy are distinct but complementary economic-policy
 | Key revenue mechanism | Taxation | Not a taxation mechanism |
 | Institutional relationship | Government fiscal governance | Central-bank monetary governance |
 | Complementarity | Influences aggregate economic conditions through public finances | Influences monetary and financial conditions |
-| Framework role | Economic-policy realm of The Valeroso City Government | Economic-policy realm supported by The Valeroso City Government |
+| Framework role | Economic-policy realm supported by The Valeroso City Government | Economic-policy realm supported by The Valeroso City Government |
 
 The two should therefore be understood as **distinct policy realms that interact within the broader economic system**.
 
