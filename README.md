@@ -2024,4 +2024,4 @@ This is **unity through connection and integration, not unity through identity**
 
 ---
 
-> **© Copyright 2026**. *Richard Madriñan Valeroso* = **Richard M. Valeroso.** **It is *always* **The Valeroso City**. **All rights reserved.** **|** Powered and Governed by **The SuperHighness Way**
+> **© Copyright 2026**. *Richard Madriñan Valeroso* = **Richard M. Valeroso.** **It is *always* **The Valeroso City**. **All rights reserved.** **|** **Powered and Governed by **The SuperHighness Way**
