@@ -1946,7 +1946,7 @@ This is **unity through connection and integration, not unity through identity**
 
 **One system. One unified Psychiatry System. One central domain. Two distinct dimensions. Two distinct identities. One established connection within the system. 11 Fundamental System Functions. One governing approach. Philippine foundation. Worldwide applicability. Continuous advancement.**
 
-**It is *always* The Valeroso City.**
+*Always* The Valeroso City.**
 
 
 
@@ -2024,4 +2024,4 @@ This is **unity through connection and integration, not unity through identity**
 
 ---
 
-> **© Copyright 2026**. *Richard Madriñan Valeroso* = **Richard M. Valeroso.** **It is *always* **The Valeroso City**. **All rights reserved.** **|** **Powered and Governed by **The SuperHighness Way**
+> **© Copyright 2026**. *Richard Madriñan Valeroso* = **Richard M. Valeroso.** *Always* **The Valeroso City**. **All rights reserved.** **|** **Powered and Governed by **The SuperHighness Way**
