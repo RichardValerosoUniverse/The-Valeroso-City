@@ -12,7 +12,7 @@ Noted. Validated. Approved by:
 
 **Department of Neurosciences and Behavioral Medicine**
 
-[*Psychiatry and Behavioural Medicine*]
+**Medicine Specialty: Psychiatry**
 
 **Class of 2023**
 
