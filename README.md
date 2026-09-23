@@ -1948,6 +1948,15 @@ This is **unity through connection and integration, not unity through identity**
 
 *Always* **The Valeroso City.**
 
+---
+
+# The Valeroso City
+## The Rise of The Valeroso City is undeniable. Thank you!
+
+*Always* **The Valeroso City**.
+
+---
+
 
 
 
