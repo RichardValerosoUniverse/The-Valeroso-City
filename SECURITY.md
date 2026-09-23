@@ -1,7 +1,9 @@
 
 Reviewed, Validated and Approved by:
 
-**Psychiatrist Richard M. Valeroso, MD, FPPA** **(Richard Madriñan Valeroso)**
+**Psychiatrist Richard M. Valeroso, MD, FPPA** 
+
+**(Richard Madriñan Valeroso)**
 
 **Summa Cum Laude (GWA: 1.000)**
 
