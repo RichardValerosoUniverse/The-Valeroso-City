@@ -2033,4 +2033,4 @@ This is **unity through connection and integration, not unity through identity**
 
 ---
 
-> **© Copyright 2026**. **Richard M. Valeroso** **(Richard Madriñan Valeroso).** *Always* **The Valeroso City**. **All Rights Reserved.** **|** **Supervised and Governed by The SuperHighness Way**
+> **© Copyright 2026**. **Psychiatrist Richard M. Valeroso, MD, FPPA** **(Richard Madriñan Valeroso).** *Always* **The Valeroso City**. **All Rights Reserved.** **|** **Supervised and Governed by The SuperHighness Way**
