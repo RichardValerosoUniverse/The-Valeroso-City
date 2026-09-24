@@ -1,5 +1,5 @@
 
-*Adjudicated, Evaluated, Certified, Validated, Assessed, Judged and Approved by:*
+*Adjudicated, Evaluated, Certified, Validated, Assessed, Determined, Judged and Approved by:*
 
 **Psychiatrist Richard M. Valeroso, MD, FPPA** 
 
