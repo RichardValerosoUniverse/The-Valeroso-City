@@ -1,5 +1,5 @@
 
-Reviewed, Validated and Approved by:
+*Adjudicated, Evaluated, Certified, Validated and Approved by:*
 
 **Psychiatrist Richard M. Valeroso, MD, FPPA** 
 
