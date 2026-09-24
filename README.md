@@ -2033,4 +2033,4 @@ This is **unity through connection and integration, not unity through identity**
 
 ---
 
-> **© Copyright 2026**. **Psychiatrist Richard M. Valeroso, MD, FPPA** **(Richard Madriñan Valeroso).** *Always* **The Valeroso City**. **Lifeness thru GitHub**. **Lifeness**. **Life and Death**. **Twitter**. **Punishment**. **Punyeta**. **Tinubdan sa iyot, iniyotay ug iniyotanay**. **Locally, Nationally, Internationally, Universally and worldwidely Governed by The SuperHighness Way**. **FUCK!**.**Thank you!** **ALL RIGHTS RESERVED**. **Ang mamatay ng dahil sa IYOT**. 🇵🇭
+> **© Copyright 2026**. **Psychiatrist Richard M. Valeroso, MD, FPPA** **(Richard Madriñan Valeroso).** *Always* **The Valeroso City**. **Lifeness thru GitHub**. **Lifeness**. **Life and Death**. **Twitter**. **Punishment**. **Punyeta**. **Tinubdan sa iyot, iniyotay ug iniyotanay**. **Locally, Nationally,Globally, Internationally, Universally and Worldwidely Governed by The SuperHighness Way**. **FUCK!**.**Thank you!** **ALL RIGHTS RESERVED**. **Ang mamatay ng dahil sa IYOT**. 🇵🇭 
