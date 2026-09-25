@@ -1962,6 +1962,7 @@ This is **unity through connection and integration, not unity through identity**
 ## The Rise of The Valeroso City is undeniable. Thank you!
 
 *Always* **The Valeroso City**.
+
 *Always* **The Valeroso Flag** **(🇵🇭).**
 
 ---
