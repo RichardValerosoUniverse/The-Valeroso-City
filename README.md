@@ -46,8 +46,8 @@ Thus, within this framework, **“It is not always Davao City”** means that **
 
 **Within this framework**, **8000** and **1111** are not regarded solely in terms of their conventional use as **Philippine ZIP codes, postal codes, or other numerical or geographic codes.** Instead, they function as distinct and intentional numerical designations assigned respectively to the **two exclusive expressions of The Valeroso City**. This establishes a specific, direct, and unambiguous correspondence between each number and the expression to which it is assigned. Each designation has its own numerical identity and defined function. **Neither number is interchangeable with, equivalent to, or an alternative to the other, and neither is treated as comparable to the other as a designation within the framework**. Each number therefore corresponds exclusively to its designated expression, while both designations share the same common foundation: **The Valeroso City**.
 
-*Always* **The Valeroso City**
-
+*Always* **The Valeroso City**.
+*Always* **The Valeroso Flag** (🇵🇭).
 ---
 
 # **The Valeroso City Code and Identity Architecture**
@@ -316,6 +316,7 @@ The structure can therefore be stated in complete sentences:
 > **This is the structure presently established within The Valeroso City framework.**
 
 *Always* **The Valeroso City.**
+*Always* **The Valeroso Flag** (🇵🇭).
 
 ---
 
@@ -1410,6 +1411,7 @@ The resulting architecture is an integrated framework of **medicine, psychiatry,
 > **The Valeroso City Framework is complete, established, self-contained, and continuously existing as its own integrated framework.**
 
 *Always* **The Valeroso City.**
+*Always* **The Valeroso Flag** (🇵🇭).
 
 ---
 
@@ -1947,6 +1949,7 @@ This is **unity through connection and integration, not unity through identity**
 **One system. One unified Psychiatry System. One central domain. Two distinct dimensions. Two distinct identities. One established connection within the system. 11 Fundamental System Functions. One governing approach. Philippine foundation. Worldwide applicability. Continuous advancement.**
 
 *Always* **The Valeroso City.**
+*Always* **The Valeroso Flag** (🇵🇭).
 
 ---
 
