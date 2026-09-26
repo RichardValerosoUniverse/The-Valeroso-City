@@ -52,8 +52,6 @@ Thus, within this framework, **“It is not always Davao City”** means that **
 
 *Always* **One Valeroso Nation**.
 
-*Always First and Always* **The Valeroso All Ways**.
-
 ---
 
 # **The Valeroso City Code and Identity Architecture**
@@ -326,8 +324,6 @@ The structure can therefore be stated in complete sentences:
 *Always* **The Valeroso Flag** **(🇵🇭).**
 
 *Always* **One Valeroso Nation**.
-
-*Always First and Always* **The Valeroso All Ways**.
 
 ---
 
@@ -1427,8 +1423,6 @@ The resulting architecture is an integrated framework of **medicine, psychiatry,
 
 *Always* **One Valeroso Nation**.
 
-*Always First and Always* **The Valeroso All Ways**.
-
 ---
 
 # **The Valeroso City Psychiatry System**
@@ -1983,8 +1977,6 @@ This is **unity through connection and integration, not unity through identity**
 
 *Always* **One Valeroso Nation**.
 
-*Always First and Always* **The Valeroso All Ways**.
-
 ---
 
 
@@ -2062,4 +2054,4 @@ This is **unity through connection and integration, not unity through identity**
 
 ---
 
-> **© Copyright 2026**. **Psychiatrist Richard M. Valeroso, MD, FPPA** **(Richard Madriñan Valeroso).** *Always* **The Valeroso City**. **Lifeness thru GitHub**. **GitHub Thru Lifeness**. **First and Always**. **Always**. **Twitter**. **Death Penalty**. **Tinubdan sa iyot, iniyotay ug iniyotanay**. **FUCK for Life**. **Ang mamatay nang dahil sa IYOT**. **The Valeroso City Medicine**. **The SuperHighness Way**. **SuperHighness**. **World Without End Version In Eternity**. **The Valeroso City Government**. *Always* **The Valeroso**. **Philippines is Valeroso**. **Valeroso is Philippines**. **One Valeroso Nation**. **One Valeroso World**. **One Valeroso Universe**. *Always* **Valeroso**. **Valeroso is Valeroso**. **The 2026 Valeroso Constitution**. *Always* **The Philippines' Ruler**. *Always* **The Valeroso Flag**. **ALL RIGHTS RESERVED**. 🇵🇭 **(The Valeroso Flag)**.
+> **© Copyright 2026**. **Psychiatrist Richard M. Valeroso, MD, FPPA** **(Richard Madriñan Valeroso).** *Always* **The Valeroso City**. **Lifeness thru GitHub**. **GitHub Thru Lifeness**. **First and Always**. **Always**. **Twitter**. **Death Penalty**. **Tinubdan sa iyot, iniyotay ug iniyotanay**. **FUCK for Life**. **Ang mamatay nang dahil sa IYOT**. **The Valeroso City Medicine**. **The SuperHighness Way**. **SuperHighness**. **World Without End Version In Eternity**. **The Valeroso City Government**. *Always* **The Valeroso**. **Philippines is Valeroso**. **Valeroso is Philippines**. **One Valeroso Nation**. **One Valeroso World**. **One Valeroso Universe**. *Always* **Valeroso**. **Valeroso is Valeroso**. **The 2026 Valeroso Constitution**. *Always* **The Philippines' Ruler**. *Always First and Always* The Valeroso All Ways**. *Always* **The Valeroso Flag**. **ALL RIGHTS RESERVED**. 🇵🇭 **(The Valeroso Flag)**.
