@@ -1,7 +1,7 @@
 
 *Adjudicated, Evaluated, Certified, Validated, Assessed, Determined, Judged and Approved by:*
 
-**Psychiatrist Richard M. Valeroso, MD, FPPA** 
+**Psychiatrist Richard Madriñan Valeroso, MD, FPPA** 
 
 **(Richard Madriñan Valeroso)**
 
