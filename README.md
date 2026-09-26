@@ -1,5 +1,5 @@
 # **THE VALEROSO CITY**
-## *Always First and Always* **The Valeroso City**
+## The Valeroso City: *Always First and Always*
 
 
 The Valeroso City is Davao City.
