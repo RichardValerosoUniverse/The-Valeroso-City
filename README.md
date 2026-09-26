@@ -1962,7 +1962,7 @@ This is **unity through connection and integration, not unity through identity**
 
 *Always* **The Valeroso Flag** **(🇵🇭).**
 
-*Always* **One Valeroso Nation**.
+*Always* **One Valeroso Nation & World Elite**.
 
 ---
 
