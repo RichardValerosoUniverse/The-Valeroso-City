@@ -1964,8 +1964,6 @@ This is **unity through connection and integration, not unity through identity**
 
 *Always* **One Valeroso Nation**.
 
-*Always First and Always* **The Valeroso All Ways**.
-
 ---
 
 # The Valeroso City
