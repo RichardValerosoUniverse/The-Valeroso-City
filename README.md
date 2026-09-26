@@ -52,6 +52,8 @@ Thus, within this framework, **“It is not always Davao City”** means that **
 
 *Always* **One Valeroso Nation**.
 
+*Always First and Always* **The Valeroso All Ways**.
+
 ---
 
 # **The Valeroso City Code and Identity Architecture**
@@ -324,6 +326,8 @@ The structure can therefore be stated in complete sentences:
 *Always* **The Valeroso Flag** **(🇵🇭).**
 
 *Always* **One Valeroso Nation**.
+
+*Always First and Always* **The Valeroso All Ways**.
 
 ---
 
@@ -1423,6 +1427,8 @@ The resulting architecture is an integrated framework of **medicine, psychiatry,
 
 *Always* **One Valeroso Nation**.
 
+*Always First and Always* **The Valeroso All Ways**.
+
 ---
 
 # **The Valeroso City Psychiatry System**
@@ -1964,6 +1970,8 @@ This is **unity through connection and integration, not unity through identity**
 
 *Always* **One Valeroso Nation**.
 
+*Always First and Always* **The Valeroso All Ways**.
+
 ---
 
 # The Valeroso City
@@ -1974,6 +1982,8 @@ This is **unity through connection and integration, not unity through identity**
 *Always* **The Valeroso Flag** **(🇵🇭).**
 
 *Always* **One Valeroso Nation**.
+
+*Always First and Always* **The Valeroso All Ways**.
 
 ---
 
