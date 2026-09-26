@@ -50,7 +50,7 @@ Thus, within this framework, **“It is not always Davao City”** means that **
 
 *Always* **The Valeroso Flag** **(🇵🇭).**
 
-*Always* **One Valeroso Nation**
+*Always* **One Valeroso Nation**.
 
 ---
 
@@ -1421,7 +1421,7 @@ The resulting architecture is an integrated framework of **medicine, psychiatry,
 
 *Always* **The Valeroso Flag** **(🇵🇭).**
 
-*Always* **One Valeroso Nation**
+*Always* **One Valeroso Nation**.
 
 ---
 
@@ -1963,6 +1963,7 @@ This is **unity through connection and integration, not unity through identity**
 *Always* **The Valeroso Flag** **(🇵🇭).**
 
 *Always* **One Valeroso Nation**.
+
 ---
 
 # The Valeroso City
