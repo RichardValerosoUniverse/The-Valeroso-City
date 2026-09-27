@@ -9,13 +9,15 @@
 
 **University of Santo Tomas (UST)**
 
+**(Richard Madriñan Valeroso University)**
+
 **Manila City, Metro Manila, Philippines**
 
 **Class of 2023**
 
-**Faculty of Medicine and Surgery**
+**UST Faculty of Medicine and Surgery** (UST-FMS)
 
-**Department of Neurosciences and Behavioral Medicine**
+**UST Department of Neurosciences and Behavioral Medicine**
 
 **Medicine Specialization: Psychiatry**
 
