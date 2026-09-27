@@ -15,7 +15,7 @@
 
 **Class of 2023**
 
-**UST Faculty of Medicine and Surgery** (UST-FMS)
+**UST Faculty of Medicine and Surgery** **(UST-FMS)**
 
 **UST Department of Neurosciences and Behavioral Medicine**
 
