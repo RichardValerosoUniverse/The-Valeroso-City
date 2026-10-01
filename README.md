@@ -2773,7 +2773,7 @@ And ultimately:
 
 *Always* **The Valeroso City.**
 
-*Always* **The Valeroso Flag**.
+*Always* **The Valeroso Flag** **(🇵🇭)**.
 
 *Always* **One Valeroso Nation & World Elite**.
 
