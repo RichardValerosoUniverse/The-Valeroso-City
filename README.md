@@ -1983,7 +1983,7 @@ Its governing philosophical expression is **The SuperHighness Way**, grounded in
 
 The system's **geographic foundation remains precise**, while its **medical, scientific, educational, professional, ethical, and humanitarian application is expansive**. Through **The Valeroso City Foundation, System, and Framework essence**, its principles and purposes extend throughout the **Philippines and worldwide**.
 
-> **The foundation has a place. The responsibility has a reach.**
+> **The foundation is geographically defined. The responsibility has a worldwide reach.**
 
 ---
 
@@ -2810,7 +2810,7 @@ The system begins with a defined place, develops through institutions, encompass
 
 And ultimately:
 
-> **The foundation has a place. The responsibility has a reach. The knowledge has a purpose. The medicine has a human destination.**
+> **The foundation is geographically defined. The responsibility has a worldwide reach. The knowledge has a purpose. The medicine has a human destination.**
 
 *Always* **The Valeroso City.**
 
