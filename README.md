@@ -2094,11 +2094,11 @@ The **Heaven Code 1111** specifically establishes the designated relationship be
 
 **5. Richard Madriñan Valeroso**
 
-### Complete Name
+**Complete Name**
 
 **Richard Madriñan Valeroso**
 
-### Abbreviated Form
+**Abbreviated Form**
 
 **Richard M. Valeroso**
 
@@ -2328,31 +2328,31 @@ Psychiatry does not replace the other medical disciplines.
 
 **14. Neurosciences and Related Medical Domains**
 
-### Neurosciences
+**Neurosciences**
 
 The scientific study of the nervous system, including brain structure and function, neural systems, cognition, emotion, behavior, and neurological and psychiatric disease.
 
-### Neurology
+**Neurology**
 
 The clinical medical discipline concerned with disorders of the nervous system.
 
-### Behavioral Medicine
+**Behavioral Medicine**
 
 The integration of biological, psychological, behavioral, and medical perspectives in health and illness.
 
-### Clinical Neuroscience
+**Clinical Neuroscience**
 
 The connection between neuroscience and clinical medicine.
 
-### Neuropsychiatry
+**Neuropsychiatry**
 
 The integration of neurological, brain, behavioral, cognitive, emotional, and psychiatric dimensions.
 
-### Brain Science and Neurobiology
+**Brain Science and Neurobiology**
 
 The study of brain organization, neural communication, neurodevelopment, neural circuits, cognition, emotion, and brain function.
 
-### Psychopharmacology
+**Psychopharmacology**
 
 The study and clinical application of pharmacological agents in relation to the brain, behavior, mental processes, and psychiatric conditions.
 
