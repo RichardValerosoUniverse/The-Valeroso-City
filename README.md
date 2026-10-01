@@ -2046,8 +2046,6 @@ The geographic architecture is therefore:
 
 The entire Metro Manila is **not a separate third geographic foundation**.
 
-This geographic designation belongs to the internal architecture of the system and does not itself assert statutory creation of a separate Philippine local government unit named Valeroso City.
-
 ---
 
 **3. All Ways Metro Manila 1111 Collaboration**
