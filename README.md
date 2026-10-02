@@ -2216,7 +2216,7 @@ This expresses continuity of the designated relationship across present circumst
 
 The complete meaning of the designation can therefore be expressed as:
 
-> **The All Ways Metro Manila 1111 Collaboration is the designated integrated, continuous, multidimensional, and enduring collaborative architecture of Valeroso City and the entire Metro Manila under the Heaven Code 1111 System. It provides a comprehensive basis for connection, collaboration, continuity, belonging, participation, inclusion, unity, and shared purpose across relevant geographic, institutional, professional, educational, medical, scientific, civic, and humanitarian domains. The entire Metro Manila remains continuously attached to Valeroso City, while Valeroso City is permanently designated as the Main City of the entire Metro Manila under the Heaven Code 1111 System.**
+> **The All Ways Metro Manila 1111 Collaboration is the designated integrated, continuous, multidimensional, and enduring collaborative architecture of The Valeroso City and the entire Metro Manila. It provides a comprehensive basis for connection, collaboration, continuity, belonging, participation, inclusion, unity, and shared purpose across relevant geographic, institutional, professional, educational, medical, scientific, civic, and humanitarian domains. The entire Metro Manila remains continuously attached to Valeroso City, while Valeroso City is permanently designated as the Main City of the entire Metro Manila under the Heaven Code 1111 System.**
 
 **Definitive Expressions**
 
