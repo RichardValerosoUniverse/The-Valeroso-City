@@ -800,7 +800,7 @@ The 16 functions are organized into distinct but interconnected dimensions:
 
 **Institutional Relationship**
 
-The **Valeroso City Government supports the Department of Health** through health-governance, coordination, cooperation, and institutional-support relationships within applicable authority.
+**The Valeroso City Government supports the Department of Health** through health-governance, coordination, cooperation, and institutional-support relationships within applicable authority.
 
 Institutional coordination preserves the distinct mandates and responsibilities of institutions, including the **Department of Health**, **Bangko Sentral ng Pilipinas**, **Fiscal Authorities** and **Philippine Psychiatric Association**.
 
@@ -814,7 +814,7 @@ Monetary Governance supports sound monetary governance concerning **money, credi
 
 **The SuperHighness Way**
 
-The **SuperHighness Way** is the **Governing Philosophy** of the Functional Architecture.
+**The SuperHighness Way** is the **Governing Philosophy** of the Functional Architecture.
 
 Its 11 Governing Standards are:
 
