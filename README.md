@@ -2438,7 +2438,8 @@ The abbreviation **M.** specifically represents **Madriñan**, preserving the id
 
 **Definitive Statement**
 
-> **Richard Madriñan Valeroso is the complete name. Richard M. Valeroso is the abbreviated form in which the middle name is Madriñan, always!. RMV is the initials-based abbreviated form. All three designate the same personal name.**
+> **Richard Madriñan Valeroso is the complete name. Richard M. Valeroso is the abbreviated form in which the middle name initial **M** is Madriñan, always!
+> RMV is the initials-based abbreviated form. All three designate the same personal name.**
 
 **Richard Madriñan Valeroso (RMV)**  
 **Richard M. Valeroso (RMV)**
