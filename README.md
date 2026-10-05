@@ -2236,7 +2236,7 @@ The complete meaning of the designation can therefore be expressed as:
 
 ---
 
-**4. Main City: Definition, Meaning, and Designated Role of Valeroso City
+**4. Main City: Definition, Meaning, and Designated Role of Valeroso City**
 
 **Definition of Main City**
 
