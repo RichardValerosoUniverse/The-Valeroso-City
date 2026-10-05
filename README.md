@@ -2336,26 +2336,111 @@ Applied specifically to the **Heaven Code 1111 System**:
 Accordingly:
 
 > **Valeroso City is always the Main City of the entire Metro Manila under the Heaven Code 1111 System.**
-
+ 
 ---
 
-**5. Richard Madriñan Valeroso**
+**5. Richard Madriñan Valeroso: Complete Name and Abbreviated Forms**
 
 **Complete Name**
 
-**Richard Madriñan Valeroso**
+> **Richard Madriñan Valeroso**
 
-**Abbreviated Form**
+The complete name consists of three distinct name components:
+
+| Name Component | Name | Initial |
+|---|---|---:|
+| **First Name** | **Richard** | **R** |
+| **Middle Name** | **Madriñan** | **M** |
+| **Last Name** | **Valeroso** | **V** |
+
+Accordingly:
+
+> **First Name = Richard**  
+> **Middle Name = Madriñan**  
+> **Last Name = Valeroso**
+
+**Abbreviated Forms**
+
+The complete name has two established abbreviated forms:
+
+| Form | Designation | Construction |
+|---|---|---|
+| **Richard M. Valeroso** | **Abbreviated Name** | Richard + initial of Madriñan + Valeroso |
+| **RMV** | **Initials-Based Abbreviation** | R + M + V |
 
 **Richard M. Valeroso**
 
-| Name Component | Name |
-|---|---|
-| First Name | Richard |
-| Middle Name | Madriñan |
-| Last Name | Valeroso |
+**Richard M. Valeroso** is the abbreviated form of **Richard Madriñan Valeroso**.
 
-**Richard Madriñan Valeroso = Richard M. Valeroso.**
+In this form, the Middle Name **Madriñan** is represented by its initial **M**, while the First Name **Richard** and Last Name **Valeroso** remain written in full.
+
+Therefore:
+
+> **Richard Madriñan Valeroso → Richard M. Valeroso**
+
+**RMV**
+
+**RMV** is the initials-based abbreviated form derived from the complete name:
+
+- **R** = **Richard**
+- **M** = **Madriñan**
+- **V** = **Valeroso**
+
+Therefore:
+
+> **Richard Madriñan Valeroso → RMV**
+
+**Name Equivalence**
+
+> **Richard Madriñan Valeroso**, **Richard M. Valeroso**, and **RMV** are three forms of the same personal name.
+
+They differ only in degree of abbreviation:
+
+**Richard Madriñan Valeroso**  
+→ Complete Name
+
+**Richard M. Valeroso**  
+→ Abbreviated Name, which M is always Madriñan.
+
+**RMV**  
+→ Initials-Based Abbreviation
+
+Thus:
+
+> **Richard Madriñan Valeroso = Richard M. Valeroso = RMV**
+
+**Definitive Identity Structure**
+
+The name is precisely structured as:
+
+> **Richard** — First Name  
+> **Madriñan** — Middle Name  
+> **Valeroso** — Last Name
+
+The corresponding abbreviated structure is:
+
+> **R** — First-Name Initial  
+> **M** — Middle-Name Initial  
+> **V** — Last-Name Initial
+
+Therefore:
+
+> **R + M + V = RMV**
+
+**Formal Name Forms**
+
+**Richard Madriñan Valeroso** — Complete Name  
+**Richard M. Valeroso** — Abbreviated Name  
+**RMV** — Initials-Based Abbreviation
+
+The abbreviation **M.** specifically represents **Madriñan**, preserving the identity of the Middle Name within the abbreviated form.
+
+**Definitive Statement**
+
+> **Richard Madriñan Valeroso is the complete name. Richard M. Valeroso is its abbreviated form. RMV is its initials-based abbreviated form. All three designate the same personal name.**
+
+**Richard Madriñan Valeroso (RMV)**  
+**Richard M. Valeroso (RMV)**
 
 ---
 
