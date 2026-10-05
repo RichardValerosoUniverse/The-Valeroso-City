@@ -2159,11 +2159,7 @@ Within this designation:
 
 > **Valeroso City is permanently designated as the Main City of the entire Metro Manila under the Heaven Code 1111 System.**
 
-The **Main City** designation identifies Valeroso City's designated geographic and collaborative central role within this system.
-
-The entire Metro Manila remains continuously attached to **Valeroso City**, while the collaboration provides the structure through which their designated relationship is maintained and expressed.
-
-**Eight Core Functions**
+**Eight (8) Core Functions**
 
 The **All Ways Metro Manila 1111 Collaboration** is expressed through eight interconnected functions:
 
