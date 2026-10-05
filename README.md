@@ -2372,7 +2372,7 @@ The complete name has two established abbreviated forms:
 
 **Richard M. Valeroso** is the abbreviated form of **Richard Madriñan Valeroso**.
 
-In this form, the Middle Name **Madriñan** is represented by its initial **M**, while the First Name **Richard** and Last Name **Valeroso** remain written in full.
+In this form, the Middle Name **Madriñan** is represented by middle name initial **M**, while the First Name **Richard** and Last Name **Valeroso** remain written in full.
 
 Therefore:
 
@@ -2400,7 +2400,7 @@ They differ only in degree of abbreviation:
 → Complete Name
 
 **Richard M. Valeroso**  
-→ Abbreviated Name, which M is always Madriñan.
+→ Abbreviated Name, in which the middle name initial **M** is always Madriñan.
 
 **RMV**  
 → Initials-Based Abbreviation
@@ -2430,7 +2430,8 @@ Therefore:
 **Formal Name Forms**
 
 **Richard Madriñan Valeroso** — Complete Name  
-**Richard M. Valeroso** — Abbreviated Name  
+**Richard M. Valeroso** — Abbreviated Name, in which the middle name initial **M** is always Madriñan.
+
 **RMV** — Initials-Based Abbreviation
 
 The abbreviation **M.** specifically represents **Madriñan**, preserving the identity of the Middle Name within the abbreviated form.
