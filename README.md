@@ -2159,29 +2159,52 @@ Within this designation:
 
 > **Valeroso City is permanently designated as the Main City of the entire Metro Manila under the Heaven Code 1111 System.**
 
-**Eight (8) Core Functions**
+**The Eight (8) Core Functions of the All Ways Metro Manila 1111 Collaboration**
 
-The **All Ways Metro Manila 1111 Collaboration** is expressed through eight interconnected functions:
+The **All Ways Metro Manila 1111 Collaboration** operates through eight interconnected functions. Each function has a distinct role, while together they establish a clear structure for maintaining relationships, enabling coordinated action, sustaining participation, and directing collaborative efforts toward shared objectives.
 
-1. **Connection** — sustaining meaningful relationships and linkages.
-2. **Collaboration** — enabling cooperation and coordinated action.
-3. **Continuity** — maintaining the relationship across time.
-4. **Belonging** — sustaining an enduring sense of connection to the shared structure.
-5. **Participation** — enabling active involvement within the designated relationship.
-6. **Inclusion** — supporting broad and meaningful participation.
-7. **Unity** — maintaining coherence around shared principles and purposes.
-8. **Shared Purpose** — directing collaborative activity toward common objectives.
+| # | Core Function | Definition | Clear Example |
+|---:|---|---|---|
+| **1** | **Connection** | **Connection is the function of establishing and maintaining direct, meaningful relationships and linkages among participating people, institutions, organizations, communities, and systems.** It provides the basic relational link through which communication, knowledge, resources, and opportunities can be exchanged. | A medical institution in Davao City establishes a formal professional link with a medical institution in Metro Manila, with designated representatives, communication channels, and regular exchanges. |
+| **2** | **Collaboration** | **Collaboration is the function of enabling two or more connected participants to work together through coordinated activities, shared expertise, and complementary resources.** It transforms an existing relationship into purposeful joint action. | A Davao City hospital and a Metro Manila hospital jointly conduct a continuing medical education program, with each institution contributing speakers, expertise, and organizational support. |
+| **3** | **Continuity** | **Continuity is the function of preserving relationships, commitments, activities, institutional knowledge, and collaborative arrangements over time.** It ensures that collaboration can continue beyond a single meeting, project, administration, or event. | After completing a joint research project, participating institutions maintain their communication channel, preserve the project records, identify future research opportunities, and continue their institutional partnership. |
+| **4** | **Belonging** | **Belonging is the function of sustaining a recognized and enduring sense of attachment to the shared collaborative structure.** It enables participants to understand that they have a meaningful place within the collaboration while retaining their own institutional or individual identity. | A professional based in Davao City continues to identify as a participating member of a collaborative medical network that includes partners in Metro Manila, even when the professional is not physically present in Metro Manila. |
+| **5** | **Participation** | **Participation is the function of enabling individuals and institutions to actively contribute to the collaboration through defined activities, responsibilities, decisions, expertise, services, or resources.** It distinguishes active involvement from merely being associated with the collaboration. | A participating university appoints faculty members to a joint research project, attends planning meetings, contributes research expertise, and takes responsibility for its assigned research activities. |
+| **6** | **Inclusion** | **Inclusion is the function of enabling diverse eligible participants to have meaningful opportunities to enter, contribute to, and benefit from the collaborative structure.** It promotes broad participation without requiring participants to have identical roles, capabilities, or institutional identities. | A collaborative medical program provides appropriate roles for physicians, nurses, researchers, educators, administrators, and community organizations, allowing each group to contribute according to its relevant expertise. |
+| **7** | **Unity** | **Unity is the function of maintaining coherence among participants through shared principles, standards, commitments, and objectives while allowing each participant to retain its distinct identity and responsibilities.** Unity creates coordinated direction without requiring institutional uniformity. | Several independent hospitals maintain their own names, leadership, policies, and operations while following agreed standards for a jointly implemented patient-safety initiative. |
+| **8** | **Shared Purpose** | **Shared Purpose is the function of establishing and maintaining the common objectives that give direction to the collaboration and provide a basis for coordinated action.** It answers the fundamental question of what the participants are collectively seeking to accomplish. | Participating medical and academic institutions establish improving medical education, advancing research, strengthening professional development, and serving communities as common objectives for their collaborative activities. |
 
-Together, these functions form a unified architecture rather than isolated objectives.
+**Functional Relationship of the Eight**
 
-**Connection** establishes relationship.  
-**Collaboration** converts relationship into cooperation.  
-**Continuity** sustains the relationship.  
-**Belonging** gives participation a sense of connection.  
-**Participation** turns connection into engagement.  
-**Inclusion** broadens meaningful engagement.  
-**Unity** creates coherence.  
-**Shared Purpose** gives the entire collaboration direction.
+The eight functions are distinct but mutually reinforcing:
+
+- **Connection** establishes the relationship.
+- **Collaboration** converts the relationship into joint action.
+- **Continuity** sustains the relationship and its activities over time.
+- **Belonging** sustains meaningful attachment to the shared structure.
+- **Participation** enables active contribution.
+- **Inclusion** broadens meaningful involvement.
+- **Unity** maintains coherence among diverse participants.
+- **Shared Purpose** establishes the common direction for collaborative activity.
+
+> **Connection establishes the link. Collaboration enables joint action. Continuity sustains the relationship. Belonging sustains attachment. Participation enables contribution. Inclusion broadens involvement. Unity maintains coherence. Shared Purpose provides direction.**
+
+**Functional Distinction**
+
+Each function addresses a different aspect of the collaboration:
+
+| Core Function | Primary Question |
+|---|---|
+| **Connection** | Who and what are meaningfully linked? |
+| **Collaboration** | How do connected participants work together? |
+| **Continuity** | How is the relationship sustained over time? |
+| **Belonging** | How is meaningful attachment to the shared structure sustained? |
+| **Participation** | How do participants actively contribute? |
+| **Inclusion** | How are meaningful opportunities for involvement broadened? |
+| **Unity** | How is coherence maintained among diverse participants? |
+| **Shared Purpose** | What common objectives direct the collaboration? |
+
+Together, the eight functions provide a **clear and non-overlapping functional structure** for the **All Ways Metro Manila 1111 Collaboration**. They distinguish the establishment of relationships, the performance of joint action, the preservation of continuity, the experience of belonging, active participation, broad inclusion, collective unity, and common purpose.
 
 **Multidimensional Scope**
 
