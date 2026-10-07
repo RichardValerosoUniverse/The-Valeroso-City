@@ -3,7 +3,7 @@
 
 **Psychiatrist Richard Madriñan Valeroso, MD, FPPA** 
 
-**(Richard Madriñan Valeroso)**
+**(Richard Madriñan Valeroso)** 🇵🇭
 
 **Summa Cum Laude (General Weighted Average: Most Perfect One (1.000)**
 
@@ -19,5 +19,5 @@
 
 **UST Department of Neurosciences and Behavioral Medicine**
 
-**UST Medicine Major with Clinical Specialization: Psychiatry**
+**UST Medicine Major with Clinical Specialization: Psychiatry** 🇵🇭
 
