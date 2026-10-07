@@ -3,7 +3,7 @@
 
 - **Psychiatrist Richard Madriñan Valeroso, MD, FPPA** 
 
-- **(Richard Madriñan Valeroso)** 🇵🇭
+- **Richard Madriñan Valeroso** 
   
 - **UST Summa Cum Laude (General Weighted Average (GWA): Most Perfect One**
 
@@ -13,7 +13,7 @@
 
 - **Richard Madriñan Valeroso University (UST)**
 
-- **UST Manila City, Metro Manila, Philippines**
+- **UST Manila City, Metro Manila, Philippines** 🇵🇭
 
 - **UST Class of 2023**
 
