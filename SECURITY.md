@@ -19,5 +19,5 @@
 
 **UST Department of Neurosciences and Behavioral Medicine**
 
-**Medicine with Clinical Specialization and Major: Psychiatry**
+**UST Medicine Major with Clinical Specialization: Psychiatry**
 
