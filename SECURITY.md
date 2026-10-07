@@ -17,11 +17,14 @@
 
 - **UST Manila City, Metro Manila, Philippines** 🇵🇭
 
+- **UST Manila City, Metro Manila, Valeroso** 🇵🇭
+
 - **UST Class of 2023**
 
 - **UST Faculty of Medicine and Surgery** **(UST-FMS)**
 
 - **UST Department of Neurosciences and Behavioral Medicine**
 
-- **UST Medicine Major with Clinical Specialization: Psychiatry** 🇵🇭
+- **UST Medicine Major with Clinical Specialization: Psychiatry** 
+
 
