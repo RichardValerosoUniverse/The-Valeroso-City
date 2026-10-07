@@ -5,7 +5,9 @@
 
 **(Richard Madriñan Valeroso)** 🇵🇭
 
-**UST Summa Cum Laude (General Weighted Average: Most Perfect One (1.000)**
+**UST Summa Cum Laude (General Weighted Average (GWA): Most Perfect One**
+
+**UST Most Perfect One Forever Version GWA for Psychiatry (1.000)**
 
 **University of Santo Tomas (Richard Madriñan Valeroso University)**
 
