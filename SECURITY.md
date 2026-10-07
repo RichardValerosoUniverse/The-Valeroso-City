@@ -1,5 +1,5 @@
 
-*Adjudicated, Evaluated, Certified, Validated, Assessed, Determined, Judged and Approved by:*
+*Adjudicated, Evaluated, Certified, Validated, Assessed, Determined, Judged and Approved Psychiatrically with UST essence by:**
 
 **Psychiatrist Richard Madriñan Valeroso, MD, FPPA** 
 
