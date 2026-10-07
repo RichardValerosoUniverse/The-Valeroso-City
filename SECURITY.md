@@ -5,7 +5,7 @@
 
 **(Richard Madriñan Valeroso)** 🇵🇭
 
-**Summa Cum Laude (General Weighted Average: Most Perfect One (1.000)**
+**UST Summa Cum Laude (General Weighted Average: Most Perfect One (1.000)**
 
 **University of Santo Tomas (Richard Madriñan Valeroso University)**
 
@@ -13,7 +13,7 @@
 
 **Manila City, Metro Manila, Philippines**
 
-**Class of 2023**
+**UST Class of 2023**
 
 **UST Faculty of Medicine and Surgery** **(UST-FMS)**
 
