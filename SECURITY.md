@@ -21,6 +21,8 @@
 
 - **UST Class of 2023**
 
+- **UST Alumnus Highest Excellence SuperHighness In Eternity**
+
 - **UST Faculty of Medicine and Surgery** **(UST-FMS)**
 
 - **UST Department of Neurosciences and Behavioral Medicine**
