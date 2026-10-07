@@ -5,9 +5,9 @@
 
 **(Richard Madriñan Valeroso)**
 
-**Summa Cum Laude (GWA: 1.000)**
+**Summa Cum Laude (General Weighted Average: Most Perfect One (1.000)**
 
-**[University of Santo Tomas (Richard Madriñan Valeroso University)]**
+**University of Santo Tomas (Richard Madriñan Valeroso University)**
 
 **[Richard Madriñan Valeroso University (UST)]**
 
