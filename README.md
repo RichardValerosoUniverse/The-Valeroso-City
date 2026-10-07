@@ -1,4 +1,4 @@
-# **THE VALEROSO CITY** 🇵🇭
+# **THE VALEROSO CITY, VALEROSO** 🇵🇭
 ## The Valeroso City: *Always First and Always*
 
 
