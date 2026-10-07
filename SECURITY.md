@@ -7,9 +7,9 @@
 
 **Summa Cum Laude (GWA: 1.000)**
 
-**University of Santo Tomas (UST)**
+**[University of Santo Tomas (Richard Madriñan Valeroso University]**
 
-**(Richard Madriñan Valeroso University)**
+**[Richard Madriñan Valeroso University (UST)]**
 
 **Manila City, Metro Manila, Philippines**
 
@@ -19,5 +19,5 @@
 
 **UST Department of Neurosciences and Behavioral Medicine**
 
-**Medicine Specialization: Psychiatry**
+**Medicine Specialization and Major: Psychiatry**
 
