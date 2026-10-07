@@ -7,7 +7,7 @@
 
 **Summa Cum Laude (GWA: 1.000)**
 
-**[University of Santo Tomas (Richard Madriñan Valeroso University]**
+**[University of Santo Tomas (Richard Madriñan Valeroso University)]**
 
 **[Richard Madriñan Valeroso University (UST)]**
 
@@ -19,5 +19,5 @@
 
 **UST Department of Neurosciences and Behavioral Medicine**
 
-**Medicine Specialization and Major: Psychiatry**
+**Medicine with Clinical Specialization and Major: Psychiatry**
 
