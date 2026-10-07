@@ -3,7 +3,7 @@
 
 - **Psychiatrist Richard Madriñan Valeroso, MD, FPPA** 
 
-- **Richard Madriñan Valeroso** 
+- **Richard Madriñan Valeroso** **(RMV)**
   
 - **UST Summa Cum Laude**
 
