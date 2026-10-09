@@ -3223,10 +3223,14 @@ And ultimately:
 > This copyright notice applies to the original works, writings, articles, titles, and systems authored by Super Yours Truly: Richard Madriñan Valeroso
 
 1. The Arch of Centuries by UST
-2. The Valeroso City World Elite Medicine System,
+2. The Valeroso City World Elite Medicine System
 3. The Valeroso City Government
 4. The Truer and Truest Designation
 5. The Identity System
 6. The 2026 and Beyond Valeroso Constitution
+7. The Valeroso City Street of Blue Skies
+8. The Valeroso City Code and Identity Architecture
+9. The Valeroso City, Valeroso
+10. The First and Always
   
 > to the extent protected by applicable law.
