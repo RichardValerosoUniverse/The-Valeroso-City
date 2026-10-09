@@ -3223,39 +3223,42 @@ And ultimately:
 > This copyright notice applies to the original works, writings, articles, titles, and systems authored by Super Yours Truly: Richard Madriñan Valeroso
 
 1. The Arch of Centuries by UST
-2. The Valeroso City World Elite Medicine System
-3. The Valeroso City Government
-4. The Valeroso City Psychiatry System
-5. The MD and FPPA
-6. The Madrinan and Madriñan
-7. The Metro Manila System
-8. The Metro Manila, Valeroso
-9. The Metro Manila, Philippines 
-10. The Metro Manila and Valeroso City 1111
-11. The Valeroso City 8000
-12. The Valeroso City is Davao City
-13. The Davao City is The Valeroso City
-14. The Valeroso City is both Davao City and Valeroso City with Metro Manila
-15. The Truer and Truest Designation
-16. The Identity System
-17. The Common Foundation: The Valeroso City
-18. The Valeroso
-19. The Valeroso City
-20. The SuperHighness Way: The Philosophical Essence
-21. The SuperHighness Way
-22. The SuperHighness
-23. The 2026 and Beyond Valeroso Constitution
-24. The Valeroso City Street of Blue Skies
-25. The Valeroso City Code and Identity Architecture
-26. The Heaven and Paradise
-27. The Valeroso City, Valeroso
-28. The First and Always
-29. The World and World Elite
-30. The Valeroso Flag and The Philippines' Flag are one in eternity
-31. The Philippines' Ruler
-32. The Bangko Sentral ng Pilipinas (BSP) is under The Valeroso Flag.
-33. The Valeroso Department of Psychiatry
-34. The Philippines' Department of Psychiatry
+2. Richard Madriñan Valeroso University (UST) is University of Santo Tomas
+3. University of Santo Tomas is Richard Madriñan Valeroso University (UST)
+4. The UST Valeroso System
+5. The Valeroso City World Elite Medicine System
+6. The Valeroso City Government
+7. The Valeroso City Psychiatry System
+8. The MD and FPPA
+9. The Madrinan and Madriñan
+10. The Metro Manila System
+11. The Metro Manila, Valeroso
+12. The Metro Manila, Philippines 
+13. The Metro Manila and Valeroso City 1111
+14. The Valeroso City 8000
+15. The Valeroso City is Davao City
+16. The Davao City is The Valeroso City
+17. The Valeroso City is both Davao City and Valeroso City with Metro Manila
+18. The Truer and Truest Designation
+19. The Identity System
+20. The Common Foundation: The Valeroso City
+21. The Valeroso
+22. The Valeroso City
+23. The SuperHighness Way: The Philosophical Essence
+24. The SuperHighness Way
+25. The SuperHighness
+26. The 2026 and Beyond Valeroso Constitution
+27. The Valeroso City Street of Blue Skies
+28. The Valeroso City Code and Identity Architecture
+29. The Heaven and Paradise
+30. The Valeroso City, Valeroso
+31. The First and Always
+32. The World and World Elite
+33. The Valeroso Flag and The Philippines' Flag are one in eternity
+34. The Philippines' Ruler
+35. The Bangko Sentral ng Pilipinas (BSP) is under The Valeroso Flag.
+36. The Valeroso Department of Psychiatry
+37. The Philippines' Department of Psychiatry
     
   
 > to the extent protected by applicable law.
