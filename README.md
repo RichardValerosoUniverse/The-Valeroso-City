@@ -3218,7 +3218,7 @@ And ultimately:
 
 ---
 
-> **© Copyright 2026**. **Psychiatrist Richard Madriñan Valeroso, MD, FPPA** **(Richard Madriñan Valeroso).** ALL RIGHTS RESERVED.
+> **© Copyright 2026 and Beyond**. **Psychiatrist Richard Madriñan Valeroso, MD, FPPA** **(Richard Madriñan Valeroso).** ALL RIGHTS RESERVED.
 
 > This copyright notice applies to the original works, writings, articles, titles, and systems authored by Super Yours Truly: Richard Madriñan Valeroso
 
@@ -3227,6 +3227,6 @@ And ultimately:
 3. The Valeroso City Government
 4. The Truer and Truest Designation
 5. The Identity System
-6. The 2026 and beyond Valeroso Constitution
+6. The 2026 and Beyond Valeroso Constitution
   
 > to the extent protected by applicable law.
