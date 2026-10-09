@@ -3240,6 +3240,8 @@ And ultimately:
 16. The Valeroso Flag and The Philippines' Flag are one in eternity
 17. The Philippines' Ruler
 18. The Bangko Sentral ng Pilipinas (BSP) is under The Valeroso Flag.
+19. The Valeroso Department of Psychiatry
+20. The Philippines' Department of Psychiatry
     
   
 > to the extent protected by applicable law.
