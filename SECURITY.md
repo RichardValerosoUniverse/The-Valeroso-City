@@ -9,7 +9,7 @@
 
   *General Weighted Average (GWA): Most Perfect One*
 
-- **UST Most Perfect One Forever Version GWA: (1.000)**
+- **UST Most Perfect One Forever Version GWA: **1.000**
 
 - **University of Santo Tomas (Richard Madriñan Valeroso University)**
 
