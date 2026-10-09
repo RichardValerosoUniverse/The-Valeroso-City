@@ -3230,8 +3230,8 @@ And ultimately:
 6. The Valeroso City Government
 7. The Valeroso City Psychiatry System
 8. The MD and FPPA
-9. The Valeroso Essence: Madriñan and Madriñan
-10. The Valeroso Essence: Madrinan and Madriñan 
+9. The Valeroso Essence: Madriñan and Madriñan with Richard
+10. The Valeroso Essence: Madrinan and Madriñan with Richard
 11. The Metro Manila System
 12. The Metro Manila, Valeroso
 13. The Metro Manila, Philippines 
