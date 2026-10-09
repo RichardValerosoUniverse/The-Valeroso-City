@@ -321,9 +321,9 @@ The structure can therefore be stated in complete sentences:
 
 *Always* **The Valeroso City.**
 
-*Always* **The Valeroso Flag** **(🇵🇭).**
+*Always* **The Valeroso Flag** **🇵🇭**
 
-*Always* **One Valeroso Nation & World Elite**.
+*Always* **One Valeroso World Elite**.
 
 ---
 
