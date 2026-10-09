@@ -3236,5 +3236,9 @@ And ultimately:
 12. The Valeroso City Code and Identity Architecture
 13. The Valeroso City, Valeroso
 14. The First and Always
+15. The World and World Elite
+16. The Valeroso Flag and The Philippines' Flag are one in eternity
+    
+    
   
 > to the extent protected by applicable law.
