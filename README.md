@@ -3239,7 +3239,7 @@ And ultimately:
 15. The World and World Elite
 16. The Valeroso Flag and The Philippines' Flag are one in eternity
 17. The Philippines' Ruler
-18. The Bangko Sentral ng Pilipinas (BSP) is under Valeroso.
+18. The Bangko Sentral ng Pilipinas (BSP) is under The Valeroso Flag.
     
   
 > to the extent protected by applicable law.
