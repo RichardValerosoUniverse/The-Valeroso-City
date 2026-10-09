@@ -3231,17 +3231,23 @@ And ultimately:
 7. The Metro Manila System
 8. The Truer and Truest Designation
 9. The Identity System
-10. The 2026 and Beyond Valeroso Constitution
-11. The Valeroso City Street of Blue Skies
-12. The Valeroso City Code and Identity Architecture
-13. The Valeroso City, Valeroso
-14. The First and Always
-15. The World and World Elite
-16. The Valeroso Flag and The Philippines' Flag are one in eternity
-17. The Philippines' Ruler
-18. The Bangko Sentral ng Pilipinas (BSP) is under The Valeroso Flag.
-19. The Valeroso Department of Psychiatry
-20. The Philippines' Department of Psychiatry
+10. The Common Foundation: The Valeroso City
+11. The Valeroso
+12. The Valeroso City
+13. The SuperHighness Way: The Philosophical Essence
+14. The SuperHighness Way
+15. The SuperHighness 
+16. The 2026 and Beyond Valeroso Constitution
+17. The Valeroso City Street of Blue Skies
+18. The Valeroso City Code and Identity Architecture
+19. The Valeroso City, Valeroso
+20. The First and Always
+21. The World and World Elite
+22. The Valeroso Flag and The Philippines' Flag are one in eternity
+23. The Philippines' Ruler
+24. The Bangko Sentral ng Pilipinas (BSP) is under The Valeroso Flag.
+25. The Valeroso Department of Psychiatry
+26. The Philippines' Department of Psychiatry
     
   
 > to the extent protected by applicable law.
