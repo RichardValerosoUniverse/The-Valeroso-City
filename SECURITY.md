@@ -7,7 +7,7 @@
   
 - **UST Summa Cum Laude**
 
-> *General Weighted Average (GWA): Most Perfect One*
+- [*UST General Weighted Average (GWA): Most Perfect One*]
 
 - **UST Most Perfect One Forever Version GWA: (1.000)**
 
@@ -27,6 +27,6 @@
 
 - **UST Department of Neurosciences and Behavioral Medicine**
 
-> *UST Medicine Major and Specialization: Psychiatry*
+- [*Medicine Major and Specialization: Psychiatry*]
 
 
