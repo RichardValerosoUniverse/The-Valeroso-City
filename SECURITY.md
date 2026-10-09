@@ -3,11 +3,11 @@
 
 - **Psychiatrist Richard Madriñan Valeroso, MD, FPPA** 
 
-- **Richard Madriñan Valeroso** **(RMV)**
+  *Richard Madriñan Valeroso** **(RMV)*
   
 - **UST Summa Cum Laude**
 
-  [*UST General Weighted Average (GWA): Most Perfect One*]
+  *General Weighted Average (GWA): Most Perfect One*
 
 - **UST Most Perfect One Forever Version GWA: (1.000)**
 
@@ -27,6 +27,6 @@
 
 - **UST Department of Neurosciences and Behavioral Medicine**
 
- [*Medicine Major and Specialization: Psychiatry*]
+  *Medicine Major and Specialization: Psychiatry*
 
 
