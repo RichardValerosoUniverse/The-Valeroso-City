@@ -3238,6 +3238,7 @@ And ultimately:
 14. The First and Always
 15. The World and World Elite
 16. The Valeroso Flag and The Philippines' Flag are one in eternity
+17. The Philippines' Ruler
     
     
   
