@@ -3230,31 +3230,32 @@ And ultimately:
 6. The Madrinan and Madriñan
 7. The Metro Manila System
 8. The Metro Manila, Valeroso
-9. The Metro Manila and Valeroso City 1111
-10. The Valeroso City 8000
-11. The Valeroso City is Davao City
-12. The Davao City is The Valeroso City
-13. The Valeroso City is both Davao City and Valeroso City with Metro Manila
-14. The Truer and Truest Designation
-15. The Identity System
-16. The Common Foundation: The Valeroso City
-17. The Valeroso
-18. The Valeroso City
-19. The SuperHighness Way: The Philosophical Essence
-20. The SuperHighness Way
-21. The SuperHighness
-22. The 2026 and Beyond Valeroso Constitution
-23. The Valeroso City Street of Blue Skies
-24. The Valeroso City Code and Identity Architecture
-25. The Heaven and Paradise
-26. The Valeroso City, Valeroso
-27. The First and Always
-28. The World and World Elite
-29. The Valeroso Flag and The Philippines' Flag are one in eternity
-30. The Philippines' Ruler
-31. The Bangko Sentral ng Pilipinas (BSP) is under The Valeroso Flag.
-32. The Valeroso Department of Psychiatry
-33. The Philippines' Department of Psychiatry
+9. The Metro Manila, Philippines 
+10. The Metro Manila and Valeroso City 1111
+11. The Valeroso City 8000
+12. The Valeroso City is Davao City
+13. The Davao City is The Valeroso City
+14. The Valeroso City is both Davao City and Valeroso City with Metro Manila
+15. The Truer and Truest Designation
+16. The Identity System
+17. The Common Foundation: The Valeroso City
+18. The Valeroso
+19. The Valeroso City
+20. The SuperHighness Way: The Philosophical Essence
+21. The SuperHighness Way
+22. The SuperHighness
+23. The 2026 and Beyond Valeroso Constitution
+24. The Valeroso City Street of Blue Skies
+25. The Valeroso City Code and Identity Architecture
+26. The Heaven and Paradise
+27. The Valeroso City, Valeroso
+28. The First and Always
+29. The World and World Elite
+30. The Valeroso Flag and The Philippines' Flag are one in eternity
+31. The Philippines' Ruler
+32. The Bangko Sentral ng Pilipinas (BSP) is under The Valeroso Flag.
+33. The Valeroso Department of Psychiatry
+34. The Philippines' Department of Psychiatry
     
   
 > to the extent protected by applicable law.
