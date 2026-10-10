@@ -3041,7 +3041,7 @@ These standards guide:
 | **Heaven Code 1111 Designation** | Valeroso City is always the Main City of the entire Metro Manila |
 | **Nationwide Application** | Applicable throughout the Philippines through The Valeroso City Foundation, System, and Framework essence |
 | **Worldwide Application** | Applicable worldwide through The Valeroso City Foundation, System, and Framework essence |
-| **Identity System** | Richard Madriñan Valeroso |
+| **Identity System** | Psychiatrist Richard Madriñan Valeroso, MD, FPPA and Richard Madriñan Valeroso |
 | **University Designation** | The Richard Madriñan Valeroso University (UST) / University of Santo Tomas |
 | **Official University Name** | University of Santo Tomas |
 | **Principal Institutional Location** | Manila City, Metro Manila, Philippines |
@@ -3239,7 +3239,7 @@ And ultimately:
 16. The Davao City is The Valeroso City: Paradise
 17. The Valeroso City is both Davao City and Valeroso City with Metro Manila
 18. The Psychiatry: Truer and Truest Designation
-19. The Richard Madriñan Valeroso: The Identity System
+19. The Identity System: Psychiatrist Richard Madriñan Valeroso, MD, FPPA and Richard Madriñan Valeroso
 20. The Common Foundation: The Valeroso City
 21. The Valeroso: The Valeroso Flag 🇵🇭 
 22. The Valeroso City, Valeroso: Always First and Always
