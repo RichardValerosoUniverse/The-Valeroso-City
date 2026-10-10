@@ -11,7 +11,7 @@
 
 - **UST Most Perfect One Forever Version GWA:** **1.000**
 
-- **University of Santo Tomas (Richard Madriñan Valeroso University)**
+- **University of Santo Tomas (The Richard Madriñan Valeroso University)**
 
 - **The Richard Madriñan Valeroso University (UST)**
 
