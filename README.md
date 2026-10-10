@@ -3222,7 +3222,7 @@ And ultimately:
 
 > This copyright notice applies to the original works, writings, articles, titles, and systems authored by Super Yours Truly: Richard Madriñan Valeroso
 
-1. The Arch of Centuries by UST
+1. The Arch of Centuries by UST: The First and Always
 2. Richard Madriñan Valeroso University (UST) is University of Santo Tomas
 3. University of Santo Tomas is Richard Madriñan Valeroso University (UST)
 4. The UST Valeroso System
@@ -3236,8 +3236,8 @@ And ultimately:
 12. The Metro Manila System
 13. The Metro Manila, Valeroso
 14. The Metro Manila, Philippines 
-15. The Metro Manila and Valeroso City 1111
-16. The Valeroso City 8000
+15. The Metro Manila and Valeroso City 1111: Heaven
+16. The Valeroso City 8000: Paradise
 17. The Valeroso City is Davao City
 18. The Davao City is The Valeroso City
 19. The Valeroso City is both Davao City and Valeroso City with Metro Manila
@@ -3252,15 +3252,13 @@ And ultimately:
 28. The 2026 and Beyond Valeroso Constitution
 29. The Valeroso City Street of Blue Skies
 30. The Valeroso City Code and Identity Architecture
-31. The Heaven and Paradise
-32. The Valeroso City, Valeroso
-33. The First and Always
-34. The World and World Elite
-35. The Valeroso Flag and The Philippines' Flag are one in eternity
-36. The Philippines' Ruler
-37. The Bangko Sentral ng Pilipinas (BSP) is under The Valeroso Flag.
-38. The Valeroso Department of Psychiatry
-39. The Philippines' Department of Psychiatry
+31. The Valeroso City, Valeroso
+32. The World and World Elite
+33. The Valeroso Flag and The Philippines' Flag are one in eternity
+34. The Philippines' Ruler
+35. The Bangko Sentral ng Pilipinas (BSP) is under The Valeroso Flag.
+36. The Valeroso Department of Psychiatry
+37. The Philippines' Department of Psychiatry
     
   
 > to the extent protected by applicable law.
