@@ -3246,7 +3246,7 @@ And ultimately:
 22. The Valeroso City, Valeroso: Always First and Always
 23. The SuperHighness Way: The Philosophical Essence with UST
 24. The SuperHighness Way is Psychiatrist Richard Madriñan Valeroso, MD, FPPA and Richard Madriñan Valeroso
-25. The SuperHighness is Richard Madriñan Valeroso
+25. The SuperHighness is Psychiatrist Richard Madriñan Valeroso, MD, FPPA and Richard Madriñan Valeroso
 26. The 2026 and Beyond Valeroso Constitution
 27. The Valeroso City Street of Blue Skies: Authored and Written by UST
 28. The Valeroso City Code and Identity Architecture: Authored and Written by UST
