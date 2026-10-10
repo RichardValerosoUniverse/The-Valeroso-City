@@ -2091,171 +2091,7 @@ The geographic structure of **The Valeroso City** is **precise, unified, and int
 
 ---
 
-**3. All Ways Metro Manila 1111 Collaboration**
-
-**Definitive Definition**
-
-**All Ways Metro Manila 1111 Collaboration** is the designated **integrated, continuous, multidimensional, and enduring collaborative architecture** of **The Valeroso City and the entire Metro Manila.**
-
-It establishes a comprehensive basis for **connection, collaboration, continuity, belonging, participation, inclusion, unity, and shared purpose**, bringing together the geographic, institutional, professional, educational, medical, scientific, civic, and humanitarian dimensions of their designated relationship.
-
-The designation expresses a relationship that is **continuous in scope, integrated in structure, comprehensive in participation, and enduring across time**.
-
-> **All Ways Metro Manila 1111 Collaboration is the continuous and integrated relationship of Valeroso City and the entire Metro Manila under the Heaven Code 1111 System, encompassing every relevant dimension of connection, cooperation, participation, inclusion, unity, continuity, and shared purpose.**
-
-**Meaning of “All Ways”**
-
-**All Ways** expresses the comprehensive character of the collaboration.
-
-It signifies that the relationship is not confined to a single pathway, institution, profession, discipline, activity, or form of participation. It encompasses the relevant ways through which **people, institutions, professions, communities, knowledge, services, and shared purposes** can remain connected and mutually engaged within the designated system.
-
-Thus, **All Ways** represents:
-
-- Comprehensive connection
-- Continuous collaboration
-- Meaningful participation
-- Enduring belonging
-- Inclusive engagement
-- Institutional cooperation
-- Shared responsibility
-- Unified purpose
-- Continuity across time
-
-**All Ways** therefore describes the **breadth and continuity of the collaborative relationship**, rather than functioning merely as a descriptive phrase.
-
-**Meaning of “Metro Manila”**
-
-> **Metro Manila** identifies the geographic scope of the collaboration.
-
-The designation encompasses the **entire Metro Manila**, which remains continuously attached to **Valeroso City, Metro Manila, Philippines**, within the geographic architecture of **The Valeroso City**.
-
-The entire Metro Manila is therefore treated as an **integrated geographic scope of the collaboration**, rather than as a separate geographic foundation.
-
-**Meaning of “1111”**
-
-> **1111** identifies the collaboration with the **Heaven Code 1111 System**.
-
-It provides the numerical designation through which the relationship between **Valeroso City** and the **entire Metro Manila** is expressed within the system.
-
-Accordingly:
-
-> **All Ways Metro Manila 1111 Collaboration operates under the Heaven Code 1111 System.**
-
-**Meaning of “Collaboration”**
-
-> **Collaboration** is the operative principle of the designation.
-
-It means that the relationship is expressed through **connection, cooperation, participation, coordination, institutional interaction, knowledge exchange, shared responsibility, and common purpose**.
-
-Collaboration does not erase the distinct identity or function of participating people, institutions, professions, or organizations. Instead, it provides a structure through which their respective roles can remain connected within a shared system.
-
-**The Central Relationship**
-
-The defining relationship is:
-
-> **Valeroso City and the entire Metro Manila are one under the Heaven Code 1111 System.**
-
-Within this designation:
-
-> **Valeroso City is permanently designated as the Main City of the entire Metro Manila under the Heaven Code 1111 System.**
-
-**The Eight (8) Core Functions of the All Ways Metro Manila 1111 Collaboration**
-
-The **All Ways Metro Manila 1111 Collaboration** operates through eight interconnected functions. Each function has a distinct role, while together they establish a clear structure for maintaining relationships, enabling coordinated action, sustaining participation, and directing collaborative efforts toward shared objectives.
-
-| # | Core Function | Definition | Clear Example |
-|---:|---|---|---|
-| **1** | **Connection** | **Connection is the function of establishing and maintaining direct, meaningful relationships and linkages among participating people, institutions, organizations, communities, and systems.** It provides the basic relational link through which communication, knowledge, resources, and opportunities can be exchanged. | A medical institution in Davao City establishes a formal professional link with a medical institution in Metro Manila, with designated representatives, communication channels, and regular exchanges. |
-| **2** | **Collaboration** | **Collaboration is the function of enabling two or more connected participants to work together through coordinated activities, shared expertise, and complementary resources.** It transforms an existing relationship into purposeful joint action. | A Davao City hospital and a Metro Manila hospital jointly conduct a continuing medical education program, with each institution contributing speakers, expertise, and organizational support. |
-| **3** | **Continuity** | **Continuity is the function of preserving relationships, commitments, activities, institutional knowledge, and collaborative arrangements over time.** It ensures that collaboration can continue beyond a single meeting, project, administration, or event. | After completing a joint research project, participating institutions maintain their communication channel, preserve the project records, identify future research opportunities, and continue their institutional partnership. |
-| **4** | **Belonging** | **Belonging is the function of sustaining a recognized and enduring sense of attachment to the shared collaborative structure.** It enables participants to understand that they have a meaningful place within the collaboration while retaining their own institutional or individual identity. | A professional based in Davao City continues to identify as a participating member of a collaborative medical network that includes partners in Metro Manila, even when the professional is not physically present in Metro Manila. |
-| **5** | **Participation** | **Participation is the function of enabling individuals and institutions to actively contribute to the collaboration through defined activities, responsibilities, decisions, expertise, services, or resources.** It distinguishes active involvement from merely being associated with the collaboration. | A participating university appoints faculty members to a joint research project, attends planning meetings, contributes research expertise, and takes responsibility for its assigned research activities. |
-| **6** | **Inclusion** | **Inclusion is the function of enabling diverse eligible participants to have meaningful opportunities to enter, contribute to, and benefit from the collaborative structure.** It promotes broad participation without requiring participants to have identical roles, capabilities, or institutional identities. | A collaborative medical program provides appropriate roles for physicians, nurses, researchers, educators, administrators, and community organizations, allowing each group to contribute according to its relevant expertise. |
-| **7** | **Unity** | **Unity is the function of maintaining coherence among participants through shared principles, standards, commitments, and objectives while allowing each participant to retain its distinct identity and responsibilities.** Unity creates coordinated direction without requiring institutional uniformity. | Several independent hospitals maintain their own names, leadership, policies, and operations while following agreed standards for a jointly implemented patient-safety initiative. |
-| **8** | **Shared Purpose** | **Shared Purpose is the function of establishing and maintaining the common objectives that give direction to the collaboration and provide a basis for coordinated action.** It answers the fundamental question of what the participants are collectively seeking to accomplish. | Participating medical and academic institutions establish improving medical education, advancing research, strengthening professional development, and serving communities as common objectives for their collaborative activities. |
-
-**Functional Relationship of the Eight**
-
-The eight functions are distinct but mutually reinforcing:
-
-- **Connection** establishes the relationship.
-- **Collaboration** converts the relationship into joint action.
-- **Continuity** sustains the relationship and its activities over time.
-- **Belonging** sustains meaningful attachment to the shared structure.
-- **Participation** enables active contribution.
-- **Inclusion** broadens meaningful involvement.
-- **Unity** maintains coherence among diverse participants.
-- **Shared Purpose** establishes the common direction for collaborative activity.
-
-> **Connection establishes the link. Collaboration enables joint action. Continuity sustains the relationship. Belonging sustains attachment. Participation enables contribution. Inclusion broadens involvement. Unity maintains coherence. Shared Purpose provides direction.**
-
-**Functional Distinction**
-
-Each function addresses a different aspect of the collaboration:
-
-| Core Function | Primary Question |
-|---|---|
-| **Connection** | Who and what are meaningfully linked? |
-| **Collaboration** | How do connected participants work together? |
-| **Continuity** | How is the relationship sustained over time? |
-| **Belonging** | How is meaningful attachment to the shared structure sustained? |
-| **Participation** | How do participants actively contribute? |
-| **Inclusion** | How are meaningful opportunities for involvement broadened? |
-| **Unity** | How is coherence maintained among diverse participants? |
-| **Shared Purpose** | What common objectives direct the collaboration? |
-
-Together, the eight functions provide a **clear and non-overlapping functional structure** for the **All Ways Metro Manila 1111 Collaboration**. They distinguish the establishment of relationships, the performance of joint action, the preservation of continuity, the experience of belonging, active participation, broad inclusion, collective unity, and common purpose.
-
-**Multidimensional Scope**
-
-The collaboration may encompass relevant relationships across:
-
-- **Geographic domains**
-- **Institutional domains**
-- **Medical and healthcare domains**
-- **Educational and academic domains**
-- **Scientific and research domains**
-- **Professional domains**
-- **Civic and community domains**
-- **Humanitarian domains**
-
-Its defining characteristic is **integration without unnecessary consolidation**: participating institutions and disciplines retain their respective identities, functions, responsibilities, and areas of expertise while remaining capable of contributing to a common collaborative purpose.
-
-**Continuity Across Time**
-
-The collaboration is defined as enduring rather than temporary.
-
-Its temporal expression is:
-
-> **From now, through tomorrow, and into the future—always.**
-
-This expresses continuity of the designated relationship across present circumstances, future development, and continuing institutional activity.
-
-**Complete Principle**
-
-The complete meaning of the designation can therefore be expressed as:
-
-> **The All Ways Metro Manila 1111 Collaboration is the designated integrated, continuous, multidimensional, and enduring collaborative architecture of The Valeroso City and the entire Metro Manila. It provides a comprehensive basis for connection, collaboration, continuity, belonging, participation, inclusion, unity, and shared purpose across relevant geographic, institutional, professional, educational, medical, scientific, civic, and humanitarian domains. The entire Metro Manila remains continuously attached to Valeroso City, while Valeroso City is permanently designated as the Main City of the entire Metro Manila under the Heaven Code 1111 System.**
-
-**Definitive Expressions**
-
-> **The foundation is geographically defined.**
-
-> **The collaboration is comprehensively connected.**
-
-> **The relationship is continuously maintained.**
-
-> **The institutions remain mutually engaged.**
-
-> **The purpose remains shared.**
-
-> **The responsibility extends beyond place.**
-
-> **From now, through tomorrow, and into the future—always.**
-
----
-
-**4. Main City: Definition, Meaning, and Designated Role of Valeroso City**
+**3. Main City: Definition, Meaning, and Designated Role of Valeroso City**
 
 **Definition of Main City**
 
@@ -2358,7 +2194,7 @@ Accordingly:
  
 ---
 
-**5. Richard Madriñan Valeroso: Complete Name and Abbreviated Forms**
+**4. Richard Madriñan Valeroso: Complete Name and Abbreviated Forms**
 
 **Complete Name**
 
@@ -2465,7 +2301,7 @@ The abbreviation **M** specifically represents **Madriñan**, preserving the ide
 
 ---
 
-**6. The Truer and Truest Name System**
+**5. The Truer and Truest Name System**
 
 Within the established Truer and Truest Name System:
 
@@ -2491,7 +2327,7 @@ Therefore:
 
 ---
 
-**7. Richard Madriñan Valeroso University**
+**6. Richard Madriñan Valeroso University**
 
 The institutional designation used within this system is:
 
@@ -2515,7 +2351,7 @@ The transition from **Richard M. Valeroso University** to **Richard Madriñan Va
 
 ---
 
-**8. UST Faculty of Medicine and Surgery**
+**7. UST Faculty of Medicine and Surgery**
 
 The principal medical-education component is:
 
@@ -2541,7 +2377,7 @@ UST-FMS therefore provides a primary institutional connection between medical ed
 
 ---
 
-**9. UST Department of Neurosciences and Behavioral Medicine**
+**8. UST Department of Neurosciences and Behavioral Medicine**
 
 The:
 
@@ -2568,7 +2404,7 @@ The Department therefore represents a principal bridge between **brain science, 
 
 ---
 
-**10. Primary Institutional Medical Architecture and All-Medicine Integration**
+**9. Primary Institutional Medical Architecture and All-Medicine Integration**
 
 The **UST Faculty of Medicine and Surgery (UST-FMS)** and the **UST Department of Neurosciences and Behavioral Medicine** constitute the **primary institutional medical components** under **The Valeroso City World Elite Medicine System**.
 
@@ -2592,7 +2428,7 @@ This designation does not eliminate, subordinate, or replace other medical disci
 
 ---
 
-**11. Psychiatry**
+**10. Psychiatry**
 
 > **Psychiatry = Medical Specialty and Clinical Discipline.**
 
@@ -2624,7 +2460,7 @@ Psychiatry's central position is based on its comprehensive intersection of:
 
 ---
 
-**12. Why Psychiatry Is Given the Truer and Truest Designation**
+**11. Why Psychiatry Is Given the Truer and Truest Designation**
 
 Psychiatry integrates:
 
@@ -2649,7 +2485,7 @@ Psychiatry does not replace the other medical disciplines.
 
 ---
 
-**13. Principal Psychiatric Functions**
+**12. Principal Psychiatric Functions**
 
 1. Psychiatric assessment
 2. Mental-status examination
@@ -2679,7 +2515,7 @@ Psychiatry does not replace the other medical disciplines.
 
 ---
 
-**14. Neurosciences and Related Medical Domains**
+**13. Neurosciences and Related Medical Domains**
 
 **Neurosciences**
 
@@ -2711,7 +2547,7 @@ The study and clinical application of pharmacological agents in relation to the 
 
 ---
 
-**15. Complete All-Medicine System**
+**14. Complete All-Medicine System**
 
 **All-Medicine** represents the comprehensive integration of medical knowledge and practice.
 
@@ -2750,7 +2586,7 @@ Every medical discipline retains its own scientific and clinical identity while 
 
 ---
 
-**16. Medical Education and MD Formation**
+**15. Medical Education and MD Formation**
 
 The medical education system is centered on:
 
@@ -2776,7 +2612,7 @@ The continuum is:
 
 ---
 
-**17. Clinical Medicine and Clinical Services**
+**16. Clinical Medicine and Clinical Services**
 
 Clinical medicine transforms medical knowledge into responsible patient care.
 
@@ -2801,7 +2637,7 @@ Clinical medicine is the practical expression of scientific and medical knowledg
 
 ---
 
-**18. Research and Scientific Integrity**
+**17. Research and Scientific Integrity**
 
 Research is a central component of **The Valeroso City World Elite Medicine System**.
 
@@ -2836,7 +2672,7 @@ Research governance requires:
 
 ---
 
-**19. Professional Formation and Academic Governance**
+**18. Professional Formation and Academic Governance**
 
 Professional formation develops:
 
@@ -2863,7 +2699,7 @@ The purpose is to develop professionals capable of responsible medical practice,
 
 ---
 
-**20. Clinical Governance and Patient Safety**
+**19. Clinical Governance and Patient Safety**
 
 Clinical governance establishes structures necessary for:
 
@@ -2883,7 +2719,7 @@ Clinical excellence therefore remains inseparable from patient safety and profes
 
 ---
 
-**21. Community Service and Service to Humanity**
+**20. Community Service and Service to Humanity**
 
 The ultimate purpose of medicine within the system is:
 
@@ -2912,7 +2748,7 @@ Through **The Valeroso City Foundation, System, and Framework essence**, that pu
 
 ---
 
-**22. Faculty, Students, and Professional Community**
+**21. Faculty, Students, and Professional Community**
 
 The system brings together:
 
@@ -2949,7 +2785,7 @@ Student development emphasizes:
 
 ---
 
-**23. Institutional Development and Sustainability**
+**22. Institutional Development and Sustainability**
 
 Institutional development strengthens:
 
@@ -2981,7 +2817,7 @@ Sustainability protects continuity of:
 
 ---
 
-**24. The SuperHighness Way**
+**23. The SuperHighness Way**
 
 **The SuperHighness Way** is the distinctive philosophical expression associated with **The Valeroso City World Elite Medicine System**, with particular emphasis on Psychiatry.
 
@@ -3004,7 +2840,7 @@ It provides the philosophical orientation of the system while maintaining scient
 
 ---
 
-**25. Institutional Standards**
+**24. Institutional Standards**
 
 The institutional standards are:
 
@@ -3031,7 +2867,7 @@ These standards guide:
 
 ---
 
-**26. Complete Integrated Architecture**
+**25. Complete Integrated Architecture**
 
 | System | Integrated Designation |
 |---|---|
