@@ -3233,32 +3233,30 @@ And ultimately:
 9. The Valeroso Essence: Madriñan and Madriñan with Richard
 10. The Valeroso Essence: Madrinan and Madriñan with Richard
 11. The Richard Madriñan Valeroso: RMV
-12. The Metro Manila System
-13. The Metro Manila, Valeroso
-14. The Metro Manila, Philippines 
-15. The Metro Manila and Valeroso City 1111: Heaven
-16. The Valeroso City 8000: Paradise
-17. The Valeroso City is Davao City
-18. The Davao City is The Valeroso City
-19. The Valeroso City is both Davao City and Valeroso City with Metro Manila
-20. The Psychiatry: Truer and Truest Designation
-21. The Richard Madriñan Valeroso: The Identity System
-22. The Common Foundation: The Valeroso City
-23. The Valeroso: The Valeroso Flag 🇵🇭 
-24. The Valeroso City
-25. The SuperHighness Way: The Philosophical Essence
-26. The SuperHighness Way
-27. The SuperHighness
-28. The 2026 and Beyond Valeroso Constitution
-29. The Valeroso City Street of Blue Skies
-30. The Valeroso City Code and Identity Architecture
-31. The Valeroso City, Valeroso
-32. The World and World Elite
-33. The Valeroso Flag 🇵🇭 and The Philippines' Flag 🇵🇭 are one in eternity
-34. The Philippines' Ruler
-35. The Bangko Sentral ng Pilipinas (BSP) is under The Valeroso Flag 🇵🇭.
-36. The Valeroso Department of Psychiatry
-37. The Philippines' Department of Psychiatry
+12. The Metro Manila System is Valeroso System
+13. 15. The Metro Manila and Valeroso City 1111: Heaven
+14. The Valeroso City 8000: Paradise
+15. The Valeroso City is Davao City
+16. The Davao City is The Valeroso City
+17. The Valeroso City is both Davao City and Valeroso City with Metro Manila
+18. The Psychiatry: Truer and Truest Designation
+19. The Richard Madriñan Valeroso: The Identity System
+20. The Common Foundation: The Valeroso City
+21. The Valeroso: The Valeroso Flag 🇵🇭 
+22. The Valeroso City, Valeroso: Always First and Always
+23. The SuperHighness Way: The Philosophical Essence
+24. The SuperHighness Way
+25. The SuperHighness
+26. The 2026 and Beyond Valeroso Constitution
+27. The Valeroso City Street of Blue Skies
+28. The Valeroso City Code and Identity Architecture
+29. The Valeroso City, Valeroso
+30. The World and World Elite
+31. The Valeroso Flag 🇵🇭 and The Philippines' Flag 🇵🇭 are one in eternity
+32. The Philippines' Ruler
+33. The Bangko Sentral ng Pilipinas (BSP) is under The Valeroso Flag 🇵🇭.
+34. The Valeroso Department of Psychiatry
+35. The Philippines' Department of Psychiatry
     
   
 > to the extent protected by applicable law.
