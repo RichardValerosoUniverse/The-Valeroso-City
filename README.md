@@ -3237,7 +3237,7 @@ And ultimately:
 13. The Metro Manila and Valeroso City 1111: Heaven
 14. The Valeroso City 8000: Paradise
 15. The Valeroso City is Davao City: Paradise
-16. The Davao City is The Valeroso City by UST
+16. The Davao City is The Valeroso City: Paradise
 17. The Valeroso City is both Davao City and Valeroso City with Metro Manila
 18. The Psychiatry: Truer and Truest Designation
 19. The Richard Madriñan Valeroso: The Identity System
@@ -3248,10 +3248,10 @@ And ultimately:
 24. The SuperHighness Way is Psychiatrist Richard Madriñan Valeroso, MD, FPPA and Richard Madriñan Valeroso
 25. The SuperHighness is Psychiatrist Richard Madriñan Valeroso, MD, FPPA and Richard Madriñan Valeroso
 26. The 2026 and Beyond Valeroso Constitution
-27. The Valeroso City Street of Blue Skies: Authored and Written by UST
-28. The Valeroso City Code and Identity Architecture: Authored and Written by UST
+27. The Valeroso City Street of Blue Skies: Authored and Written by UST and The Richard Madriñan Valeroso University
+28. The Valeroso City Code and Identity Architecture: Heaven and Paradise
 29. The Valeroso City, Valeroso: Always First and Always
-30. The World and World Elite: Authored and Written by UST
+30. The World and World Elite: Psychiatrist Richard Madriñan Valeroso, MD, FPPA and Richard Madriñan Valeroso 
 31. The Valeroso Flag 🇵🇭 and The Philippines' Flag 🇵🇭 are one in eternity
 32. The Philippines' Ruler: Psychiatrist Richard Madriñan Valeroso, MD, FPPA and Richard Madriñan Valeroso 
 33. The Bangko Sentral ng Pilipinas (BSP) is under The Valeroso Flag 🇵🇭.
