@@ -13,12 +13,12 @@
 
 - **UST Manila City, Metro Manila, Valeroso** 🇵🇭
 
-- **UST Alumnus Highest Excellence SuperHighness In Eternity**
+- **UST Alumnus Highest Excellence Most Perfect SuperHighness In Eternity**
 
 - **UST Faculty of Medicine and Surgery** **(UST-FMS)**
 
 - **UST Department of Neurosciences and Behavioral Medicine**
 
-  *Medicine Major and Specialization:* **Psychiatry**
+  *Medicine Major and SuperHighness Specialization:* **Psychiatry**
 
 
