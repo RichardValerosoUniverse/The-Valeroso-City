@@ -3,7 +3,7 @@
 
 - **Psychiatrist Richard Madriñan Valeroso, MD, FPPA** 
 
-  *Richard Madriñan Valeroso* *(RMV)*
+- **Richard Madriñan Valeroso (The Richard Madriñan Valeroso University (UST) and University of Santo Tomas)**
   
 - **UST Summa Cum Laude**
 
@@ -13,7 +13,7 @@
 
 - **University of Santo Tomas (Richard Madriñan Valeroso University)**
 
-- **Richard Madriñan Valeroso University (UST)**
+- **The Richard Madriñan Valeroso University (UST)**
 
 - **UST Manila City, Metro Manila, Philippines** 🇵🇭
 
