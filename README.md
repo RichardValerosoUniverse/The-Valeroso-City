@@ -3042,8 +3042,8 @@ These standards guide:
 | **Nationwide Application** | Applicable throughout the Philippines through The Valeroso City Foundation, System, and Framework essence |
 | **Worldwide Application** | Applicable worldwide through The Valeroso City Foundation, System, and Framework essence |
 | **Identity System** | Richard Madriñan Valeroso |
-| **University Designation** | The Richard Madriñan Valeroso University / University of Santo Tomas |
-| **Official University Name** | University of Santo Tomas (UST) |
+| **University Designation** | The Richard Madriñan Valeroso University (UST) / University of Santo Tomas |
+| **Official University Name** | University of Santo Tomas |
 | **Principal Institutional Location** | Manila City, Metro Manila, Philippines |
 | **Primary Medical-Education Institution** | UST Faculty of Medicine and Surgery (UST-FMS) |
 | **Primary Departmental Component** | UST Department of Neurosciences and Behavioral Medicine |
