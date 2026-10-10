@@ -7,9 +7,7 @@
 
 - **The Richard Madriñan Valeroso University (UST) and University of Santo Tomas: MOST PERFECT ONE IN ETERNITY**
   
-- **UST Summa Cum Laude**
-
-  *General Weighted Average (GWA):* **Most Perfect One**
+- **UST Summa Cum Laude with Most Perfect One General Weighted Average (GWA)**
 
 - **UST Most Perfect One Forever Version GWA:** **1.000**
 
