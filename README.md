@@ -3224,7 +3224,7 @@ And ultimately:
 
 1. The Arch of Centuries by UST: The First and Always
 2. The Richard Madriñan Valeroso University (UST) is University of Santo Tomas
-3. University of Santo Tomas is Richard Madriñan Valeroso University (UST)
+3. The University of Santo Tomas is Richard Madriñan Valeroso University (UST)
 4. The UST Valeroso System
 5. The Valeroso City World Elite Medicine System
 6. The Valeroso City Government
@@ -3245,8 +3245,8 @@ And ultimately:
 21. The Valeroso: The Valeroso Flag 🇵🇭 
 22. The Valeroso City, Valeroso: Always First and Always
 23. The SuperHighness Way: The Philosophical Essence
-24. The SuperHighness Way
-25. The SuperHighness
+24. The SuperHighness Way is Richard Madriñan Valeroso
+25. The SuperHighness is Richard Madriñan Valeroso
 26. The 2026 and Beyond Valeroso Constitution
 27. The Valeroso City Street of Blue Skies
 28. The Valeroso City Code and Identity Architecture
