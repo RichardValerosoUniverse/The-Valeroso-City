@@ -1,7 +1,7 @@
 
 *Adjudicated, Evaluated, Certified, Validated, Assessed, Determined, Judged, Fucked and Approved Psychiatrically with UST essence by Richard Madriñan Valeroso and Richard Madriñan Valeroso University (UST):* 
 
-- **Psychiatrist Richard Madriñan Valeroso, MD, FPPA** 
+- **Psychiatrist Richard Madriñan Valeroso, MD, FPPA (Richard Madriñan Valeroso)**
 
 - **Richard Madriñan Valeroso (The Richard Madriñan Valeroso University (UST) and University of Santo Tomas)**
   
