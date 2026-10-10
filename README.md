@@ -1,5 +1,5 @@
-# **THE VALEROSO CITY, VALEROSO** 🇵🇭
-## The Valeroso City, Valeroso: *Most Perfect One In Eternity*
+# **THE VALEROSO CITY, VALEROSO**: City of Reality 🇵🇭
+## The Valeroso City is both Davao City and Valeroso City
 
 
 The Valeroso City is Davao City.
