@@ -3245,7 +3245,7 @@ And ultimately:
 21. The Valeroso: The Valeroso Flag 🇵🇭 
 22. The Valeroso City, Valeroso: Always First and Always
 23. The SuperHighness Way: The Philosophical Essence with UST
-24. The SuperHighness Way is Richard Madriñan Valeroso
+24. The SuperHighness Way is Psychiatrist Richard Madriñan Valeroso, MD, FPPA and Richard Madriñan Valeroso
 25. The SuperHighness is Richard Madriñan Valeroso
 26. The 2026 and Beyond Valeroso Constitution
 27. The Valeroso City Street of Blue Skies: Authored and Written by UST
@@ -3253,7 +3253,7 @@ And ultimately:
 29. The Valeroso City, Valeroso: Always First and Always
 30. The World and World Elite: Authored and Written by UST
 31. The Valeroso Flag 🇵🇭 and The Philippines' Flag 🇵🇭 are one in eternity
-32. The Philippines' Ruler: Richard Madriñan Valeroso 
+32. The Philippines' Ruler: Psychiatrist Richard Madriñan Valeroso, MD, FPPA and Richard Madriñan Valeroso 
 33. The Bangko Sentral ng Pilipinas (BSP) is under The Valeroso Flag 🇵🇭.
 34. The Valeroso Department of Psychiatry: Psychiatrist Richard Madriñan Valeroso, MD, FPPA and Richard Madriñan Valeroso
 35. The Philippines' Department of Psychiatry: Psychiatrist Richard Madriñan Valeroso, MD, FPPA and Richard Madriñan Valeroso
