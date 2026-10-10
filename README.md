@@ -3232,7 +3232,7 @@ And ultimately:
 8. The MD and FPPA: Richard Madriñan Valeroso 
 9. The Valeroso Essence: Madriñan and Madriñan with Richard
 10. The Valeroso Essence: Madrinan and Madriñan with Richard
-11. The Richard Madriñan Valeroso (UST): Authored and Written by UST
+11. The Richard Madriñan Valeroso University (UST): Authored and Written by UST
 12. The Metro Manila System is Valeroso System
 13. The Metro Manila and Valeroso City 1111: Heaven
 14. The Valeroso City 8000: Paradise
