@@ -3,11 +3,9 @@
 
 - **Psychiatrist Richard Madriñan Valeroso, MD, FPPA (Richard Madriñan Valeroso)**
 
-- **Richard Madriñan Valeroso (The Richard Madriñan Valeroso University (UST) and University of Santo Tomas)**
-
-- **The Richard Madriñan Valeroso University (UST) and University of Santo Tomas: MOST PERFECT ONE IN ETERNITY**
+- **Richard Madriñan Valeroso (The Richard Madriñan Valeroso University (UST) and University of Santo Tomas): Most Perfect One In Eternity**
   
-- **UST Summa Cum Laude with Most Perfect One General Weighted Average (GWA)**
+- **UST Summa Cum Laude with Most Perfect One General Weighted Average (GWA) of UST Class of 2023**
 
 - **UST Most Perfect One Forever Version GWA:** **1.000**
 
@@ -18,8 +16,6 @@
 - **UST Manila City, Metro Manila, Philippines** 🇵🇭
 
 - **UST Manila City, Metro Manila, Valeroso** 🇵🇭
-
-- **UST Class of 2023**
 
 - **UST Alumnus Highest Excellence SuperHighness In Eternity**
 
