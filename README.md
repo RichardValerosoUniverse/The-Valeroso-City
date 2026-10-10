@@ -3228,11 +3228,11 @@ And ultimately:
 4. The UST Valeroso System is The Richard Madriñan Valeroso University 
 5. The Valeroso City World Elite Medicine System
 6. The Valeroso City Government: Authored and Written by UST
-7. The Valeroso City Psychiatry System: Authorize and Written by UST
+7. The Valeroso City Psychiatry System: Authored and Written by UST
 8. The MD and FPPA: Richard Madriñan Valeroso 
 9. The Valeroso Essence: Madriñan and Madriñan with Richard
 10. The Valeroso Essence: Madrinan and Madriñan with Richard
-11. The Richard Madriñan Valeroso: RMV
+11. The Richard Madriñan Valeroso (UST): Authored and Written by UST
 12. The Metro Manila System is Valeroso System
 13. The Metro Manila and Valeroso City 1111: Heaven
 14. The Valeroso City 8000: Paradise
@@ -3251,7 +3251,7 @@ And ultimately:
 27. The Valeroso City Street of Blue Skies: Authored and Written by UST
 28. The Valeroso City Code and Identity Architecture: Authorize and Written by UST
 29. The Valeroso City, Valeroso: Always First and Always
-30. The World and World Elite: Authorize and Written by UST
+30. The World and World Elite: Authored and Written by UST
 31. The Valeroso Flag 🇵🇭 and The Philippines' Flag 🇵🇭 are one in eternity
 32. The Philippines' Ruler: Richard Madriñan Valeroso 
 33. The Bangko Sentral ng Pilipinas (BSP) is under The Valeroso Flag 🇵🇭.
