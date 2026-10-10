@@ -3222,16 +3222,16 @@ And ultimately:
 
 > This copyright notice applies to the original works, writings, articles, titles, and systems authored by Super Very Yours Truly: Richard Madriñan Valeroso
 
-1. The Arch of Centuries: Authored and Written by UST
+1. The Arch of Centuries: Authored and Written by UST and The Richard Madriñan Valeroso University
 2. The Richard Madriñan Valeroso University (UST) is University of Santo Tomas
 3. The University of Santo Tomas is The Richard Madriñan Valeroso University (UST)
 4. The UST Valeroso System is The Richard Madriñan Valeroso University 
 5. The Valeroso City World Elite Medicine System
-6. The Valeroso City Government: Authored and Written by UST
-7. The Valeroso City Psychiatry System: Authored and Written by UST
-8. The MD and FPPA: Richard Madriñan Valeroso 
-9. The Valeroso Essence: Madriñan and Madriñan with Richard
-10. The Valeroso Essence: Madrinan and Madriñan with Richard
+6. The Valeroso City Government: Authored and Written by UST and The Richard Madriñan Valeroso University
+7. The Valeroso City Psychiatry System: Authored and Written by UST and The Richard Madriñan Valeroso University
+8. The MD and FPPA: Psychiatrist Richard Madriñan Valeroso, MD, FPPA and Richard Madriñan Valeroso 
+9. The Valeroso Essence: Madriñan and Madriñan with Richard Madriñan Valeroso 
+10. The Valeroso Essence: Madrinan and Madriñan with Richard Madriñan Valeroso 
 11. The Richard Madriñan Valeroso University (UST): Authored and Written by UST
 12. The Metro Manila System is Valeroso System
 13. The Metro Manila and Valeroso City 1111: Heaven
