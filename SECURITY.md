@@ -4,6 +4,8 @@
 - **Psychiatrist Richard Madriñan Valeroso, MD, FPPA (Richard Madriñan Valeroso)**
 
 - **Richard Madriñan Valeroso (The Richard Madriñan Valeroso University (UST) and University of Santo Tomas)**
+
+- **The Richard Madriñan Valeroso University (UST) and University of Santo Tomas: MOST PERFECT ONE IN ETERNITY**
   
 - **UST Summa Cum Laude**
 
